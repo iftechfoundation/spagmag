@@ -7,6 +7,7 @@ body {
 
 #maincol {
     background: white;
+    box-shadow: 0px 0px 8px #00000040;
     color: #333;
     max-width: 800px;
     box-sizing: border-box;
@@ -24,6 +25,7 @@ body {
 #header .HeaderImage {
     width: 100%;
     border-radius: 3px;
+    box-shadow: 0px 0px 4px #00000040;
 }
 
 #header #navbar {
@@ -34,7 +36,6 @@ body {
     border-top: 1px solid #DDD;
     border-bottom: 1px solid #DDD;
     font-size: 80%;
-    color: #555;
 }
 
 #header .NavItem {
@@ -45,6 +46,10 @@ body {
 
 #header .NavItem:first-child {
     margin-left: 0px;
+}
+
+.NavItem a {
+    color: #555;
 }
 
 #footer {
