@@ -16,7 +16,12 @@ jenv = Environment(
 )
 
 template = jenv.get_template('front.html')
-
 fl = open(os.path.join(destdir, 'index.html'), 'w')
 fl.write(template.render())
 fl.close()
+
+template = jenv.get_template('about.html')
+fl = open(os.path.join(destdir, 'about/index.html'), 'w')
+fl.write(template.render())
+fl.close()
+
