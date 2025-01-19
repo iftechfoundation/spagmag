@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>
+{%- if not title %}SPAG: The Interactive Fiction Magazine{% else %}SPAG: {{ title }}{% endif -%}
+</title>
+
+<link rel="stylesheet" href="/css/style.css" type="text/css">
+<link rel="stylesheet" href="/css/font.css" type="text/css">
+
+</head>
+
+<body>
+
+<div id="maincol">
+  <div id="header">
+    <div id="headerimage">
+      <img class="HeaderImage" src="/pic/new-header.jpg" alt="SPAG: The Interactive Fiction Magazine">
+    </div>
+    <div id="navbar">
+      <div class="NavItem"><a href="/">HOME</a></div>
+      <div class="NavItem"><a href="/about">ABOUT</a></div>
+      <div class="NavItem"><a href="/archive">ALL ISSUES</a></div>
+    </div>
+  </div>
+  <div id="content">
+    {% block content %}{% endblock %}
+  </div>
+  <div id="footer">
+    <p>SPAG is maintained as a historical archive site by the
+    <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
