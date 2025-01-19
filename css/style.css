@@ -1,0 +1,84 @@
+
+body {
+    background: #DDD;
+    margin: 0px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+#maincol {
+    background: white;
+    color: #333;
+    max-width: 800px;
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#header {
+    position: relative;
+    width: 100%;
+    padding-top: 40px;
+}
+
+#header .HeaderImage {
+    width: 100%;
+    border-radius: 3px;
+}
+
+#header #navbar {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #DDD;
+    font-size: 80%;
+    color: #555;
+}
+
+#header .NavItem {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#header .NavItem:first-child {
+    margin-left: 0px;
+}
+
+#footer {
+    position: relative;
+    width: 100%;
+    border-top: 1px solid #DDD;
+    padding-bottom: 20px;
+    font-size: 80%;
+}
+
+h2 {
+    font-size: 120%;
+}
+
+h3 {
+    font-size: 100%;
+}
+
+.IssueContents {
+    list-style: none;
+    padding-left: 10px;
+}
+
+.IssueItem {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #20759A;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
