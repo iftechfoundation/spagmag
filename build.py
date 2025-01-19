@@ -86,7 +86,7 @@ for issue in issues:
     fl.close()
     
     for art in issue.articles:
-        path = os.path.join('articles', art.uri+'.html')
+        path = os.path.join('articles', issue.uri, art.uri)
         fl = open(path)
         content = fl.read()
         fl.close()
