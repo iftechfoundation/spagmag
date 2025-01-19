@@ -87,3 +87,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.FullWidthImage {
+    max-width: 100%;
+}

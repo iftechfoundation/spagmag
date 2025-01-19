@@ -79,3 +79,15 @@ for issue in issues:
     fl.write(template.render(uri=issue.uri, issue=issue))
     fl.close()
     
+    for art in issue.articles:
+        path = os.path.join('articles', art.uri+'.html')
+        fl = open(path)
+        content = fl.read()
+        fl.close()
+        
+        template = jenv.get_template('article.html')
+        dir = os.path.join(destdir, issue.uri, art.uri)
+        os.makedirs(dir, exist_ok=True)
+        fl = open(os.path.join(dir, 'index.html'), 'w')
+        fl.write(template.render(issue=issue, art=art, content=content))
+        fl.close()
