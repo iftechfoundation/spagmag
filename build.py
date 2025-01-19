@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+import re
 import os, os.path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -22,6 +23,14 @@ class Article:
         self.quoted = quoted
         if quoted is None:
             self.quoted = (author is not None)
+
+        showtitle = title.replace('&', '&amp;')
+        showtitle = title.replace('>', '&gt;')
+        showtitle = title.replace('<', '&lt;')
+        while '_' in showtitle:
+            showtitle = showtitle.replace('_', '<i>', 1)
+            showtitle = showtitle.replace('_', '</i>', 1)
+        self.showtitle = showtitle
             
 issues = [
     Issue('64', 'August ###, 2016', [
