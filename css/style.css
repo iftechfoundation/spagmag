@@ -88,6 +88,15 @@ a:hover {
     text-decoration: underline;
 }
 
+.Center {
+    text-align: center;
+}
+
 .FullWidthImage {
     max-width: 100%;
+}
+
+.CenterImage {
+    max-width: 100%;
+    object-fit: contain;
 }

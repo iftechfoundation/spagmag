@@ -53,6 +53,12 @@ issues = [
     ]),
 ]
 
+## comments:
+## 64-solvezork.html (2)
+## 64-film.html (1)
+## 64-hidden (17)
+## 64-bloom (3)
+
 jenv = Environment(
     loader = FileSystemLoader('templates'),
     extensions = [
