@@ -108,6 +108,7 @@ def escape_html_string(val, escapetags=True):
     return ''.join(res)
 
 issues = [
+    
     Issue('64', 'August 9, 2016', [
         Article('Letter from the Editor and Call for Submissions',
                 'issue-64-letter-from-the-editor-and-call-for-submissions'),
@@ -126,6 +127,21 @@ issues = [
                 'spag-specifics-caelyn-sandels-bloom',
                 'Cat Manning')
     ]),
+    
+    Issue('63', 'April 11, 2016', [
+        Article('Letter from the Editor and Call for Submissions',
+                'issue-63-letter-from-the-editor'),
+        Article('SPAG Specifics: Paulo Chikiamco’s _Slammed!_',
+                'spag-specifics-paolo-chikiamcos-slammed',
+                'Hugo Labrande'),
+        Article('You Are an Online Clickbait Satirist. Can You Hack It in the IF World?',
+                'you-are-an-online-clickbait-satirist-can-you-hack-it-in-the-if-world',
+                'Katherine Morayati'),
+        Article('Safeguarding your IF Awards from Animal Attack',
+                'safeguarding-your-if-voting-from-animal-attack',
+                'Ted Casaubon'),
+    ]),
+    
 ]
 
 for issue in issues:
