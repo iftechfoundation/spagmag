@@ -22,6 +22,9 @@
     <div id="navbar">
       <div class="NavItem"><a href="/">HOME</a></div>
       <div class="NavItem"><a href="/about">ABOUT</a></div>
+      {% if issue %}
+      <div class="NavItem"><a href="/issue-{{ issue.index }}">THIS ISSUE</a></div>
+      {% endif %}
       <div class="NavItem"><a href="/archive">ALL ISSUES</a></div>
     </div>
   </div>
