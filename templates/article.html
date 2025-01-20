@@ -9,7 +9,9 @@
 </h2>
 
 {% if art.author %}
-<h3>By {{ art.author }}</h3>
+<h3>By {{ art.author }} &#x2014; {{ issue.date }}</h3>
+{% else %}
+<h3>{{ issue.date }}</h3>
 {% endif %}
 
 {% autoescape false %}
