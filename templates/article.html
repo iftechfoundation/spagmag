@@ -22,7 +22,11 @@
   
   {% for com in art.comments %}
     <div class="CommentHead">
-      {{ com.author }}
+      {% if com.authorurl %}
+        <a rel="nofollow ugc" href="{{ com.authorurl }}">{{ com.author }}</a>
+      {% else %}
+        {{ com.author }}
+      {% endif %}
     </div>
     <div class="CommentDate">
       {{ com.timestr }}
