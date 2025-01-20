@@ -142,6 +142,25 @@ issues = [
                 'Ted Casaubon'),
     ]),
     
+    Issue('62', 'May 4, 2015', [
+        Article('Letter From the Editor and Call for Submissions!',
+                'letter-from-the-editor-and-call-for-submissions'),
+        Article('>JUSTIFY, HEIGHTEN, SAY YES: Interactive Fiction as Improv',
+                'justify-heighten-say-yes-interactive-fiction-as-improv',
+                'Hugo Labrande'),
+        Article('Poetry Is What Gets Lost in Translation: notes on translating _PataNoir_ and _Sunday Morning_',
+                'poetry-is-what-gets-lost-in-translation-notes-on-translating-patanoir-and-sunday-morning',
+                'Marius Müller'),
+        Article('Capsule reviews of the games in ParserComp and Spring Thing’s main garden',
+                'parsercomp-spring-thing-2015-reviews'),
+        Article('“Macdougal and Me at the Spring Thing Fair”: a longer-form, fictionalized overview of Spring Thing',
+                'macdougal-and-me-at-the-spring-thing-fair',
+                'Christopher Huang',
+                quoted=False),
+        Article('SPAG Specifics: Matthew S. Burns’ _The Writer Will Do Something_',
+                'the-writer-will-do-something-matthew-burns-review',
+                'by Katherine Morayati'),
+    ]),
 ]
 
 for issue in issues:
