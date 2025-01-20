@@ -91,12 +91,6 @@ issues = [
     ]),
 ]
 
-## comments:
-## 64-solvezork.html (2)
-## 64-film.html (1)
-## 64-hidden (17)
-## 64-bloom (3)
-
 for issue in issues:
     for art in issue.articles:
         art.load(issue)
