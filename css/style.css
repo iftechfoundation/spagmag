@@ -100,6 +100,11 @@ h3 {
     font-size: 90%;
 }
 
+.ImageCaption {
+    font-weight: bold;
+    font-size: 85%;
+}
+
 .AboutAuthor {
     font-size: 90%;
 }
