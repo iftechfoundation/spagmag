@@ -14,7 +14,6 @@ class Issue:
         self.uri = 'issue-%s' % (index,)
         self.date = date
         self.articles = articles
-        self.content = None
 
 class Article:
     def __init__(self, title, uri, author=None, quoted=None):
@@ -33,14 +32,44 @@ class Article:
             showtitle = showtitle.replace('_', '</i>', 1)
         self.showtitle = showtitle
 
+        self.content = None
+        self.comments = []
+        
     def load(self, issue):
         path = os.path.join('articles', issue.uri, self.uri)
         fl = open(path)
         dat = fl.read()
         fl.close()
 
-        self.content = dat
+        ls = []
+        comdict = None
+        for ln in dat.split('\n'):
+            ln = ln.rstrip()
+            if ln == '----':
+                if comdict is not None and comdict:
+                    self.comments.append(Comment(comdict))
+                comdict = {}
+                continue
+            if comdict is not None:
+                if not ln:
+                    continue
+                key, _, val = ln.partition(':')
+                key = key.strip()
+                val = val.strip()
+                comdict[key] = val
+            else:
+                ls.append(ln)
+
+        if comdict is not None and comdict:
+            self.comments.append(Comment(comdict))
             
+        ls.append('')
+        self.content = '\n'.join(ls)
+
+class Comment:
+    def __init__(self, map):
+        print('###', map)
+        
 issues = [
     Issue('64', 'August ###, 2016', [
         Article('Letter from the Editor and Call for Submissions',
