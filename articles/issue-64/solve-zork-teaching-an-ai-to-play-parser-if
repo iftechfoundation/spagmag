@@ -40,3 +40,18 @@ But <em>why don&#8217;t we make the computer play parser games?</em> This is lea
 <p>We wrap this up by talking about the problem of game implementation. What happens when the game is full of bugs, typos, is finicky about grammar or formulations, or didn&#8217;t implement any of the obvious solutions for a puzzle? Or just when the game is just not very thoroughly implemented? The human player then thinks “this game is buggy, this sucks &#8212; but I should be more stubborn and more careful” &#8211; i.e. maybe drop ideas less quickly than with a game which is otherwise superbly implemented. If this kind of “meta-gaming” is not done, much frustration can occur: you can search blindly in the dark for a long time, only to find out that the thing you tried in the first place was actually the right solution, but needed a minor adjustment to work!</p>
 <p>Can an AI system reach this level of awareness? This reasoning is very meta, relying on the human aspect of game-making: “this game is not reality, it is something that a human has made, and I know that planning every single answer is not possible (or: this human was not very thorough), so I&#8217;ll suspend my disbelief and keep playing but keep it in the back of my mind to advance”. Two things can then happen. The first one is that an AI never realizes this, and keeps being tripped up by this: it drops solutions too quickly and never tries them again, doesn&#8217;t manage to solve a puzzle in a game because it learned in another game that this solution doesn&#8217;t work, etc. Differences in implementation create differences in the simulated game, and from the point of view of the AI, inconsistencies in the common sense; it would have to be robust enough to recover from these, which is very hard to imagine as it is supposed to incorporate feedback to its very core.<br />
 The second possibility would be that the system is indeed able to perform this logical jump, and realize that these are only simulations imperfectly created by humans (whose names are given in the first paragraph of the game). Presumably, the AI would adapt its play in function of what it perceives the style or quality of the game to be, or even the author; but fundamentally, this possibility means we were able to create an AI that has now realized it has been living in simulations this whole time. Science fiction then dictates a bad ending for humans – so please, for the love of god, polish your games!</p>
+
+----
+timestamp: 2016-08-09T13:25:50+00:00
+timestr: August 9, 2016 at 1:25 PM
+author: Casey Nordell
+body: <p>What a great read. Thanks for writing this!</p>
+
+----
+timestamp: 2017-02-09T01:54:18+00:00
+timestr: February 9, 2017 at 1:54 AM
+authorurl: http://flatheadif.blogspot.com/
+author: Flathead
+body: <p>Great read indeed. If we could create an AI capable of playing parser IF, then only God knows what it’ll be capable of, especially after it has fully understood the concepts of common sense and object permanence.</p>
+
+----
