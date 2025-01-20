@@ -154,7 +154,7 @@ issues = [
         Article('Choose Your Own Path: Taking CYOA IRL with the Active Fiction Project',
                 'active-fiction-project-vancouver',
                 'Rowan Lipkovits'),
-        Article('Capsule reviews of the games in ParserComp and Spring Thing’s main garden',
+        Article('SPAG Verdicts: ParserComp, Spring Thing',
                 'parsercomp-spring-thing-2015-reviews'),
         Article('“Macdougal and Me at the Spring Thing Fair”: a longer-form, fictionalized overview of Spring Thing',
                 'macdougal-and-me-at-the-spring-thing-fair',
