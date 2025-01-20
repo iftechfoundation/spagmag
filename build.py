@@ -183,6 +183,26 @@ issues = [
         Article('SPAG Valentines!',
                 'spag-valentines'),
     ]),
+    
+    Issue('61', 'January 2, 2013', [
+        Article('Editorial: Welcome back!',
+                'editorial'),
+        Article('The Modem Squeals of a Guilded Youth — Rowan Lipkovits talks to Jim Munroe',
+                'modem-squeals-of-a-guilded-youth-jim-munroe'),
+        Article('Depicting Grief — An interview with the author of Eurydice',
+                'depicting-grief-eurydice-interview',
+                'Sam Kabo Ashwell'),
+        Article('Andromeda Apocalypse — Backstage with Marco Innocenti',
+                'andromeda-apocalypse-marco-innocenti',
+                'Felix Pleșoianu'),
+        Article('Shared Worlds — Collaboration in interactive fiction',
+                'shared-worlds-collaboration-in-interactive-fiction',
+                'Joey Jones'),
+        Article('SPAG Specifics: Creating, inverting and making good the detective genre',
+                'creating-inverting-making-good-the-detective-genre',
+                'Mark Ricard'),
+    ]),
+    
 ]
 
 for issue in issues:
