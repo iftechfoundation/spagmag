@@ -172,6 +172,16 @@ issues = [
     ]),
     
     Issue('61-5', 'February 2, 2015', [
+        Article('Letter from the Editor and Call for Submissions',
+                'issue-61-5-letter-from-the-editor-masthead-and-call-for-submissions'),
+        Article('2014: The Year That Was',
+                'the-year-that-was',
+                'Katherine Morayati'),
+        Article('SPAG Specifics: Puzzles in _The Hours_',
+                'spag-specifics-the-hours',
+                'Victor Gijsbers'),
+        Article('SPAG Valentines!',
+                'spag-valentines'),
     ]),
 ]
 
