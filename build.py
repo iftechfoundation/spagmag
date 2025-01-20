@@ -148,7 +148,7 @@ issues = [
         Article('>JUSTIFY, HEIGHTEN, SAY YES: Interactive Fiction as Improv',
                 'justify-heighten-say-yes-interactive-fiction-as-improv',
                 'Hugo Labrande'),
-        Article('Poetry Is What Gets Lost in Translation: notes on translating _PataNoir_ and _Sunday Morning_',
+        Article('Poetry Is What Gets Lost in Translation: Notes on translating _PataNoir_ and _Sunday Morning_',
                 'poetry-is-what-gets-lost-in-translation-notes-on-translating-patanoir-and-sunday-morning',
                 'Marius Müller'),
         Article('Choose Your Own Path: Taking CYOA IRL with the Active Fiction Project',
@@ -162,7 +162,7 @@ issues = [
                 quoted=False),
         Article('SPAG Specifics: Matthew S. Burns’ _The Writer Will Do Something_',
                 'the-writer-will-do-something-matthew-burns-review',
-                'by Katherine Morayati'),
+                'Katherine Morayati'),
     ]),
 ]
 
