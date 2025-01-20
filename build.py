@@ -14,6 +14,7 @@ class Issue:
         self.uri = 'issue-%s' % (index,)
         self.date = date
         self.articles = articles
+        self.content = None
 
 class Article:
     def __init__(self, title, uri, author=None, quoted=None):
@@ -31,6 +32,14 @@ class Article:
             showtitle = showtitle.replace('_', '<i>', 1)
             showtitle = showtitle.replace('_', '</i>', 1)
         self.showtitle = showtitle
+
+    def load(self, issue):
+        path = os.path.join('articles', issue.uri, self.uri)
+        fl = open(path)
+        dat = fl.read()
+        fl.close()
+
+        self.content = dat
             
 issues = [
     Issue('64', 'August ###, 2016', [
@@ -59,6 +68,10 @@ issues = [
 ## 64-hidden (17)
 ## 64-bloom (3)
 
+for issue in issues:
+    for art in issue.articles:
+        art.load(issue)
+
 jenv = Environment(
     loader = FileSystemLoader('templates'),
     extensions = [
@@ -86,14 +99,9 @@ for issue in issues:
     fl.close()
     
     for art in issue.articles:
-        path = os.path.join('articles', issue.uri, art.uri)
-        fl = open(path)
-        content = fl.read()
-        fl.close()
-        
         template = jenv.get_template('article.html')
         dir = os.path.join(destdir, issue.uri, art.uri)
         os.makedirs(dir, exist_ok=True)
         fl = open(os.path.join(dir, 'index.html'), 'w')
-        fl.write(template.render(issue=issue, art=art, content=content))
+        fl.write(template.render(issue=issue, art=art, content=art.content))
         fl.close()
