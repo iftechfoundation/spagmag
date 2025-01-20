@@ -24,9 +24,7 @@ class Article:
         if quoted is None:
             self.quoted = (author is not None)
 
-        showtitle = title.replace('&', '&amp;')
-        showtitle = title.replace('>', '&gt;')
-        showtitle = title.replace('<', '&lt;')
+        showtitle = escape_html_string(title, escapetags=True)
         while '_' in showtitle:
             showtitle = showtitle.replace('_', '<i>', 1)
             showtitle = showtitle.replace('_', '</i>', 1)
