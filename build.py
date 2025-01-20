@@ -73,7 +73,42 @@ class Comment:
         self.author = map['author']
         self.authorurl = map.get('authorurl')
         self.body = map['body']
-        
+
+htmlable_pattern = re.compile("[ -%'-;=?-~]+")
+htmlable_withtags_pattern = re.compile("[ -~]+")
+
+html_entities = {
+    # Newlines and tabs are not encoded.
+    '\n': '\n', '\t': '\t',
+    # The classic three HTML characters that must be escaped.
+    '&': '&amp;', '<': '&lt;', '>': '&gt;',
+}
+
+def escape_html_string(val, escapetags=True):
+    """Apply &#x...; escapes for Unicode characters.
+    If escapetags is true, also apply the basic HTML/XML &-escapes.
+    """
+    if escapetags:
+        pat = htmlable_pattern
+    else:
+        pat = htmlable_withtags_pattern
+    res = []
+    pos = 0
+    while pos < len(val):
+        match = pat.match(val, pos=pos)
+        if match:
+            res.append(match.group())
+            pos = match.end()
+        else:
+            ch = val[pos]
+            ent = html_entities.get(ch)
+            if ent:
+                res.append(ent)
+            else:
+                res.append('&#x%X;' % (ord(ch),))
+            pos += 1
+    return ''.join(res)
+
 issues = [
     Issue('64', 'August 9, 2016', [
         Article('Letter from the Editor and Call for Submissions',
