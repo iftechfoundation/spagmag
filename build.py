@@ -62,7 +62,7 @@ class Article:
             self.comments.append(Comment(comdict))
             
         ls.append('')
-        self.content = '\n'.join(ls)
+        self.content = escape_html_string('\n'.join(ls), escapetags=False)
 
 class Comment:
     def __init__(self, map):
@@ -70,7 +70,7 @@ class Comment:
         self.timestr = map['timestr']
         self.author = map['author']
         self.authorurl = map.get('authorurl')
-        self.body = map['body']
+        self.body = escape_html_string(map['body'], escapetags=False)
 
 htmlable_pattern = re.compile("[ -%'-;=?-~]+")
 htmlable_withtags_pattern = re.compile("[ -~]+")
