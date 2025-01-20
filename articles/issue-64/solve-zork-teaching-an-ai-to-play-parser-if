@@ -1,6 +1,6 @@
 <blockquote>
-<p style="text-align: center;"><strong>&gt;solve zork</strong></p>
-<p style="text-align: center;"><em>Recent advances in artificial intelligence allow us to solve problems and design technologies that not so long ago were science fiction. We ask selfishly: what does it mean for parser IF?</em></p>
+<p class="Center"><strong>&gt;solve zork</strong></p>
+<p class="Center"><em>Recent advances in artificial intelligence allow us to solve problems and design technologies that not so long ago were science fiction. We ask selfishly: what does it mean for parser IF?</em></p>
 </blockquote>
 <h3>Deep learning</h3>
 <p>Throughout most of the history of computing, to get a computer to solve a problem for you, you first had to think about it really hard, then program the computer to perform some steps in the right order. This worked very well &#8212; it pushed humans to come up with creative concepts, do some theoretical work, and ultimately advance science.</p>
