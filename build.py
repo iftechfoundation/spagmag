@@ -16,8 +16,9 @@ class Issue:
         self.articles = articles
 
 class Article:
-    def __init__(self, title, uri, author=None, quoted=None):
+    def __init__(self, title, uri, author=None, alttitle=None, quoted=None):
         self.title = title
+        self.alttitle = escape_html_string(alttitle)
         self.uri = uri
         self.author = author
         self.quoted = quoted
@@ -86,6 +87,8 @@ def escape_html_string(val, escapetags=True):
     """Apply &#x...; escapes for Unicode characters.
     If escapetags is true, also apply the basic HTML/XML &-escapes.
     """
+    if val is None:
+        return None
     if escapetags:
         pat = htmlable_pattern
     else:
@@ -154,11 +157,13 @@ issues = [
         Article('Choose Your Own Path: Taking CYOA IRL with the Active Fiction Project',
                 'active-fiction-project-vancouver',
                 'Rowan Lipkovits'),
-        Article('SPAG Verdicts: ParserComp, Spring Thing',
-                'parsercomp-spring-thing-2015-reviews'),
+        Article('Capsule reviews of the games in ParserComp and Spring Thing’s main garden',
+                'parsercomp-spring-thing-2015-reviews',
+                alttitle='SPAG Verdicts: ParserComp, Spring Thing'),
         Article('“Macdougal and Me at the Spring Thing Fair”: a longer-form, fictionalized overview of Spring Thing',
                 'macdougal-and-me-at-the-spring-thing-fair',
                 'Christopher Huang',
+                alttitle='Macdougal and Me at the Spring Thing Fair',
                 quoted=False),
         Article('SPAG Specifics: Matthew S. Burns’ _The Writer Will Do Something_',
                 'the-writer-will-do-something-matthew-burns-review',

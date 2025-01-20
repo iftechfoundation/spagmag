@@ -4,7 +4,7 @@
 
 <h2>Issue {{ issue.index }}:
 {% autoescape false -%}
-{{ art.showtitle }}
+{% if art.alttitle %}{{ art.alttitle }}{% else %}{{ art.showtitle }}{% endif %}
 {%- endautoescape -%}
 </h2>
 
