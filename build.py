@@ -11,6 +11,7 @@ destdir = 'htdocs'
 class Issue:
     def __init__(self, index, date, articles):
         self.index = index
+        self.showindex = index.replace('-', '.')
         self.uri = 'issue-%s' % (index,)
         self.date = date
         self.articles = articles
@@ -168,6 +169,9 @@ issues = [
         Article('SPAG Specifics: Matthew S. Burns’ _The Writer Will Do Something_',
                 'the-writer-will-do-something-matthew-burns-review',
                 'Katherine Morayati'),
+    ]),
+    
+    Issue('61-5', 'February 2, 2015', [
     ]),
 ]
 

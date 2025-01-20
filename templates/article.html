@@ -2,7 +2,7 @@
 
 {% block content %}
 
-<h2>Issue {{ issue.index }}:
+<h2>Issue {{ issue.showindex }}:
 {% autoescape false -%}
 {% if art.alttitle %}{{ art.alttitle }}{% else %}{{ art.showtitle }}{% endif %}
 {%- endautoescape -%}
