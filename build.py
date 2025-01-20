@@ -75,7 +75,7 @@ class Comment:
         self.body = map['body']
         
 issues = [
-    Issue('64', 'August ###, 2016', [
+    Issue('64', 'August 9, 2016', [
         Article('Letter from the Editor and Call for Submissions',
                 'issue-64-letter-from-the-editor-and-call-for-submissions'),
         Article('Top Threes: Brendan Patrick Hennessy _(Birdland)_',
