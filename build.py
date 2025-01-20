@@ -109,7 +109,7 @@ jenv = Environment(
 
 template = jenv.get_template('front.html')
 fl = open(os.path.join(destdir, 'index.html'), 'w')
-fl.write(template.render())
+fl.write(template.render(issues=issues))
 fl.close()
 
 template = jenv.get_template('about.html')
