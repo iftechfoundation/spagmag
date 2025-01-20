@@ -68,7 +68,11 @@ class Article:
 
 class Comment:
     def __init__(self, map):
-        print('###', map)
+        self.timestamp = map['timestamp']
+        self.timestr = map['timestr']
+        self.author = map['author']
+        self.authorurl = map.get('authorurl')
+        self.body = map['body']
         
 issues = [
     Issue('64', 'August ###, 2016', [

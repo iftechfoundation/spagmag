@@ -79,6 +79,27 @@ h3 {
     margin-bottom: 10px;
 }
 
+.CommentHead {
+    margin-top: 2em;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.CommentDate {
+    font-size: 80%;
+    color: #888;
+}
+
+.CommentBody {
+    font-size: 90%;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    border-top: 1px solid #DDD;
+}
+
 a {
     color: #20759A;
     text-decoration: none;
