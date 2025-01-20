@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+### ifdb.tads.org
+### more footer
+
 import sys
 import re
 import os, os.path
@@ -189,7 +192,7 @@ issues = [
                 'editorial'),
         Article('The Modem Squeals of a Guilded Youth — Rowan Lipkovits talks to Jim Munroe',
                 'modem-squeals-of-a-guilded-youth-jim-munroe'),
-        Article('Depicting Grief — An interview with the author of Eurydice',
+        Article('Depicting Grief — An interview with the author of _Eurydice_',
                 'depicting-grief-eurydice-interview',
                 'Sam Kabo Ashwell'),
         Article('Andromeda Apocalypse — Backstage with Marco Innocenti',
