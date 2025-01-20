@@ -1,0 +1,21 @@
+{% extends "page.html" %}
+
+{% block content %}
+
+<h2>Issue {{ issue.index }}</h2>
+
+<ul class="IssueContents">
+{% for art in issue.articles %}
+  <li class="IssueItem">
+  {% if art.author %}{{ art.author }}, {% endif %}
+  {%- if art.quoted %}&#x201C;{% endif -%}
+  <a href="/{{ uri }}/{{ art.uri }}/">
+  {%- autoescape false -%}
+  {{ art.showtitle }}
+  {%- endautoescape -%}
+  </a>
+  {%- if art.quoted %}&#x201D;{% endif -%}
+{% endfor %}
+</ul>
+
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "page.html" %}
+
+{% block content %}
+
+<h2>Issue {{ issue.index }}:
+{% autoescape false -%}
+{{ art.showtitle }}
+{%- endautoescape -%}
+</h2>
+
+{% if art.author %}
+<h3>By {{ art.author }}</h3>
+{% endif %}
+
+{% autoescape false %}
+{{ content }}
+{% endautoescape %}
+
+{% if art.comments %}
+  <hr>
+  <h3>Reader comments</h3>
+  
+  {% for com in art.comments %}
+    <div class="CommentHead">
+      {{ com.author }}
+    </div>
+    <div class="CommentDate">
+      {{ com.timestr }}
+    </div>
+    <div class="CommentBody">
+      {% autoescape false %}
+      {{ com.body }}
+      {% endautoescape %}
+    </div>
+  {% endfor %}
+{% endif %}
+
+{% endblock %}
