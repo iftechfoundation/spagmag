@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-### ifdb.tads.org
-### more footer
-
 import sys
 import re
 import os, os.path
