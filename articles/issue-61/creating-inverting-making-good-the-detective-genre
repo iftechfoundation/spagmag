@@ -12,3 +12,44 @@
 <p>The most significant distinctive of <em>Make It Good</em> is how it plays with what the player knows compared to the player character, who initially knows far more than the player. This is a somewhat modern gimmick that goes back to Andrew Plotkin&#8217;s <a href="http://ifdb.tads.org/viewgame?id=2xyccw3pe0uovfad"><em>Spider and Web</em></a>. Ingold himself used this in his earlier games <a href="http://ifdb.tads.org/viewgame?id=c6x835i6o9zqfc59"><em>Fail-Safe</em></a> and <a href="http://ifdb.tads.org/viewgame?id=enfw92zc3tf92xn6"><em>Insight</em></a>. The player has to learn not only what the other characters know, but what their own character does too. It is not obvious at first, but there are certain hints early in the game. The character you play is also much more morally ambiguous than the detective in <em>Deadline</em>. It requires the player to do a number of things that are unethical. In many ways, this shows the modern IF community&#8217;s interest in the art of storytelling. Modern authors are more interested in exploring techniques in narrative than many of those from the early days of IF; they are also more interested in characterization. It is hard to imagine Infocom ever having a player character like the one in this game. <a href="http://ifdb.tads.org/viewgame?id=anu79a4n1jedg5mm"><em>Infidel</em></a> came closer than any of their games in having a morally questionable character as a protagonist. In many ways, the story is an inversion of the typical mystery game. I believe this is intentional on Ingold&#8217;s part. It often works. In some ways it does not.</p>
 <p>The weakest part of the story is the endgame. Having yet another surprise within the original plot twist is clever, but when you think about the facts, they do not quite fit what was discovered earlier in regards to a crucial piece of evidence. What perhaps is weakest about the ending is the fact that it leaves the plot dangling. This is perhaps intentional on Ingold&#8217;s part. The player is left to guess what would happen next &#8212; and then the game ends. Perhaps there will be a sequel someday.</p>
 <p>What Ingold has done is take the assumptions of the mystery game genre and turned them on their head. Like most modern day interactive fiction, storytelling is as important as puzzle solving. And, similar to some modern-day designers, he tries to use different narrative techniques to experiment with the medium. But despite the unusual nature of the story, the puzzle structure is a throwback to old IF, especially <em>Deadline</em>. <em>Make It Good</em> takes the puzzle style of <em>Deadline</em> while at the same time trying more modern storytelling experiments of new IF. In both terms it succeeds &#8212; but also sometimes fails. Oddly enough, the part of the game that I found the weakest came from the tension between the narrative technique and the nature of the puzzles themselves, showing that sometimes these two objectives can cause problems for each other. Regardless of its flaws, <em>Make It Good</em> is still entertaining both as clever game and as a story.</p>
+
+----
+timestamp: 2013-01-02T03:41:29+00:00
+timestr: January 2, 2013 at 3:41 AM
+authorurl: http://www.z-machine-matter.com
+author: ZUrlocker
+body: <p>Thanks for the interesting article. I enjoyed both these games and found the comparisons to be well thought out. I hope you will continue to publish more stories about games, ideally providing more insights into what makes a game compelling. I’m particularly keen on ideas on how to craft a good mystery story.</p>
+
+----
+timestamp: 2013-01-02T14:20:28+00:00
+timestr: January 2, 2013 at 2:20 PM
+author: Robert DeFord
+body: <p>This article, lives up to the promise made in its title, though it is more like an appetizer tray than a full meal. I do not mean to be disparaging. On the contrary, being in the middle of authoring my own game, I found this article to be very, very thought provoking. I really appreciated the comments on the “art” of crafting IF puzzles, both then and now. However, I found myself wishing there was more flesh on those scattered bones. IMHO, this is a subject worthy of an entire future SPAG article. Same goes for the intriguing (but sparse) comments on the mechanics of telling a good mystery story through the medium of IF. How about it Mark? You write ’em, and I’ll read ’em.</p>
+
+----
+timestamp: 2013-01-02T18:11:16+00:00
+timestr: January 2, 2013 at 6:11 PM
+authorurl: http://glimmr.wordpress.com
+author: Erik Temple
+body: <p>I wonder if the author would be willing to expand on the problems he found in the endgame? What is the plot twist within the plot twist, and how does it not fit into the facts of the case? And what plot thread is left dangling?</p>
+
+----
+timestamp: 2013-01-04T19:15:48+00:00
+timestr: January 4, 2013 at 7:15 PM
+author: Hanon O
+body: <p>I agree! This felt like the very well-written intro to a longer piece...or the first of perhaps three parts. Please break these games down, explore the plot details and the characters, and contrast how IF has changed in the time between! Perhaps even interview Ingold about his game and DEADLINE and what he drew from it and what he wanted to improve upon...as suggestions.</p>
+
+----
+timestamp: 2013-01-05T00:24:08+00:00
+timestr: January 5, 2013 at 12:24 AM
+authorurl: http://www.z-machine-matter.com
+author: ZUrlocker
+body: <p>More on the art and craft of good IF puzzles is always appreciated, especially if you include an in-depth analysis of what was effective or less so in specific games. Heck, maybe even include some Inform7 source code to show how it’s done. I would gladly buy a whole book on this topic. 😉 Maybe a follow up to the IF Theory Book?</p>
+
+----
+timestamp: 2013-01-08T21:25:16+00:00
+timestr: January 8, 2013 at 9:25 PM
+author: Mark Ricard
+body: <p>Eric,</p> <p>I have been meaning to expand upon the endgame part. When the detective comes home he rests and we see what really happened. Up until this point the player has been led to believe that the character we have been playing is the murderer. We have also set up a innocent girl. Now in this last scene we see what really happened. Our player was blackmailing the murder victim but he was in the room hiding when the murder took place. It was really the wife who killed her husband. </p> <p>There is a serious flaw in this scenario. When we examined the knife our player’s fingerprints were on it but no one else’s. There was no mention in the scene that the wife was wearing gloves either. And we never found gloves in the house. Therefore the wife’s fingerprints should have been on the knife but they were not.</p> <p>You also have to ask why we did not set up the wife up knowing she did it instead of the girl. There might be a few ways Jon could get out of this bind. It surprises me that nobody mentioned this before now. Maybe he could say she was wearing gloves he even though the text did not mention it. If I am forgetting anything feel free to tell me.</p>
+
+----
