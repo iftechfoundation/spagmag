@@ -33,6 +33,7 @@ pat_ftpgmdhead = re.compile('ftp[:]?/+ftp.gmd.de[:]?/')
 pat_ftpprefix = re.compile('ftp.(gmd.de|ifarchive.org)[:]?[/]+')
 pat_ftpifhead = re.compile('ftp[:]?/+[a-z.]*ifarchive[.]org[:]?/')
 pat_altif = re.compile('/(mirror|www).ifarchive.org/')
+pat_ifdbhead = re.compile('http[s]?://ifdb.tads.org/')
 
 footer = '''
 <div id="footer">
@@ -51,6 +52,7 @@ def massage_text(dat):
     dat = pat_ftpprefix.sub('https://ifarchive.org/', dat)
     dat = pat_altif.sub('/ifarchive.org/', dat)
     dat = dat.replace('http://ifarchive.org/', 'https://ifarchive.org/')
+    dat = pat_ifdbhead.sub('https://ifdb.org/', dat)
     return dat
 
 def massage_html(dat):
@@ -63,6 +65,7 @@ def massage_html(dat):
     dat = pat_ftpprefix.sub('https://ifarchive.org/', dat)
     dat = pat_altif.sub('/ifarchive.org/', dat)
     dat = dat.replace('http://ifarchive.org/', 'https://ifarchive.org/')
+    dat = pat_ifdbhead.sub('https://ifdb.org/', dat)
     dat = dat.replace('</body>', footer+'\n\n</body>')
     return dat
 
