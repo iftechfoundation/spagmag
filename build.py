@@ -298,6 +298,11 @@ fl = open(os.path.join(destdir, 'about/index.html'), 'w')
 fl.write(template.render())
 fl.close()
 
+template = jenv.get_template('reviews.html')
+fl = open(os.path.join(destdir, 'reviews/index.html'), 'w')
+fl.write(template.render())
+fl.close()
+
 template = jenv.get_template('archives.html')
 fl = open(os.path.join(destdir, 'archives/index.html'), 'w')
 fl.write(template.render(issues=issues, oldissues=reversed(oldissues)))
