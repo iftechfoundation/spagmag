@@ -34,6 +34,7 @@ pat_ftpprefix = re.compile('ftp.(gmd.de|ifarchive.org)[:]?[/]+')
 pat_ftpifhead = re.compile('ftp[:]?/+[a-z.]*ifarchive[.]org[:]?/')
 pat_altif = re.compile('/(mirror|www).ifarchive.org/')
 pat_ifdbhead = re.compile('http[s]?://ifdb.tads.org/')
+pat_sparkylink = re.compile('href="http://[a-z.]*sparkynet.com/spag/')
 
 footer = '''
 <div id="oldfooter">
@@ -47,8 +48,6 @@ footer = '''
 def massage_text(dat):
     dat = pat_ftpgmdhead.sub('https://ifarchive.org/', dat)
     dat = pat_ftpifhead.sub('https://ifarchive.org/', dat)
-    #dat = dat.replace('ftp.gmd.de:/', 'https://ifarchive.org/')
-    #dat = dat.replace('ftp.gmd.de/', 'https://ifarchive.org/')
     dat = pat_ftpprefix.sub('https://ifarchive.org/', dat)
     dat = pat_altif.sub('/ifarchive.org/', dat)
     dat = dat.replace('http://ifarchive.org/', 'https://ifarchive.org/')
@@ -62,12 +61,11 @@ def massage_html(dat):
     dat = dat.replace('<script type="text/javascript">var pageTracker=_gat._getTracker("UA-34585834-1");pageTracker._initData();pageTracker._trackPageview();</script>', '')
     dat = pat_ftpgmdhead.sub('https://ifarchive.org/', dat)
     dat = pat_ftpifhead.sub('https://ifarchive.org/', dat)
-    #dat = dat.replace('ftp.gmd.de:/', 'https://ifarchive.org/')
-    #dat = dat.replace('ftp.gmd.de/', 'https://ifarchive.org/')
     dat = pat_ftpprefix.sub('https://ifarchive.org/', dat)
     dat = pat_altif.sub('/ifarchive.org/', dat)
     dat = dat.replace('http://ifarchive.org/', 'https://ifarchive.org/')
     dat = pat_ifdbhead.sub('https://ifdb.org/', dat)
+    dat = pat_sparkylink.sub('href="/archives/', dat)
     dat = dat.replace('</body>', footer+'\n\n</body>')
     return dat
 
