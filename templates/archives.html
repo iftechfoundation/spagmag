@@ -4,4 +4,51 @@
 
 <h2>SPAG Issue Index</h2>
 
+<p>
+You can look through all SPAG game reviews index by
+<a href="/archives/authors.html">game author</a>,
+<a href="/archives/reviewers.html">reviewer</a>,
+or titles (starting with):
+</p>
+
+<p>
+<a href="/archives/a.html">A</a>
+<a href="/archives/b.html">B</a>
+<a href="/archives/c.html">C</a>
+<a href="/archives/d.html">D</a>
+<a href="/archives/e.html">E</a>
+<a href="/archives/f.html">F</a>
+<a href="/archives/g.html">G</a>
+<a href="/archives/h.html">H</a>
+<a href="/archives/i.html">I</a>
+<a href="/archives/j.html">J</a>
+<a href="/archives/k.html">K</a>
+<a href="/archives/l.html">L</a>
+<a href="/archives/m.html">M</a>
+<a href="/archives/n.html">N</a>
+<a href="/archives/o.html">O</a>
+<a href="/archives/p.html">P</a>
+<a href="/archives/q.html">Q</a>
+<a href="/archives/r.html">R</a>
+<a href="/archives/s.html">S</a>
+<a href="/archives/t.html">T</a>
+<a href="/archives/u.html">U</a>
+<a href="/archives/v.html">V</a>
+<a href="/archives/w.html">W</a>
+<a href="/archives/x.html">X</a>
+<a href="/archives/y.html">Y</a>
+<a href="/archives/z.html">Z</a>
+</p>
+
+<hr>
+
+<ul class="IssueList">
+{% for issue in issues %}
+  <li><a href="/issue-{{ issue.index }}">Issue #{{ issue.showindex }}: {{ issue.shortdate }}</a>
+{% endfor %}
+{% for issue in oldissues %}
+  <li><a href="/archives/backissues/spag{{ issue.index }}.html">Issue #{{ issue.index }}: {{ issue.date }}</a>
+{% endfor %}
+</ul>
+
 {% endblock %}

@@ -68,6 +68,11 @@ h3 {
     font-size: 100%;
 }
 
+.IssueList {
+    list-style: none;
+    padding-left: 20px;
+}
+
 .IssueContents {
     list-style: none;
     padding-left: 10px;

@@ -21,6 +21,9 @@ class Issue:
         self.date = date
         self.articles = articles
 
+        pos = date.find(' ')
+        self.shortdate = date[ 0 : 3 ] + date[ pos : ]
+
 class Article:
     def __init__(self, title, uri, author=None, alttitle=None, quoted=None):
         self.title = title
@@ -297,7 +300,7 @@ fl.close()
 
 template = jenv.get_template('archives.html')
 fl = open(os.path.join(destdir, 'archives/index.html'), 'w')
-fl.write(template.render())
+fl.write(template.render(issues=issues, oldissues=reversed(oldissues)))
 fl.close()
 
 for issue in issues:
