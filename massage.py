@@ -36,7 +36,7 @@ pat_altif = re.compile('/(mirror|www).ifarchive.org/')
 pat_ifdbhead = re.compile('http[s]?://ifdb.tads.org/')
 
 footer = '''
-<div id="footer">
+<div id="oldfooter">
   <p>SPAG is maintained as a historical archive by the
   <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
   Pages are no longer updated and links may no longer work.
@@ -56,6 +56,8 @@ def massage_text(dat):
     return dat
 
 def massage_html(dat):
+    dat = dat.replace('<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">', '<!DOCTYPE html>')
+    dat = dat.replace('<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">', '<!DOCTYPE html>')
     dat = dat.replace('<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>', '')
     dat = dat.replace('<script type="text/javascript">var pageTracker=_gat._getTracker("UA-34585834-1");pageTracker._initData();pageTracker._trackPageview();</script>', '')
     dat = pat_ftpgmdhead.sub('https://ifarchive.org/', dat)
@@ -84,7 +86,7 @@ for (dirpath, dirnames, filenames) in os.walk('htdocs/archives-orig'):
             with open(outpath, 'wb') as outfl:
                 bdat = dat.encode(encoding='ascii', errors='xmlcharrefreplace')
                 outfl.write(bdat)
-        elif pat_textfile.match(filename):
+        elif filename.endswith('.txt') or pat_textfile.match(filename):
             print('text:', path)
             with open(path, 'rb') as infl:
                 bdat = infl.read()
