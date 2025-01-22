@@ -24,6 +24,9 @@ class Issue:
         pos = date.find(' ')
         self.shortdate = date[ 0 : 3 ] + date[ pos : ]
 
+        for ix, art in enumerate(self.articles):
+            art.index = ix
+
 class Article:
     def __init__(self, title, uri, author=None, alttitle=None, quoted=None):
         self.title = title
@@ -42,6 +45,7 @@ class Article:
 
         self.content = None
         self.comments = []
+        self.index = None
         
     def load(self, issue):
         path = os.path.join('articles', issue.uri, self.uri)

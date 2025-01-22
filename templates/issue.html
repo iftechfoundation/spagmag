@@ -10,7 +10,7 @@
   <li class="IssueItem">
   {% if art.author %}{{ art.author }}, {% endif %}
   {%- if art.quoted %}&#x201C;{% endif -%}
-  <a href="/{{ uri }}/{{ art.uri }}/">
+  <a href="#{{ art.uri }}">
   {%- autoescape false -%}
   {{ art.showtitle }}
   {%- endautoescape -%}
@@ -18,5 +18,25 @@
   {%- if art.quoted %}&#x201D;{% endif -%}
 {% endfor %}
 </ul>
+
+{% for art in issue.articles %}
+<hr>
+
+  <div class="DateLine">(<a href="/{{ uri }}/{{ art.uri }}/">article link</a>)</div>
+  <h3 id="{{ art.uri }}">
+  {% autoescape false -%}
+  {% if art.alttitle %}{{ art.alttitle }}{% else %}{{ art.showtitle }}{% endif %}
+  {%- endautoescape -%}
+  </h3>
+
+  {% if art.author %}
+  <h4>By {{ art.author }}</h4>
+  {% endif %}
+
+  {% autoescape false %}
+  {{ art.content }}
+  {% endautoescape %}
+
+{% endfor %}
 
 {% endblock %}
