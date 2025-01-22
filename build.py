@@ -8,6 +8,11 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 destdir = 'htdocs'
 
+class OldIssue:
+    def __init__(self, index, date):
+        self.index = index
+        self.date = date
+
 class Issue:
     def __init__(self, index, date, articles):
         self.index = index
@@ -205,6 +210,69 @@ issues = [
     
 ]
 
+oldissues = [
+    OldIssue("1", "May 15, 1994"),
+    OldIssue("2", "Sep 26, 1994"),
+    OldIssue("3", "Oct 26, 1994"),
+    OldIssue("4", "Mar 02, 1995"),
+    OldIssue("5", "Mar 29, 1995"),
+    OldIssue("6", "Jul 26, 1995"),
+    OldIssue("7", "Oct 14, 1995"),
+    OldIssue("8", "Feb 05, 1996"),
+    OldIssue("9", "Jun 11, 1996"),
+    OldIssue("10", "Feb 04, 1997"),
+    OldIssue("11", "Sep 17, 1997"),
+    OldIssue("12", "Dec 13, 1997"),
+    OldIssue("13", "Feb 5, 1998"),
+    OldIssue("14", "May 17, 1998"),
+    OldIssue("15", "Oct 11, 1998"),
+    OldIssue("16", "Nov 28, 1998"),
+    OldIssue("17", "May 10, 1999"),
+    OldIssue("18", "Sep 15, 1999"),
+    OldIssue("19", "Jan 14, 2000"),
+    OldIssue("20", "Mar 15, 2000"),
+    OldIssue("21", "Jun 15, 2000"),
+    OldIssue("22", "Sep 15, 2000"),
+    OldIssue("23", "Dec 29, 2000"),
+    OldIssue("24", "Mar 24, 2001"),
+    OldIssue("25", "Jun 20, 2001"),
+    OldIssue("26", "Sep 26, 2001"),
+    OldIssue("27", "Jan 4, 2002"),
+    OldIssue("28", "Mar 20, 2002"),
+    OldIssue("29", "Jun 20, 2002"),
+    OldIssue("30", "Sep 20, 2002"),
+    OldIssue("31", "Jan 3, 2003"),
+    OldIssue("32", "Mar 20, 2003"),
+    OldIssue("33", "Jun 25, 2003"),
+    OldIssue("34", "Sep 24, 2003"),
+    OldIssue("35", "Dec 31, 2003"),
+    OldIssue("36", "Mar 16, 2004"),
+    OldIssue("37", "Jul 10, 2004"),
+    OldIssue("38", "Sep 28, 2004"),
+    OldIssue("39", "Jan 7, 2005"),
+    OldIssue("40", "Apr 12, 2005"),
+    OldIssue("41", "Jul 15, 2005"),
+    OldIssue("42", "Oct 2, 2005"),
+    OldIssue("43", "Jan 7, 2006"),
+    OldIssue("44", "Apr 30, 2006"),
+    OldIssue("45", "Jul 17, 2006"),
+    OldIssue("46", "Oct 17, 2006"),
+    OldIssue("47", "Jan 16, 2007"),
+    OldIssue("48", "May  2, 2007"),
+    OldIssue("49", "Aug 18, 2007"),
+    OldIssue("50", "Dec  3, 2007"),
+    OldIssue("51", "Apr  6, 2008"),
+    OldIssue("52", "Jul  29, 2008"),
+    OldIssue("53", "Nov 16, 2008"),
+    OldIssue("54", "Mar 31, 2009"),
+    OldIssue("55", "Jul 15, 2009"),
+    OldIssue("56", "Nov 16, 2009"),
+    OldIssue("57", "Feb 18, 2010"),
+    OldIssue("58", "May 29, 2010"),
+    OldIssue("59", "Dec 15, 2010"),
+    OldIssue("60", "Apr 25, 2011"),
+]
+
 for issue in issues:
     for art in issue.articles:
         art.load(issue)
@@ -224,6 +292,11 @@ fl.close()
 
 template = jenv.get_template('about.html')
 fl = open(os.path.join(destdir, 'about/index.html'), 'w')
+fl.write(template.render())
+fl.close()
+
+template = jenv.get_template('archives.html')
+fl = open(os.path.join(destdir, 'archives/index.html'), 'w')
 fl.write(template.render())
 fl.close()
 
