@@ -37,6 +37,30 @@
   {{ art.content }}
   {% endautoescape %}
 
+  {% if art.comments %}
+  <div class="IssueComments">
+  <h4>Reader comments</h4>
+  
+  {% for com in art.comments %}
+    <div class="CommentHead">
+      {% if com.authorurl %}
+        <a rel="nofollow ugc" href="{{ com.authorurl }}">{{ com.author }}</a>
+      {% else %}
+        {{ com.author }}
+      {% endif %}
+    </div>
+    <div class="CommentDate">
+      {{ com.timestr }}
+    </div>
+    <div class="CommentBody">
+      {% autoescape false %}
+      {{ com.body }}
+      {% endautoescape %}
+    </div>
+  {% endfor %}
+  </div>
+  {% endif %}
+
 {% endfor %}
 
 {% endblock %}

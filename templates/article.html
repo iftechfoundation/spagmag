@@ -19,6 +19,7 @@
 {% endautoescape %}
 
 {% if art.comments %}
+  <div class="ArticleComments">
   <hr>
   <h3>Reader comments</h3>
   
@@ -39,6 +40,7 @@
       {% endautoescape %}
     </div>
   {% endfor %}
+  </div>
 {% endif %}
 
 {% endblock %}
