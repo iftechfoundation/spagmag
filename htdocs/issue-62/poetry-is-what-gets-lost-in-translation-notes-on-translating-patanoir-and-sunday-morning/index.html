@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>SPAG: The Interactive Fiction Magazine</title>
+
+<link rel="stylesheet" href="/css/style.css" type="text/css">
+<link rel="stylesheet" href="/css/font.css" type="text/css">
+
+</head>
+
+<body>
+
+<div id="maincol">
+  <div id="header">
+    <div id="headerimage">
+      <img class="HeaderImage" src="/pic/new-header.jpg" alt="SPAG: The Interactive Fiction Magazine">
+    </div>
+    <div id="navbar">
+      <div class="NavItem"><a href="/">HOME</a></div>
+      <div class="NavItem"><a href="/about">ABOUT</a></div>
+      
+      <div class="NavItem"><a href="/issue-62">THIS ISSUE</a></div>
+      
+      <div class="NavItem"><a href="/archives/">ALL ISSUES</a></div>
+      <div class="NavItem"><a href="/reviews/">REVIEWS</a></div>
+    </div>
+  </div>
+  <div id="content">
+    
+
+<h2>Issue 62:
+Poetry Is What Gets Lost in Translation: Notes on translating <i>PataNoir</i> and <i>Sunday Morning</i></h2>
+
+
+<h3>By Marius Müller &#x2014; May 4, 2015</h3>
+
+
+
+<p>I love the English and the German languages equally. The process of translation fascinated me since I first realized I could watch my DVDs in English, so wanting to translate an IF game came naturally to me. I offered a translation as an IFComp prize three times, and the first two I completed were <i>PataNoir </i>by Simon Christiansen, which took fifth place in the 2011 competition, and <i>Sunday Afternoon</i> by Christopher Huang, the fifth-place winner in 2012. And I&#x2019;m currently working on <i>Origins </i>(2014) by Vincent Zeng and Christopher Martens.</p>
+<h4>Translating the Text</h4>
+<p>Let&#8217;s begin with some general observations. Both translated games are written in Inform 7, for which there is an excellent German translation available, called GerX. This replaces all standard library messages, lays the groundwork for gendered nouns, and comes with a translation of Basic Help Menu.</p>
+<p>My work starts, naturally, with a copy of the original source (I marvel at just how organized an I7 source file can look, complete with annotations, but I digress).</p>
+<p>The easiest order in which to translate the text turns out to be just top to bottom.</p>
+<p>This leaves the least chance of missing something, and trying to piece together code bits that belong, say, to a certain scene (all rooms, NPC dialogue, error messages and so on) turned out to be a major headache that led to unnecessary confusion.</p>
+<p>All objects in the code retain their original name, because anything else would muddle the original code unnecessarily. This means that every single room, object and NPC gets its own printed name and synonyms &#8212; and nouns being gendered in German, that as well. (For extra fun, some of the synonyms have different genders.)</p>
+<p>It&#8217;s actually quite straightforward. Grab a piece of text, translate it, copy back in.</p>
+<p>But text with variations turned out be another tricky bit. German has not quite lost its cases and inflections like English has. Often, a phrase needed some careful rewording to work with the existing code structure and to not sound completely awkward and artificial. The German versions of these descriptions often ended up far more convoluted than the original, and hammering them into readable and grammatically correct end results caused more than a few bilingual curses.</p>
+<h4><em>PataNoir</em></h4>
+<p>At first glance, Simon&#8217;s work seemed like a tough nut. For those unfamiliar with it, <i>PataNoir</i> is a hard-boiled detective story based on similes, with each object in a simile implemented as a separate, interactive object. Luckily, most of the these were straightforward enough to translate. In one or two cases, I took the liberty to make some of the similes more appropriate for German readers. For instance, the grass that &#x201C;(&#8230;)has been meticulously groomed. The strands are all exactly alike, like citizens in a socialist utopia.&#x201D; became &#x201C;B&#xFC;rger im real existierenden Sozialismus,&#x201D; a friendly jab at fellow Germans from the former GDR.</p>
+<p>Apart from the similes, <i>PataNoir </i>is pretty straightforward hardboiled fiction, and it was a joy to use the appropriate German vernacular. I can recall only two points that gave me pause. The rich old man with a missing daughter in the game is called Baron Ahrend von B&#xFC;low, which is eerily similar to German comedian <a href="https://vimeo.com/81832730">Vicco von B&#xFC;low (Loriot)</a>. Interestingly, Simon was actually refering to Claus von&#xA0;B&#xFC;low, a Danish man who was accused of murdering his wife but later acquitted. There was a movie and everything. In the German version he is now called Johann Albert von Korff, after an 18th century Freemason. (Thanks, Cabal!)</p>
+<p>The other thing was a thorn in my side for literal months. In one pleasant moment of the game, inconsequential to the larger plot, the protagonist rests in a garden and finds that &#x201C;the air is cold and clear, like the justice we all seek, but never find.&#x201D; Cold and clear are not adjectives you can use for justice in German at all. And everything else I could think of didn&#x2019;t work with either justice or air at all. I was stumped and angry, and it was one of those never disappearing points on my to-do list.</p>
+<p>Months later, I ran into a girl I had a crush on in elementary school on the street. We nearly didn&#8217;t recognize each other. A day later, Reilly now finds the air &#x201C;as pure as first love&#x201D;. And if he tries to take it, alas, &#x201C;You gave up chasing it a long time ago. Better focus on your case.&#x201D;</p>
+<h4><em>Sunday Afternoon</em></h4>
+<p>Where <i>PataNoir</i> was based on its excellent mechanics, <i>Sunday Afternoon</i> is a more literary work of traditional parser IF. Early on, Christopher proposed that I move the setting of the game to Germany in 1893 and 1916. I enthusiastically agreed, and this produced some interesting conundrums.</p>
+<p>A lot of the backstory of the game hinges on its Victorian setting, with strict house rules and a certain nostalgic admiration for war and stiff patriotism. For obvious historical reasons, we Germans don&#8217;t quite have this quaint kind of memory for this episode in our history. This gives the whole game, for purely extra-textual reasons, a slightly bitter tinge not at all present in the original.</p>
+<p>Moving the settings to Prussia also meant some interesting changes to in-game events. The Sepoy Mutiny became the Battle of Dybb&#xF8;l. Wales became Weimar. All the characters names&#x2019; are borrowed from either <i>All Quiet on the Western Front</i> or Thomas Mann&#8217;s <i>The Magic Mountain</i>. The city name has been changed to Christofstadt as an obvious nod to the original author. St. Swithin&#8217;s cathedral is now called St. Donatus, a more appropriate German saint. <i>The Owl Service</i>, virtually unknown here, has been replaced by Goethe&#8217;s Faust. I had to dig around some libraries to find the exact German quote for one or two of the boxed quotes, and a few are replaced with better-known German equivalents. Rewatching <i>Indiana Jones </i>(for research!) was less of a chore. Since the game&#x2019;s comp release, the news about the <i>Hello Kitty</i> mascot being a girl has made the rounds, and the German description of the cat trinket now reflects that. One thing remained the same in both versions of the game, though: The guys in the bonus content are each in Flanders, 1916, scared for their lives, happy for the distraction.</p>
+<p>Each of these translations took a few months and felt at time likes writing a completely new work of IF. It was interesting to dive into someone else&#8217;s world and try to be faithful and yet transformative enough to create a work that&#8217;s true to the source. But it&#8217;s also a huge load of work. So this year, and from now on, I&#8217;ve changed the prize to focus on Twine games, or at least games where no recoding is necessary. Looking to the future, this is also a more viable course for those from the smaller scenes inclined to translate works into English, not vice versa &#8212; Hannes Sch&#xFC;ler already did this with <i>The Story of Mr. P </i>in the 2014 Spring Thing. It&#x2019;s a great way to expose works to a greater audience, as the thing when translating into german is that you can safely assume everyone has already played it. (My thread announcing &#x201C;Sonntag Nachmittag&#x201D; on the German forum has 0 responses.)</p>
+
+
+
+
+
+
+
+  </div>
+  <div id="footer">
+    <p>SPAG is maintained as a historical archive by the
+    <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+    Pages are no longer updated and links may no longer work.
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
