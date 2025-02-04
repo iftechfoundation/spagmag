@@ -1,0 +1,1396 @@
+
+       /~~\               /~~~\               /\           /~~~\
+       \ \/               | |> |             //\\         |
+       /\ \               |  _/             ||__||        |  ~~\
+  The  \__/ociety for the |_|reservation of ||  ||dventure \___/ames
+				ISSUE # 4
+        Edited by G. Kevin Wilson (whizzard SP@G uclink.berkeley.edu)
+			
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+EDITORIAL--------------------------------------------------------------------
+
+	Let your mind drift a moment.  Some soft music would be appropriate,
+perhaps Jimmy Buffett, Three Dog Night, or Beethoven.  The swells of the
+music rise and fall.  You find yourself aboard a three-masted schooner,
+cresting the waves in grand majesty.  The roar of the water beneath the hull
+of the ship is relaxing, and strips away your worldly cares.  Breathe in the
+salty spray that mists before the ship, and grip the old wooden deck with
+your bare toes.  Your snug sailor's uniform warms you somewhat, the good,
+rough pants slightly damp from the salty spray, but they can't quite remove
+all the chill of the season.  It is refreshing, rather than uncomfortable.
+Grip the rough, salty ropes, and pull with all your might.  The high whisper
+of silk alerts you to the raising of the small sail just above you.  You wrap
+the rope around a nearby wooden peg and make it fast.  All in a day's work.
+
+	There, now pop back with me to reality, if you don't mind the
+interruption.  I'm sure you're curious what the heck that was all about.
+Well, it represents a tiny little reader exercise for those of you who like
+to write.  I would like you to transport, in 150 words or less, the reader to
+a place of your choosing.  No explanations or apologies for quality are
+allowed, I just want the little 'breather'.  Don't neccessarily use my
+'breather' as a model.  There are lots of ways to write such a thing, and any
+of them are just fine to use.  There are no particular rewards for doing this
+exercise, except a bit of mental wrestling, and seeing it in print if it's
+among the better ones I receive.  More likely, it'll be among the ONLY ones
+I receive. :)  So, if you're the slightest bit writer oriented, give it a
+try.  Some quick hints:
+
+  1.) Effective use of at least 4 senses helps quite a bit.
+
+  2.) Second person point of view removes distance from between the reader
+      and the setting.
+
+  3.) Short and powerful, rather than long and droning.
+
+	And, well, if you haven't noticed, this is remarkably similar to a
+room description in a text adventure.  Surprise.  Now you only need about
+another 199 to go for your first game. :)
+
+				G. Kevin Wilson
+				"Whizzard"
+
+LETTERS TO THE EDITOR--------------------------------------------------------
+
+
+KEY TO SCORES AND REVIEWS----------------------------------------------------
+
+Consider the following review header:
+
+ NAME: Cutthroats                                PARSER: Infocom Standard
+ AUTHOR: Infocom                                 PLOT: Two Seperate Paths
+ EMAIL: ???                                      ATMOSPHERE: Well Done
+ AVAILABILITY: LTOI 2                            WRITING: Good
+ PUZZLES: Good                                   SUPPORTS: Infocom Ports
+ CHARACTERS: Not Bad                             DIFFICULTY: Medium
+
+	First, you'll notice that the score has been removed, and replaced
+by one or two word ratings.  These are pretty arbitrary, and should allow
+more freedom to the reviewers.  The EMAIL section is for the e-mail address
+of the game author, not the reviewer.  AVAILABILITY will usually have either
+Commercial ($price), Shareware ($price), or Freeware.  If the commercial
+price varies in stores, then it will just say Commercial.  If it has been
+released in the LTOI collection, this line should say so.  Lastly, if it is
+available on ftp.gmd.de, the line should add GMD.  (Demo) if it's a demo
+version.  The body of the review hasn't changed.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Also, scores are still desired along with the reviews, so send those along.
+The scores will be used in the ratings section.  Authors may not rate or
+review their own games.
+
+SPAG accepts reviews of any length, letters to the editor, the occasional
+interesting article on text adventures (no reprints please), and even just
+ratings for your favorite game, if you don't have the time to do a full
+review.  Please though, at least send me info for each game you have rated
+equivalent to the review header for Cutthroats, above.  All accepted
+materials will be headed by the submitter's name and e-mail address, unless
+you request that they be withheld, in which case the header will read as
+"Anonymous."
+
+NEW GAMES--------------------------------------------------------------------
+
+	This issue brings text adventure fans several great new TADS games to
+play.  Veritas, Waystation, and John's Fire Witch are all among the ones that
+I know of.  They are all available for anonymous FTP on ftp.gmd.de, in the
+appropriate game directories.  John's Fire Witch in particular has received
+rave reviews, even though it is a short game.
+	[Speaking of appropriate game directories, check out my Whizzard's
+Guide to Text Adventures, which should be following this issue sometime in
+the near future.]
+
+REVIEWS----------------------------------------------------------------------
+
+From: "Magnus Olsson" <mol SP@G df.lth.se>
+
+NAME: Another Lifeless Planet And Me With No Beer
+					PARSER: Pathetic
+AUTHOR: Dennis Drew			PLOT: Not very original
+EMAIL: ???				ATMOSPHERE: Absent
+AVAILABILITY: GMD, S10			WRITING: Acceptable
+PUZZLES: Standard, uninteresting	SUPPORTS: IBM
+CHARACTERS: Props			DIFFICULTY: Average
+
+One of the most important skills shareware authors have to learn, at
+least if they expect to earn any money, is that of promoting their
+products - it's a tough world out there, tons of shareware gets
+published every year, and if you don't promote your program it's not
+very like to get noticed.  
+
+Dennis Drew, the author of this particular game, seems to have learned
+his lesson well in this regard.  Not only the accompanying
+documentation, but also the starting - and ending - screens of the
+game itself are full of superlatives describing how interesting, fun,
+high-quality, professional, and generally amazing it is - as are all
+of Mr. Drew's programs; one of the documentation files is a catalog
+listing his entire "astounding software line"; "from heavy-duty
+business programs to incredibly enjoyable games", all described in
+terms such as "incredible", "astounding" and "terrific".  
+
+According to the docs, one of his programs was rated by COMPUTE
+Magazine as "One of the World's Best 101 Programs". I haven't tried
+that program, but from my experience of this game, as well as of my
+other sample of his products (included in the distribution was
+Compu-Nerd, "a highly professional and technical program designed to
+discover the age-old question, 'Am I a nerd?'", which after asking me
+some rather leading questions proceeded to feed me a few screenfuls of
+platitudes like "You are one of the millions of people who have found
+word processing to be an incredibly valuable comptuer function", and
+then rated me as a "Minor Nerd" - thanks a lot!), I can only conclude
+that Drew is right: it _is_ incredible. 
+
+But back to the subject of this review: the game, which starts with
+the friendly greeting "WELCOME to another one of my incredibly
+interesting and logical adventure games".  Does it live up to the
+great expectations the author goes to such lengths to build up?
+Unfortunately, any user naive enough to take Drew's documentation at
+face value is bound to be disappointed.  The situation was aptly
+described 2000 years ago by Horace: "The mountains are in labour; an
+absurd little mouse is born". 
+
+This doesn't mean that the game is a failure.  Indeed, had it been
+written in 1979 or so, for the PET or TRS-80 or some other early home
+computer, it would probably have been a great game. After all, there
+are quite long room descriptions, a graphic picture for every room
+(character graphics with the incredible resolution of 15*15 or so),
+and colour (a particularly tasteful colour scheme in light blue, dark
+blue, yellow, green, and bright magenta)! 
+
+However, the game was actually written in 1989 for MS-DOS, so we'll
+have to apply slightly different standards of greatness. 
+
+Even by those, more modern standards, the game has a few points to
+recommend it.  The plot may not be very original - you're stranded on
+an alien planet and have to find a way home - but at least the
+concept's been proven in hundreds of other games.  Just as the author
+claims, the game really _is_ logical, in the sense that (in Drew's own
+words) "everything (...) has a logical and understandable purpose
+behind it".  The author clearly knows how to write (i.e. his spelling
+as well as his grammar are quite flawless).  There are even some jokes
+thrown in - rather a lot of them, actually. 
+
+Of course, every silver lining has a cloud within it, and the above
+doesn't quite suffice to make this game as great as the author claims.
+In fact, it doesn't suffice to make it good, or even worth the time it
+takes to download it.
+
+To start with, the parser is absolutely pathetic - clearly the worst
+parser I've ever seen in a non-freeware game.  It's not only strictly
+limited to two-word sentences, but its vocabulary is extremely limited
+as well. There are no adjectives, which explains the fact that the
+first object you encounter is a "small-stone", that can't be referred
+to as just "stone".  What's even worse is that the parser doesn't
+understand _anything_ that you can't do in the current game state, so,
+for example, if you try to go north in a room where the only exit is
+south, you get the message "I do not understand that. Is that
+logical?" (of course, the latter question must be rhetorical, since it
+can only be answered with a resounding "no"). 
+
+Also, the prose being grammatically correct doesn't make it good, or
+even interesting.  Even though the genre is the cheapest kind of space
+opera (complete with icky monsters and blaster-wielding aliens) which
+usually gives lots of opportunities for atmosphere and excitement,
+both these elements are conspicuous only by their absense.  The
+attempts at humour don't improve things; at their best, the jokes
+aren't very funny (and, no, Virginia, telling four variations on the
+same bad joke in the first thirty rooms isn't four times as funny as
+telling it once). At their worst -- well, let me just quote the
+response you get when you try to walk north from the initial location,
+to see what is blocking your way:
+
+"Trivia question:  Do you know what this is?      8P
+
+That's the head of a dead astronaut laying on its side with its tongue
+hanging out.  That's what you look like after a really giant, huge,
+icky, nasty-looking monster standing there munched the rest of you!!
+
+Have a nice day.      ;)     <---that's a wink and a grin!
+
+                      (munch munch munch munch....)  <---- sound effects"
+
+So for "Another Lifeless Planet And Me With No Beer" - do I have to
+continue?  I'll just conclude by saying that somehow, I wish that this
+game had _not_ been logical; then it might at least have been
+interesting (see my review of "Space Aliens Laughed at my Cardigan" in
+this issue of SPAG), and perhaps good for a laugh, too. Unfortunately,
+it is neither.  Of course, if you happen to like humour like the
+example above, and if you think that good writing, atmosphere and
+logical coherence only distracts you from the puzzles, then this game
+may be worth trying. If not it is best avoided.
+
+The prospective IF author would probably also do wisely to avoid
+Gamescape, "the ultimate stand-alone adventure writing system", "the
+incredible system that allows you to design and then play adventure
+games", that was used to create "No Beer" (a fact which is almost
+impossible to avoid noticing, since every time one exits the game one
+is treated to two promotional screen pages about Gamescape).  The
+registration fee for Gamescape is $95 + $5 S&H.  Considering that TADS
+is about half that amount, and Inform is free, and even more
+considering the parser and user interface of "No Beer", the
+decision about which system to use should be a simple one indeed. 
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Arthur: Quest for Excalibur  PARSER:  Infocom Advanced
+  AUTHOR:  Bob Bates                  PLOT:  Very Good
+  EMAIL:  ?                           ATMOSPHERE:  Very Good
+  AVAILABILITY:  LTOI2-CD             WRITING:  Very Good
+  PUZZLES:  Very Good                 SUPPORTS:  Infocom Ports
+  CHARACTERS:  Very Good              DIFFICULTY:  Average
+
+	In Arthur:  The Quest for Excalibur, Infocom's final text game, you
+play the part of the boy Arthur.  In the space of a few days, you must
+develop the traits necessary to lead England, and challenge Lot, a local
+chieftain, before he is crowned King.
+	The parser is Infocom's best ever, though unfortunately this is the
+only game it was used in.  You can change your viewing mode with the touch of
+a function key.  The bottom half of the screen is like a standard text game,
+but the top changes, depending on your mode.  One mode shows you a graphic of
+your area.  Another gives you an onscreen map, a third shows you your
+character's development, another constantly shows you a description of your
+area, and another gives you a constant report on your inventory.  You can
+change modes without expending a turn.
+	The graphics (in graphics mode) are helpful, but in true text game
+fashion they are not necessary.  No puzzles require recognizing a clue in the
+graphics, and indeed one of the modes, is text-only mode, in which the game
+resembles one of the Infocom classics.
+	While the overall purpose of the game is to do things that will
+develop your personal abilities to the point that you are worthy to rule
+England, the main quest of the game is to acquire certain magical quest items
+that will allow you to get past the Red Knight to where the Lady of the Lake
+lies enchanted (Everything you always wanted on a bier...).  Only with her
+help can you recover Excalibur from where Lot has disposed of it.
+	Early in the game, Merlin will give you the ability to transform
+yourself into a variety of different animals.  Many of the puzzles cannot be
+solved while you are in human form.
+	There are few save/restore puzzles.  Puzzles that you would be
+unlikely to get the first time around generally give you multiple
+opportunities to solve.  There are not many "guess what the author is
+thinking" puzzles, but there are a few.  When you try to read the writing on
+the wall in the ivory tower (for instance), only a burst of inspiration will
+help you along.
+	Like several other Infocom games, Arthur has onscreen hints.
+However, Arthur's have a new twist, in that you are not given the entire clue
+menu at the beginning.  To prevent you from reading them too far ahead, clue
+questions are added to the menu as they become relevant to your current
+situation.  Sometimes, the clue will tell that you cannot solve a specific
+puzzle with the information and resources that you have at hand.
+	Arthur was the ideal Graphic Interactive Fiction game, with graphics
+that helped set the mood and aided gameplay without taking over the game from
+the text part.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+NAME:  Ballyhoo                            GAMEPLAY:  Infocom
+AUTHOR:  Jeff O'Neill                      PLOT:  Good
+EMAIL:  ?                                  ATMOSPHERE:  Very Good
+AVAILABILITY:  LTOI 1                      WRITING:  Very Good
+PUZZLES:  Well Done                        SUPPORTS:  Infocom Ports
+CHARACTERS:  Colourful, Distinctive        DIFFICULTY:  Standard
+
+	In Ballyhoo, you begin as a typical circusgoer.  While wandering
+around, you discover that the daughter of the circus owner, Mr. Munrab
+(Barnum spelled backwards) has been kidnapped.  Anxious for a little glory,
+you decide to look into the crime yourself.  This turns out to be fortunate,
+as the detective Munrab engages turns out to be less than competent
+(surprise).  Your search takes you on a tour through the underside of circus
+life.
+	When I first played Ballyhoo, I strongly disliked it because of a
+technical problem.  I got stuck about 3/4 of the way through.  When I found a
+walkthrough of the game, I solved the problem, but found that I had done
+something wrong earlier and had to restart the game.  When I did so, I found
+that I could not get past a part I had gotten through without trouble
+earlier.  I then postulated a completely false idea of what I must have done
+accidentally the first time, and tried various ways to recreate it.  By this
+time I was ready to throw the game under Monty Python's 16-ton weight.
+	Eventually, I figured out what the problem was.  It wasn't a bug,
+just one of those unfortunate things.  It would not give away any part of the
+game to say that the command "WHIP LION" does not mean the same thing as "HIT
+THE LION WITH THE WHIP".
+	Seemingly this game is plagued with bad luck, as when Activision put
+out The Lost Treasures of Infocom 1, they inadvertently omitted one page of
+the original documentation that gave the frequency for WPDL, an all-classical
+AM radio station (1170 AM by the way).  This information is vital twice; once
+in the middle of the game, and again at the very end.
+	But if you can get past these glitches, you will find quite a nice
+little game.  There are several characters, all well developed.  There are
+everal amusing little responses and sidelights, such as when you try to get
+the mousetrap, when you jump off the top of the cage, and when you are
+standing in line for ice cream.  The game captures the circus feel in much
+the same way that Hollywood Hijinx captures the Hollywood feel.  As an added
+bonus, you get an all text blackjack game in the bargain.
+	Ballyhoo is neither a classic, nor a "must-play", but it is an
+enjoyable game well worth the time you will put into it, if you can avoid the
+little land mines surrounding it.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Border Zone                GAMEPLAY:  Infocom Standard
+  AUTHOR:  Marc Blank               PLOT:  Well Interwoven
+  EMAIL:  ?                         ATMOSPHERE:  Good
+  AVAILABILITY:  LTOI 2             WRITING:  Serious but Light
+  PUZZLES:  Very Good               SUPPORTS:  Infocom Ports
+  CHARACTERS:  Good                 DIFFICULTY:  Slightly above average
+
+	Border Zone is another compartmentalized game, in the spirit of Nord
+& Bert and Shogun.  Unlike Shogun, the chapters don't have to be played in
+order, and unlike Nord & Bert there is no single concluding chapter that you
+must earn the right to play.
+	Border Zone involves the attempt to prevent an important assasination
+in and around the country of Frobnia.  In Chapter 1, you play an ordinary
+businessman, who has been given a document with the details of the
+assasination, attempting to sneak it out of the country.   In Chapter 2, you
+play the wounded agent who gave the businessman the document, attempting to
+escape from Frobnia himself.  In Chapter 3 you play an American double-agent
+attempting to prevent the assasination without blowing his cover.
+	All three chapters are played in real time.  If you ponder your
+moves too long, the story may go on without you.  This is both good and bad.
+The puzzles are generally the save/restore type; although they are generally
+logical and good, they are not the type that you are likely to hit on the
+first time.  You have to learn from several failures before you hit on the
+correct strategy.  This is fine for puzzle fans, but not so good for realism
+fans (you can't RESTORE in real life).  However, the whole idea of doing the
+game in real time seems to be geared towards pleasing the realism fans,
+though this may not have been the best game to do it.
+	The second chapter is the largest and seems to be the centerpiece of
+the game, but I liked Chapters 1 and 3 better.  Chapter 1 is small and easily
+mapped, but rich in detail, and quickly concluded, making it an excellent
+introduction to interactive fiction.  Chapter 3 has some clever puzzles
+(especially how you figure out which room the sniper is in), and like
+Plundered Hearts, it has several different relatively successful endings, but
+one which is clearly better than the others.  Blank does a good job of tying
+in events from previous chapters, creating an interlocking "big-picture".
+	The game is fairly light on gadgetry; featuring only an exploding pen
+in Chapter 2.  I'd have liked a shoe phone and the Cone of Silence myself.
+Still, this is Infocom's only spy story, and is quite a good game.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Stefan Jokisch" <jokisc00 SP@G marvin.informatik.uni-dortmund.de>
+
+NAME: Detective                         PARSER: AGT
+AUTHOR: Matt Barringer                  PLOT: Strictly Linear
+EMAIL: ???                              ATMOSPHERE: None
+AVAILABILITY: Freeware, GMD             WRITING: Poor
+PUZZLES: None                           SUPPORTS: AGT Ports
+CHARACTERS: None                        DIFFICULTY: Very Easy
+
+	In this game you play a heroic detective who has to find and
+arrest the murderer of the mayor.  Surprisingly, the only commands needed
+to solve 'Detective' are north, east, south, and west.  It is possible to
+pick up a few items along the way in order to increase the score, but none
+of these items has any effect on the story.
+	To cut a long story short, the author made every mistake one can
+think of; it is not necessary to go into detail.  After all, we should
+not forget that Matt wrote this game with good intentions and he offered
+it for free, so who are we to mock at his efforts?  Every computer store
+sells a lot of expensive CD-ROMs which are no better than "Detective".
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Inigo Surguy" <phunc SP@G csv.warwick.ac.uk>
+
+ NAME: Dungeon Adventure                     PARSER: Below Infocom Standard
+ AUTHOR: Level 9                             PLOT: Collect the treasure
+ EMAIL: ???                                  ATMOSPHERE: Good
+ AVAILABILITY: See review                    WRITING: Good
+ PUZZLES: Good                               SUPPORTS: PC (+Spectrum,BBC,etc)
+ CHARACTERS: Good, but limited               DIFFICULTY: Medium
+
+	Inspired by the history of Level 9 in SPAG 3, I got out my old BBC B
+(8 bit British computer, ancestor of the Archimedes and RISC PC), and loaded
+Dungeon Adventure. This is a fantasy adventure, set in a similar universe
+to the original Adventure, where you play the typical greedy adventurer
+in search of treasure. This time, you are looting a demon lord's tower
+(after the demon's destruction in Adventure Quest).
+	At the beginning there are a few unfair puzzles, such as the example
+quoted in the Inform manual of carved lions above a doorway, in front of a
+pit ("pride comes before a fall"), but the quality of the puzzles throughout
+the rest of the game is excellent. The game is large enough to occupy anyone
+for some time.
+	Although the characters are not as advanced as those in the better
+Infocom games (Witness, Suspect, etc), they are interesting and numerous,
+including an argumentative sword, a helpful dwarf, two giants, an unhappy
+will-o'-the-wisp and an army of orcs.
+	I would recommend this game to anyone with a Spectrum emulator (or
+even a Spectrum :), and plenty of time.
+	This game was originally available for the 8-bit British computers of
+the eighties, such as the BBC and the Spectrum. According to SPAG 3, it is
+now available for ftp from ftp.ijs.si in the directory /pub/zx/snapshots/a/
+with filename dunadv128k.zip for the graphical version and dunadv48k.zip 
+for the plain text. A PC emulator for the Spectrum is in the directory
+/pub/zx/snapshots/z/ and called z80-201.zip. (Please don't email me about 
+these; I've only used the BBC version and I haven't tried the emulator).
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Magnus Olsson" <mol SP@G df.lth.se>
+
+NAME: John's Fire Witch			PARSER: Excellent
+AUTHOR: John Baker			PLOT: Linear
+EMAIL: baker-j SP@G ix.netcom.com		ATMOSPHERE: Very good, Enchanter-ish 
+AVAILABILITY: GMD, S6			WRITING: Very good
+PUZZLES: Standard, with a few nice touches
+					SUPPORTS: TADS
+CHARACTERS: Few, rather simple		DIFFICULTY: Easy
+
+It's a cold December's day, and you're visiting your old friend John -
+or, rather, you would be visiting him if he were there; but he never
+showed up at the pizza place where you'd agreed to meet, his apartment
+is empty and unlocked, and you've got nothing better to do than spend
+the night on John's living-room floor. The next morning, you wake up to
+find that a terrible blizzard has cut off the house from the rest of the
+world.  When searching the apartment, there's still no sign of John.
+There is, however, a deep, mysterious hole in his basement, a hole which
+turns out to take you straight into the middle of a conflict between
+magical powers... 
+
+This is the starting point of "John's Firewitch", a short (in the
+author's words, "snack-sized") but extremely well-written piece of IF.
+On the surface, this game isn't very remarkable: it's quite simple (it
+took me about three hours to solve), neither the puzzles nor the story
+are very original, the author doesn't seem to have any high-flying
+literary ambitions, and there are no startling new innovations in game
+design. 
+
+Still, this is one of the best - perhaps _the_ best - shareware games
+I've ever played; better, even, than most commercial games.  I'm not
+quite sure I can put my finger on what makes it so good - it's always
+easier to pinpoint what you don't like about something than what you
+like - but "John's Firewitch" is simply very good workmanship; those
+little irritating glitches and mannerisms that seem to be unavoidable in
+non-commercial works are absent; the game is eminently playable (much
+thanks to the excellent parser); the puzzles logical with satisfying
+solutions; the ending forms a satisfying climax; the writing excellent
+and free from mannerisms and bad jokes; everything just feels right. 
+
+The atmosphere and style of the game are very similar to Infocom's
+games, expecially the "Enchanter" trilogy, with the possible exception
+of the beginning which shows a refreshing sense of self-irony (John in
+the game being the author's _alter ego_). It is much smaller than a
+typical Infocom game, though. If "Enchanter" is a novel, then this is a
+short story. This very shortness may be a reason for the game giving
+such a good impression. On the technical side, as one reviewer noted on
+rec.games.int-fiction), the small size of the game saves the author from
+the complexity of large games (which tends to increase very rapidly with
+game size). On the literary side, it's much easier to maintain dramatic
+tension in a short work than in a long one; and this advantage is
+enhanced by the puzzles being easy (but certainly not obvious!), which
+keeps down the playing time. 
+
+This reviewer, being a busy man with too little time to spend on IF, and
+in addition being slightly disturbed by the recent trend towards
+"simulationist" IF (where the authors try to provide a good simulation
+of their literary world, complete with all objects, an attempt which
+will only serve to overwhelm the poor player with useless information)
+would certainly like to see an increase in the number of small but
+well-written games like this. "John's Firewitch" is an excellent example
+to emulate for prospective authors. 
+
+And with authors like John Baker around, why should we mourn the passing
+of Infocom? 
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: <J.J.Farmer-CSSE94 SP@G computer-science.birmingham.ac.uk>
+
+ NAME: The KORC Trilogy                          PARSER: Limited
+ AUTHOR: AMF the Doomwatcher                     PLOT: Linear (ish)
+ EMAIL: ???                                      ATMOSPHERE: Unique
+ AVAILABILITY: Freeware                          WRITING: Brief, Preaching
+ PUZZLES: Interesting, Moral                     SUPPORTS: Acorn Archimedes
+ CHARACTERS: Weird but Shallow                   DIFFICULTY: Medium-Low
+
+	It may (or may not) surprise you to learn that the KORC trilogy
+consists of three separate games ("Welcome to the Kingdom of Relative
+Concepts", "Return of the Timebringer", and "The Waking of AMF the
+Doomwatcher"), the plot of all three being centred around one person's quest
+(yours) against corruption in a world moderately similar to ours.
+	Throughout this quest, you meet all manner of weird characters,
+ranging from the author (who descibes himself as a "timid genius" in the
+first two games), to Ergol the pi-reciter (whose life is devoted to reciting
+pi), to an old guy who asks you to kill him.
+	This last character sums up the atmosphere of all three games; the
+author seems to be trying to preach a number of moral points at you.  The
+only problem is that occasionally he has you do something that goes against
+these teachings (like killing somebody).  Whenever this does happen,
+though, the feelings of guilt that consume you (and I'm not being sarcastic
+here) are a testement to how well the author is getting his message across.
+	The characters, for all their weirdness, don't seem to have much
+depth to them - apart from their purpose in the story, they consist only of a
+few "fob off" statements (usually something like "I exist, uncorrupted.
+Is that not enough?").  They certainly aren't as fascinating as the
+characters in Scapeghost, for instance.
+	The user interface is a complete washout.  Rather than multi-tasking
+(as all good adventure games should), the games single-task in Mode 12
+(80 columns by 32 rows, 16 colours, for those non-Archimedes users reading
+this), although the colour scheme is at least bareable.
+	The parser is just plain annoying.  It doesn't understand the normal
+abbreviations for compass directions (N for North, and so on), and doesn't
+even recognise the full compass directions (NORTH, SOUTH, etc).  Only
+commands like GO NORTH will move the player around; this is extremely
+irritating and there is no good reason for it.  To be fair, the movement
+commands are stored on the function keys (so pressing F1 will move you
+north), but this is no excuse.
+	Despite their limitations, I actually found these games very
+enjoyable, especially the third.  It didn't take me long to finish KORC 2 and
+3 (although I did cheat and take a peek at the program code once or twice).
+I personally found KORC 1 the most difficult, and it is probably the largest
+(nothing to do with the presense of a character called Olaf the Fatty!).
+	In the instructions, the author hints that a second KORC trilogy is
+on the drawing board, and I certainly hope that this is true.  Until then,
+the KORC trilogy is free and reasonably addictive.  What more could you want?
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Leather Goddesses of Phobos  GAMEPLAY:  Infocom Standard
+  AUTHOR:  Steve Eric Meretzky        PLOT:  Excellent
+  EMAIL:  ?                           ATMOSPHERE:  Excellent
+  AVAILABILITY:  Mail Order (maybe)   WRITING:  Excellent
+  PUZZLES:  Excellent                 SUPPORTS:  Infocom Ports
+  CHARACTERS:  Very Good              DIFFICULTY:  Advanced
+
+	In this risque imitation of 1930's pulp fiction, you are captured by
+the Leather Goddesses of Phobos.  For some reason, you escape, and with your
+trusted companion Trent/Tiffany, you tour the Solar System searching for a
+collection of incongruous objects, which when put together will form a
+super-duper-anti-Leather-Goddesses-of-Phobos-attack-machine.
+	The game begins by patting itself on the back for the outraged
+reactions that it will likely induce in old fuddy-duddies, though truth be
+told it is not much dirtier than your average beer commercial (though it is
+much more clever).  The game has three naughtiness modes for dealing with sex
+scenes:
+
+     TAME - No sex scenes
+     SUGGESTIVE - You're told that the scene is happening, but no more
+     LEWD - Level of description about equal to a Harlequin novel
+
+	In addition, Lewd mode has one or two 4-letter words, seemingly
+thrown in out of some sense of obligation, as they don't mesh very well with
+Meretzky's humour at all.
+	The game wonderfully recreates the feel of 30's pulp fiction, from
+the swordfight on the hull of the Space Battleship (without spacesuits,
+naturally), to the Sultan and other colourful characters you meet on Mars, to
+the delightfully contrived situation at the South Pole, to the marvelous
+running gag concerning the lucky escapes of your faithful companion.  The
+final scene where you try to assemble your machine while under attack by all
+of the Leather Goddesses minions is one of the greatest moments in
+interactive fiction, and one that would be utterly impossible to reproduce
+with graphics.
+	I generally enjoy games like Spellbreaker that spread the action over
+a wide area, and Leather Goddesses has one of the widest areas of all, with
+the action ranging between Venus, Mars, Phobos, Earth, and Saturn orbit.
+	Leather Goddesses has some of the best freebies of any Infocom game,
+including a 3-D comic book, 3-D glasses, and a scratch and sniff card.  It
+was one of the five games made into a Solid Gold edition.  The Solid Gold
+edition contains not only onscreen hints, but the ability to get through the
+difficult catacombs maze with a single special command.  The game also allows
+you to play as either a male or a female, depending on which restroom you
+enter at the beginning.
+	Some early editions of the game had a Lost in the Desert maze in
+place of the Martian Desert room.  I have only heard of this edition, not
+seen it, and if anyone has a copy, I'd love to see it.  The non-Solid Gold
+editions of the game had a "Boss key", whereby you could bring a specially
+created text file onscreen by hitting Control-B.  The file included with the
+game was a sample screen of Infocom's Cornerstone database, the easy-to-use
+productivity software that almost [Well, did.  Let's be honest. -GKW]
+bankrupted the company.  Later Infocom games that used the same interpreter
+also had the Boss key feature, though it was never mentioned.
+	A sequel is promised at the end of the game.  This was released as
+a graphic adventure in 1992 by Activision/Infocom, but this is already out of
+print, and probably getting difficult to find.  LGOP2 promised yet a third
+installment, but there is no word on this.
+	All in all, Leather Goddesses of Phobos is one of Infocom's best
+efforts.
+
+	[A few brief notes.  MINOR SPOILER, beware!  That boss key screen is
+a real chuckle, and if you have the version with it, definitely read it over
+once, just for yucks.  Here's the scoop on avoiding the catacombs.  As soon
+as you descend into them, type $CATACOMB.  If it works in your version, you
+will have skipped past one of the most insidious and evil puzzles in all of
+Infocom-dom.]
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Adam Justin Thornton <adam SP@G phoenix.Princeton.EDU>
+
+ NAME: The Multi-Dimensional Thief      PARSER: AGT 1.5
+ AUTHOR: Joel Finch                     PLOT: Crappy, on the whole
+ EMAIL: ???                             ATMOSPHERE: Not bad
+ AVAILABILITY: GMD, F                   WRITING: Kind of cute
+ PUZZLES: ______                        SUPPORTS: AGT ports
+ CHARACTERS: Cardboard Cutout           DIFFICULTY: ______
+
+	The plot seems pretty standard.  You want to be in the Thieves'
+Guild.  So you're tossed in a dungeon and have to escape, as your bizzarro
+frat hazing ritual.
+	There are early on bits stolen from "The Wizard of Oz" and "Robin
+Hood".  I don't really know what else is here.  The game didn't keep me
+interested long enough.  It looks like it's supposed to be just a bunch of
+puzzles strung together.  The portable hole is kind of neat.
+	I imagine if I were really bored and had a few hours it'd be an
+entertaining diversion.  It's not bad.  The atmosphere is cute; the responses
+are often somewhat amusing, if cliched and predictable.
+	The parser is pretty atrocious.  Actually it's standard AGT fare, and
+in 1991 probably wasn't that bad.  Now that we have TADS and Inform, its
+limitations are both obvious and annoying.
+	If you're really bored, give it a shot.  If not, play Curses instead.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Nord and Bert Couldn't Make Head or Tail of It
+                                      GAMEPLAY:  Infocom Standard
+  AUTHOR:  Jeff O'Neill               PLOT:  Very Good
+  EMAIL:  ?                           ATMOSPHERE:  Excellent
+  AVAILABILITY:  LTOI 2               WRITING:  Excellent
+  PUZZLES:  Very Good                 SUPPORTS:  Infocom Ports
+  CHARACTERS:  Very Good              DIFFICULTY:  Standard
+
+	Nord and Bert Couldn't Make Head or Tail of It is a collection of
+interactive short stories, all revolving around the common theme of restoring
+the town of Punster, and based on the idea that you can alter the nature of
+reality merely by engaging in wordplay with it.
+	The concept is difficult to explain, so some examples from the game's
+sample transcript may illustrate it without giving away any of the actual
+story.  You wake up, knocking over your alarm clock and a glass of water.
+The only way to avoid the debris is to get up on the wrong side of the bed.
+Asked to mail your father's tax return, you discover you can't find it.  But
+that scruffy guy in the corner with the IRS tee shirt, who you're told is
+barely male can be transmogrified with the homonym "mail". The return isn't
+stamped?  You can fix that by Spoonerizing your father's stone lamp into a
+lone stamp.  And so on.
+	To prevent this from becoming incredibly confusing, each short story
+deals with only one specific type of wordplay.  The stories can be played in
+any order, except for Meet the Mayor, which must come last.
+	The parser is a bit better than the usual Infocom one.  Compass
+directions and mapping are dispensed with entirely, as the Status Line
+constantly lists all the areas that you can travel directly to.  As the maps
+are generally small (one story has only two locations), the map can be easily
+internalized in the player's mind.
+	The puzzles are not the very best.  The nature of such a game means
+that many of the puzzles will be of the "guess what the author is thinking"
+type.  Also, since the puzzles don't necessarily build on each other, but
+often stand separately, you may finish a story only to be told that there
+were more things you could have done, and be forced to return later.
+However, since ALL versions of Nord & Bert have on-screen hints, there is no
+chance of getting permanently stuck.
+	The real strength of the game is in it's Writing and Atmosphere.  The
+mood created is delightfully surreal, and the constant clever descriptions
+and responses make this one of the best "reading" text games ever produced.
+Text game players like to argue that well-written text produces more
+evocative images than graphic games do.  Nord and Bert goes beyond this, not
+merely doing things BETTER than a graphics game could, but doing things that
+a graphics game could never do at all.  Definitely one of Infocom's most
+underrated classics.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Planetfall                   GAMEPLAY:  Infocom Standard
+  AUTHOR:  Steve Eric Meretzky        PLOT:  Excellent
+  EMAIL:  ?                           ATMOSPHERE:  Excellent
+  AVAILABILITY:  LTOI 1, Zork Anth.   WRITING:  Excellent
+  PUZZLES: <blank>                    SUPPORTS:  Infocom Ports
+  CHARACTERS: Excellent               DIFFICULTY: <blank>
+
+	n Planetfall, you start as a deck scrubber on a starship in the far
+future.  When your ship is destroyed, your escape pod deposits you in a
+deserted high-tech building complex on an alien world.  With the help of your
+faithful robot companion B-19-7 (aka Floyd), you must discover what happened
+to the people, and correct various problems before your time runs out.
+	Planetfall was the first Infocom game I played, and still my
+favourite.  Often billed as a science-fiction comedy, it really is not.
+There are many amusing sidelights and funny responses from the author to your
+failed actions, (one of my favourites is when you are looking at the planets
+computer datafiles, and come across an Infocom catalog.  When you read the
+description for Zork, Floyd looking over your shoulder tells you that he
+played that game and solved all the puzzles...except for how to get into that
+little white house) but it is not at all a straight comedy in the same sense
+that Leather Goddesses of Phobos, or The Hitchhiker's Guide to the Galaxy
+would be.  It merely feels like one because the game is constantly charming
+you in one way or another.  Floyd, generally remembered as Infocom's best NPC
+is useful for only three things in the game, but provides you with a constant
+stream of amusing banter, from relating tales of the time he helped someone
+find a lost paper clip, to passing along the latest hot gossip about Dr.
+Fizpick.
+	Oftentimes text games fall into the syndrome of providing one and
+only one use for each item in the game, so that if you have found a use for
+an item you can throw it away, confident that it will not be called for
+again.  Not so in Planetfall (and Meretzky games in general).  Several items
+have more than one use, while others have no use at all.
+	Planetfall's original edition contained Infocom's usual batch of
+interesting freebies (I still keep the Stellar Patrol ID card in my wallet
+mixed in with the credit cards).  However, it was also one of the games
+selected to be redone as a Solid Gold edition with onscreen hints.  Get both
+editions if possible.
+	The IBM version of Lost Treasures of Infocom 1 contained an original
+version of the program.  The Macintosh version of LTOI 1 contains the Solid
+Gold Edition.  PC users who have Macintosh-using friends can of course try to
+get a copy of the datafile from the LTOI1-Mac version, and run it off an IBM
+interpreter.
+	Planetfall was one of the games selected for novelization when Avon
+Books put out a series of Infocom Books several years ago.  The novel version
+of Planetfall is really a sequel to Planetfall (and Stationfall).  This book
+(not written by Meretzky) was much closer to the Battletech universe than
+Planetfall's, and was loaded with tiresome, sophomoric, un-clever humour.  I
+read most of the other Avon Infocom books in a day or so each, but Planetfall
+took almost a month to force myself through.
+	On the brighter side though, another Planetfall sequel is the next
+game that Activision plans to release under the Infocom label.  The game, to
+be called "Planetfall 2:  The Search for Floyd", is sheduled for release late
+in 1995.  As a prelude to this, they included the original (non-Solid Gold)
+Planetfall game in their recently released Zork Anthology.
+	Still, Planetfall remains not only my favourite text game, but my
+favourite adventure game.
+
+	[Well, we've all got our fingers crossed hoping that Activision
+doesn't fumble this game as badly as they did Return to Zork.  But I'm giving
+public notice, if Floyd looks like either R2D2 or a garbage can, the fur will
+fly.]
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Plundered Hearts                PARSER:  Infocom
+  AUTHOR:  Amy Briggs                    PLOT:  Good
+  EMAIL:  ?                              ATMOSPHERE:  Very Good
+  AVAILABILITY:  LTOI-2                  WRITING:  Good              
+  PUZZLES:  Not bad                      SUPPORTS:  Infocom Ports
+  CHARACTERS:  Not bad                   DIFFICULTY:  On the Easy Side
+
+	Plundered Hearts is a romance novel set in the 1600's.  You must
+rescue your father from the clutches of an evil island governor with the aid
+of a pirate captain who lights your fire.  
+	Plundered Hearts takes a rather standard plotline and uses it to
+very good effect.  The writing feels very much like a Harlequin novel, with
+enough amusing puzzles and clever responses to keep me, a
+non-romance-novel-reader interested to the end.  
+	The puzzles are a little easier than the standard Infocom fare, but
+generally interesting ones that can be reasoned or inferred.  There are few
+"guess what the author is thinking puzzles".  
+	The game's strongest point though is in its characterization.  Not
+in the other characters; Crulley, Jamison, Lafonde and the others are rather
+standard, thus my character rating of 1.2.  Rather, this game characterizes
+you, the player, more than any other of Infocom's offerings.
+	In most Infocom games, who YOU are is either unimportant or doesn't
+affect the plot much.  In Zork, you're just some anonymous guy who was
+walking by the white house.  You have no particular personality, or history
+before this point.  Planetfall makes an effort to paint your character with
+the enclosed diary, but it is all chrome.  None of it really affects the
+story once you're in it.  As a result, I always sort of imagined myself as
+the main character.  To some extent this was Infocom's intention; much of
+their early advertising talked about imagining yourself waking up inside a
+story.
+	Plundered Hearts, more than any other game gave me the feeling of
+really being inside someone ELSE'S head.  Throughout the game, who you are
+plays an important part.  Disguising your identity and altering your
+appearance is important in several places to elicit a desired reaction from
+other characters (not to mention avoiding some undesired reactions).  As a
+result, the game scores very well in "intangibles", thus my high Wildcard
+rating.
+     Plundered Hearts is one of Infocom's more underrated games.  A very good
+blend of puzzle solving and story.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+NAME:  Seastalker:  [Your Name] and the Ultramarine Bioceptor
+				     GAMEPLAY:  Infocom Standard
+AUTHORS:  Stu Galley & Jim Lawrence  PLOT:  Routine
+EMAIL:  ?                            ATMOSPHERE:  Good
+AVAILABILITY:  LTOI 2                WRITING:  Passable
+PUZZLES:  Good                       SUPPORTS:  Infocom Ports
+CHARACTERS:  Good                    DIFFICULTY:  Very Short and Easy
+
+	In Seastalker, Infocom's only adventure designed for children, you
+play the part of...yourself, a brilliant young scientist who has designed a
+two-man submarine.  Before it is completely ready, your aquadome is attacked
+by a mysterious sea creature, forcing you to rush to the rescue, encountering
+danger without and treachery within.
+	Obviously, ratings for such a children's game reviewed by an adult
+will be somewhat skewed, though I tried to compensate for this in Wildcard
+Points.
+	One of the authors has ghostwritten books for the Hardy Boys, Nancy
+Drew, and Tom Swift series, and the writing style carries over very well.
+The game has the same oh-my-gosh-golly sense of adventure that those books
+have.  This is not a criticism, I read and enjoyed the Hardy Boys as a child,
+but it has a mixed effect on the ratings, causing the atmosphere rating to go
+up a bit, but the plot rating to go correspondingly down, as I had read so
+many of these books that the plot seemed rather routine and predictable.
+	The game scored well in the wildcard category, because I thought that
+it was very innovative in three ways.
+	First, it allowed you to give the main character your own name, or
+any other name that you chose (this was later used in Moonmist, also by the
+same authors, but in no other Infocom games).
+	Secondly, unlike other text games, items in a room are not
+necessarily visible when you walk in the room, even if they are out in the
+open.  In one room, there is a pile of miscellaneous equipment that contains
+something you need.  You are not told that the item is there, and searching
+the pile will not help unless you tell the game exactly what it is that
+you're looking for (If you have your documentation, you should be able to
+figure this out).
+	Third, the system used for piloting your submarine, gives you an
+ASCII readout of your radar screen, similar to the sector maps in those old
+Star Trek games (periods for empty sectors, a special character for your
+ship, and so on).
+	There was however, one feature that I didn't like.  Seastalker's
+documentation comes with maps of both building complexes, and the 
+neighbouring harbour (not the box-and-line graph paper maps that the players
+would make, but floor plans).  This is fine in itself, but many times, the
+description of a room in the game would not tell you where the exits are.
+If you have the documentation you can figure it out of course, and perhaps
+this was meant as a form of copy protection, but it was still rather
+annoying, as it meant that you had to keep the docs right by your side at all
+times.
+	I did come up with a little joke to counterbalance this.  Remembering
+the stereotype of the child genius who can design moon rockets, but can't
+pronounce his S's correctly, and noting that the title of the game, and the
+name of your submarine had three "S" sounds between them (Seastalker,
+Scimitar), I decided to play with a main character named Thuthie Thmith.
+	All children's software today seems to be designed for the preschool
+through kindergarten age group.  The rest is for adults.  Seastalker, like
+The Hardy Boys, is for ages 8-14, and even 10 years later it remains about
+the only game specially geared towards them.  Since the purpose of children's
+software is always to educate as well as entertain, an all-text adventure
+seems especially appropriate.  It's only a pity that there aren't more.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+  NAME:  Sherlock: The Riddle of the Crown Jewels
+                                        PARSER:  Infocom
+  AUTHOR:  Bob Bates                    PLOT:  Very Good
+  EMAIL:  ?                             ATMOSPHERE:  Excellent
+  AVAILABILITY:  LTOI-2                 WRITING:  Excellent
+  PUZZLES:  Very good.                  SUPPORTS:  Infocom Ports
+  CHARACTERS:  Quite good.              DIFFICULTY:  Standard
+
+	In Sherlock:  The Riddle of the Crown Jewels, you play the part of
+Dr. Watson.  Moriarty has stolen Victoria's regalia, leaving a trail of clues
+to follow, and Holmes must recover them before the weekend is out.  Fearing
+that Moriarty would anticipate his own moves and trap him, Holmes puts the
+case in your hands to throw Moriarty off the trail.
+	Having read all the Conan Doyle Holmes stories, I found Sherlock a
+positive delight to play.  Both Doyle's writing style, and the atmosphere of
+19th century London are approximated extremely well.  Unlike Infocom's
+earlier mysteries which took place in one house, Sherlock's action takes you
+all over London.  Numerous little bits of Holmesian minutia flesh out the
+game.  The humour is appropriately wry without resorting to the usual
+Infocom style of silliness that would not work nearly as well here as in
+other games.
+	Sherlock is remarkably free of save/restore puzzles (i.e. ones that
+require death or failure to acquire information that can be used after you
+restore the game.  You are usually given multiple opportunities to solve ones
+that you probably wouldn't get the first time around.
+	The only place where Sherlock suffers is in its "intangibles".  The
+concept of the villain laying down a trail to follow is more reminiscent of
+Batman's Riddler than Professor Moriarty.  Also, the idea of Holmes turning
+such a vital case over to a tyro, stretches the imagination a bit, despite
+the fact that he personally oversees your activities.  The game also suffers
+a bit from the "Zork Syndrome", where you as the adventurer go wherever you
+want and take whatever isn't nailed down.  In the course of the game you must
+take or deface items from Scotland yard, Madame Tussaud's, and the Tower of
+London, with little consequence or resistance.  In e-mail correspondence, Bob
+Bates told me that he was aware of this problem when writing the game, and
+sought to minimize it as much as possible.  To a large extent he succeeded,
+but there is a little residual weakness.  Finally, it must be remembered that
+Moriarty died in the same story that he was introduced (The Adventure of the
+Final Problem), and that at that point Watson had never heard of him.
+	Therefore there is a difficulty in going back and doing a story where
+he and Watson meet.  To be fair though, Conan Doyle himself made the same
+cheat in The Valley of Fear, as did almost all of the movies.
+	Despite these nits, the game's strong points almost completely
+overwhelm them, and Sherlock, Infocom's final all-text game, ranks as one of
+their very best.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Preston Landers" <planders SP@G mail.utexas.edu>
+
+ NAME: Shogun                                    PARSER: Infocom Graphic
+ AUTHOR: Infocom                                 PLOT: Linear
+ EMAIL: ???                                      ATMOSPHERE: Very Well Done
+ AVAILABILITY: LTOI 2 ??                         WRITING: Very Good
+ PUZZLES: Fair                                   SUPPORTS: Infocom Ports
+ CHARACTERS: Very Good                           DIFFICULTY: Hard
+
+I forgot that I had a copy of one of Infocom's last releases, Shogun, laying
+around over Christmas break.  So when I found it, I decided to tackle it
+because the novel it was based on, James Clavell's SHOGUN, is one of my
+favorites.  The parser is Infocom's last, the Graphic style similar to Zork
+Zero.  There is one graphic puzzle (that can be solved "non-graphicly" if
+you must.)  There are many beautiful illustrations in the style of Japanese
+17th century paintings.
+
+The game itself is extremely linear.  If this really turns you off, you
+won't like the game.  You go through a number of "episodes" or scenes, very
+closely based on the book.  Honestly, I don't think I could have won the
+game if I had not read the original novel (or used the built-in hints
+extensively.)  For instance, you must know where to go and what do to almost
+by magic.  If you haven't read the book, or you don't plan on using the
+hints, then you might not enjoy this game.  Those caveats aside, it WAS a
+very enjoyable game.  It was done by Dave Lebling (I believe.)
+
+The story, in case you haven't seen the mini-series or read the book, casts
+you as John Blackthorne, a 17th century English pilot, sailing a Dutch ship
+towards the fabled Japans.  The game goes quite a bit into the political
+intrigue between the various feuding Daiymos (Japanese kings.)  Ultimately,
+you must become a samurai and help your Daiymo become Shogun, or Supreme
+Ruler.  There are a few sub-plots, such as your love interest with the
+beautiful courtier Mariko (how many games do you get to type 'MAKE LOVE TO
+MARIKO' to score 5 points?) but overall, the game flies from one episode to
+the next in a very fast-paced, and overall, enjoyable game.
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+     In SHOGUN, you play the role John Blackthorne, an English seaman in
+1600, working for the Dutch to open up a trade route to Japan.  Based
+upon the book of the same name, the story involves your attempts to
+learn Japanese native customs while caught in the middle of the power
+struggles between Toranaga, and Ishido, two local warlords.
+     The writing is much grittier than in any other Infocom game; from
+the cockroaches swarming over your cabin floor to the frequent violent
+killings to the occasional nude bathing scene.  Shogun was the only
+Infocom game ever to carry a warning label on the box.  If it were a
+movie, it would probably be a PG-13.
+     Shogun is also the first of Infocom's three Graphic Interactive
+Fiction games.  Unlike the other two however, there is no interaction
+between text and graphics (except the automap in the maze in Chapter
+10), and graphics simply pop up at certain times.  Ordinarily in a game
+like this, the cartoon-like graphics would positively destroy the
+atmosphere, but in a historical novel they resemble what you might see
+in an ancient manuscript, and thus add to the atmosphere.
+     One weakness of the game is in compartmentalization.  Rather than
+one large game, it is divided into 18 separate chapters.  It is rather
+like Nord and Bert, except that there are more chapters, and they must
+be played in a specific order.  This does not work as well here as it
+does in Nord and Bert.
+Your point total is the only thing that carries over to the next
+chapter; the items in your inventory are pre-determined.  Admittedly,
+this is probably the only way to adapt such a novel to game form, but
+the effect is still not entirely satisfactory.  Many text games end up
+being all puzzles and no story.  Shogun is exactly the opposite.  Too
+often the story just seems to go on around you while you get
+meaningless points for smiling, nodding, or bowing at the right times.
+The result is rather too many "guess what the author is thinking" type
+puzzles, rather than puzzles that can be reasoned out.
+     Two exceptions to this are Chapter 1 (The Erasmus), and Chapter 16
+(The Ninja).  Both are outstanding blendings of story and puzzle
+solving, and rank with Infocom's best moments.
+     One nice feature is that the game asks if you want to save at the
+end of each chapter.  I keep a save file for each chapter on a scratch
+disk, so that I can enter the story at any point if I ever feel like
+pulling the game off the shelf.  Shogun is a very good game to read,
+though a bit less satisfying to play.  Overall though, a fine effort.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Magnus Olsson" <mol SP@G df.lth.se>
+
+NAME: Space Aliens Laughed at my Cardigan
+					PARSER: AGT 
+AUTHOR: Andre M. Boyle			PLOT: Confusing
+EMAIL: ???				ATMOSPHERE: Utterly demented
+AVAILABILITY: GMD, S60 (voluntary)	WRITING: Abysmally bad
+PUZZLES: Incomprehensible		SUPPORTS: AGT
+CHARACTERS: Weird			DIFFICULTY: Totally unplayable
+
+Initially, it was the title that drew my attention to this game.  I
+didn't download it, however, until I saw the review by Sean Molley
+(a.k.a. Molley the Mage) in SPAG3 - I wanted to see for myself if it
+really was possible to have a game as bad as his review indicated.
+What I found exceeded my wildest expectations. 
+
+This game is not just bad, but unspeakably so, and it's uniformly bad;
+the writing, the puzzles, the atmosphere, the plot, the NPCs, the
+room descriptions, the attempts at humour are all miserable. If there
+was an award for the world's worst adventure game, this game would be
+an obvious candidate.  In addition, this game must be the most
+bug-infested piece of software it's ever been my misfortune to try; it
+actually seems as if the author hasn't even tried playing his own game
+once, or he would have found the bugs immediately. 
+
+You may wonder why I bother to write this review if I'm only going to
+tell how bad it is, which Sean did an excellent job of saying in his
+review. Well, I think Sean missed an important feature of this game:
+its cult value.
+
+In fact, every aspect of this game makes for a truly unique
+experience: the total lack of logic, the weird malapropisms triggered
+by some player actions, the utterly bewildering atmosphere, the
+author's inexplicable hatred for policemen (try examining the
+"policeman standing here like a total and utter prune" sometime), the
+demented dialogue produced by your interaction with some NPCs, the
+attempts at humour (including some utter failures at imitating Douglas
+Adams), just to name a few examples.  A great source of unconscious
+humour is the author's weird, fractured English (it's hard to believe that
+he actually lives in the U.K.), that switches freely between
+tenses, persons, even gender (human NPCs are referred to as "it") and
+spellings. 
+
+Playing (or trying to play) this game is sure to create a lasting
+impression. It is not to be recommended for the weak of heart or those
+incapable of appreciating the beauty of absurdity, but if you'd like
+to experience Infocom on acid, as it were, you should by all means try
+it out. 
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Graeme Cree" <72630.304 SP@G compuserve.com>
+
+NAME:  Suspect                      GAMEPLAY:  Infocom Standard
+AUTHOR:  Dave Lebling               PLOT:  Good
+EMAIL:  ?                           ATMOSPHERE:  Not Bad
+AVAILABILITY:  LTOI 1               WRITING:  Not Bad
+PUZZLES:  Very Good                 SUPPORTS:  Infocom Ports
+CHARACTERS:  Very Good              DIFFICULTY:  Advanced
+
+	In Suspect, you start as a reporter covering Veronica Ashcroft's
+halloween party.  When she is murdered in a back room, with some of your
+personal possessions found at the scene of the crime, you are the prime
+suspect (hence the name!), and you've got 12 hours to find the real killer.
+	Suspect may be a victim of ratings inflation.  My numbers for it
+totalled 5.8, and assuming that 5.0 means an average game, this still
+indicates a pretty good effort.  However, it seems to be especially low for
+an Infocom game, though I didn't dislike it by any means.
+	The puzzles are generally well done, but it suffers from a lack of
+vividness, and a lack of feeling that you're really there.  This problem
+afflicted some of Infocom's earlier efforts (except Planetfall which was
+extremely well written, and Suspended, where you really aren't there!), and
+their early mysteries in particular.  One problem might be that in several of
+the early Infocom games, there seemed to be a set of stock responses to
+various commands that stayed the same from game to game, while later on they
+began to tailor them from game to game.  For example, in many early Infocom
+games, if you try to enter something that you can't, you're told simply "You
+hit your head on the [NOUN] as you attempt this."
+	Also, Infocom's early mysteries, which took place in a single private
+residence seemed to lack the sense of exploration and discovery that one
+comes to expect in an Infocom offering.  This is of course purely a matter of
+taste, and may not be experienced by a different player at all.
+	All in all though, Suspect remains a very solid effort, and well
+worth a play through.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Stefan Jokisch" <jokisc00 SP@G marvin.informatik.uni-dortmund.de>
+
+NAME: Tossed Into Space                 PARSER: AGT
+AUTHOR: Graeme Cree                     PLOT: Non Linear
+EMAIL: ???                              ATMOSPHERE: Not Bad
+AVAILABILITY: Freeware, GMD             WRITING: Not Bad
+PUZZLES: Simple                         SUPPORTS: AGT Ports
+CHARACTERS: Simple                      DIFFICULTY: Very Easy
+
+	"Tossed Into Space" tells a slightly weird science fiction story:
+You are Dr. Schmidt, a saboteur who is trapped on the new colony of Alpha
+Centauri.  Since the colonists (the Rob-&-Son family) refused to take you
+home to earth, you have waited for an opportunity to steal their space-
+ship "Jupiter 8".  Finally, your time has come: The Rob-&-Son family is
+not at home and the Jupiter is only guarded by a robot.  You have to get
+rid of the robot, refuel the ship, set the course data and lift off.
+	Apparently, "Tossed Into Space" was written for beginners; the
+game is very short, simple and easy.  All the player has to do is to
+perform the most basic exercises of text adventuring: bringing light to
+a dark room, wearing appropriate clothes in a cold place or unlocking an
+object with a key.  Experienced players will solve 'Tossed Into Space'
+within an hour or less.  In fact, this game is so short that I cannot say
+more without spoiling the entire game.
+	Nevertheless, playing "Tossed Into Space" was fun.  The story is
+amusing and the writing is all right as long as you don't mind a few
+spelling mistakes.  The (AGT) parser is not comfortable, but satisfying.
+'Tossed Into Space' is worth taking a look at, if you don't expect too much.
+
+	[By the way, if you haven't guessed it yet, this game is a total
+Lost in Space parody, but then, you knew that, right?]
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Magnus Olsson" <mol SP@G df.lth.se>
+
+NAME: World				PARSER: Limited
+AUTHOR: Doug Mcdonald			PLOT: Simple but non-linear
+EMAIL: ???				ATMOSPHERE: Superb
+AVAILABILITY: GMD, F			WRITING: Very good
+PUZZLES: Fairly standard, much treasure-hunting and exploration
+SUPPORTS: Unix, DOS, VMS, etc (C source included)
+CHARACTERS: Few, simple			DIFFICULTY: Below average
+
+Five and a half years ago, when I first got full access to the
+Internet, one of the first things I did was to look for FTP sites with
+interesting software. Finding the Usenet source archives on uunet was
+marvellous; finding the source to a large adventure game there
+was even more exciting. I downloaded the game, tried it on my Unix
+workstation, and liked it so much that I brought it home and compiled
+it on my PC at home. The game was called "World" and was _huge_; due
+to its sheer size, I never completed it (I got stuck about 75%
+through, put it aside for a few days, and never got about to complete
+it), but it made a lasting impression. When writing these reviews for
+SPAG, I couldn't resist the impulse to dust off my old copy of "World"
+to see if it's lost any of its attraction over the years; to my joy,
+it hadn't.
+
+"World" is a game in the tradition of the old mainframe adventures
+like Colossal Cave and Zork/Dungeon. This means that it's a big game
+(several hundred locations), with a heavy emphasis on treasure-hunting
+and exploration. Unlike those games, however, the author has managed
+to create a much more coherent world - which doesn't stop it from also
+being a world that is very varied and offers a lot of surprises.
+
+The story is simple: you, being a lowly latrine orderly on a starship
+that's just landed on an alien planet, have volunteered to explore it
+on foot. By collecting alien artifacts and specimens of interesting
+wildlife, you hope to earn a (long overdue) promotion. The planet soon
+turns out to have quite a few surprises in store for you...
+
+While the plot may not be that great, what makes this game memorable
+is the outstanding atmosphere. Somehow, the author manages to make a
+world which is quite improbable when you think about it, and which is
+filled with quite a few of the cliches of Sci-Fi, seem very
+convincing. You not only get the feeling that "you're there", you experience
+that elusive feeling that is the very essence of science fiction - the
+sense of wonder.
+
+The writing is very good, with lots of long, very graphic descriptions
+of a weird and wonderful, alien world. The mainframe tradition is
+noticeable in that the author doesn't shy away from using long
+descriptions - fortunately without falling into the trap of excessive
+verbosity or overuse of purple prose. 
+
+Unfortunately, the parser and vocabulary aren't quite up to the
+standard of the writing, reducing playability and leading to a few
+"guess the verb" situations. Still, it's not worse than your typical
+AGT parser, and since most puzzles don't require any advanced
+manipulation of objects you can get along quite well. Also, some
+slight misses (which would surely have been found by more extensive
+playtesting) detract somewhat from the overall impression.
+
+As an adventure _game_, "World" isn't very remarkable; it does stand
+out, however, in the way its author manages to give credibility,
+texture and atmosphere to a totally alien world.
+
+READER'S SCOREBOARD----------------------------------------------------------
+
+   Notes:
+
+	A   - Runs on Amigas.
+	AP  - Runs on Apple IIs.
+	GS  - Runs on Apple IIGS.
+	AR  - Runs on Archimedes Acorns.
+	C   - Commercial, no fixed price.
+	C30 - Commercial, with a fixed price of $30.
+	F   - Freeware.
+	GMD - Available on ftp.gmd.de
+	I   - Runs on IBM compatibles.
+	M   - Runs on Macs.
+	S20 - Shareware, registration costs $20.
+	64  - Runs on Commodore 64s.
+	TAD - Written with TADS.  This means it can run on:
+                AmigaDOS, NeXT and PC, Atari ST/TT/Falcon, DECstation
+                (MIPS) Unix Patchlevel 1 and 2, IBM, IBM RT, Linux, Apple
+                Macintosh, SGI Iris/Indigo running Irix, Sun 4 (Sparc)
+                running SunOS or Solaris 2, Sun 3, OS/2, and even a 386+
+                protected mode version.
+        AGT - Available for IBM, Mac, Amiga, and Atari ST.  This does not
+                include games made with the Master's edition.
+	ADVSYS - Available for PC and Macintosh only, or so my sources tell
+                 me.
+        INF - Infocom or Inform game.  These games will run on:
+                Atari ST, Amiga, Apple Macintosh, IBM, Unix, VMS, Apple II,
+                Apple IIGS, C64, TSR-80, and Archimedes Acorn.  There may be
+                other computers on which it runs as well.
+
+Disclaimer: These scores have been compiled since issue 1 of SPAG, and as
+  such, might not be totally accurate.  However, they are as close to the
+  readers' opinions as I can make them.  Heh, I always wanted to say that.
+
+ Name		       Avg Sc  Chr  Puz  # Sc  Rlvt Ish       Notes:
+ ====                  ======  ===  ===  ====  ========       ======
+Another...No Beer	2.5    0.1  1.0    1     4      S10_IBM_GMD
+Arthur: Excalibur	8.6    1.8  1.7    1     4	C_INF
+Ballyhoo		7.0    1.8  1.6    2	 4	C_INF
+Beyond Zork		7.4		   1	 x	C_INF
+Border Zone		6.1    1.1  1.4    2	 4	C_INF
+Bureaucracy		7.8		   1	 x	C_INF
+Curses			8.4    1.3  1.7    5     2	F_INF
+Cutthroats		6.3    1.4  1.2    4	 1	C_INF
+Crypt v2.0		N/A		   0     3	S12_IBM_GMD
+Deadline		7.2		   2	 x	C_INF
+Deep Space Drifter	5.5	    1.4    1     3      S15_TAD_GMD
+Detective		1.0    0.6  0.2    1     4      F_AGT_GMD
+Ditch Day Drifter	7.1    1.2  1.6	   1     2      F_TAD_GMD
+Dungeon Adventure	6.8    1.3  1.6    1     4	F_SEE REVIEW
+Dungeon of Dunjin       7.0    1.0  1.5    1     3      S20_IBM_MAC_GMD
+Enchanter		7.0    0.8  1.3	   4     2	C_INF
+Enhanced		N/A		   0	 2      S10_TAD_GMD
+Great Archaelog. Race	6.5    1.0  1.5    1     3      S20_TAD_GMD
+Hitchhiker's Guide	8.0     	   3     x	C_INF
+Hollywood Hijinx	5.5		   2	 x	C_INF
+Horror30.Zip		N/A		   0	 3	S20_IBM_GMD
+Horror of Rylvania	7.7		   1     1	C20_TAD_GMD (Demo)
+Humbug			7.4		   1	 x	S10_GMD (Uncertain)
+Infidel 		6.9		   5     1-2	C_INF
+Jacaranda Jim		7.0		   1	 x	S10_GMD (Uncertain)
+John's Fire Witch	8.5    1.2  1.5    1     4	S6_TADS_GMD
+Klaustrophobia		7.8    1.2  1.4    2     1	S15_AGT_GMD
+Leather Goddesses	8.0    1.6  1.7    3	 4	C_INF
+Lurking Horror, The	6.9    1.4  1.2    4     1,3	C_INF
+Magic.Zip		4.5    0.5  0.5    1     3      S20_IBM_GMD
+Mind Forever Voyaging	8.4    1.4   -     2	 x	C_INF
+Moonmist		5.8	           4     1	C_INF
+Mop & Murder		4.9    0.5  1.0    1	 4	F_AGT_GMD
+Multidimen. Thief	5.3    0.4  1.0    2     2      S?/F_AGT_GMD
+Nord and Bert		3.9		   2	 4	C_INF
+One Hand Clapping	6.8    1.0  1.5    1     x	F_ADVSYS_GMD
+Planetfall		7.1		   3	 4	C_INF
+Plundered Hearts 	7.9    1.2  1.2    1	 4	C_INF
+Sanity Claus		9.0	           1     1	S10_AGT_GMD
+Save Princeton		5.6		   1	 x	S10_TAD_GMD
+Seastalker		5.4		   2	 4	C_INF
+Shades of Grey		7.8    1.2  1.5    2	 1-2	F_AGT_GMD
+Sherlock		8.5    1.5  1.8    1	 4	C_INF
+Shogun			7.1    1.5  0.5    1     4      C_INF
+Sorceror		7.3    0.6  1.6	   4	 2	C_INF
+Space Aliens...Cardigan 1.6    0.5  0.4    3     3      S60_AGT_GMD
+Spellbreaker		8.1    1.2  1.8	   3	 2	C_INF
+Starcross		7.2	           4     1	C_INF
+Stationfall		6.7		   2	 x	C_INF
+Suspect			5.9		   1	 x	C_INF
+Suspended		7.0		   1	 x	C_INF
+Tossed into Space	3.9    0.6  0.2    1     4      F_AGT_GMD
+Treasure.Zip		N/A		   0     3	S20_IBM_GMD
+Trinity			8.8    1.4  1.7    6     1-2	C_INF
+Unnkulian One-Half	7.0    1.3  1.7    4     1	F_TAD_GMD
+Unnkulian Unventure 1	8.0    1.3  1.7    3     1-2	S10_TAD_GMD
+Unnkulian Unventure 2	7.2    1.4  1.5    3     1	S10_TAD_GMD
+Unnkulian Zero  	9.0 	           1     1	C25_TAD_GMD (Demo)
+Waystation		8.0    1.2  1.5    1     x      F_TAD_GMD
+Wishbringer		6.3		   1	 x	C_INF
+Witness, The		7.0    1.7  1.2    3     1,3	C_INF
+World			6.9    1.0  1.4    1     4	F_MISC_GMD (See Rev.)
+Zork 0			6.5    1.1  2.0	   1	 x	C_INF
+Zork 1			5.9    0.6  1.5	   6	 1-2	C_INF
+Zork 2			6.7    0.8  1.6	   4	 1-2	C_INF
+Zork 3			6.0    0.6  1.4	   4	 1-2	C_INF
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Three:
+
+	[From now on, a game is not eligible for the Top Three unless it has
+received at least three ratings from different readers.  This is to ensure a
+more democratic and accurate depiction of the best games.  So, if your
+favorite got dropped from the list because you were the only one who rated
+it, you'd better get two friends together and make them play the game.]
+
+ 1. Trinity		8.8	6 votes
+ 2. Curses		8.4	5 votes
+ 3. Spellbreaker	8.1	3 votes
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Editor's Picks of the Month:
+
+	This month I have three completely different, but equally interesting
+games to recommend.  First is the game _The Golden Wombat of Destiny_, and as
+the name implies, prepare yourself for a large helping of whimsy, and a dash
+of wonder.
+	The second game is none other than Adventions' very own _The Horror
+of Rylvania_, a very appropriate tale amid today's Anne Rice craze.  Of
+course, Adventions takes a rather unique approach to the vampire genre, and
+I'm sure you'll enjoy this one.  It's at the high end price range of text
+adventures, but from what I've seen of it, worth it all the same.
+	The final game is John's Firewitch.  This little game has made quite
+a stir since its release, proving that short games are sometimes better than
+long ones.  Playing time averages from 2-3 hours, but everyone I've talked to
+has had nothing but praise for it, including myself.
+	'Wombat' is available only for IBM PC compatibles as far as I know,
+but 'Rylvania' supports all TADS ports, another chit in its favor.  Rylvania
+has a demo available on ftp.gmd.de.  Wombat is available in full.  John's
+Firewitch is also a TADS game, available in full, but well worth the $6.00
+registration fee.
+
+Wombat of Destiny and Solution
+	https://ifarchive.org/if-archive/games/pc/wombat.zip
+	https://ifarchive.org/if-archive/solutions/wombat.sol
+
+Horror of Rylvania Demo & Solution
+	https://ifarchive.org/if-archive/games/[your computer]/rylvania.[some
+	   compressed format]
+	https://ifarchive.org/if-archive/solutions/rylvania.sol
+
+John's Fire Witch
+	https://ifarchive.org/if-archive/games/tads/firwitch.zip
+
+ADVERTISEMENTS---------------------------------------------------------------
+
+From: "Stephen Granade" <sgranade SP@G obu.arknet.edu>
+
+Newly released!  Yet Another Sci-fi Adventure Game (tm)!  It's fun, it's 
+kooky, it's...
+
+WAYSTATIONNNnnnnn.....
+
+While driving home one night, your car mysteriously dies.  You get out, pop 
+the hood, and wham! that's the last you remember...until you wake up 
+trapped in a cell.  With no idea of how you got there and no one to ask, 
+you must escape and find out why you were kidnapped.
+
+Visit the lovely sewage dump Melica!  Tour abandoned Comanis!  Avoid Efric 
+at all costs!  The game is guaranteed 99.9% maze free, and is freeware.  
+That's right, freeware.  (I wrote it as an exercise to see what TADS could 
+do.)
+
+The game is in TADS .gam format, and can be found at ftp.gmd.de in the 
+directory if-archive/games/tads, under way.zip.  (If necessary, e-mail me 
+at sgranade SP@G obu.arknet.edu, & I'll put a .tar'ed file there as well.)  All 
+comments are welcome, all suggestions are listened to.
+
+See what one man, a twisted imagination, and lots of free time hath
+wrought.  Waystation!  Get yours today.
+
+CLOSING REMARKS--------------------------------------------------------------
+
+	Just a short comment on "Whizzard's Guide to Text Adventures", that
+should follow this issue.  I was only able to look at things from an
+MSDOS user's viewpoint.  I am looking for people willing to take a shot at
+the other formats, primarily Macintosh.
+	In other news, both SPAG and other, I have a few comments to make.
+First, no, Avalon is not finished, though I'd give my two front teeth to have
+it done this week.  Maybe expect it this May, or this summer, or possibly
+this fall.  I can say with confidence that I will beat the new decade at
+least.  Beyond that, I can only pray.
+	Next, SPAG starts a new policy this issue, the Unlucky 13.  Every
+issue, 13 poor, put upon readers will be sent a list of 3 games and asked to
+review them.  I got a pretty darn good response from this policy in this
+issue, and I guess I'll continue it, since readers at rest tend to stay at
+rest.  There is no penalty for not reviewing these games, other than a
+smothering, choking miasma of guilt that will gnaw at your very kidneys.
+
+			<Evil Laugh>
+
+	*Cough* Ahem.  I don't know what came over me.
+	Well, in the next issue, I'll be running the winning 'breathers',
+and I'll see if I can't scrape together a feature article or something.
+Seeing as I had two I almost put in this issue, I reckon I'll manage.  Welp,
+until next issue then.
+
+-----------------------------------------------------------------------------
+
+	   Thank you for helping to keep text adventures alive!
+

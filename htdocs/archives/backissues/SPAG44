@@ -1,0 +1,2025 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #44
+
+        Edited by Jimmy Maher (maher SP@G grandecom.net)
+                       April 30, 2006
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #44 is copyright (c) 2006 by Jimmy Maher.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign.
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+The SPAG Interview: Graham Nelson and Emily Short on Inform 7
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Akari's Story
+All Hope Abandon
+The Baron
+Damnatio Memoriae
+Dracula: The First Night
+Pantomine
+The Potter and the Mould
+Threnody
+The Warlord, the Princess, and the Bulldog
+
+SPECIFICS
+=========
+The Baron
+
+EDITORIAL------------------------------------------------------------------
+
+From the department of the obvious: This issue is late.  For that, I heartily 
+apologize, both to SPAG's readership and (especially) to those who sent in 
+content and have been patiently waiting for it to appear.  Now, however, I will 
+haul out my excuses.  The first two weeks of delay were entirely due to my own 
+personal situation.  I was in the midst of completing my university coursework 
+for the semester, and just did not have the time to do an adequete job with 
+SPAG.  The next week of delay was to allow the Spring Thing competition to end, 
+and for me to print Mike Snyder and Dan Shiovitz's eloquent analysises of the 
+games that were entered there.  Finally, I had the opportunity to interview 
+Graham Nelson and Emily Short about the forthcoming (and potentially 
+revolutionary) Inform 7 for the price of one more week's delay, and I just could 
+not pass it up.  The good news, though, is that we have another very substantial 
+issue here, thanks once again to all of you, featuring commentary on some fine 
+examples of present-day IF.
+
+I have been thinking a fair amount lately about the current state of the art in 
+IF.  If we date the beginning of the modern era from the beginning of the IF 
+Competition in 1995, we are now far enough into same that larger trends might 
+start to assert themselves.  Modern IF, in short, has a history of its own now 
+apart from the larger story of IF as a whole.  Prompted partially by some recent 
+(and occasionally heated) discussion on the newsgroups, I find myself wanting to 
+understand those trends.  Whether my analysis will be correct in the end only 
+more time and the better perspective it brings will tell, but I am going to 
+briefly describe the way I see IF's recent evolution.
+
+I think we might call the first six or seven years of modern IF, from 1995 to 
+2002 or so, the era of experimentation.  It was marked by an explosion of games 
+that seemed determined to sort out just what this medium could do and be now 
+that it was freed from the commercial constraint that "IF" must be a synonym for 
+"(text) adventure game."  That First Competition included C.E. Forman's Mystery 
+Science Theatre 3000-ization of Detective, Garath Rees' one-room experiment The 
+Magic Toyshop, and Neil Demause's bizarre self-referential Undo.  As time wore 
+on, such experiments in form continued unabated.  I am thinking of works like 
+Aisle, The Space Under the Window, Shrapnel, and many others here.  Even the 
+much-loved Photopia could fall into this category.  (Can we remove all of the 
+gamelike elements from IF and still make it compelling?)  Galatea fits as well.  
+(Just how believable of an NPC can we manage with our current tools, and can we 
+build an interesting work around nothing but interaction with her?)  Of course, 
+this was not ALL that was going on.  Plenty of traditional text adventures were 
+being written as well.  Still, I think I see a trend here, and possibly a 
+dominent trend.
+
+The works I have just mentioned, and many similar ones I did not, were all 
+important, indeed essential, to IF's artistic growth.  They were, however, also 
+somewhat limited in their artistic success by their very natures as formal 
+experiments.  I do not think that Neil K. Guy felt compelled to tell the story 
+of an average fellow in a grocery store, and decided that a one-move work of IF 
+was the best way to do that.  Similarly, and perhaps more controversially, I do 
+not really see Emily Short as writing Galatea with the primary intent of 
+illuminating the title character for her players.  I think she wanted to 
+experiment with conversation in IF, and chose Galatea after making that decision 
+as a clever and interesting subject.  (Photopia, on the other hand, I will leave 
+alone as the exception that proves the rule.)
+
+I had a creative writing teacher once who gave me some advice I have never 
+forgotten.  She told me that the form of a work should arise organically from 
+the nature of what the artist is trying to express.  This remark was made in 
+response to the trend nowdays in fiction to break the rules seemingly for the 
+sake of it through the employment of fragmentation, deliberate grammatical 
+errors, colors and odd typefaces, etc.  Such things, my teacher told me, should 
+only be used if the artist cannot get her message across without them.  
+Otherwise, they merely draw the reader's attention to the surface of the work 
+and away from its real heart.  They are, in short, mere showboating by the 
+author, who seems to be crying, "Look at me!  Look how very clever and 
+postmodern I am!"  One is often left to suspect that the heart of the work is in 
+fact empty, and thus all its author has to work with is its surface textures.
+
+I don't mean the preceding to sound as harsh as it possibly might in the context 
+of this discussion about IF.  I don't see the authors of any of the works 
+mentioned above as being guilty of showboating for its own sake in the way that 
+irritates me with authors of postmodern fiction.  What I do see, though, is 
+these authors working out through experimentation and trial and error just what 
+the tools of IF really are, and what can and cannot be done with them.  Think of 
+Renaissance artists discovering the rules of perspective through a series of 
+sketches.  The IF works I have been discussing are works of real quality, 
+interest, and historical importance, but they are also limited by the very 
+motivation behind their creation.  Their authors did not say, "I have this 
+amazing story -- (or, depending on the nature of the work, amazing game) -- to 
+communicate, and this form is the best way to do so."  It rather seems to me 
+that the form came first, and the details of the story/game followed.  This does 
+not make the works any less clever or important, but it does give them a certain 
+coldness or even, to use a word batted rather recklessly about the newsgroups 
+recently, pretension.  As was also mentioned, though, pretension is not always a 
+bad thing, and is often necessary for the advancement of an artform.
+
+I believe I see a change in the games being produced by the community in the 
+last few years.  The formal experiments have decreased considerably in number.  
+Increasing in number, though, are works that internalize the fruits of that 
+experimentation, as well as the considerable body of design theory the community 
+has built up over the years, in the service of their artistic intent, rather 
+than the other way around.  Take Vespers, winner of last fall's Competition, for 
+example.  It tells a story that I personally find as emotionally compelling as 
+Photopia, yet it manages to also do something Photopia did not: to put the 
+"interactive" into its "interactive fiction."  The narrative and the crossword 
+are in perfect balance.
+
+For an artist to create great work, she must first understand her tools.  Just 
+possibly, we in the IF community are finally reaching that stage.  It may be 
+that in ten years whoever is editing SPAG will point to the last few years as 
+the first rumblings of the artistic maturity of IF. 
+
+IF NEWS -------------------------------------------------------------------
+
+NEW WEB-BASED Z-MACHINE TERPS
+Wei-ju Wu has developed a new Java Z-Machine interpreter.  Everyone who is still 
+using ZPlet to imbed IF games in their web pages should definitely take a look, 
+as Wu's program is already at version 0.89 much more attractive and capable.  
+Also, Q.P. Liu has written a Z-Machine interpreter entirely in JavaScript (!).  
+It's a bit slow, but may be worth a look.
+http://sourceforge.net/projects/zmpp
+http://www.geocities.com/qpliu/if
+
+THE 2005 XYZZY AWARDS
+IF's equivalent of the Oscars, for the best games released during the previous 
+year, were recently announced.  My, what a good year Jason Devlin had.  
+Congratulation to all of the winners!  Visit the XYZZY News website for a 
+complete transcript of the ceremony from the IF MUD.
+Best game: Vespers, by Jason Devlin
+Best writing: Vespers, by Jason Devlin
+Best story: Beyond, by Mondi Confinanti (Roberto Grassi, Paolo Lucchesi, and 
+Alessandro Peretti)
+Best setting: Vespers, by Jason Devlin
+Best puzzles: Distress, by Mike Snyder
+Best NPCs: Vespers, by Jason Devlin
+Best individual puzzle: Following the murderer in Beyond, by Mondi Confinanti 
+(Roberto Grassi, Paolo Lucchesi, and Alessandro Peretti)
+Best individual NPC: The storyteller in Whom the Telling Changed (by Aaron A. 
+Reed)
+Best individual PC: Wendy Little In Tough Beans, by Sara Dee
+Best use of medium: Mystery House Possessed, by Emily Short
+http://www.xyzzynew.com.
+
+SPRING THING 2006
+The Spring Thing competition has just wrapped up as I am writing this.  Thanks 
+to Greg Boettcher for administering it for a third year, and to Mike Snyder and 
+Dan Shiovitz for their timely reviews of the games to be found in this very 
+issue.  All four games are eminently worth playing, but this is after all a 
+competition, and so the results were as follows:
+1. The Baron by Victor Gijsbers
+2. The Potter and the Mould by Robert Street
+3. Pantomine by Robb Sherwin
+4. The Warlord, the Princess, and the Bulldog by David Whyld
+
+SPAG NEEDS YOU!
+Once again you folks have come through for me, helping out with reviews of older 
+games to clear much of my backlog.  There are always more being released, 
+however, so your work and mine never really end.  Would we really want it any 
+other way?
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Eragon
+2.  A Spot of Bother
+3.  1893: A World's Fair Mystery
+4.  Finding Martin
+5.  Swineback Ridge
+6.  Mystery House Taken Over games (any, some, or all!)
+7.  Remaining IF Comp 2005 Games
+8.  Dracula: The Arrival
+9.  2k Competition 2004 Games
+10. IntroComp 2005 Games
+
+THE SPAG INTERVIEW---------------------------------------------------------
+
+We may someday look back upon April 30, 2006, as a hugely significant day in the 
+history of IF.  If you haven't heard yet, Graham Nelson has today released the 
+latest version of his Inform IF development language.  Actually, thinking of 
+Inform 7 as just an update to Inform 6 does not begin to do it justice.  It is 
+in fact a major paradigm shift, not just for Inform but for IF development in 
+general.  Inform 7 allows its user to create IF not through a conventional 
+programming language but through natural language descriptions of the 
+environment to be simulated.  The result is a tool that both Graham and his 
+closest partner in Inform 7's development, Emily Short, feel is both more 
+powerful and flexible and much easier to use than Inform 6, and that has the 
+potential to expand IF's authorship community immensely.  The presentation side 
+of things has also not been neglected.  Inform 7 games are developed within a 
+slick and professional IDE (available for Windows and Mac OSX), and can be 
+packaged for release with cover art that is automatically displayed at run-time 
+on interpreters equipped with the ability to do so.  I encourage every one of 
+SPAG's readers to visit the Inform 7 website at http://www.inform-fiction.org to 
+see for yourself.  I think you will come away excited and impressed.
+
+Graham and Emily were kind of enough to take time during the hectic final days 
+of Inform 7's development to talk with SPAG.  Their interview follows.
+
+  SPAG: We all know what Emily has been up to recently, namely authoring a 
+  string of interesting and important games.  You, Graham, had however retired 
+  from the limelight completely.  I had assumed that you had lost interest in IF 
+  and moved on to other things.  Now that I realize that is not the case, I 
+  wonder just how long you have been working on Inform 7. Could you briefly 
+  describe its development history for us?
+
+GN: I tend to get involved publically only when I feel I have something to say, 
+I suppose, but my apparent invisibility in recent years is partly an aspect of 
+the natural life-cycle of community software. Inform 6 is not gcc, or emacs, or 
+even curl, but it is (I hope) a fairly dependable command-line tool. After rapid 
+flux in 1993-96, during which Informs 1 to 5 never stood still long enough to be 
+debugged, I spent about six months recoding the compiler from first principles - 
+this was Inform 6. It then needed stability and a trustworthy infrastructure of 
+support and documentation. In 1999-2001, spurred on by the kindness and interest 
+of Mike Berlyn and later David Cornelson, I worked mainly on the Designer's 
+Manual, notionally the fourth edition (people took to calling this the "DM4") 
+but really the first to be a genuine book. Gareth Rees's editing forced me into 
+doing the job properly: the best kind of editor is also the author's conscience. 
+The DM4 is the scene of a collision between two quite different books - one on 
+the history and practice of IF, the other on Inform 6 - but perhaps that is what 
+gives the book its cult status, if I can call it that. I have always rather 
+liked hand-made books which expose the inner landscape of the writer - Robert 
+Harbison's "Eccentric Spaces", say. Sometimes such books put a spurious 
+intellectual gloss on individual captivations which leave others cold, or worse, 
+embarrassed: and they can be awfully gauche, like "Godel, Escher, Bach", or just 
+plain mad, like "The White Goddess", but there's a kind of honesty in them. I 
+don't compare myself, but the DM4 belongs to that genre. It continues in print, 
+and Dan Sanderson published a third impression just this month - actually, I 
+received the first hardback copy today. Buy early for Christmas.
+
+After 2001, Inform 6 stabilised to its published description. The Inform-
+maintenance mailing list organises bug fixes - Roger Firth, Cedric Knight, David 
+Kinder and other fine people do all the work; I doze benignly on my peacock 
+throne, occasionally murmuring when something radical is said, but otherwise 
+leaving Inform 6 maintenance to the professionals. A few years ago, Roger asked 
+me what would be the next step forward for Inform 6: I think I disappointed him 
+a little by saying that I wanted stability. People do sometimes push for, say, 
+Java-like exceptions, or other new linguistic features, but I think they would 
+add little. While there are minor process improvements to Inform 6 which I think 
+would be helpful - more transparent Unicode support, for instance, a little more 
+work on Glulx compilation - and while we do need more reliable unit testing, 
+Inform 6 is in an essentially final state.
+
+So in 2001-02, I felt that I had pretty well said what I wanted to say about IF. 
+Except... Off and on, I worked on a little draft of an IF, which never got much 
+further than a few scenes because I kept grinding to a halt. I found using 
+Inform at the command line to be fussy, inelegant. To start a project took ages. 
+And why was I typing so much verbiage just to establish that one thing was in 
+another, and so forth? I formed some hazy thoughts about what would be a better 
+interface, but they seemed hopelessly unrealisable.
+
+But over 2002-03, I began again in earnest, and persuaded Andrew Hunter to join 
+the project. I had by now written what I thought of as the "Book of Inform", a 
+brief description of how Inform should present itself to the user - the name 
+being a homage to Jef Raskin, who wrote a similar "Book of Macintosh" at Apple 
+twenty years ago. Andrew, who had already written a beautiful Z-machine 
+interpreter for Mac OS X - Zoom - agreed to take on the coding of the user 
+interface: I would write the actual compiler inside, and the two together would 
+be Inform 7. The final interface isn't exactly as once specified - many ideas 
+came later and were Andrew's, not mine - but it's pretty close to the original 
+"vision", if I can call it that. David Kinder's user interface for Windows came 
+later and is in some sense a clone of the Mac OS X one, but they have no code in 
+common - his is an independent miracle of programming.
+
+The history of Inform 7 can be divided into five: initial sketches and false 
+starts; completion of a superficial, but just about IF-capable first draft (it 
+was this that Emily used to write "Mystery House Possessed", whose banner was 
+the first public appearance of the words "Inform 7"); going back to the drawing 
+board, which meant fairly intensive study of linguistic semantics and even a 
+little philosophy of language; realising that the new features added as a result 
+of this had enormously expanded the scope of Inform, and developing the 
+consequences; and finally, polishing, documenting, finishing up.
+
+I hope it will not be thought that I am the only begetter of Inform 7. Emily 
+Short became increasingly closely involved after the first year, and went from 
+being an adviser to becoming - as she now is - in practical terms co-regent. 
+Andrew Plotkin remained an occasional adviser, so his contribution was more 
+modest, but he injected exactly the right radical ideas at the right time. 
+
+Emily, want to talk about what it was like from your point of view? 
+
+ES: I, er, gosh. A blur. I guess I spent roughly a year filing hundreds of 
+fiddly bug reports and writing long, annoying email about all the difficult 
+features I wanted added; and another year or so writing test code and examples 
+and full games. So during the first part I spent a lot of time thinking about 
+what the strengths of the system were, and how they could be enhanced -- whether 
+there were ways to generalize or abstract the things that it already did, to 
+make them more powerful. The second half was turning around and applying those 
+things again, and making sure Inform really could handle all the applications I 
+envisioned for it. There are still, oh, two dozen or so directions I want to 
+develop further, but it's time to let other people have a crack at it too.
+
+  SPAG: Many Internet programs, especially those intended to be used by a   
+  community, are written in public, with open source and frequent published 
+  drafts. Why is Inform 7 only now making its first public appearance?
+
+GN: Partly my nature, no doubt. TADS 3 has had a much more open process - and 
+perhaps a more confident one. I will certainly plead guilty to being a control 
+freak. The hard decisions are what to take out, not what to put in, and that 
+becomes more difficult when there is a nascent user base. (Also, you need to be 
+careful which wish-lists to read: the wish-list you need to pay most attention 
+to is the one written by a designer of actual IF, not a well-motivated 
+bystander.)
+
+Had Inform 7 been developed in open source, I am fairly sure it would now be an 
+elaborated version of the superficial prototype, and that it would be much the 
+poorer. And it ought to be remembered that for at least the first year of the 
+project, I wasn't at all sure it would ever work - "work" in the sense of being 
+capable enough to be useful.
+
+I do not quite buy the argument put by Eric Raymond in "The Cathedral and the 
+Bazaar", that the bustling, self-organised world of the bazaar gets things built 
+better and faster than the secretive clergy. I suspect he chooses a cathedral to 
+rebut the famous passage in Brooks's "The Mythical Man-Month", which points to 
+the aesthetic triumph of those cathedrals whose masons stuck to the original 
+design conception, rather than adding incoherent but fashionable motifs in each 
+generation. But I think Brooks is right more often than Raymond. (Actually, we 
+need both kinds of software development: we need both Linux and Mac OS X, the 
+classically open bazaar and classically secretive cathedral - they keep each 
+other honest.)
+
+In particular Raymond's argument seems to me applicable only to programs whose 
+basic operation is clearly understood by all parties in advance. The bazaar gave 
+us Linux, but Linux was essentially a duplicate of an already very well 
+established mode d'emploi, as we might say. To be fair to Raymond, though he 
+says some silly things about academia and is somewhat in the thrall of the Ayn 
+Rand and Robert Heinlein school of society - I'll bet he read "Farmer in the 
+Sky" as a kid, and thought it just dandy - let me note that his actual writings 
+are more pragmatic and less ideological than the 20-point headlines printed 
+above them. I think Raymond accepts that all projects go through both cathedral 
+and bazaar phases.
+
+Besides, these two cultures often overlap. Chartres cathedral used to have an 
+actual bazaar in it, in the middle ages - you could buy vegetables, or even 
+livestock, and it must have been mayhem sometimes: but that was all right, 
+because the occasional runaway piglet was never going to be able to knock over 
+the columns holding up the walls. Well, if Inform is a cathedral, its explicit 
+support for extensions is the equivalent of inviting the townsfolk in to set up 
+their stalls.
+
+To give a perhaps ridiculous example - only I don't think it is ridiculous - of 
+what I mean by holistic design, over the last week we have been worrying about 
+the colour of two of the icons used in the Scene index. This tiny corner of the 
+user interface is based on the metaphor of traffic lights - the icons are green, 
+amber, red. But was the middle colour too yellow? (We looked at photographs of 
+actual British and American traffic lights at this point.) And was a round shape 
+quite right, or would it wrongly suggest affinities with other round elements in 
+the user interface? We didn't spend long on this, but we went through five 
+iterations of icon designs, and it was time worth spending. I think my ideal for 
+software may not be as ambitious as a cathedral, but it is good to try to build 
+something like a Charles Rennie Mackintosh house: one in which the furniture, 
+the decor and even the cutlery are part of the line of the whole.
+
+The question, of course, is whether anyone would feel able to sprawl out and 
+relax in a Charles Rennie Mackintosh house. We shall see.
+
+  SPAG: Until now, there have been two paradigms for the development of IF.
+  There is the programming model, which brings great power and flexibility but 
+  can be difficult to learn, especially for the non-technical.  And there is the 
+  GUI-based model, which is quick and easy to learn but sacrifices power for 
+  ease of use.  With Inform 7's natural language model, you have introduced a 
+  third way.  What led you to the idea of using natural language for IF 
+  development?
+
+GN: It's funny: I used to think that conventional styles of programming "bring 
+great power and flexibility", but now I'm not so sure they do, in this 
+particular arena - though I certainly accept that they are way ahead of point 
+and click models.
+
+I think it is significant that the impetus for natural language came out of a 
+desire for better semantics, not better syntax. Many systems which adopt 
+English-like scripting languages do so in a way which might be called 
+"procedural programming plus syntactic sugar", and the result is seldom very 
+edifying, except to produce readable configuration files now and then.
+
+The answer is that this came out of a tiny piece of unfinished business from the 
+DM4. One of the last chapters to be written in the DM4 was a formal semantic 
+description of the Inform world model - semantic in the sense of linguistics, 
+not computing: there were sections on how time, space, and so forth were 
+conceptualised. I would read this - mostly lucid, mostly precise - and then look 
+at the quite horrible expression of the same ideas in the Inform 6 library, 
+which is written in Inform 6 code. And I would think: why can't Inform simply 
+read the world-model chapter of the DM4, and use that as its library?
+
+ES: I confess that when Graham originally wrote to me to say he was working on a 
+natural language version of Inform, my reaction was, er, extreme skepticism. I 
+didn't see how such a system could be anything but infuriating to program in; 
+the natural language bit seemed to be at best a way for the novice to sketch out 
+some rooms and objects, but I imagined the real work would have to be done at 
+the I6 layer, and that anyone half-competent at I6 would probably find they 
+preferred just staying at that level. So I wrote back what I hope was a polite 
+letter, expressing an interest in seeing what he came up with, but hinting that 
+trading Inform's native power for this sort of convenience would be a serious 
+mistake. I also had some concerns about the fact that this kind of language 
+would be less accessible to non-English speakers.
+
+At some point, though, I started to realize that this natural language business 
+had deeper implications than I had previously appreciated, to do with making the 
+parser and the world model and the output all work together properly, and that 
+it was adding power to the system, as well as readability; which is the point at 
+which I became really committed to working on the project through to the end.
+
+  SPAG: I understand that Inform 7 is not really a compiler, but rather a pre-
+  processor that generates Inform 6 code, which is then in turn compiled by the 
+  Inform 6 compiler.  Was there any reasoning behind this choice beyond 
+  technical expediency?
+
+GN: Well, again, I hope it will not be thought that Inform 7 "is" the compiler. 
+It is the compiler and the interface and the documentation, all merging one into 
+another from the user's perspective. (The compiler is actually called NI, for 
+"natural language Inform", but this name is not outwardly visible.) As for "pre
+-processor", perhaps I might observe that the Inform 7 compiler source is much 
+larger than the source for Inform 6.
+
+It is true that Inform 7 code-generates to Inform 6, rather than to native Z-
+code machine language. This has obvious benefits in terms of the proven 
+reliability of Inform 6 as a code generator, and also for cross-platform 
+compilation to the Glulx virtual machine (an eventual goal, though one that 
+isn't yet supported). I think of Inform 6 as a rather low-level language, but 
+one that is securely implemented: I'm naturally keen to leverage all of the 
+programmer-hours which have gone into making it work. It also contains a solid 
+kernel of run-time code - notably the parser.
+
+  SPAG: Emily, you stated on the newsgroups that Inform 7 actually allows you to
+  do things easily that were difficult or impossible in Inform 6.  I assume it 
+  must have advantages and capabilities that go beyond being more readable and 
+  easier to use than Inform 6.  Now that the cat is fully out of the bag, as it 
+  were, could you elaborate a bit about what those are?
+
+ES: This is a pretty large question, so I will stick with a couple of major 
+points I'm not mentioning elsewhere - one to do with natural language, one to do 
+with abstractions, and one to do with Inform as an application - though in fact 
+there are others.
+
+Re. natural language: One of the things one is always doing in traditional IF 
+coding is trying to get the parsing, the screen output, and the world model to 
+line up: make sure all the words that are ever used to describe something are 
+also valid for parsing it, make sure that important conditions of objects are 
+always described to the player, that sort of thing. And it is even more work 
+dealing with temporary conditions. Inform 6 does a bit with understanding "lit" 
+and "unlit" to distinguish objects, for instance, but it's not easy for the 
+author to add to that system. Along the same lines, I6 automatically describes 
+things as lit/open/etc., but it takes considerably more effort to turn off that 
+automatic description or get the game to narrate some other aspect of the world 
+model entirely. 
+
+With Inform 7 this was something we had an opportunity to improve, and the 
+natural language component made it easier to bring those three aspects - input, 
+model, output - in line with one another. Adding a concept like "color" or 
+"weight" to an I7 game doesn't affect the model world alone; it also means that 
+Inform 7 knows how to print and parse those words or units. This offers a lot of 
+help in implementing objects that change in complex ways (like liquids, or 
+burning objects), and in letting the player specify precise interactions (like 
+"cut two inches off the twelve-inch string").
+
+Second, the language allows the author to define (and then refer to) new kinds 
+of relationship between things. The classic I6 world model knows about some 
+basic relationships, like the relationship between a container and the contained 
+object, but it is not always possible to expand upon that as richly as one might 
+like. In Inform 7 it is possible to make up entirely new kinds of relation, and 
+then test for those relations, change them easily, and run path-finding routines 
+through them. So I could, if I wanted, add to my model world the concept of one 
+object being under another, and from then on refer to "the things which are 
+under the chair", for instance. But I can also use these relations to say things 
+like "this conversation topic relates to these other three conversation topics": 
+now Inform has an idea of relations between abstract ideas, which was never 
+present in the built-in world model, but I can bring to bear on that relation 
+various abstract tools. I can write a grammar line that tells the parser only to 
+understand topics related to the current one, for instance; I can change the 
+interrelation of topics midway through the game; I can write NPCs who seek a 
+path to a specific conversational goal, just as though they were seeking through 
+the rooms of the map. In "Bronze", I used relations to describe which objects 
+are required to solve the puzzles presented by other objects, which means that 
+the adaptive help system is working on a (primitive, but adequate) model of 
+puzzle structures, and I didn't have to think of all the possible 
+interdependencies myself. "Damnatio Memoriae" runs through all the kinds of 
+relation that Inform recognizes, partly as a test of the system, but also 
+because this was a very trim and tidy way to express the in-game style of magic.
+
+Finally, Inform 7 includes a number of features that make it easier to develop a 
+solid game. Some of this is reflected in the indices: you can check out your map 
+and your world layout easily, and see whether Inform agrees with you about the 
+way you've set things up. Less immediately flashy, but hugely valuable, are the 
+pieces that keep track of previous playthroughs and let you automatically verify 
+an entire walkthrough or a single portion of the game. "Bronze" was less painful 
+to beta-test than just about any game I've written in Inform 6, though it does 
+some challenging things, because it was developed simultaneously with the 
+mechanisms for automatic testing; as I put new pieces in place, I was able to 
+verify the outcome more thoroughly and efficiently than before.
+
+  SPAG: Many aspects of Inform 7 are forthrightly booklike.  I speak not only of
+  the natural language model itself, but also the appearance of the IDE as an 
+  open book with two facing pages, and the inclusion of "cover art" with Inform 
+  7 story files. Is this indicative of a desire to drive Inform 7 toward a more 
+  literary model, and if possible to attract more literary people (as opposed to 
+  technophiles) to IF?
+
+GN: Again, we use these computer-programming terms! I suppose the user interface 
+for Inform is indeed an "IDE", but somehow that isn't how I picture it. The 
+question I have tried to ask is: what is the natural representation, the natural 
+expression? How do we think about something, and how can we make the user's 
+engagement with it unconscious, rather than being a deliberative act of 
+translation?
+
+I do want to make Inform accessible to a wider community. The manual says that 
+it is for "computer programmers intrigued by writing, and writers intrigued by 
+computer programming", but truthfully, I'd like to see IF tools - not just 
+design systems, but also iTunes-like browsers and interpreters - which open up 
+IF to that huge creative community of people who write blogs, and design their 
+own websites, often startlingly well. IF will never be for everyone, but I would 
+like it to be on the table as a viable form of artistic expression.
+
+On cover art, I think people have been wary in the past because of a suspicion 
+of illustrated IF - bad partly because only graphic artists can make it work, 
+but also perhaps partly because it is associated with the collapse of the glory 
+days of commercial IF: it is seen as a slippery slope, a deviation from purity. 
+I'm sympathetic to that, and wouldn't, for instance, be much impressed to find 
+drawings every twenty pages in a new novel by Ian McEwan. On the other hand, I 
+do not expect a new McEwan book to have a uniformly beige cover.
+
+ES: You might be impressed to find a vintage children's novel with the original 
+plates, though, or a manuscript with illustrated initials, or a textbook with 
+historical map inside the front cover. There are plenty of uses for illustration 
+in IF other than trying (and failing) to emulate a graphical adventure game. 
+There have been a handful of IF games in recent years that do this really right, 
+and I would like it to be easier. I'd like to be able to write a game that had a 
+frontispiece illustration before each major plot scene, for instance. Probably 
+one drawn by someone other than me, but that's beside the point. It's possible 
+to find collaborators for these things.
+
+But anyway, you were saying about cover art...
+
+GN: I think people have a sophisticated understanding of the level of artistic 
+statement being made by a cover picture: that it is not of the book, yet sets 
+the tone for it: that it may come and go with new editions, and indeed may give 
+an old text a new lease of life. I think it's good to employ the sophisticated 
+understandings we already have, rather than miss out on a potentially 
+interesting form of expression.
+
+There's also a practical reason for cover art: most of today's IF tools have 
+their origins in the age of FTP, when cover images would have been meaningless. 
+Today we must engage with the Web, and the world of blogs - a world of 
+promiscuous quotation not only of text but also of the image.
+
+Lastly, it's not an accident that Inform has a large suite of features for 
+putting finishing touches to works, and that one whole chapter of the manual is 
+about "Publishing". That isn't entirely a matter of providing a whole solution, 
+like the teaspoons in my imaginary Charles Rennie Mackintosh house. It is also 
+one of several ways in which Inform tries to manipu - excuse me, to encourage 
+the user to produce something finished, and tidy, rather than makeshift.
+
+ES: I think "seduce" is the word you're looking for.
+
+  SPAG: Are any plans afoot to offer the Inform 7 manual in hardcopy form, as
+  was done with the Inform 6 Designer's Guide?
+
+GN: Yes, but not yet: there are sure to be changes, and perhaps major changes, 
+as Inform 7 meets its users. What we would really like to publish - I say "we" 
+because while I wrote the main text, Emily wrote almost all of the examples - 
+would be an elegant, almost coffee-table book. One whose design doesn't evoke 
+computing books of the drab Addison-Wesley style, but is more like a lifestyle 
+cookery book, or one of the more aesthetically pleasing Photoshop guides. I 
+certainly want something that would comfortably lie flat open. Digital printing 
+has come a long way since the DM4's first impression in 2001, but our 
+aspirations are probably a bit ambitious for now. Still, we might just be able 
+to do it, if we printed the first edition by subscription, as David Cornelson 
+did with the DM4: let's see.
+
+Actually, "the" manual is really two different volumes interleaved: the main 
+text, and the examples, which are organised into a recipe book aiming to show a 
+comprehensive range of techniques. From one viewpoint the examples footnote the 
+main text, from the other it's vice versa. On screen, one can have it both ways, 
+as the reader prefers: for the printed manual, we would have to choose.
+
+  SPAG: You mentioned in your notes on this project that you are attempting to
+  construct a rules-based rather than object-based model for IF development. Can 
+  you briefly explain what you mean by this?
+
+GN: This is Andrew Plotkin's idea more than my own. As you say, I've gone into 
+this in some detail in the formal paper about the project, but broadly I would 
+say that Inform 6's biggest semantic failing is that it ties all events and 
+behaviours to individual objects (well, or classes, to be fair: but then you 
+don't have easy access to the class Object, to put it mildly). Suppose one 
+possible event is Alice eating a cake and shrinking. Is that a behaviour of 
+Alice, or the cake? Why must we choose? Source code for IF games like Scott 
+Adams's "Adventureland", which is stuffed full of combinations of objects doing 
+something or other, becomes impossible to read in any linear (i.e., plot-
+respecting) way. Worse, if it's a change to the standard rules of realism (to do 
+with what containers people can go inside, say) then it may be impossible to 
+implement at all, without rewriting chunks of the Inform 6 library. There is 
+constant pressure for said library to call more "entry points", to provide more 
+hooks to hang customised code on, etc. The system grows steadily more complex 
+and arcane - and it's never enough.
+
+ES: For instance, with "City of Secrets", I had to replace the library's 
+handling of movement verbs to allow for the player to use a >GO BACK command. In 
+Inform 7 the same job is accomplished with a couple lines that add an extra step 
+to the Go action, without disrupting any of the things that are already supposed 
+to happen.
+
+GN: Rules allow us to treat the world model and the actual game as interleaving. 
+There is no dichotomy between the world model (fixed and with universal 
+validity) and the objects in play (free to be altered but in ways that have only 
+very specific validity).
+
+ES: I have found that the rule-based aspect means I tend to rough out a whole 
+system fairly efficiently (for conversation, or some simulationist purpose or 
+other) and get a structure working fast. There's still a lot of refinement to do 
+after that point, but it's comparatively easy to build new features into the 
+framework without doing a lot of rewriting. 
+
+GN: Also, we can write the source in whatever order we think best. So once the 
+framework is in place, it's easy to tidy up - to rearrange under suitable 
+headings, say - without affecting its functionality. I reorganised "Reliques of 
+Tolti-Aph" two or three times until I was happy with its chapter and section 
+breakdown. I actually feel that this freedom considerably adds to the expressive 
+power of the language even though it makes no difference to the outcome - it 
+enables me to have the source text read back in a way which reflects how I think 
+about the problem.
+
+  SPAG: The two of you recently released three demonstration games as a taster
+  for Inform 7.  Some quite sophisticated effects were to be found therein that 
+  would have required considerable programming skill, and even in a couple of 
+  cases recourse to Z-Machine assembly code, to achieve.  Were these games 
+  written entirely in Inform 7's natural language?
+
+GN: "Reliques of Tolti-Aph" - a frivolous piece of IF, whose real purpose is to 
+test whether Inform could handle highly algorithmic puzzles - is written 
+entirely in natural language, about 33,000 words of it. The text can be browsed 
+at the Inform website.
+
+ES: There is almost no direct use of Inform 6 in mine either; all the screen 
+effects and status line elements rely on extensions included with I7. (The 
+extensions do drop back into Z-machine assembly code, but the user of the 
+extension doesn't have to worry about that.)
+
+GN: It may also be worth mentioning that all three of these "worked examples", 
+as we call them, were written very quickly - "ROTA" in the spare evenings of 
+less than a fortnight, for instance, plus a little time for play-testing.
+
+  SPAG: Two classic pitfalls of IF development are the modeling of liquids and
+  the modeling of ropes.  Will Inform 7 offer any help here?
+
+ES: Neither is built into the default world-model, but I did write some example 
+code for rope-handling, and several different pieces of code for liquid 
+implementation. These range from the very simple (containers that are simply 
+full to different levels or not) to a full system of mixture that keeps track of 
+the components within and automatically identifies recipes (so that if you've 
+poured the correct amounts of orange juice and champagne, say, it will relabel 
+the liquid as "mimosa", with appropriate parsing and naming).
+
+GN: Is that what a mimosa is? I do wish people would just say orange juice and 
+champagne if -
+
+ES: Yes, well, as we see not everyone wants this level of complexity.
+
+There are a number of other similar things in the examples as well: models for 
+different types of conversation, telephones, objects that can be broken into 
+component parts, cutting, burning, more sophisticated treatments of lighting, 
+NPC goal-seeking, parsing keywords and adverbs, automated help for stuck novice 
+players, organization by plot and scene rather than by location, and so on. Some 
+of these are very standard simulation problems, and some have more to do with 
+overriding the defaults of the world model entirely and making interactive 
+fiction that behaves in an utterly different way. As I wrote the examples I 
+spent a huge amount of time combing through extension libraries, RAIF posts, the 
+IFwiki - anywhere where anyone had posted about wanting to be able to implement 
+any hard thing at all - and tried implementing these things at least to a basic 
+level in I7.
+
+Sometimes I ran into trouble, and then I pestered Graham for feature additions. 
+A few of these involved major reconsiderations of how the model works - non-
+player character actions are now handled more or less on a par with player 
+actions, so it's possible to make the same rules apply to both. The lack of this 
+had always struck me as a major weakness in Inform 6; combined with Inform 7's 
+action-handling procedures, it means that goal-seeking behavior can be written 
+for NPCs using the same mechanisms that we use to write implicit actions for the 
+player. 
+
+Similarly, Inform 7 has a more developed mechanism for dealing with output. It 
+was an early conversation with Nick Montfort that convinced me we should be 
+thinking about descriptions and output as a separate aspect of the system, 
+essentially, alongside the parser and the model world; and though there is quite 
+a lot more one could do with this, it is now much easier to do things like keep 
+track of what the player has been told about, and also to write rich and complex 
+scene descriptions that vary depending on what's present and don't look so auto
+-generated.
+
+But quite often I found that Inform 7 did already provide the leverage I needed, 
+or would with just a little minor modification, which I find encouraging.
+
+So I am hoping that people will be able to pick and adapt from these whatever 
+they find most suited to the game they're writing - and, of course, people who 
+develop more elaborated systems can, as always, offer those as extensions. I am 
+not at all under the illusion that these examples are the final word in any of 
+the areas they cover. But there was a kind of intentional propaganda in writing 
+a lot of disparate examples that implied entirely different kinds of IF: I 
+wanted to show off some of the true flexibility of the system, and encourage 
+authors to think beyond the usual paradigms. We've had a number of interesting 
+discussions on the newsgroups over the years about what IF might be like if it 
+were less based on geographical rooms, a simple physical model, and so on; here, 
+I think, is a tool suited to writing some of those works.
+
+  SPAG: Has your work on natural language processing for the programming side of
+  Inform 7 lent any insights that might be useful in improving our in-game 
+  parsers, or are we speaking of apples and oranges here?
+
+ES: Hm, well. It's certainly made me more aware of things I wish an in-game 
+parser would handle intelligently, some few of which have actually been 
+implemented and the rest of which I would like to see later. On the other hand, 
+I don't know a lot about the practicalities of this. Inform 7 is able to 
+extrapolate a good deal of implied information from the text it is given, and I 
+would be interested in something similar in an IF game, but at the same time I 
+imagine there might be speed issues.
+
+GN: It was in some ways the other way round. It annoyed me that Inform 6 did not 
+parse source code as well as the Inform 6 library parsed commands in play - the 
+latter was a little more linguistically aware. But as Emily says, there's more 
+that could be done here.
+
+  SPAG: Inform 7 does not currently support the Glulx virtual machine, but I
+  understand that plans are in the works to do so. Are there any plans to expand 
+  the language to support the display of images and playback of sounds within 
+  Inform 7's natural language level?  Will Glulx replace the Z-Machine as the 
+  standard Inform 7 virtual machine at some point?
+
+GN: Yes, cautiously yes, and we shall see - I do not intend to force any such 
+change of allegiance. Inform 7 makes Z-code which runs fine, though I've 
+published a note of what an interpreter could do to have an easier life playing 
+Inform 7 games (notably, have a larger stack capacity). But it's easy to hit the 
+limits of the Z-machine, certainly: "Reliques of Tolti-Aph" is right up against 
+them. Coding in Inform 7 makes it so quick to throw in vaguely nice if 
+inessential extras (let's have not just Teddy Roosevelt but also a bison's head 
+on his wall, oh, and a stuffed bear, why not, and...), that one hits limits 
+earlier. And certain Inform 7 techniques do use up memory - various-to-various 
+relations on large kinds, for instance.
+
+ES: I am quite interested in getting the ability to drop in images and sounds, 
+myself, so I occasionally raise this topic. So far we've mostly been preoccupied 
+with other more basic functionality, but the time will come, I hope.
+
+GN: Oh yes, I do hope eventually to have "Figures", just as in Emily's example 
+of a children's book ("Figure 6. The hook-nosed stranger, his hand shaking, 
+pointed the revolver straight at Biggles").
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+
+REVIEWS -------------------------------------------------------------------
+
+From: Sara Brookside (jsh11a SP@G aol.com)
+
+TITLE: Akari's Story
+AUTHOR: "Taleweaver"
+EMAIL: tralu SP@G hotmail.com
+DATE: 2005
+PARSER: ADRIFT
+SUPPORTS: ADRIFT interpreters
+AVAILABILITY: Freeware; Shadowvault archive
+URL: http://www.shadowvault.net/games/akari.zip
+VERSION: Release 1
+
+In this game, you play a Japanese teenager on a typical weekend day (in other 
+words, no school!)  I would place this piece of IF in the "slice-of-life" genre 
+and the game does do a relatively good job of faithfully simulating Akari's 
+daily life.  Unfortunately, that simulation can sometimes be a little bit 
+pedantic in the sense that it provides little in the way of "escape value."  I 
+wasn't particularly caught up in the story or involved in the action, despite 
+the fact that the world-modeling implementation was adequate.  Along those same 
+lines, Akari's day lacked a sense of urgency or any clear goals.  Accordingly, 
+there wasn't very much to command action or to require much of the PC.
+
+The walkthrough reveals that the game ends after a certain number of turns. at 
+the end of the day, so to speak.  So, there is no real way to "win" the game, 
+although there is a scoring system that awards points for certain actions.  The 
+walkthrough also revealed that I tried many of the actions that the author had 
+in mind, while there were others that I missed completely and would have never 
+thought of had I not read the walkthrough.
+
+One of the most interesting aspects of this piece is that it DOES provide 
+insight into another culture (unless, of course, you happen to be a Japanese 
+teenager yourself!)  Japanese customs and terminology and even dietary 
+preferences are woven into the game, which is quite intriguing!  The game also 
+reveals a bit about what is important to modern Japanese youngsters. also neat 
+to know.  On the downside, this may have the effect of making the player feel 
+more like a spectator than a participant.  It is as if one is observing Akari's 
+life, rather than participating in it or living it, which makes the pace of the 
+work feel rather slow at times.
+
+The writing is rather sparse, in the sense that room descriptions are relatively 
+brief and many nouns are non-examinable.  Still, I didn't note any particularly 
+jarring errors in grammar or spelling, which certainly helped make for a 
+pleasant reading experience in that regard.  In short, however, I felt much as 
+if I was reading an essay by a Japanese teenager about her life, rather than 
+playing a game.
+
+There are puzzles in the game and they are reasonably well-crafted, although 
+certainly not complicated.  I wish there had been more of a sense of payoff to 
+successfully solving the puzzles, however.  Because the problems posed were 
+essentially of the routine, day-to-day variety, and there was very little 
+urgency, it didn't seem to matter much whether I solved the puzzles or not.  The 
+only real impact for doing so was the point value added to my score for 
+performing certain actions.
+
+The characters in the game were largely undeveloped, except for the PC.  All of 
+the NPCs felt rather static and cardboard to me, almost as if they were objects 
+rather than characters.   Conversation is minimal, except if you happen to guess 
+the few things that the author has allowed you to "ask [character] about," but 
+this is not an uncommon problem by any means.
+
+As for plot and story, both were a little thin.  Without a compelling goal to 
+spur action, the experience was much more like an exploration than an 
+interactive narrative.  Game play progressed smoothly, though, with little 
+evidence of "bugginess."  There was an occurrence or two of "guess the verb," 
+but I found those issues to be relatively easily solved and certainly not game-
+stoppers.  A reading of the walkthrough definitely revealed several cases of 
+"read the author's mind" and in each case, I had failed to do so.
+
+In conclusion, this game could be much improved by augmenting descriptions to 
+add atmosphere and capture the attention of the player, as well as implementing 
+more variety and innovation in the tasks of the PC to make for a more compelling 
+story line.
+
+Overall rating:  ** out of ***** for faithful simulation, fair puzzles, and 
+cross-cultural value.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul Lee (bainespal SP@G yahoo.com)
+
+NAME: All Hope Abandon
+AUTHOR: Eric Eve
+EMAIL: eric.eve SP@G hmc.ox.ac.uk
+DATE: May 2005
+PARSER: TADS 3
+SUPPORTS: TADS 3 interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/tads/AllHope.zip
+VERSION: 1
+
+Only a well-done game can successfully combine such elements as a rather 
+detailed plot, puzzles of all sorts, a theologically dense theme, and Greek 
+alphabet characters. "All Hope Abandon," though the prospect seems dizzying in 
+retrospect, does all of the above and somehow manages to seem somewhat natural. 
+This feeling of being natural is not inherent; this is especially apparent early 
+on when the player is quickly thrown into the deep end at which point the game 
+world seems like a disgruntled fairy tale. Thankfully, this "fairy tale" feeling 
+soon dissipates into the more interesting scheme of the game.
+
+The player is cast as Dr William Fisher, a New Testament scholar, who at the 
+opening of the game is found listening to the lecture of the deranged Professor 
+Wortschlachter. Earlier at breakfast, William had met a pretty blond woman who 
+somehow also ends up trapped in Limbo land (though the reason this happens is 
+never adequately explained -- I think on purpose). Apart from adding a little 
+romance to the story, she serves to symbolize the theme of hope throughout the 
+game.
+
+The text is not overly complex or "purple," but is sufficient and usually easy 
+to read. Sometimes the writing even has a slight pinch of wit, such as in the 
+introductory text. The game is very detailed -- even unnecessary objects are 
+carefully described. A "THINK" verb is implement which allows the player to 
+THINK ABOUT certain topics, and I found the responses to cover mostly everything 
+that could be thought about.
+
+The detail in prose and design is complimented by many puzzles. These puzzles 
+come in a range of difficulty, generally becoming more difficult as the game 
+progresses. The solutions to quite a few of these at least partially require the 
+player to scrutinize every single detail of an important object. This sounds 
+tedious, but it works alright because one gets used to the high level of 
+implementation and also because the puzzles all at least require some level of 
+critical thinking besides just examining. The game is structured so that it is 
+quite easy to finish the game without having solved all the puzzles, and thus 
+without having tied up all the loose plot ends. This is a result of the 
+integration of the narrative and the puzzles, and gives the game more 
+replayability than most interactive fiction games out there.
+
+Even with its great puzzles and well-done story, "All Hope Abandon" would be a 
+mediocre game if it was riddled with bugs and grammatical errors. This is not 
+the case; it is clear that the game was carefully tested. Everything works as 
+expected, and it does not appear possible to get the game into a state that was 
+not anticipated by the author. I must report that I did find one accidental 
+typo; however, but if you can get over such things it will not lessen the 
+quality of the game for you.
+
+In conclusion, "All Hope Abandon" by Eric Eve is an extremely well-done work. I 
+would definitely commend it to your "to play" list if you have not played it 
+yet. If you never play it, you should know that you are missing out on one of 
+the best games to be released last year.
+
+From: Valentine Kopteltsev (uux SP@G mail.ru)
+
+I know, I know -- a decent review has to start with some smart preamble on a
+more or less abstract topic; unfortunately, I couldn't think of any for All
+Hope Abandon. So please excuse me just for this once, and let's move on to
+business.
+
+The theme of this game is probably best defined as "subconscious jorney".
+However, if the author was trying (please note the conditional mood) to
+create a dreamlike atmosphere that suggests itself for a work of that kind,
+he didn't succeed too well. Anyway, no matter what the author's intentions
+were -- the game more than makes up for it by providing a stunning cocktail
+of adventure, theology, and romance, all that spiced with a good shot of
+irony. Several ways to victory are laid through it; and although the
+denouement is rather predictable at the end of the day -- the rich,
+intentionally anachronistic setting full of gadgets to fiddle with, and the
+considerable variety of the paths provided make it worth replaying the game
+several times to try out each of them.
+
+Another aspect of All Hope Abandon, which was especially pleasant personally
+for me: it doesn't act overly symbolic, although, again, it'd be very much in
+the tradition of the genre. You know, symbolism is just not my mug of beer,
+and games relying on it too much often leave me puzzled. On the other hand,
+the fact AHA sets forth its main ideas clearly enough doesn't mean it's as
+uncomplicated as a game as I am as a person;) -- I'm sure that players more
+skilled at interpreting symbolic links than myself will be able to enjoy the
+game on additional levels that remained inaccessible to me.
+
+From the technical point of view, the game is faultless. In comparison with
+the previous version, TADS 3 added several interface enhancements (for
+instance, let's mention the menu-based built-in hints, and the topic
+suggestions mechanism of the conversation system) on its own. All Hope
+Abandon not only makes extensive use of these facilities, but introduces, in
+its turn, a few more. The most interesting ones are the THINK ABOUT command,
+and the ability of the player to look in a specific direction. The first
+feature is one I've been looking forward to for a long time. Particularly in
+this game, it seems all the more appropriate since the protagonist has some
+"specialist knowledge that most players will probably not share"; besides,
+it's smartly used in one of the puzzles. The second one probably wasn't as
+challenging to implement from the technical point of view, but means A LOT
+additional work for the game author (ten extra descriptions -- eight for
+compass directions, and two for LOOK UP/DOWN -- in each room); even taking
+into account they're more terse than the "main" room description, and that a
+few of them are similar -- it's still a feat worthy of esteem.
+
+At this point, I've taken a pause and looked at what I had written so far.
+You can bet on it -- I'm utterly disappointed with the results: All Hope
+Abandon is a great game that deserves an outstanding, or at least a memorable
+review, not the generic stuff I sullied the (virtual) paper with. Of course,
+any reviewer will tell you it's much easier to write a memorable review for
+a flawed game; sure enough, All Hope Abandon doesn't offer much in this
+respect. At best, one could complain about the puzzles being too easy, which 
+isn't much of a drawback as times go, and the most sceptical among the
+players would probably point out that the whole romantic plotline is a bit
+unrealistic, considering the protagonist and his beloved barely knew each
+other; well, I consider myself a cynical person, but not cynical enough for 
+not believing in love at first sight, so this was OK for me. Still, the
+unsufficient flaws of the game are a pretty lame excuse for my review being
+so insipid.
+
+I think the problem is, All Hope Abandon just arrived at a wrong point in my
+life. The effect is like paying a visit to the British Museum at the very end
+of an exhaustive sightseeing day trip through London: the overstrained
+tourist feels there's a lot of things to admire, but the emotions just aren't
+there. Thus, in spite of my review probably not sounding too enthusiastic,
+let me assure you -- this game is a great work suitable practically for any
+players, ranging from novices to the versed ones, and represents a glorious
+showcase for the opportunities the new version of TADS offers.
+
+SNATS (Score Not Affecting The Scoreboard):
+
+PLOT: Predictable, but still gripping (1.3)
+ATMOSPHERE: Motley mix (1.5)
+WRITING: Manifold, and splendid in its every manifestation (1.5)
+GAMEPLAY: Relaxed trip for the most part (1.4)
+BONUSES: Rich setting, fine irony, the THINK ABOUT command (1.4)
+TOTAL: 7.1
+CHARACTERS: Memorable enough (1.3)
+PUZZLES: Well-clued and logical (1.2)
+DIFFICULTY: On the easy side (4 out of 10)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Snyder (wyndo SP@G prowler-pro.com)
+
+TITLE: The Baron
+AUTHOR: Victor Gijsbers
+EMAIL: victor SP@G lilith.gotdns.org
+DATE: March 31, 2006
+PARSER: Inform 6
+SUPPORTS: Z-code (Inform .Z8) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/springthing/2006/baron.zip
+VERSION: Release 1
+
+The Baron deserves a spoiler-free review.
+
+The difficulty is it's a game that can barely be discussed at any length 
+*without* spoilers. I think this one is as spoiler-free as you'll find, but 
+*anything* said about The Baron might be too much. In other words, reader 
+beware.
+
+The author's introductory text describes the story's theme as disturbing, 
+shocking, and tragic. On the surface, it's about a missing girl and the father 
+determined to save her from her captor, the evil Baron. I use the word 
+"evil" because the game does ("x photo" in your bedroom, near the 
+beginning). After that, it's left up to the reader. What kind of monster is 
+the Baron? Can he be redeemed, or should he die? Is he a monster at all?
+
+The story (if ever a work of Interactive Fiction wasn't a game, this is it) 
+begins in a cave. You must slay the dragon, because nobody else will. I found 
+no way to achieve this, but later events make it clear that you don't have to. 
+After this, the main quest begins. Along the way - and it's a journey that 
+feels much longer than it actually is - you encounter three obstacles. These 
+are decision points, not puzzles. Each obstacle can be overcome in numerous 
+ways. Not every way is obvious in a first play-through, and some of the 
+multiple-choice decisions won't even make sense the first time. It should 
+really be played at least twice. The second time, your decisions are likely to 
+be wildly different - not because you're poking around for changes to the 
+story, but because you will understand the story in an entirely different way.
+
+Before setting out toward the Baron's castle, look around the house first. At 
+the Baron's castle, it also pays to poke around. Even though the story lacks 
+puzzles, it features bonus material for the observant reader. A torture 
+chamber, found through a hatch under a rock at the castle, hints that things 
+aren't exactly as they seem. Well, not so much that, but it's a good 
+indication that the author is relying on symbolism to enhance the story.
+
+In relating what has happened at the *end* of the story, the PC mentions 
+nothing of a dragon. It stands to reason that the story's first scene was 
+someone else's experience. If this is the case, it might have made more sense 
+for the dragon to approach from a southern lair, while the PC stands firm. 
+When it ends, the story offers no congratulations. You haven't won. You 
+haven't lost. The final choices allow the player to affirm his or her 
+convictions. The story doesn't tell *you* what's right and what isn't. *You* 
+tell the story.
+
+What I expected from The Baron wasn't what I got. In his introductory text, 
+Gijsbers does a good job of preparing the player. Actions should be taken 
+because they're meaningful in the situation, not because they "solve a 
+puzzle". My first reaction was "sure - I've heard this before." I can't 
+help but treat IF as a game - even when the author tells me not to - because 
+every decision affects the outcome. In The Baron, that's not the case. Some 
+decisions affect the PC's dialogue at the end, but none of it affects the 
+experience of the *reader* except to the extent that the decisions themselves 
+are part of the experience. So, even though the author warned me that it 
+wasn't a game, I tried to play it like a game. I expected something dark and 
+sinister. I expected torture, helplessness, suffering, and perhaps victory in 
+the end. The story delivers these things, but in an unconventional way... in a 
+disturbing, shocking, and tragic way.
+
+If all of this leaves you wondering just what you might be getting into if you 
+try The Baron, by all means read a spoilery review. Even though this could 
+soften the punch of experiencing it for yourself, you might be doing yourself 
+a favor. You may say to yourself "bah - I can handle blood and gore and text-
+rendered pain." If that's what The Baron actually had in store for you, a 
+disclaimer would be unnecessary.
+
+It's difficult to say if The Baron hits the mark, without knowing what the 
+mark was. The final choices in the walkthrough included with the Spring Thing 
+version (available from the HELP menu) might be how the author imagines it. 
+Most of us won't be able to feel compassion or empathy for the Baron, though - 
+let alone identify (thank goodness) with the story itself. So, are these final 
+decisions meaningful to us, as readers?
+
+With precious little else to be said without delving into spoilers, some 
+discussion of the design and craft is fitting. The story file is in .Z8 
+format, written in Inform. The English translation of the Dutch original (also 
+included) is surprisingly good. Aside from a few typos, not much in the 
+translation detracts from the experience. Even with a second play-through (or 
+read-through) of some of the story, I found it easy to complete in an hour and 
+a half. Certain bits - especially the dialogue - are presented in multiple 
+choice lists. The rest of it, however, manages to maintain the traditional IF-
+style command system. You move around a map. You get, drop, and examine 
+things. You open doors. You take an active part, just as IF is meant to be.
+
+It's hard to describe The Baron as a *good* story, in the way a game can be a 
+*good* game. It's an *effective* story. Appreciating it doesn't mean *liking* 
+it. Even so, I can imagine the opinions of various readers will vary wildly. 
+Some may say it was emotional. Some may say it wasn't. Some may say it was 
+purposely manipulative. Some may say it was an honest and heart-rending story. 
+Some may resent becoming an unwitting participant as the story unfolds. Some 
+may describe it as grim. Some may feel entirely detached from it. Some may say 
+it will receive accolades it doesn't deserve, while others may believe it to 
+be unfairly criticized. Some may even say it's a story that didn't *need* 
+telling.
+
+I say... nothing, except that it was an interesting experiment. In the context 
+of the Spring Thing competition, it's far too short (even adding a replay or 
+two). I was moved (I'm a parent - how could I not be moved?), but this alone 
+doesn't make it a clear winner when this year's competition features three 
+other very good games. Scoring it is even harder than reviewing it. After some 
+thought, I have settled on a middle-of-the-road score. It succeeds as 
+Interactive Fiction, and it doesn't pretend to be a game. It fails as 
+entertainment (for me), even though it's more like art for the sake of 
+emotion. In another context, it might be a "9" or a "10". It should prove 
+to be one of the most memorable works of 2006, regardless.
+
+My Spring Thing score: "6"
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: José Manuel García-Patos (josemanuelinform SP@G josemanuel-gp.jazztel.es)
+
+TITLE: Damnatio Memoriae
+AUTHOR: Emily Short
+EMAIL: emshort SP@G mindspring.com
+DATE: March 1, 2006
+PARSER: Inform 7
+SUPPORTS: Z-code (Inform .Z5) interpreters with blorb support
+AVAILABILITY: Freeware
+URL: http://plover.net/~emily/DM
+VERSION: Release 3
+
+Once upon a time there was this guy in Greece -- ancient Greece, that is -- who
+set fire to some very important temple (Athena, maybe?). The reason why he did 
+so was simple: He wanted to be famous. What did the other Greeks do? They forbid
+any mention of the incendiary's name. They condemned him to oblivion. That's 
+what the title of the game, Damnatio Memoriae, means. And that's what the player 
+must avoid in it: To be forgotten.
+
+No, that's not true. The game's real goal is not to get caught by your enemies,
+as in any other game. Posterity is secondary. Let's say it's a plus. I don't
+think that's a flaw, but I would've liked a *** You have died ***-like message
+every time you had managed to survive but not to save your memory from
+destruction. I would've liked to see a game where your life wasn't the most
+important thing at stake. (Has a game like that ever been written? One where the
+last message would be *** You have died, but you have won ***?) Also, I would've
+liked to read some thoughts on the subject of fame and posterity, because the
+story really had potential for that.
+
+Damnatio Memoriae shares a similar design pattern with Galatea. In the latter,
+the reactions of the NPC depended on several variables, and the ending was the
+verbal expression of the final values of those variables. Here you have your 
+life and your fame. And the ending depends on the final values of both. This 
+always reminds me of this Japanese show, Takeshi's Castle, where participants 
+were put inside a giant ball and thrown down through what looked like a 
+Tartaglia's triangle pinball. The outcome depended on whether they fell on safe 
+or death spots. With this system, it doesn't really matter if you choose A or B, 
+because the result is the same. Only the value of the variables change. Also, 
+you can end up taking the B path even if you had chosen A earlier.
+
+My own storytelling concept is quite different. I think of interactive stories 
+as trees. And trees are nothing but lists with a common root. So, interactive 
+stories are a bunch of different linear stories that, depending on the player's 
+choices can lead to lots of different endings. I find games designed like this 
+easier to write and to plan, and more human, because it lets the story evolve 
+almost without constraints. Doing things the other way seems confusing to me.
+
+And now that I'm dealing with theoretical aspects, let me mention a detail that 
+I consider a wrong way of doing things. If you have already played Damnatio 
+Memoriae and the ending ever caught you in the other location, you'll have 
+noticed that you're brought back to the original room and offered again a full 
+description of it. The reason why I think this is wrong is because it breaks the 
+rhythym of the narration. I'm not talking about this particular game or about 
+the author, but about the system that produced it. Why are Inform games 
+organized by location instead of being organized by sequence? Remember the 
+opening sequence of Touch of Evil? Why can't IF games do things like that? Let's 
+suppose you have this PC who's talking with a friend while walking down the 
+street. Are you going to interrupt the conversation every time they
+turn a corner? Let's suppose you have a PC who's being chased by the police. Are 
+you going to interrupt the chase every time the player types E or S to offer a 
+boring description that nobody would care about at that particular moment? If 
+games were organized by sequence, only each one's opening location's description 
+would be offered and the rest could then be simply asked for. To me this makes a 
+lot more sense, and also leaves freedom to the author to write a narrative text 
+and make the story advance instead of offering a description that's always more 
+or less the same.
+
+But, finally, the good news. I liked the game. Really. I did. It was short, so 
+it didn't get boring. Actually, when I reached the ending for the first time I 
+thought: Hey,this is it? I want more. Also, it was easier than most of her other 
+games. By easier, I mean the interaction was easier. For example, in Savoir 
+Faire the non-standard verbs drove me crazy. It was like watching one of those 
+pretentious B/W indie movies. It's not me the one who has to adapt to your 
+style, it's you to mine, stupid filmmaker! But in this case, I liked the story 
+(I love the Romans) and I could take the time to learn how the special commands 
+worked, because the learning gave almost immediate results. Also, I think it is 
+Emily's best written game.
+
+[Final note: Oh. In case anyone was thinking: You uneducated freak! It was the 
+temple of...! And the guy's name was...! I know perfectly well who the temple 
+was dedicated to, and who the incendiary was, and even the exact date when that 
+happened, but I'm not doing him a favour even by giving you hints about him.]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: David Wanaselja (wanaselja SP@G gmail.com)
+
+TITLE: Dracula Part I: The First Night
+AUTHOR: El Clerigo Urbatain
+EMAIL: urbatain SP@G gmail.com
+DATE: September 5, 2005
+PARSER: Inform
+SUPPORTS: Glulx interpreters
+AVAILABILITY: freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/glulx/Dracula_The_First_Night.zip
+VERSION: Release 6
+	
+Occasionally I get the urge to play some gothic horror game, featuring vampires, 
+werewolves, and all the other sorts of unnamed horrors that lurk below the 
+surface of the night.  Thankfully, Interactive Fiction has its fair share of 
+this genre, some excellent, some average, and some just plain awful.  While 
+Dracula Part I: The First Night falls between the average and just plain awful 
+categories, it does have some redeeming qualities that make it worth playing for 
+the 10 minutes it takes to complete.
+
+Dracula Part I: The First Night is a remake of the Rod Pike game Dracula, 
+released in 1986 on the Commodore 64.  Actually, it's a remake of the first part 
+of Rod Pike's Dracula game.  The authors have promised the second and third 
+parts are forthcoming, and I can't imagine what is taking them so long, as this 
+first part literally takes less than 45 minutes to see all it has to offer.  
+[As of this publication, the second part of the trilogy -- Dracula: The 
+Arrival -- has just been released. --ed.]  Throw in the fact that it is a near 
+identical game to the original, and I'm left wondering why they didn't just 
+remake Pike's original trilogy in full.  The text is ripped directly from the 
+original, and although the graphics have been redone, almost everything else is 
+the same, aside from some minor additions.  The differences are few, but using 
+the Inform parser is by far the greatest improvement.  The original was clunky 
+and hard to manipulate, but this version is far easier to handle by comparison.  
+
+The story is of John Harker, who is on his way to meet his "client," no doubt 
+Dracula.  Harker has arrived at the Golden Krone Hotel in the Carpathian 
+mountains for a brief respite before continuing his journey.  It is told from 
+the first person perspective, with the parser constantly demanding the player 
+"tell me what to do."  This first person narrative is fairly entertaining, but 
+is punctuated by far too many exclamations and instances of bad grammar and a 
+few misspelled words.  Seems understandable when you realize that the first 
+language of the author is Spanish, but unforgivable when you think about the 
+fact that the text is nearly identical to the 1986 version.
+
+The main puzzles hinge on what you have to eat and drink for dinner.  Some are 
+more difficult to manage than the others, but all are fairly simplistic.  There 
+are some interesting graphics that pop on screen for these interludes, probably 
+the most improved aspect from the original aside from the parser.  Depending on 
+the puzzle and how you die (if you fail) you get a different picture.  They also 
+threw in some familiar music to add ambience at this point, so turn up those 
+speakers.
+
+By far the most annoying part of the game is the fact that it makes assumptions 
+about what the player knows.  Have you examined everything before you've tried a 
+particular course of action?  If not, you may find yourself in a bind at one 
+point or another, which will lead to your death or failing to complete the game. 
+ It's not a big loss, as you'll always be able to "undo" your last move or just 
+play through again since it's so short.  However, it is a tad annoying.
+
+Overall, Dracula Part I: The First Night suffers greatly from its short length 
+and questionable prose.  If the game was less remake and more makeover, it would 
+work far better and be a much more successful game.  The fact that parts 2 and 3 
+are not yet available (excepting the Commodore 64 originals) also puts a damper 
+on the enjoyability of this title.  As it stands right now, Dracula: The First 
+Night is a below average game that offers almost no real reasons to play through 
+it, aside from the pretty graphics, and the fact that you can finish it while 
+waiting for your wife to get out of the bathroom.  Once parts 2 and 3 become 
+available, it will be well worth it.  Until then, it feels like a text adventure 
+from 1986 that needs to be reworked badly.
+
+From: Mike Tulloch (Poster SP@G aurora.cotse.net)
+
+To be fair from the onset, Dracula the First Night (DTFN) is a remake and a 
+translation of an older game, and the initial splash screen captures well the 
+spirit of the old EGA graphics while conveying a hint of mystery. Still, this 
+screen reads, "Remaked by..." and unfortunately, that signifies what lies in 
+store.
+
+Immediately you're given the option of choosing maroon text on black or gold 
+text on blue. (Ugh.) The EMPHASIZED WORDS IN ALL CAPS grate the nerves as does 
+the chat-like sentence construction...a bunch of short phrases and half-
+sentences...arranged like this. Spelling errors are legion; the writing tone is 
+utterly bombastic and overwrought; exclamation marks deluge the player! Yes, 
+this is the familiar topography of the Penny Dreadful and the 1950's B-movie. 
+Was this what the author wanted to achieve? I suspect so.
+
+Most of the puzzles are simple and appropriate, except for one. It's a timed 
+puzzle that you'd never know was timed until you lost the game. To solve it, you 
+have to do something non-obvious a priori. (Argh.) Some puzzles involve rather 
+improbable scenarios, such as waking up carrying everything that you were 
+holding before you went to sleep. This detracts from the atmosphere but then 
+again, that may have been an intentional nod to, or spoof of the horror genre.
+
+As for mechanics, the parser seemed lacking. Examining anything but an object 
+with an Examine routine returns the result for the coded object. There are a few 
+doors, but you can't knock on them because the parser doesn't recognize that 
+word. The same goes for answer, table, and many others. However, because the 
+puzzles are simple, you don't have to play "guess the verb" very often.
+
+DTFN does exploit other features of Glulx, such as full-window graphics and 
+music. These graphics are presented after long sections of text as a way of 
+visually enhancing the effect. The last graphic presents a well done panorama of 
+your destination. The music consists of a simple synth organ which begins when a 
+graphic appears and pauses only when a new graphic appears. (Ow.) Though well-
+played, the classical MIDI melody oozes cliche`s.
+
+The verdict? I salute the author for creating a game in Glulx. I've tried and 
+found the going awfully rough. The game includes random elements that make each 
+time through slightly different but not overly so. That's creative. And the 
+graphics, though sparse, do effectively enhance the atmosphere. The plot works 
+well for a game of this length -- fifty turns once you know the way. However, 
+the parser, the writing, the grammar, and the colors prove very trying.
+
+If you are expecting a modern Glulx game, I'm afraid that DTFN isn't it. The 
+author isn't a native English speaker but he deserves some credit for his work; 
+that's why I give this game a solid 3. If you're a fan of the old-school EGA 
+games and/or IF with graphic touches, of course, you might enjoy Dracula: The 
+First Night much more. An hour or so of retro diversion awaits you.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Snyder (wyndo SP@G prowler-pro.com)
+
+TITLE: Pantomime
+AUTHOR: Robb Sherwin
+EMAIL: beaver SP@G zombieworld.com
+DATE: March 31, 2006
+PARSER: Hugo
+SUPPORTS: Any Hugo Interpreter or GLK Hugo
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/springthing/2006/pmime.hex
+VERSION: Release 1.00
+
+In the early morning minutes of October 1st, 2005, a list of IFComp entries (at 
+the official IFComp website) showed 50 or so potential games. As titles were 
+knocked off the list (probably because the authors never completed and uploaded 
+them), the list dwindled down to 36. For those of us online at the time, it was 
+an interesting thing to watch. Among those original intents, though, was Robb 
+Sherwin's Pantomime.
+
+Now released for Spring Thing 2006, it weighs in on the light side (considering 
+the competition's focus on medium- to long-sized games). As an intended IFComp 
+entry, this makes sense. From chatting with Robb at his Hugo forum, I know that 
+it took much effort and some sleepless nights even to finish for the Spring 
+Thing deadline. Even short and perhaps rushed, Pantomime is a solid game with an 
+entertaining story.
+
+In Pantomime, you live on Phobos, currently a moon of Mars, but soon to break 
+apart into an orbiting ring of debris. It's the last place anyone would choose 
+to be, even before the crisis. It's a world where cloning is commonplace, robots 
+named after Unix commands are a man's best friend, and being good at chess is 
+cause for embarrassment. This is a vision of the near future.
+
+I've only played the beginning of one or two Robb Sherwin games prior to this. 
+That's probably why my reactions bounced between "whoa. did he really say that?" 
+and "wow. what's it going to be *next*?" Somehow, even if he's holding back, it 
+doesn't *feel* that way. Aside from a few typos - probably the result of the 
+hurried effort to meet the deadline - the writing is great. It flows better 
+because it's more casual. It's not just *how* Sherwin writes - it's also *what* 
+he writes: the insults between characters, the one-off jokes, the clever 
+descriptions and bits of back-story. I usually cringe at coarse passages and 
+lowbrow humor in a game, but that's part of what makes Pantomime so interesting. 
+Sherwin seems to write it in a convincing, honest way.
+
+Pantomime is what an episode of Futurama might be, if the script came from 
+Cartoon Network's Williams Street crew and it aired on HBO after hours. The 
+little censor that lives inside Robb Sherwin's mind has a freedom not given most 
+other IF authors, save maybe Adam Thornton. I mean, if a wacked-out robot needs 
+to sport a cloned copy of a male porn star's money-maker, Sherwin will work it 
+into the story. And it'll be *funny*.
+
+The game *is* meant to be funny. I think. It's sometimes tongue-in-cheek humor. 
+It's *definitely* black humor, where the absurd and the macabre come together. 
+It might be an allegory for some of today's issues, but if so, I didn't really 
+get that. More likely, it's just a strange but fascinating story.
+
+The puzzles aren't difficult (generally just a matter of figuring out what 
+action to take to move things along), and inventory is almost non-existent. 
+antomime is very story-driven. The most difficult bit may have been passing the 
+spiked gate, but even that obstacle yields to some creative but simple reasoning 
+(okay, okay - I solved it by blind luck and experimentation, but it made sense 
+afterwards). Even the second-to-last confrontation doesn't require anything more 
+complicated than following instructions and listening to the bad guy's diatribe. 
+This should be particularly appealing to anyone who prefers IF to be more 
+*fiction* than *game*.
+
+A few minor bugs remain in the competition release. They range from typos to an 
+odd exit back to Kangaroo's Club - nothing game-killing. This seems to happen 
+more toward the end. What's most likely to work against Pantomime, though, is 
+that it doesn't seem long enough for a Spring Thing game. It also glosses over 
+the additional detail in most places, when it comes to interacting with (even if 
+only to "look at") scenery objects. Knowing Hugo, I think this could be fixed 
+easily, even without real objects. Just add an "extra_scenery" property to each 
+room, with lists of keywords that will cause a different reference message. It 
+means the difference between something "not there" when it really is, and simply 
+being "unimportant".
+
+A few plot points left me confused. Who sent me the vial? What was the purpose 
+of the seemingly unnecessary gate code? And how drunk was Sherwin when he came 
+up with the interaction that helps the PC escape the airlock? Other than that, 
+everything is wrapped up tidily at the end, where a couple of fitting plot 
+twists are thrown in.
+
+I enjoyed Pantomime, and I recommend it - especially if an update comes after 
+the competition. Without hints, I finished in two and a half hours (plus some 
+re-play of select earlier bits). It's definitely a game that wouldn't have been 
+out of place in the annual IFComp, but even snack-sized by Spring Thing 
+standards, it's a worthy entry.
+
+My Spring Thing score: "7"
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Snyder (wyndo SP@G prowler-pro.com)
+
+TITLE: The Potter and the Mould
+AUTHOR: Robert Street
+EMAIL: adrift.reviews SP@G gmail.com
+DATE: March 31, 2006
+PARSER: Adrift
+SUPPORTS: Adrift Runner and GLK Adrift
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/springthing/2006/mould.zip
+VERSION: Release 1
+
+The superhero genre isn't my favorite. I've never been a big fan of larger-
+than-life, hard-to-believe super powers. Sure, I enjoy the comic-based movie 
+from time to time - Superman with his flying, strength, and x-ray vision; 
+Spiderman with his spider-sense and web-slinging; Batman with his. super wealth; 
+X-Men, of course. I've been known to read a superhero comic, although not 
+recently. I've played superhero IF once or twice. 
+
+In essence, I'm not the ideal fan for The Potter and the Mould. This is a story 
+for superhero fans, and it comes complete with all the trappings. Origin story? 
+Check. Mutant-like powers? Definitely. An imperfect, self-doubting protagonist? 
+Uh huh. The mentor/student relationship? You bet. An evil but misunderstood 
+villain? Sure. Motivation by revenge? Of course. It's everything you'd expect 
+from a superhero story.
+
+What I like best about The Potter and the Mould is that it keeps moving. It will 
+appeal most to superhero fans, but it's a frenetic and fast-paced adventure that 
+kept me enthralled for the four hours it took to complete. It *feels* more 
+difficult than it really is, which is a credit to the author's talent. The 
+puzzles aren't hard enough to impede the action, yet they leave a sense of 
+accomplishment in their wake. My longest sticking point involved a machine-room 
+and a clay dog. After solving it - which was easier than I tried to make it - I 
+realized that the puzzles were simple and understated. They work to keep the 
+story moving, not to work against it, and that's probably the best kind.
+
+In most cases, Robert avoids text-dumps by way of action prompting. This 
+typically comes as a nudge from an NPC, beginning with the rescue scene at the 
+beginning, through Waterfall's revelations in the mall, to the hurried trip to 
+the Potter's inner sanctuary. It works very well, and keeps things interactive.
+
+The story has some surprises and twists. It strays from the predictable formula 
+particularly near the end. Even though I appreciate the change-up, the victory 
+felt less than satisfying. It was like facing down Dr. Evil, and getting a back
+-stabbing Mini-Me instead. What follows is an exciting bit, but not what I 
+expected.
+
+The writing in this, Robert Street's latest game, left me puzzled. Even though 
+I've commented about this in prior reviews, it seemed more noticeable here; 
+equally hard to pin down, but more prevalent. It could just be his style, but 
+I'm not convinced that's it. Too many sentences (even some in close proximity) 
+ended awkwardly with the word "though". There was a glaring lack of contractions 
+throughout the text - not always, but in certain passages - making it more 
+awkward. This alone isn't a sticking point, but coupled with some awkward 
+phrasings in general, it just didn't always read *right*.
+
+Take the following - just one random example from hundreds of lines of text:
+
+"The shops in this corner seem to be trying to outdo each other with silly 
+displays."
+
+The words "seem to be trying to" are the awkward bit. I might write this as:
+
+"The shops in this corner strive to outdo each other with silly displays."
+
+These kinds of things weave themselves throughout the text. The removed bit was 
+clunky and passive. The replacement flows better, and it's more active. I 
+usually qualify these kinds of comments with a reminder that I'm no expert. I 
+have to look two or three times to figure out just what it is about a sentence 
+that bothers me. Even in the example above, I might change "each other" to "one 
+another". At times, the text in The Potter and the Mould felt like a first 
+draft, as though it had been written once and then left alone. At other times, 
+the text felt too heavily edited, as if the smooth flow and original expression 
+had been lost under the weight of so much revision. Which the case may be, I 
+don't know. Like I said, it might just be the author's unique style.
+
+Robert didn't skimp on details. Even though this is an ever-moving game, the 
+extra effort shows in the responses, from looking around to trying various other 
+actions. This isn't always the case in story-heavy works, where the only 
+important thing is doing exactly what advances the plot. I liked that The Potter 
+and the Mould stood up to some prodding.
+
+The hero's premise, now that I've come to it, is that he can "mould" his shape 
+into various things. Robert implemented this in a logical, user-friendly way. 
+Mould options are task-specific and presented in a list. This maintains the 
+illusion that you're really able to morph into anything, where free-form input 
+(John Evans's games come to mind) makes this very difficult. It also gives the 
+PC some say-so as to how the player proceeds. In other words, the PC dreams up 
+these forms so the player doesn't have to. More than that, it eliminates the "I 
+tried to become a diamond-tipped drill, but it didn't work" complaints, at the 
+expense of limiting the player's options. Occasionally, this let me figure out a 
+puzzle where I wouldn't otherwise have had all the facts, but all in all, it was 
+a good design.
+
+Next comes the obligatory Adrift discussion - but I'll keep it short. I'm a fan 
+of Adrift's auto-mapping, even if I found some necessary exits unmarked on it. 
+It can be a crutch sometimes, and I probably shouldn't have tried to rely on the 
+map as much. I'm not a fan, however, of Adrift's pick-apart parsing. I call it 
+that, because I don't know if it has a real name. This is most problematic when 
+commenting a transcript. If you type something that has the word "undo" anywhere 
+in it, Adrift believes you intend to undo your last move. If you comment about 
+"he" or "she", Adrift starts matching pronouns, leading to some interesting 
+responses. Knowing nothing about its inner workings, I still get the impression 
+that grammar isn't built the way it is in Hugo and other IF languages. Adrift 
+makes plenty of assumptions, and it doesn't conform to any grammar rules. If it 
+finds what appears to be a verb, and what appears to be a noun referencing a 
+known object, it reacts. At times, such as when it reacts on an NPC you haven't 
+encountered yet, it can even be a little spoilery.
+
+Even though I'm not a superhero fan, I enjoyed The Potter and the Mould. It was 
+trippy, but it was fun. It's a solid game, and a credit to the author's 
+experience.
+
+My Spring Thing score: "8"
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Harris (M.Harris SP@G spi-bpo.com)
+
+TITLE: Threnody
+AUTHOR: John Schiff
+EMAIL: john SP@G dopplerfx.com
+DATE: March 13, 2005
+PARSER: TADS 2
+SUPPORTS: HTML TADS interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/springthing/2005/Threnody.zip
+VERSION: Release 1.0b
+
+Threnody bills itself as "a lighthearted, puzzle-rich fantasy game" and as such 
+hits the mark.  The backstory is a pedestrian "castle full of treasures" meme, 
+with the mildly interesting twist that in addition to treasure “points” 
+accumulated, each of the NPC’s has a "Catena" which must be located and 
+destroyed to "release" the NPC, a tally of which scores in a parallel point 
+system. 
+
+The player must choose at the beginning whether the PC will be a warrior, wizard 
+or thief, as well as the gender of the PC.  While the former affects what 
+options the PC has available to solve portions of the game, the purpose of the 
+gender choice seems only for fleshing out the story thread.  The verbiage is 
+standard "fantasy 101" with the exception that objects’ and sometimes NPC’s 
+descriptions contain horrible puns.  The title NPC is a talking cat and is 
+generally helpful as a guide but which purpose seems more to further the story 
+than the game.  I delight in both bad puns and cats; those not so enamored might 
+find the game less charming.
+
+I prefer to be very methodical when playing IF, searching and examining 
+everything in a room and solving as many puzzles as possible before moving on to 
+the next room.  This approach works poorly with Threnody.  Those who prefer a 
+brief visit to every accessible room before beginning any puzzle solving in 
+earnest might find Threnody less frustrating.  Firstly, objects that might aid 
+in solving puzzles are often available; I did a lot of guessing.  Secondly, many 
+rooms and locations are empty, there as "place holders."  Lastly, the game is 
+full of objects that seem to be nothing more than red herrings.
+
+This leads us to bugs. 
+
+It is possible to locate and destroy the Catenas of some NPC’s before 
+encountering the NPC’s themselves.  While the disappearance/destruction of the 
+NPC should mean its absence when its location is eventually found, this is not 
+always the case.  Taking the Catenas to unusual locations to be destroyed will 
+sometimes trigger the same bug.  In any case, this bug allows the game to be put 
+in an unwinnable state as the NPC can not be vanquished.  I also stumbled upon a 
+sequence of moves that "recreated" the Catena of one particular NPC, which I 
+could then destroy repeatedly for points.
+
+In some cases there is more than one way to "beat" the NPC, but I found another 
+bug involving engaging a NPC in a game of chance using an object found 
+elsewhere.  While defeating the NPC in the game of chance should achieve 
+success, and the NPC states that you can take the (blank) because you’ve won, 
+any attempt to actually do so results in the pre-defeat response.
+
+I found the "red herrings" to be frustrating as well.  While they may not be 
+true "red herrings" but have some purpose in solving puzzles when the PC is in a 
+different iteration, their sheer number gets tedious – "open (blank) with 
+(blank)"; "put (blank) on (blank)" is fun for the first thirty or forty tries 
+but does start to pall once one gets into triple digits.  Furthermore, while the 
+PC’s carrying capacity is large it’s not unlimited.  Three quarters of the way 
+through the game I found that I was no longer able to pick up objects and had to 
+decide which objects in my vast inventory to jettison, hoping that I would not 
+rid myself of anything truly useful in the process.
+
+While some puzzles are ludicrously simple, some are so difficult that I had no 
+recourse but to refer to the hints or the walkthrough.  There is some trouble of 
+the “guess the verb” variety but in many cases there seems to be no way to solve 
+the puzzle except through brute force, trying every possible combination hoping 
+that one works.
+
+Some minor squawks – default responses sometimes come up when the story would 
+dictate otherwise.  For example, upon entering a room there are often lavish 
+descriptions of furnishings, floor etc., further examination of which elicits 
+"you see nothing special about the (blank)" type responses, or directly 
+contradictory responses – "The floor is made of large slabs of a dark, rough 
+stone" after the description states something very different.  The story 
+emphasizes the importance of the Catenas to the NPC’s, but (with the exception 
+of the title NPC) showing the catena to the NPC elicits a default "(NPC) is not 
+impressed."  And speaking of "guess the verb," during play I could often not 
+recall the term "Catena" or names of NPC’s and more generic descriptions such as 
+"man," "crystal" or "blue" were ineffective.
+
+In summary, while Threnody is a mildly entertaining diversion exactly as 
+advertised, its flaws and generic storyline made it less than compelling.  The 
+optional graphics are very much like the game itself – workmanlike, well 
+executed but ultimately unremarkable, and doing little to enhance the storyline. 
+Once played through as one PC I had no desire to play more than a small amount 
+with the PC in a different iteration, just enough to get a feel for that 
+particular PC and some of the differences in puzzle solving.  On a scale of 1 to 
+10 I would rate it a 5 for difficulty and an overall rating of 5.5 to 6.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Snyder (wyndo SP@G prowler-pro.com)
+
+TITLE: The Warlord, The Princess & The Bulldog
+AUTHOR: David Whyld
+EMAIL: dwhyld SP@G gmail.com
+DATE: March 31, 2006
+PARSER: Adrift
+SUPPORTS: Adrift Runner and GLK Adrift
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/springthing/2006/warlord.zip
+VERSION: Version 1
+
+It's not the next chapter in The Chronicles of Narnia (and if no other reviewer 
+makes the same joke, I'll be surprised). David Whyld's Spring Thing 2006 entry, 
+written in Adrift, reprises the exploits of mercenary bad-ass Stavros "The 
+Bulldog" McGrogan in a sequel to his earlier A Spot of Bother. It's up to The 
+Bulldog to sneak, fight, grunt, and puzzle-solve his way to victory against the 
+evil Warlord, Baron Grishtak.
+
+At times, this is a contradiction. From the start, the goal is clear. I don't 
+mean the goal of the story (which is also clear), but the goal of the game 
+itself. Finish the three primary objectives with full health for a score boost, 
+and pick up more points for solving puzzles rather than pushing past them with 
+brute force. This opens the game to a variety of play styles, but that "best 
+score" objective is the carrot dangling just beyond reach. The Bulldog loses 
+life points when he fights, and without a clear idea of how to gain them back 
+(let alone how many can *be* regained), my inclination was to avoid fights and 
+slink about the castle solving puzzles, preserving every point of health 
+possible. So much for being a bad-ass.
+
+Even though I enjoyed the game using this strategy, I might have enjoyed it 
+more if I hadn't been aiming for a perfect game. In the end, it didn't matter. 
+I didn't complete one of the three objectives, and I won with a score of only 
+80 and health of 90. The ending - and the death ending too, when I purposely 
+let The Bulldog get pounced by The Tiger - was still satisfying.
+
+Things take a bit longer when you play for points. Instead of beating up the 
+bad guys, I lured them into traps, tricked them into leaving, or simply avoided 
+them entirely. When I stumbled into traps or lost health in unexpected ways, I 
+opted to "undo" or "load" a prior save, so I could try another approach. This 
+made the game tougher. To get it all right the first time, I would have needed 
+to read the author's mind. The interesting thing is that this was just another 
+way of playing the game. With a different objective - let The Bulldog fight 
+enemies and bully his way past the tough parts - it doesn't require psychic 
+powers. It's a fair system which rewards do-overs without making do-overs 
+essential to win.
+
+I've mentioned "health points" several times. If you have visions of RPG stats 
+and random dice-rolls - especially if you don't *like* those things - take 
+heart. That's not how WPB works. Think of it as the antithesis of a scoring 
+system. When you earn "score" points, it's for completing a task, reaching a 
+milestone, or hitting some score-worthy trigger. These are things built into the 
+game, and the points are set. If you play much IF, you've probably seen this in 
+action. WPB has this *in addition to* its health point system. Points come off 
+by making mistakes, or in other predetermined ways that involve alternate puzzle 
+solutions. Sometimes, these mistakes (especially in facing enemies) can be 
+repeated, but on the whole it's more like a credit system. The Bulldog is 
+extended so many of these "mistake" points, and he spends them as necessary.
+
+The beauty is that making these mistakes usually gets The Bulldog past puzzles. 
+For instance, there are several ways to pass the landmines near the beginning of 
+the game. One way in particular saves The Bulldog from damage entirely. Other 
+ways leave him only slightly scathed (or perhaps unharmed, but with the loss of 
+something that might be the key to avoiding damage later). Of course, stepping 
+into it (with persistence) solves the puzzle too, at the expense of a chunk of 
+health.
+
+It's designed to be winnable, no matter how low your health becomes. The more 
+damage The Bulldog takes, though, the fewer risks he can endure. Suppose this 
+drops to a single remaining point. The game remains winnable, but every 
+additional obstacle must be overcome with brains instead of brawn. This can 
+become *very* difficult. Health can be recovered, but I never was quite sure 
+how much. If I recall, I healed about 30. The Bulldog has suffered some prior 
+to the start of the game, beginning with 63 health. Health of 100 is considered 
+"full". It may be possible to recover more than 37, making it possible to take 
+damage and still finish with full health. I never figured out the max. It's just 
+as possible that every method in the game adds up only to a total of 37, meaning 
+a perfect win requires a totally unharmed Bulldog. Maybe a better player than I 
+- or Whyld himself - will say for sure.
+
+Really, it's a clever design. I can't think of a single puzzle that didn't 
+have two or more solutions. The easier the solution, the fewer the points (and 
+often, the more damage The Bulldog would take). Because my goal had me going 
+after the toughest of each solution, I hit the built-in help often. After only 
+a short ways into the game, I was requesting every hint available in every 
+room. In a way, this became just another tool, like "undo". Instead of cheating, 
+it seemed more like a part of the game. Some hints even felt more like puzzles 
+to solve. Even *with* hints, it was often difficult to work out the best (most 
+rewarding point-wise) solutions. Without them, though, I never would have.
+
+This all makes it difficult to say just how tough The Warlord, The Princess, and 
+The Bulldog is. I solved many of the puzzles with easier solutions at first, 
+costing The Bulldog only a few points of health. I would have finished faster - 
+and possibly without so much reliance on hints - if I had just pressed forward 
+from those points. I suppose it ranges from "challenging but not overly 
+difficult" to "one step down from impossible", depending on what approach you 
+take. Mine was more on the side of the latter.
+
+Whyld has done an excellent job of anticipating much of what players may try. 
+The implementation level alone is amazing. Very little encountered in the game 
+lacks first, second, even third-level implementation. If you look at scenery 
+that has parts, you can look at those parts. You can often *interact* with those 
+parts. If those parts have parts, they're probably implemented too. It pays to 
+really inspect what's around. Even though much of it is optional, enough digging 
+can bring up the keys to alternate puzzle solutions.
+
+The prose in WPB is dotted with amusing passages. Generally, Whyld isn't trying 
+for real comedy - and if so, it probably wouldn't have worked here anyway. It's 
+more the "ah ha, that was funny" kind of subdued but cliched humor you'd expect 
+from a story in which the hero only grunts yet everybody understands what he 
+means. When Baron Grishtak writes a letter to his ace henchman - subsequently 
+obtained by The Bulldog - he admits that he "foolishly jotted down the access 
+code to the master computer on the bottom of it." He goes on to encourage his 
+henchman to destroy the letter after reading it, for that very reason.
+
+As to the presentation, the author held nothing back. My first fifteen minutes 
+were spent just reading the introductory material - details about the game, 
+additional commands, the intro, etc. The game font size can be adjusted via the 
+command prompt. Screen-clearing at each room change can be turned on or off 
+(personally, I liked it on - it was easier to quickly scroll up and reread room 
+descriptions that way). Around four different fonts were used - one for room 
+headers, one for the room description, the default font for most game messages, 
+and a script-style font for letters and notes. It may sound like a hodgepodge, 
+but it works well (if you're using the Adrift runner and your Windows-based 
+computer has those fonts) and it set WPB apart from other games in terms of 
+style.
+
+To now, it may seem as though I have no complaints about The Warlord, The 
+Princess & The Bulldog. A big game, though, has more room for things to go 
+wrong. None of these problems (in my play-through, anyway), were game-killing, 
+but they ranged from mildly annoying to completely preventing (or, at times, 
+*allowing*) certain solutions. My transcripts note quite a few typos - not 
+surprising in a game of this size and complexity, but still minor dents in the 
+proverbial finish. Weirder quirks included things like the non-working pendant 
+(it worked once, but after a subsequent "undo" or "restore", shaking it didn't 
+work even though it still had 3 charges); being able to enter the guards' 
+training courtyard in a "they're gone" state, even though they shouldn't have 
+been; a reference to a voodoo doll in the hints, which doesn't seem to be in the 
+game (Adrift will usually respond to objects it knows, even in other places, and 
+it didn't know that one); being able to break the panel in the sleeping quarters 
+repeatedly; I didn't realize it at the time, but the "code to the master 
+computer" is too long to work in either of the computers found later in the 
+game; some available exits were unmarked on the map; some exits described in the 
+text didn't work in the game; you can't "undo" to before a hint screen; I 
+couldn't get "exit" to work (even though it was supposed to), when trying one of 
+the codes; A seven-letter password scattered throughout the castle appears to 
+have two fifth letters; it's possible to set the watch before winning, so that 
+it goes off during the final scene; a few other miscellaneous quirks.
+
+As the game progressed, these things either became more common or more 
+noticeable. Maybe it was the cumulative effect, but my faith in the game's 
+internal consistency was shaken. If I felt at all guilty about reliance on 
+hints, the feeling passed when I thought that maybe the game was broken just 
+enough to *prevent* the solutions I needed for a perfect win. This may not be 
+true. From my experience, the bugs that persist after beta testing are usually 
+the bugs in sections that *aren't* vital - else they would have been worked out 
+already. Nonetheless, it's a reminder: the better the polish, the higher the 
+faith.
+
+Most of the design works great. The health point system contributes to alternate 
+puzzle solutions, and alternate puzzle solutions are abundant. The hints, 
+although cryptic at times, are helpful. Even so, a few specific parts left me 
+cold. One very early puzzle (the one that avoids a loss of health - an easier 
+but damaging alternate does exist) requires waiting a few turns after taking 
+action. I was impressed that the game allowed the particular action, but I 
+thought I had messed up - so I did an "undo". Speaking of "undo", you can 
+unwittingly make a move that disables it, in what I can only describe as a prank 
+perpetrated by the author. It's by no means a necessary (or even an obvious) 
+move, but some players will try it. I found no way to re-enable it, aside from 
+reverting to a prior save (or starting over). One obstacle requires that you 
+lose everything in inventory. The hints describe a way to keep most of it, but 
+it requires repeating an action (and it's even possible to undo a failure, 
+repeat, and succeed the second or third time).
+
+As a Spring Thing entry, WPB is fittingly sized. My play-through - taking most 
+puzzles the hard way and relying heavily on the built-in hints - was eight and 
+a half hours. Despite the flaws, I enjoyed the time I spent with The Warlord, 
+The Princess & The Bulldog. An incredible amount of effort was put into this 
+game, and it really shows. A post-competition release could address the 
+remaining problems, making it even more recommendable.
+
+My Spring Thing score: "9"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ___. .___    _    ___.     ___. 
+/  _| |   \  / \  / ._|    /  _| 
+\  \  | o_/ |   | | |_.    \  \  
+.\  \ | |   | o | | | |    .\  \ 
+|___/ |_|   |_|_| \___|    |___/ PECIFICS
+
+SPAG Specifics is a small section of SPAG dedicated to providing in-
+depth critical analysis of IF games, spoilers most emphatically
+included.
+
+
+
+
+
+WARNING! SPOILERS BELOW FOR THE FOLLOWING GAME:
+
+The Baron
+
+
+
+
+
+PROCEED NO FURTHER UNLESS YOU HAVE PLAYED THIS GAME!
+
+
+
+
+
+THIS IS NOT A TEST! GENUINE SPOILERS TO FOLLOW!
+
+
+
+
+
+LAST CHANCE TO AVOID SPOILAGE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Dan Shiovitz (dans SP@G drizzle.com)
+
+TITLE: The Baron
+AUTHOR: Victor Gijsbers
+EMAIL: victor SP@G lilith.gotdns.org
+DATE: March 31, 2006
+PARSER: Inform 6
+SUPPORTS: Z-code (Inform .Z8) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/springthing/2006/baron.zip
+VERSION: Release 1
+
+In my review of The Baron for the comp, I mostly just said "I'm pretty sure this 
+is not like any IF game you've ever played before" and left it at that. But this 
+is a SPAG Specifics review, so I'm going to assume everyone's played the game 
+all the way through, and will feel free to get into the nitty-gritty details of 
+how and whether I think the game works. 
+
+To get some stuff out of the way, I'm not particularly impressed with the 
+writing or storyline here. I think it's too obvious early on that weird stuff is 
+going on with the daughter, the "the PC is actually a bad guy!" plot has been 
+done before (in Bliss, for example), and most of the actual plot elements feel 
+more like setpieces than real places or NPCs -- you got your generic dragon cave 
+(bone flooring optional), your generic village, your generic forest, your 
+generic ruined castle. So given all that, why did the game work so well for me?
+
+The first time the game astonished me was when when I typed >KILL WOLF on the 
+young wolf after I killed its mother, and the game *asked me why I was doing 
+it*. Man, even now I am still blown away by how cool that is. When this 
+happened, the game essentially defined a whole new reason for why IF is 
+interesting. We've talked in the past about buzzwords like "exploration" and 
+"agency" and "complicity" to name things you get out of IF that you don't get 
+out of static fiction, but The Baron defines a new one -- justification. 
+
+There have been hints of this kind of thing in the past. Piece of Mind, for 
+instance, has a famous section where the player is challenged by the game's 
+protagonist over the rightness of the action the player's typed in. And 
+obviously there are plenty of games where the PC has to make a moral decision. 
+The thing is, in almost cases the moral decisions involved in those games are 
+lame, or not really a decision at all -- the game clearly identifies one of the 
+decisions as right and the other as wrong. 
+
+The game-design insight in The Baron is that by shifting the moral judgement 
+onto the player, the decision suddenly becomes much more interesting, because 
+now the player (and not just the PC!) has direct personal stakes. This is sort 
+of similar to how you can make a storyline more involving by presenting it in 
+nonlinear order: in that case the player gets involved in the plot because they 
+have to piece it together themselves. In this case they're involved in the 
+decision because then they're asked to justify it -- not to the game, which
+would be trivial, but to themselves. The game establishes that the PC has been 
+doing something bad for a long time, and is on the verge of doing it again, and 
+nothing more. The question of how bad a person this makes the PC is entirely up 
+to the player, as are the punishment for and future consequences of the PC's 
+actions. 
+
+When The Baron gets away from asking for justification, it tends to lose its way 
+a little bit. The scenes at the beginning in the dragon cave and at the end in 
+the ruined castle are examples of this: the symbolism comes off as heavy-handed, 
+and none of the PC's actions matter. Which is an interesting objection, since 
+the PC's actions don't really matter elsewhere either -- there's only one place, 
+right at the end, where you have the power to alter the storyline in a
+significant way. 
+
+The point seems to be that, again, the PC's actions in The Baron are meaningless 
+except as they're evaluated by the player: your actions with the wolf don't 
+matter except that the gargoyle forces you to discuss them. I'm surprised that 
+the initial scene with the dragon never gets a similar kind of discussion -- the 
+choice to fight or run, and the question of whether failure is really inevitable 
+fit in just fine with the rest of the game, but without discussion they aren't
+particularly important. 
+
+So where to from here? I would be totally interested in seeing new games use 
+this one as a jumping-off point. The thing I would most like to see is if 
+there's a way to restore some agency to the player here -- The Baron focuses so 
+tightly on the moral decisions that it makes the PC's actions irrelevant to the 
+course of the narrative even if they're relevant to the player. It seems like it 
+must be possible to have a game where the PC's choices are significant both
+in-game and out of it. But The Baron is still seriously ground-breaking, and I 
+hope in a few years we can look back and see it make the same kind of impact on 
+IF design that Photopia or A Mind Forever Voyaging did. 
+
+As one final closing note, Victor Gijsbers is involved in the modern RPG scene, 
+and it's hard not to think that The Baron is strongly influenced by trends 
+there. Like, here's a quote from Ron Edwards defining Narrativist gaming, the 
+closest RPG trend to what Gijsbers's game is about:
+
+  Story Now requires that at least one engaging issue or problematic
+  feature of human existence be addressed in the process of
+  role-playing. "Address" means: 
+
+  Establishing the issue's Explorative expressions in the game-world,
+  "fixing" them into imaginary place. 
+
+  Developing the issue as a source of continued conflict, perhaps
+  changing any number of things about it, such as which side is being
+  taken by a given character, or providing more depth to why the
+  antagonistic side of the issue exists at all. 
+
+  Resolving the issue through the decisions of the players of the
+  protagonists, as well as various features and constraints of the
+  circumstances.
+
+Sounds familiar, hunh? This is from 
+http://www.indie-rpgs.com/_articles/narr_essay.html -- somebody interested in 
+working on a game like The Baron would be well-advised to check it out. 
+
+Even if you're not interested in a game that's as non-standard as The Baron is, 
+there's plenty of RPG theory and craft that still applies: how to set up a 
+scene, how to cut between scenes, how to build storylines that allow for and 
+adapt to the PCs doing surprising things. The modern IF community has gained a 
+lot of valuable insight from static fiction and other types of computer games, 
+but RPGs have been mostly absent as an influence since Colossal Cave. It's 
+probably time the IF community starts looking at another interactive 
+storytelling medium and seeing what techniques they have that we can learn from.
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure games, a.
+k.a. Interactive Fiction. This includes the classic Infocom games and similar
+games, but also some graphic adventures where the primary player-game
+communication is text based. Any and all text-based games are eligible for
+review, though if a game has been reviewed three times in SPAG, no further
+reviews of it will be accepted unless they are extraordinarily original and/or
+insightful. SPAG reviews should be free of spoilers, with the exception of
+reviews submitted to SPAG Specifics, where spoilers are allowed in the service
+of in-depth discussion. In addition, reviewers should play a game to completion
+before submitting a review. There are some exceptions to this clause --
+competition games reviewed after 2 hours, unfinishable games, games with
+hundreds of endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We accept
+submissions that have been previously published elsewhere, although original
+reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at http://www.
+sparkynet.com/spag/spag.faq.
+
+---------------------------------------------------------------------------
+
+
+           Thank you for helping to keep text adventures alive!
+

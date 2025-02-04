@@ -1,0 +1,1158 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #29
+
+           Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                       June 20, 2002
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #29 is copyright (c) 2002 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+The SPAG Interview with Emily Short
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Depravity Bites
+First Things First
+The Tale of the Kissing Bandit
+Voices
+
+EDITORIAL------------------------------------------------------------------
+
+When I first became the SPAG editor, I quickly realized that there were
+two things I didn't like about it. The first is the name. "Society for
+the Promotion [or Preservation, if you like] of Adventure Games" sounds
+like the name of a club. What it does not sound like is the name of a
+webzine. Plus, for me it's a reminder of these amazingly cheesy
+commercials that used to be on television, with members of a made-up
+"Seventies Preservation Society" hawking copies of K-Tel's latest
+compilation of disco hits. Not exactly the image one yearns for. So
+okay, maybe nobody ever thinks about what the letters stand for -- they
+just use the abbreviation. SPAG. Really, "SPAG"? It's flat-sounding,
+unpleasant, and just one letter away from "SPAM." But it's been around
+for eight years now, is linked to all over the web, and is even
+mentioned on the Masterpieces of Infocom cd. Plus, we've got that nifty
+logo. So the name isn't changing, at least not anytime soon.
+
+The other thing I didn't like was the scoreboard. Back when I was just a
+SPAG reader rather than its editor, I would never, ever read the
+scoreboard. Few things, it seemed to me at the time, could be less
+interesting than trying to quantify the appeal of IF into little
+categories, then compare wildly disparate games to each other based on
+how three or four people rank those categories. In time, though, I
+gained a little more appreciation for SPAG scores. I'm a music fan, and
+I grew up listening to Casey Kasem's radio show "American Top 40", which
+counted down the top singles on Billboard's Pop chart each week. Through
+this practice, I acquired a bit of a fascination with the charts: why
+some songs rose quickly and others not at all, the heights they
+attained, the length of time they held on, the special cachet of
+attaining the top spot, and all the fortunes of the other songs as they
+arrived, rose, plateaued, perhaps fluctuated a bit, and finally fell.
+After a while, it began to seem to me that the SPAG scoreboard had the
+appeal of a Billboard chart, but applied to IF. It was rather fun to
+watch new games like Varicella and Worlds Apart make their way onto and
+off of the top ten, not to mention the (admittedly bogus) ego building
+it let me do with my own games. ("Hey, according to this, Wearing The
+Claw was better than Zork II!") And not only did the Top 10 listing make
+me feel like Casey Kasem, it provided a handy reference point in those
+"What are some good games?" discussions that come up all the time on the
+newsgroups. 
+
+Of course, there were still problems. Probably the biggest of these was
+that there just isn't that much real data in those listings. Unlike the
+Billboard charts, which are compiled from tons of different sources, the
+SPAG scoreboard tended to average just under four votes per game, with
+many scores set by just one or two voters, and lots of games having no
+score at all for lack of any votes. The statistics lack much real
+meaning, because the sample size surveyed is just far too small.
+Moreover, the fact that voters are a self-selecting sample introduces
+other problems, such as the guy who sent in scores of 0.0 for every Adam
+Cadre game while rating his own "adult" IF game a 10.0. (Yes, I
+discarded those scores.) There have been a few people who sent in lots
+and lots of votes, trying to proffer a really representative portrait of
+their views on IF, but there are many more who just send in a score when
+they are moved by a particularly positive or negative reaction to a
+game, thus preventing the scores on those games from truly reflecting a
+community consensus. Not that I can blame anyone for this. Like I said,
+before I was the editor, I had zero interest in the scoreboard, and
+certainly never sent in a score myself.
+
+Another of the scoreboard's problems was well-stated by Adam Cadre early
+last year:
+
+   SPAG's readers' scoreboard selects for games which attract some
+   positive response and, more importantly, little negative response.
+   It only takes a few low votes to drag a game off the leaderboard.
+
+In point of fact, it only takes *one* low vote. Scores are calculated
+according to this formula:
+
+   (Old score * old # of votes + new score) / new # of votes
+
+Because of that ongoing averaging, an especially low new score can take
+a game down several whole numbers, while a high new score doesn't lift
+it all that much. Several excellent games have fallen prey to this math,
+sunk by just one or two strong dissenters.
+
+Yet another hitch to the scoreboard is its categories: atmosphere,
+gameplay, writing, plot, and "wild card". SPAG founder Kevin Wilson was
+wise enough to make "puzzles" and "characters" optional categories from
+the get-go, not affecting the final tally, but even the remaining
+"mandatory" categories are enough to strangely bias the scoreboard's
+results. For me, the textbook example of this is Ad Verbum, by Nick
+Montfort. Ad Verbum is a tremendously clever game in the Nord And Bert
+vein, but does it have much atmosphere? No. Does it have *any* plot? No.
+Because it suffers in those categories, its scores are lower than it
+deserves. "Gameplay" is another area in which some great IF suffers,
+particularly if it's designed to be more literature than game.
+
+Then there's the most telling evidence of all: SPAG's readers are
+gradually losing interest in the scoreboard. Every issue I get fewer and
+fewer votes; it's been down to a trickle for many months now. Between
+that and the shortcomings I mention above, I've just about returned to
+the disinterest level I had as a reader, but now I'm the editor, which
+means I get to say this: the sun has set on the SPAG scoreboard. This
+will be its last issue. It's been around for eight years, has been
+useful or fun to some number of people for at least some of that time,
+and I'm happy to have been a part of that, but it's time to move on. The
+scoreboard will no longer appear in SPAG, though I will leave it on the
+web page, minus the voting mechanism, along with a note explaining that
+it now serves a historical purpose only. Please note, reviewers: you
+should no longer include scores with your submitted reviews.
+
+As Homer Simpson says, when told he's about to eat a poison eclair: "Eh,
+I've had a good run."
+
+NEWS ----------------------------------------------------------------------
+
+NEW GAMES
+It's been an amazingly fertile period for new game releases. In fact,
+during one glorious week in April, we were seeing a new game *every two
+days*. Among these fresh arrivals is Savoir-Faire, a feature-length game
+by Emily Short, the subject of this issue's SPAG Interview. Another new
+epic is Chip Hayes' Tinseltown Blues, a Hollywood-themed game several
+years in the making. We've also got works by other promising newcomers
+like Matt Rohde and Brandon Allen, as well as an international sprinkle
+of non-English games. Behold:
+   * Amissville by "Santoonie"
+   * Katana by Matt Rohde
+   * The Oracle by Brandon Allen
+   * Unease by Brendan O'Brien
+   * Savoir-Faire by Emily Short
+   * Taipan (Z-abuse) ported to Z-machine by D. Jacob Wildstrom
+   * The Land Of The Cyclops by Francesco Cordella
+   * Der Angstbaum (in German) by Jens Bojaryn
+   * Pecos Town (in Italian) by Tommaso Caldarola
+   * Tinseltown Blues by Chip Hayes
+   * Amishville by Jacob Amman
+
+MOST COMP-LICATED
+Along with our slew of new games (in fact, sometimes hand in hand with
+it), we've had a slew of mini-comps. We had the IntroComp, which
+challenged authors to come up with a compelling *beginning* to an IF
+game, in playable form. (As opposed to last year's PrologueComp, whose
+entries could simply be text.) First place was taken by Caleb Wilson's
+"Hey, Jingo!". Then there were the IFLibraryComp and the Spring Thing,
+both of which were experiments in altering the rules of the big Fall
+comp, to see what would happen. The IFLibraryComp garnered three
+entries, the highest-ranking of which was a game called Familiar, by
+Papillon, author of Desert Heat and Triune. (To see the others, check
+out http://www.iflibrary.com/default.aspx?pageid=Home&contentid=4.)
+There was one entrant to the Spring Thing: the aforementioned Tinseltown
+Blues.
+
+A DIFFERENT KIND OF WEB PORTAL
+Some of the people who remember actually going to a computer game store
+and *buying* text adventures may have fond memories of "Portal", a C64
+game by Rob Swigart about a deserted future world. Now those memories
+can be relived for free, as Salim Fadhley has reconstructed the entire
+thing on the web at http://portal.stodge.org.
+
+NELSON AHOY!
+One of the USA's goofiest holidays is Grouhdhog Day, whereupon the
+country's attention centers on the burrow of one famous rodent, whose
+shadow (or lack thereof) supposedly forecasts the next six weeks'
+weather. We have a local equivalent on the IF newsgroups, on or around
+April 30, the anniversary of the first release of Inform. Roundabout
+this time, Graham Nelson will often make his annual newsgroup
+appearance, heralding some exciting new development in the world of
+Inform. This year, it was the unveiling of the fully-revamped, super-
+helpful new Inform home page, at http://www.inform-fiction.org. This
+page has tons of resources for the aspiring or experienced Inform
+author, all presented in elegant Nelsonian style. 
+
+BEGINNER'S LUCK
+Speaking of nifty new web pages, Frederik Ramsberg has just debuted
+IFGuide, a page specifically aimed at newcomers to IF. The page goes
+through all the basics, from what IF is, to how to play, what to play,
+and where to get it, and it's available at http://IFGuide.ramsberg.net.
+
+STARVATION DIET
+You may have noticed that SPAG has lost quite a bit of weight lately.
+Don't offer it your compliments, though, because this loss is not a good
+thing. Indeed, the event I always prophesied has come to pass: Duncan
+Stevens' real life has finally prevented him from submitting SPAG
+reviews, at least for this issue anyway. This is his first absence from
+the zine since his debut in December of 1997, and as you can can see,
+SPAG is a pale shadow of itself without him. This is your chance: step
+up to the plate and rescue our beloved SPAG from Kate Moss hell. There's
+certainly no dearth of games that need reviewing. Try, for example, one
+of these:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Acheton
+2.  Bad Machine
+3.  Dr. Dumont's Wild P.A.R.T.I.
+4.  Familiar
+5.  Heroine's Mantle
+6.  Katana
+7.  The Oracle
+8.  Savoir-Faire
+9.  Tinseltown Blues
+10. Unease
+
+THE SPAG INTERVIEW---------------------------------------------------------
+
+Emily Short has accomplished a prodigious amount in a short time and
+shows no sign of stopping. Already a major figure in IF for such works
+as Galatea and Metamorphoses, she has since cemented her reputation with
+thoughtful articles, technical innovations, and the co-editorship of an
+upcoming book on IF Theory, not to mention several other rockin' games.
+Somehow, in the midst of all this, she managed to find time to answer a
+few questions from us, too.
+
+                               ---===---
+
+   SPAG: When we last checked in with you, you were working on a Ph.D.
+   in Classics and annoying your advisors with your passionate interests
+   in other areas. How goes the degree, the travel, the cooking, the
+   writing, the teaching, and the rest?
+
+ES: I'm almost through my last set of exams; once that's done, I'll be
+on dissertation status, which I've been looking forward to for a long
+time. It'll still be another two or more years before I can leave with
+degree in hand, but from now on I'll have a bit more freedom to pursue
+my own set of interests. So that should be fun.
+
+Otherwise, I've been a little too busy, and a little too broke (in the
+way of all grad students), to do very much traveling, unfortunately. But
+soon. I wound up with a free Alaska Airlines ticket at one point, so
+I've been looking up exotic northern places on the web trying to decide
+where to go with it.
+
+   SPAG: A corollary question: how in the world do you manage to create
+   so much IF work while still maintaining all those other activities?
+   Do you have a $70 time machine, or is it just supreme time-management
+   prowess?
+
+ES: Ha. No, none of the above. It's more that I tend to neglect stuff
+that I should be doing while I work on IF, and then I work rabidly on
+academics for a while to make up for it.
+
+This is not a recommended lifestyle for sane people.
+
+   SPAG: Let's talk about your big new release, Savoir-Faire. The game
+   is quite traditional in some ways, but it's set in a milieu we
+   haven't seen before -- similar to 18th century France, but with the
+   addition of magical elements. What inspired this choice of setting?
+
+ES: It was chance more than deliberate thought. Sometimes out of boredom
+I sit down and write the opening of a piece of static fiction or the
+first room of an IF game with no planning or preparation; this is just
+an exercise.
+
+99% of the time the result is dreadful, and the opening room I wrote for
+SF isn't an exception to that rule. It had a lot of randomly chosen
+objects in it, and was kind of silly. (It was removed from the game long
+before the final version.) But it did have some references to a
+"Countess," along with Rococo furnishings, because those were the first
+things that came into my mind.
+
+In that first writing the furniture was extremely old and falling apart;
+I intended it to be antique, and the game to be set in the late 19th or
+even 20th century. Once I got serious about the game design, though, I
+decided that I preferred to set it in the 1770s or 1780s. This wasn't a
+conscious attempt to pick a setting we haven't encountered before; it
+was more that the flavor of the game required this decadent yet (from
+our point of view) technologically primitive setting.
+
+   SPAG: Why did you choose to write a game with so many "old-school"
+   elements, a treasure hunt with a hunger timer, look-under puzzles,
+   and other such contrivances?
+
+ES: Two reasons. One, I got into writing IF because of how much I liked
+old-school games. I originally learned Inform because I wanted to
+emulate something like Curses. And there's a certain effect of being
+really wrapped up in a puzzle game for hours and hours that is just not
+captured by a narrative 30-minute art piece. No matter how good the
+latter is, it's just not the same experience.
+
+The other reason is that people kept posting about how IF has gotten all
+pretentious these days and no one can be bothered to write good
+old-school IF the way it Used to Be. So I thought, well, ok, I'll try
+that, then.
+
+   SPAG: What is your process for creating these large games? Can you
+   give us an idea of how such a project starts, and how it develops to
+   fruition?
+
+ES: As mentioned, SF began pretty haphazardly. Once I'd made the opening
+room, I decided that the game needed as its central feature a magic
+system we haven't encountered previously. I thought about something that
+would involve composing spells from component pieces. I tossed this
+around a bit with Dan Shiovitz, and he suggested that a) this has been
+done before and that b) magic-as-programming is not sufficiently cool.
+
+So the linking idea was my second concept. I worked out the basics of
+how it would function -- I'd use a simulation that accounted for size,
+shape, and material, lifted from Metamorphoses, and then allow the game
+to determine linkability from there. A while went into developing this
+system, which turned out to be a bit of a pain to code and require a lot
+of special cases. I find that this is typical for my game design in
+general: I get a bit of a feel for what the game will require, then
+design the system or systems that are going to be the backbone of
+interaction (conversation systems, simulation, whatever). Then I come up
+with particular things to do with the system and build the rest of the
+game.
+
+The next stage for Savoir was brain-storming up a bunch of puzzles and
+solutions, and then making a puzzle chart to show where they would occur
+and which things would lead to which others. The brainstorming was fun:
+I paged through the DM4 for different categories of puzzle. My basic
+plan was: take the most cliche'd, bog-standard puzzles in existence, and
+then force the player to solve them in a different way with the new
+system.
+
+Implementation ensued. This was the stage at which I developed the
+backstory of the game. I'd stick in a reference to a character early in
+the implementation process, and then I'd have to come up with a bunch of
+supporting material -- who is this person? where did they live? what
+were their interests? why did their relationship to the protagonist form
+up the way it did?
+
+I also did (a tiny amount of) research on the setting of the game -- a
+couple afternoons' worth of looking at antiques websites and reading up
+on the social situation just before the French Revolution. Of what I
+came up with, I used very little: it seemed too artificial and ludicrous
+for someone, even an aesthete like Pierre, to go around describing all
+the furniture he encountered with an antique dealer's vocabulary. "Now
+here is a nice rocaille console with a black-and-red marble top..."
+Period paintings turned out to be a lot more useful -- they gave a sense
+of how a whole room might have felt, as opposed to an image of a single
+table isolated in a studio.
+
+Then there was a lot of beta-testing. The main messages of the testing
+were that I'd provided too little help early in the game (which led to
+the addition of some simple early puzzles and extra ways to earn points)
+and that it took a bit more than my estimated 2-3 hours to play. I
+rounded this up to an estimate of 4 hours for the first release, and was
+soundly mocked. Oops. (It took me about 300 turns to play through to
+completion, so I figured: multiply that by 4, granting that someone who
+hasn't played it before will look around more, and you get a game of,
+say, 1200 turns. That doesn't really seem so big, right? Averaging
+several turns a minute, one should make nice steady progress...)
+
+   SPAG: You're also serving as editor for an upcoming collection of "IF
+   Theory" essays. Would you give us a little preview of what this
+   project will include and when we can expect to see it?
+
+ES: Second question first: I expect that we won't get through with all
+of the proofreading, revising, layout, and printing arrangements until
+spring of next year. (I won't pin myself down to a month here; too many
+variables.)
+
+The book covers a bit of history, a bit of craft, and a bit of theory.
+(The list of specific articles is here:
+http://www.iftheory.com/topics2.html.) As far as history goes, we tried
+to cover things that haven't been presented extensively yet: discussion
+of the history of IF in languages other than English, the history of the
+Level 9 games, and so on. There's a broad coverage of specific issues
+that come up in writing IF, from planning your map to dealing with
+specific genres to beta-testing and finishing up. There's a new Graham
+Nelson article, which is quite cool.
+
+The idea here is both to provide practical advice for people doing game
+design and to serve as a talking point. I'm quite excited about the
+material that has been turned in so far, and I think we'll accomplish
+both of those things.
+
+   SPAG: How has IF influenced your graduate studies?
+
+ES: In graduate seminars I've repeatedly found myself trying to
+extrapolate things about the development of ancient literary genres on
+the evidence of the development of IF. This doesn't necessarily get me
+very far, though. Also, don't try starting a sentence in a humanities
+grad seminar with, "Well, I'm in this internet community and I've
+noticed that people on usenet generally..."
+
+   SPAG: How about the other way around?
+
+ES: Galatea, Metamorphoses, and to an extent Best of Three rely fairly
+extensively on classical references. Francesco Cordella referred to me
+once in a review as being unable to sleep unless I stuck Castor and
+Pollux into all my games. I've since tried to reduce that effect as much
+as possible.
+
+   SPAG: Of the technical innovations you've introduced over the last
+   couple of years, which ones are you the most excited about and why?
+
+ES: Hmm. From my point of view I've managed to raise more problems than
+I've solved.
+
+I once hoped to develop a comprehensive set of library extensions that
+would handle liquids, fire, frangible objects, ropes, and recording
+devices. This was more ignorance than hubris. As far as I can tell the
+real progress in terms of systematic simulationism is going on over in
+the camp of TADS 3 -- nifty sense-passing stuff, more complex ways to
+disallow actions, and so on. I'm eager to see what that develops into.
+
+I still want to do goal-seeking, conversational NPCs, too, but the task
+seems much more daunting to me than it did two years ago. I'd say that's
+what I care about most, at this point, though.
+
+   SPAG: What are you planning to work on next?
+
+ES: I have assorted projects lying around at the moment, most of which
+in some way focus on expanded/more interactive NPCs. Preferably in a
+context where there's more to do than *just* talk to the NPC. We'll see.
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+NAME: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+If you choose, you may also provide scores for the games you review, as 
+explained in the SPAG FAQ. The scores will be used in the ratings 
+section.  Authors may not rate or review their own games.
+
+More elaborate descriptions of the rating and scoring systems may be found
+in the FAQ and in issue #9 of SPAG, which should be available at:
+
+        https://ifarchive.org/if-archive/magazines/SPAG/
+ and at http://www.sparkynet.com/spag
+
+REVIEWS -------------------------------------------------------------------
+
+From: Jim Cooper <waiting SP@G thebusstop.demon.co.uk>
+
+NAME: Depravity Bites
+AUTHOR: samjones
+EMAIL: samanthamisunderstood SP@G hotmail.com
+DATE: 2002
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/tads/depravityBITES.zip
+VERSION: 1.4
+
+I read Stas Starkov's review of this game in SPAG 28 and wondered how
+much of his obvious dislike for it stemmed from the game's subject
+matter. Being quite broad-minded myself, I thought I'd download the game
+and see what it was all about. I really shouldn't have bothered.
+
+The game starts off with you waking up a prisoner in a cellar. Your
+naked girlfriend is chained up, and your first task is to try to free
+her. The game then proceeds through a series of tasks masterminded by
+the owner of the house you're in before culminating in a sex scene in
+the back of a van.
+
+Unfortunately, the game falls down not only on the content, which goes
+out of its way to be offensive rather than erotic, but is filled with
+numerous technical flaws, some of which make the some of the puzzles
+unnecessarily difficult -- you play "guess the verb" a few times, for
+example. Certain other flaws also make the big sex scene at the end
+laughable rather than arousing. To give a more specific example, at one
+point you are given an object to perform a task with. Later on, the game
+assumes you still have the object, whether you have dropped it since or
+not. These obvious flaws disrupt the flow of the game, destroying any
+sense of atmosphere that might otherwise build up.
+
+The puzzles themselves aren't actually too bad, although they were
+fairly easy -- I managed to complete it in about 4 hours without
+reference to the provided hint sheet. The game also comes with the
+source code, if the hint sheet isn't enough for you. One or two puzzles
+are quite difficult, the initial one for instance, which the game itself
+gives you hints about.
+
+All in all, this game isn't worth playing even if you are into this kind
+of thing. It deliberately sets out to shock rather than excite or
+interest and, for me, it failed to even do that. Sorry, samjones, but
+you can see far worse than this with just ten minutes on a decent
+internet search engine. If you are easily shocked, avoid this game. If
+you're not, this game will bore you. Even a dedicated sado-masochist
+will find nothing of interest here, unless putting up with all the
+errors counts as masochism.
+
+ATMOSPHERE: Technical errors interfere too much (0.3)
+GAMEPLAY: Bad parser, plagued by errors         (0.5)
+WRITING: Tries quite hard but, well, fails      (0.6)
+PLOT: Well, there is one, and it's reasonable   (1.2)
+WILDCARD: This really isn't a good game, so I'm
+      not going to give it any Wildcard points. (0.0)
+TOTAL: Just don't bother.                       (2.6)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Adam Myrow <myrow SP@G eskimo.com>
+
+TITLE: First Things First
+AUTHOR: J. Robinson Wheeler
+EMAIL: rob.wheeler SP@G stanfordalumni.org
+DATE: February 2002
+PARSER: Tads 2.5.
+SUPPORTS: Standard Tads interpreters
+AVAILABILITY: If-archive, freeware
+URL: https://ifarchive.org/if-archive/games/tads/ftf.gam
+     Also available: https://ifarchive.org/if-archive/games/tads/ftf_manual.pdf
+VERSION: 2.0 (02/20/2002)
+
+Have you ever wished you could go back in time and prevent a mistake?
+Have you ever wished all those time travel games would let you change
+things for the better rather than preserve history the way it is? Well,
+wish no more! First Things First is a recent game that lets you do just
+that. You start out in the present, as an eccentric person who dreams of
+building a time machine. You just came back from the library, where as
+usual, you were reading on the subject. It is late, so you were thinking
+of just going to sleep. However, you've done what we've all done in the
+past. You've locked yourself out of your house! The spare key is nowhere
+around. As you begin to hunt for your spare key, something else begins
+to get your attention. Why is the roof in such lousy shape after only 10
+years? What's this squirrel doing on my roof? Why didn't I ever plant a
+tree on the south side of my house? In the midst of all your wondering,
+a time machine appears, and the real game begins.
+
+This game reminds me of Curses in a lot of ways. Like Curses, you are
+doing something ordinary, and gradually get yourself into something
+else. Like Curses, this is a puzzle fest. It got the XYZZY award for
+best puzzles for a good reason. Most of the puzzles are very logical,
+and some have multiple solutions. For example, there are at least 2,
+maybe 3 ways to get rid of the dog, and 2 ways to repair the wheel
+barrow. Be warned, the game can be made unwinnable, so save early, and
+keep multiple saves especially before doing something that will put an
+item out of play. Be extremely careful with money! Some items serve no
+purpose, while others have multiple uses. Still others are optional
+depending on how you go about solving puzzles. There is a contraption
+called a herring detector which will tell you if something is a red
+herring or not. It really breaks the mimisis of the game, so I would
+advise not using it unless you are truly desperate.
+
+This game has a maze, but it has a solution that doesn't involve
+dropping things. The best part is that once you get through it, you
+never need to go through it again.
+
+Overall, I liked this game. It has a few bugs here and there, but no
+real show stoppers. It is refreshing to actually be able to do something
+about the past instead of being told to accept it for what it is. My
+only real complaint is that the ending leaves a few loose ends, and I
+think the environmental tone is a bit too obvious. Also, some
+descriptions are a bit awkward. There is one place where the word
+"prettily" appears twice in the same sentence. Other than that, it's not
+a bad game, and there is even an Easter Egg room with a unique surprise.
+I found it to be difficult, but not insanely so. Anybody who wants a
+good old-fashioned puzzle-filled IF experience, and has some time on
+their hands should give this one a try.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Adrian J. Chung <ajchung SP@G yahoo.com>
+
+NAME: The Tale of the Kissing Bandit
+AUTHOR: J. Robinson Wheeler
+EMAIL: rob.wheeler SP@G stanfordalumni.org
+DATE: February 2001
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: http://www.plover.net/~emily/smoochie/bandit.zip
+VERSION: Release 1 (SmoochieComp original)
+
+Oh this is sweet -- a delightful little story of a night of adventure.
+
+You play a mysterious secretive character who steals kisses from women
+caught unaware. The whole game is like this. Well, most of it. Really.
+Go play it if you have 5 minutes to spare. The game is as compact as it
+is amusing.
+
+The light-hearted mood is sustained by excellently conceived prose
+heavily peppered with overt prompting to move the player along. I found
+myself using verbs I would never think to use in any other game. There
+are no puzzles to speak of and the story is very much on rails after the
+first few rooms. It never ceases to amaze me what can be accomplished
+with such sparse geometry, objects, and NPC interaction -- a sign of
+very effective writing.
+
+And lastly, if you haven't done so already, play through "Shade" (Zarf's
+Comp 2000 entry) prior to this one for maximum effect. That should quiet
+any feelings of missing out that those who're not ifmud regulars may
+have.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Adrian J. Chung <ajchung SP@G yahoo.com>
+
+NAME: Voices
+AUTHOR: Aris Katsaris
+EMAIL: katsaris SP@G otenet.gr
+DATE: February 2001
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: http://www.plover.net/~emily/smoochie/voices.z5
+VERSION: Release 1 (SmoochieComp original)
+
+I debated with myself whether or not I should submit a review for this
+one. The recent jump in the adventure gaming audience swayed me in the
+affirmative. Stating that newcomers who were expecting a game are in for
+a surprise would be a bit of an understatement. The opening text:
+
+   Voices
+   An Interactive Romance
+   (...)
+   Ladies' Tree
+   We like to play and dance in this place around the tall beech,
+   (...)  but I've never seen them myself. Nor have I ventured alone
+   much to the south of here - the town of Domremy is in the north.
+
+suggests a romance told in the first person -- features of the Comp98
+2nd place game, "Muse". As it turns out, this work really orbits in the
+same system as the Comp98 1st placer, "Photopia". The tightly scripted
+(almost on rails) story and heavy reliance on "talk to" are the features
+to which I refer. Not to mention the interface manipulation gimmicks
+pioneered by "Shrapnel" -- one gimmick is also to be found in another
+SmoochieComp game, "Pytho's Mask". Enough references for you?
+
+There's not much more I can say without contributing to the spoilery for
+a work as short as this -- it takes no more than ten minutes to
+experience. The prose conveys some rather strong emotions via a story
+design that can be debated for days, which is exactly what happened on
+r*if. If emotional impact per line of non-library source code were a
+valid measure, this would probably rank as high as Photopia or Shade;
+perhaps even higher due to the sparse implementation. It takes courage
+to use the minicomp format (and SmoochieComp, no less!) to tackle much
+debated philosophy and religious theology. Admittedly my Catholic
+upbringing could be a factor in my slight disagreement in the portrayal
+of some of the major characters. It was also disconcerting to have to
+make decisions for them at critical points in the story. The rapid
+switching of person perspectives -- between 1st and 2nd, interspersed
+with 3rd -- only added to this discomfort. Maybe this was intentional.
+
+At least it avoids the risks of trivialising the belief systems of a
+major religion as can often happen in this medium. This is testimony to
+the author's writing skill and well-planned design. Did I mention the
+historical setting? There is almost too much packed into something of
+this size. Does it work? I'd venture a conditional yes. But like I said,
+it depends greatly on what expectations you bring to the table. Perhaps
+that's why it was released in a minicomp.
+
+READERS' SCOREBOARD: THE FINAL CHAPTER ------------------------------------
+
+As I mentioned in the editorial section, this issue's SPAG scoreboard
+will be the last, so what you see here is what will remain. For those of
+you unfamiliar with the concept of this scoreboard, it was an ongoing
+feature of SPAG, charting the scores that SPAG readers and reviewers
+gave to various IF games from the time SPAG began. The codes in the
+Notes column give information as to a game's availability and the
+platforms on which it runs. For a translation of these codes and for
+more detailed information on the scoreboard's format, see the first
+issue of SPAG, available at ftp.ifarchive.org or on the SPAG web page at
+http://www.sparkynet.com/spag.
+
+Name                   Avg Sc     Chr     Puz # Sc  Issue Notes:
+====                   ======     ===     === ====  ===== ======
+1-2-3...                  4.1     0.9     0.5    3     23 F_INF_ARC
+9:05                      6.6     0.7     0.5   11     20 F_INF_ARC
+Aayela                    7.0     1.0     1.3    6     10 F_TAD_ARC
+Abbey                     6.8     0.6     1.4    1     24 S10_I_ARC
+Above and Beyond          7.3     1.5     1.6    5     24 F_TAD_ARC
+Acid Whiplash             5.2     0.7     0.2    5     17 F_INF_ARC
+Acorn Court               6.1     0.5     1.5    2     12 F_INF_ARC
+Ad Verbum                 7.4     0.9     1.7    3     23 F_INF_ARC
+Adv. of Elizabeth Hig     3.1     0.5     0.3    2      5 F_AGT_ARC
+Adventure (all varian     6.6     0.7     1.2   16   8,22 F_INF_TAD_ETC_ARC
+Adventureland             4.4     0.5     1.1    6        F_INF_ARC
+Adventures of Helpful     7.0     1.3     0.9    2        F_TAD_ARC
+Aftermath                 4.0     0.7     0.7    1        F_TAD_ARC
+Afternoon Visit           4.1     1.0     0.8    1        F_AGT
+Aisle                     6.8     1.4     0.2   11     18 F_INF_ARC
+Alien Abduction?          7.5     1.3     1.4    5 10, 26 F_TAD_ARC
+All Alone                 8.2     1.3     0.7    2     22 F_TAD_ARC
+All Quiet...Library       5.0     0.9     0.9    6      7 F_INF_ARC
+All Roads                 8.1     1.4     1.2    2        F_INF_ARC
+Amnesia                   6.9     1.5     1.3    4      9 C_AP_I_64
+Anchorhead                8.7     1.7     1.5   29     18 F_INF_ARC
+And The Waves...          7.9     1.5     1.1    2     23 F_INF_ARC
+Another...No Beer         2.4     0.2     0.8    2      4 S10_I_ARC
+Arrival                   7.9     1.3     1.4    5     17 F_TAD_ARC
+Arthur: Excalibur         8.0     1.3     1.6    44,14,22 C_INF
+Asendent                  1.7     0.0     0.3    1        F_INF_ARC
+At Wit's End              7.1     1.2     1.3    1     23 F_TAD_ARC
+Augmented Fourth          7.9     1.2     1.6    7     22 F_INF_ARC
+Aunt Nancy's House        1.3     0.1     0.0    2        F_INF_ARC
+Awakened                  7.7     1.7     1.6    1
+Awakening                 5.9     1.1     1.1    3  15,18 F_INF_ARC
+Awe-Chasm                 3.0     0.7     0.7    2      8 S_I_ST_ARC
+Babel                     8.5     1.7     1.3   11     13 F_INF_ARC
+Balances                  6.6     0.7     1.2    9      6 F_INF_ARC
+Ballyhoo                  7.3     1.5     1.5    6      4 C_INF
+Bear's Night Out          7.3     1.1     1.3    7     13 F_INF_ARC
+Beat The Devil            5.5     1.2     1.1    4     19 F_INF_ARC
+Begegnung am Fluss        5.6     0.8     1.4    1        F_I_ARC
+Being Andrew Plotkin      7.5     1.5     1.1    2     23 F_INF_ARC
+Best Man                  5.2     0.8     1.2    2        F_INF_ARC
+Beyond the Tesseract      5.0     0.8     0.9    2      6 F_I_ARC
+Beyond Zork               7.6     1.5     1.7   11  5, 14 C_INF
+Big Mama                  5.4     1.2     0.6    3     23 F_INF_ARC
+BJ Drifter                6.5     1.2     1.2    5     15 F_INF_ARC
+Bliss                     6.3     1.1     0.8    4     20 F_TAD_ARC
+Bloodline                 7.7     1.4     1.1    2     15 F_INF_ARC
+Border Zone               7.2     1.4     1.4    7      4 C_INF
+Breakers                  7.5     1.5     1.1    1        C_I_AP_M_64_S
+Break-In                  6.1     1.1     1.4    3     21 F_INF_ARC
+Breaking The Code         0.4     0.0     0.0    2        F_INF_ARC
+Brimstone: The Dream.     6.5     1.4     1.1    1        C_I_AP_M_64_S
+Broken String             3.9     0.7     0.4    4        F_TADS_ARC
+BSE                       5.7     0.9     1.0    3        F_INF_ARC
+Bureaucracy               7.1     1.5     1.4   13      5 C_INF
+Busted                    5.1     1.1     0.9    2     25 F_INF_ARC
+Calliope                  4.7     0.9     0.8    3        F_INF_ARC
+Carma                     8.0     1.9     1.2    1        F_GLU_ARC
+Cask                      1.5     0.0     0.5    2        F_INF_ARC
+Castaway                  1.1     0.0     0.4    1      5 F_I_ARC
+Castle Amnos              4.6     1.0     0.8    2        F_INF_ARC
+Castle Elsinore           4.3     0.7     1.0    2        I_ARC
+Cattus Atrox              4.9     1.2     0.8    1     17 F_INF_ARC
+Cave of Morpheus          5.4     1.3     1.0    1        F_ADR_ARC
+CC                        4.2     0.4     1.0    1        F_ALAN_ARC
+Change in the Weather     7.5     1.0     1.3   14 7,8,14 F_INF_ARC
+Chaos                     5.6     1.3     1.1    2        F_TAD_ARC
+Chicken under Window      6.6     0.8     0.3    4        F_INF_ARC
+Chicks Dig Jerks          5.2     1.1     0.7    9     19 F_INF_ARC
+Chico and I Ran           7.2     1.7     1.1    1        F_INF_ARC
+Christminster             8.3     1.6     1.6   21     20 F_INF_ARC
+Circus                    3.4     0.5     0.8    1
+City                      6.1     0.6     1.3    2     17 F_INF_ARC
+Clock                     3.7     0.8     0.6    1        F_TAD_ARC
+Coke Is It!               5.6     1.0     0.9    3        F_INF_ARC
+Coming Home               0.6     0.1     0.1    1        F_INF_ARC
+Common Ground             7.1     1.6     0.3    3     20 F_TAD_ARC
+Commute                   1.3     0.2     0.1    1        F_I_ARC
+Comp00ter Game            0.9     0.1     0.1    1        F_INF_ARC
+Congratulations!          2.6     0.7     0.3    1        F_INF_ARC
+Corruption                7.2     1.6     1.0    4 14, 21 C_MAG
+Cosmoserve                7.8     1.4     1.4    5      5 F_AGT_ARC
+Cove                      6.5     0.8     0.7    4     22 F_INF_ARC
+Crimson Spring            6.9     1.5     1.2    1        F_HUG_ARC
+Crypt v2.0                5.0     1.0     1.5    1      3 S12_IBM_ARC
+Curses                    8.0     1.2     1.7   20  2, 22 F_INF_ARC
+Cutthroats                5.7     1.3     1.1    9      1 C_INF
+Dampcamp                  5.0     0.8     1.1    3        F_TAD_ARC
+Danger! Adventurer...     3.2     0.3     0.7    1        F_INF_ARC
+Dangerous Curves          8.6     1.5     1.6    1     24 F_INF_ARC
+Day For Soft Food         6.8     1.0     1.3    5     19 F_INF_ARC
+Deadline                  6.9     1.3     1.3    9     20 C_INF
+Death To My Enemies       4.4     0.9     0.7    4        F_INF_ARC
+Deep Space Drifter        5.6     0.4     1.1    3      3 S15_TAD_ARC
+Deephome                  4.0     0.5     0.9    2     21 F_INF_ARC
+Degeneracy                8.7     1.5     1.3    1     25 F_INF_ARC
+Delusions                 7.9     1.5     1.5    5      14F_INF_ARC
+Demon's Tomb              7.4     1.2     1.1    2      9 C_I
+Depravity Bites           2.6     0.5     0.5    1  28,29 F_TAD_ARC
+Desert Heat               6.0     1.3     0.7    1     23 F_TAD_ARC
+Detective                 1.0     0.0     0.0    9 4,5,18 F_AGT_INF_ARC
+Detective-MST3K           6.0     1.2     0.2   10 7,8,18 F_INF_ARC
+Dinner With Andre         7.2     1.6     1.4    1     23 F_INF_ARC
+Ditch Day Drifter         6.3     0.9     1.6    5      2 F_TAD_ARC
+Djinni Chronicles         7.1     1.1     1.1    3     23 F_INF_ARC
+Down                      6.0     1.0     1.2    1     14 F_HUG_ARC
+Downtown Tokyo            6.1     0.9     1.0    6     17 F_INF_ARC
+Dragon Hunt               5.4     0.5     0.5    1        F_HUG_ARC
+Dungeon                   6.2     1.0     1.6    3        F_ARC
+Dungeon Adventure         6.8     1.3     1.6    1      4 F_ETC
+Dungeon of Dunjin         6.0     0.7     1.5    5  3, 14 S20_IBM_MAC_ARC
+Edifice                   8.0     1.4     1.8   10     13 F_INF_ARC
+Eins Swei Spiegelei       5.0     1.1     1.0    1        F_ARC
+Electrabot                0.7     0.0     0.0    1      5 F_AGT_ARC
+E-Mailbox                 3.1     0.1     0.2    2        F_AGT_ARC
+Emy Discovers Life        5.0     1.1     0.8    3        F_AGT
+Enchanter                 7.3     1.1     1.5   10   2,15 C_INF
+End Means Escape          6.1     1.4     1.1    1     23 F_TAD_ARC
+Enhanced                  5.0     1.0     1.3    2      2 S10_TAD_ARC
+Enlightenment             6.5     1.1     1.5    3     17 F_INF_ARC
+Erehwon                   6.2     1.2     1.5    4     19 F_TAD_ARC
+Eric the Unready          7.4     1.4     1.4    6        C_I
+Essex                     5.7     1.2     0.9    1        C_I_AP_M_64_ST
+Everybody Loves a Par     7.0     1.2     1.2    3     12 F_TAD_ARC
+Exhibition                6.2     1.4     0.3    6     19 F_TAD_ARC
+Fable                     2.0     0.1     0.1    3      6 F_AGT_ARC
+Fable-MST3K               4.0     0.5     0.2    4        F_AGT_INF_ARC
+FailSafe                  7.5     1.0     1.0    1  24,25 F_INF_ARC
+Fear                      6.3     1.2     1.3    3 10, 24 F_INF_ARC
+Fifteen                   1.5     0.5     0.4    1     17 F_INF_ARC
+Firebird                  7.1     1.5     1.3    4     15 F_TAD_ARC
+Fish                      7.5     1.3     1.7    4 12, 14 C_MAG
+Foggywood Hijinx          6.2     1.2     1.3    3     21 F_TAD_ARC
+Foom                      6.6     1.0     1.0    1        F_TAD_ARC
+For A Change              8.0     0.9     1.3    6 19, 22 F_INF_ARC
+Forbidden Castle          4.8     0.6     0.5    1        C_AP
+Four In One               4.4     1.2     0.5    2        F_TAD_ARC
+Four Seconds              6.0     1.2     1.1    2        F_TAD_ARC
+Frenetic Five             5.3     1.4     0.5    3     13 F_TAD_ARC
+Frenetic Five 2           6.6     1.5     1.0    3 21, 22 F_TAD_ARC
+Friday Afternoon          6.3     1.4     1.2    1     13 F_INF_ARC
+Frobozz Magic Support     7.2     1.2     1.5    3        F_TAD_ARC
+Frozen                    5.5     0.7     1.3    1        F_INF_ARC
+Fusillade                 7.1     1.5     0.3    1        F_TAD_ARC
+Frustration               5.7     1.1     0.9    1     21 F_TAD_ARC
+Futz Mutz                 5.3     1.0     1.1    1        F_TAD_ARC
+Galatea                   7.4     1.8     0.9    5     22 F_INF_ARC
+Gateway                   8.6     1.4     1.8    7     11 C_I
+Gateway 2: Homeworld      9.0     1.7     1.9    6     24 C_I
+Gerbil Riot of '67        6.3     0.7     1.1    1        F_TAD_ARC
+Glowgrass                 6.9     1.3     1.3    5     13 F_INF_ARC
+Gnome Ranger              5.8     1.2     1.6    1        C_I
+Golden Fleece             6.0     1.0     1.1    1     21 F_TAD_ARC
+Golden Wombat of Dest     6.3     0.7     1.1    1     18 F_I_ARC
+Good Breakfast            4.9     0.9     1.2    2     14 F_INF_ARC
+Got ID?                   6.2     1.4     1.0    1        F_INF_ARC
+Great Archeolog. Race     6.5     1.0     1.5    1      3 S20_TAD_ARC
+Guardians of Infinity     8.5             1.3    1      9 C_I
+Guess The Verb!           6.5     1.2     1.4    2     23 F_INF_ARC
+Guild of Thieves          7.1     1.1     1.5    5     14 C_MAG
+Guilty Bastards           6.9     1.4     1.2    5     22 F_HUG_ARC
+Guitar...Immortal Bar     3.0     0.0     0.0    1        F_INF_ARC
+Gumshoe                   6.2     1.0     1.1    7      9 F_INF_ARC
+Halothane                 6.6     1.3     1.2    4     19 F_INF_ARC
+Happy Ever After          4.6     0.5     1.2    1        F_INF_ARC
+HeBGB Horror              5.7     0.9     1.1    2        F_ALAN_ARC
+Heist                     6.7     1.4     1.5    2        F_INF_ARC
+Hero, Inc.                6.8     1.0     1.5    2        F_TAD_ARC
+Heroes                    7.9     1.8     1.6    1        F_INF_ARC
+Hitchhiker's Guide        7.3     1.3     1.5   16      5 C_INF
+Hobbit - The True Sto     5.9     1.1     0.8    1     26 S10_I_ARC
+Hollywood Hijinx          6.3     0.9     1.5   12        C_INF
+Holy Grail                6.2     0.9     1.2    1     21 F_TAD_ARC
+Horror of Rylvania        7.2     1.4     1.4    5      1 F_TAD_ARC
+Horror30.zip              3.7     0.3     0.7    2      3 S20_I_ARC
+Human Resources Stori     0.9     0.0     0.1    2     17 F_INF_ARC
+Humbug                    7.4     1.6     1.3    4 11, 24 F_I_ARC
+Hunter, In Darkness       7.3     0.9     1.4    7     19 F_INF_ARC
+I didn't know...yodel     4.0     0.7     1.0    5     17 F_I_ARC
+I-0: Jailbait on Inte     7.7     1.5     1.2   22     20 F_INF_ARC
+Ice Princess              7.5     1.4     1.6    2        A_INF_ARC
+In The End                4.8     0.6     0.2    3     10 F_INF_ARC
+In The Spotlight          3.2     0.2     1.0    2     17 F_INF_ARC
+Infidel                   6.9     0.2     1.4   15      1 C_INF
+Infil-Traitor             2.9     0.1     0.7    1        F_I_ARC
+Informatory               5.5     0.5     1.3    1     17 F_INF_ARC
+Ingrid's Back             7.0     1.6     1.6    2        C_I
+Inheritance               5.0     0.3     1.0    3     20 F_TAD_ARC
+Inhumane                  4.4     0.3     0.9    4  9, 20 F_INF_ARC
+Intruder                  6.7     1.3     1.1    4     20 F_INF_ARC
+Invasion of... Jupite     1.9     0.3     0.6    1        F_I_ARC
+Jacaranda Jim             7.5     1.0     0.9    3     24 F_ARC
+Jacks...Aces To Win       7.1     1.3     1.2    3     19 F_INF_ARC
+Jarod's Journey           2.5     0.5     0.3    1        F_TAD_ARC
+Jewel of Knowledge        6.3     1.2     1.1    3     18 F_INF_ARC
+Jeweled Arena             7.0     1.4     1.3    2        AGT_ARC
+Jigsaw                    8.2     1.6     1.6   19    8,9 F_INF_ARC
+Jinxter                   6.1     0.9     1.3    3        C_MAG
+John's Fire Witch         6.5     1.0     1.5    9  4, 12 S6_TADS_ARC
+Jouney Into Xanth         5.0     1.3     1.2    1      8 F_AGT_ARC
+Journey                   7.2     1.5     1.3    5      5 C_INF
+Jump                      3.2     0.5     0.7    1        F_INF_ARC
+Kaged                     7.0     1.1     1.1    4 23, 25 F_INF_ARC
+King Arthur's Night O     5.9     0.9     1.0    4     19 F_ALAN_ARC
+Kissing the Buddha's      7.9     1.8     1.5    6     10 F_TAD_ARC
+Klaustrophobia            6.4     1.1     1.3    6      1 S15_AGT_ARC
+Knight Orc                7.2     1.4     1.1    2     15 C_I
+L.U.D.I.T.E.              2.7     0.2     0.1    4        F_INF_ARC
+Lancelot                  6.9     1.4     1.2    1        C_I
+Land Beyond Picket Fe     4.8     1.2     1.2    1     10 F_I_ARC
+LASH                      7.6     1.3     1.0    5     21 F_INF_ARC
+Leather Goddesses         7.2     1.3     1.5   12      4 C_INF
+Leaves                    3.4     0.2     0.8    1     14 F_ALAN_ARC
+Legend Lives!             8.2     1.2     1.4    4      5 F_TAD_ARC
+Lesson of the Tortois     6.9     1.3     1.4    5     14 F_TAD_ARC
+Lethe Flow Phoenix        6.9     1.4     1.5    5      9 F_TAD_ARC
+Letters From Home         7.0     0.6     1.2    2        F_INF_ARC
+Life on Beal Street       5.4     1.3     0.1    3        F_TAD_ARC
+Light: Shelby's Adden     7.5     1.5     1.3    6      9 S_TAD_ARC
+Lightiania                1.9     0.2     0.4    1        F_INF_ARC
+Lists and Lists           6.3     1.3     1.1    3     10 F_INF_ARC
+Little Billy              1.1     0.4     0.0    1        F_I_ARC
+Little Blue Men           8.2     1.4     1.5   11     17 F_INF_ARC
+Lock And Key              6.6     1.0     1.5    1     20 F_GLU_ARC
+Lomalow                   4.6     1.0     0.6    3     19 F_INF_ARC
+Losing Your Grip          8.5     1.4     1.4    6      14S20_TAD_ARC
+Lost New York             7.9     1.4     1.4    4 20, 26 S12_TAD_ARC
+Lost Spellmaker           6.3     1.3     1.1    5     13 F_INF_ARC
+Lunatix: Insanity Cir     5.6     1.2     1.0    3        F_I_ARC
+Lurking Horror            7.2     1.3     1.4   16    1,3 C_INF
+MacWesleyan / PC Univ     5.1     0.7     1.2    3        F_TAD_ARC
+Madame L'Estrange...      5.1     1.2     0.7    1     13 F_INF_ARC
+Magic Toyshop             5.2     1.1     1.1    5      7 F_INF_ARC
+Magic.zip                 4.5     0.5     0.5    1      3 S20_IBM_ARC
+Maiden of the Moonlig     6.4     1.3     1.5    2     10 F_TAD_ARC
+Masque of the Last...     4.7     1.1     0.8    1        F_INF_ARC
+Masquerade                7.3     1.6     1.0    1     23 F_INF_ARC
+Matter of Time            1.4     0.3     1.4    1      14F_ALAN_ARC
+Mercy                     7.3     1.4     1.2    6     12 F_INF_ARC
+Metamorphoses             6.8     0.8     1.3    2     23 F_INF_ARC
+Meteor...Sherbet          8.0     1.5     1.6    9 10, 12 F_INF_ARC
+Mind Electric             5.2     0.6     0.9    4    7,8 F_INF_ARC
+Mind Forever Voyaging     8.4     1.4     0.9   15   5,15 C_INF
+Mindwheel                 8.5     1.6     1.5    1        C_I
+Mission                   6.0     1.2     1.4    1     21 F_TAD_ARC
+Moist                     6.4     1.3     1.1    5        F_TAD_ARC
+Moment of Hope            5.0     1.3     0.3    3     19 F_TAD_ARC
+Moonmist                  6.3     1.3     1.0   17      1 C_INF
+Mop & Murder              5.0     0.9     1.0    2      5 F_AGT_ARC
+Mother Loose              7.0     1.5     1.3    2     17 F_INF_ARC
+Mulldoon Legacy           7.4     1.2     1.8    1     24 F_INF_ARC
+Multidimen. Thief         5.6     0.5     1.3    6    2,9 S15_AGT_ARC
+Muse                      7.9     1.5     1.2    4     17 F_INF_ARC
+Music Education           3.7     1.0     0.7    3        F_INF_ARC
+My Angel                  8.2     1.8     1.4    2     23 F_INF_ARC
+Myopia                    6.1     1.3     0.6    2        F_AGT_ARC
+Mystery House             4.1     0.3     0.7    1        F_AP_ARC
+Nevermore                 7.2     1.5     1.4    1     23 F_INF_ARC
+New Day                   6.6     1.4     1.1    4     13 F_INF_ARC
+Night At Computer Cen     5.2     1.0     1.0    2        F_INF_ARC
+Night at Museum Forev     4.2     0.3     1.0    4    7,8 F_TAD_ARC
+Night of... Bunnies       6.6     1.0     1.4    1        I_INF_ARC
+No Time To Squeal         8.6     1.6     1.5    1        F_TAD_ARC
+Nord and Bert             6.1     0.6     1.2    9      4 C_INF
+Not Just A Game           6.9     1.0     1.3    1     20 F_INF_ARC
+Not Just... Ballerina     5.3     0.8     0.9    3     20 F_INF_ARC
+Obscene...Aardvarkbar     3.2     0.6     0.6    1        F_TAD_ARC
+Odieus...Flingshot        3.3     0.4     0.7    2      5 F_INF_ARC
+Of Forms Unknown          4.5     0.7     0.5    1     10 F_INF_ARC
+Offensive Probing         4.2     0.6     0.9    1        F_INF_ARC
+On The Farm               6.5     1.6     1.2    2     19 F_TAD_ARC
+On The Other Side         2.2     0.0     0.0    1        F_I_ARC
+Once and Future           6.9     1.6     1.5    2     16 F_TAD_ARC
+One That Got Away         6.4     1.4     1.1    7    7,8 F_TAD_ARC
+Only After Dark           4.6     0.8     0.6    4        F_INF_ARC
+Oo-Topos                  5.7     0.2     1.0    1      9 C_AP_I_64
+Outsided                  2.5     0.7     0.2    2        F_INF_ARC
+Pass the Banana           2.9     0.8     0.5    3     19 F_INF_ARC
+Path to Fortune           6.6     1.5     0.9    3      9 S_INF_ARC
+Pawn                      6.3     1.1     1.3    2     12 C_MAG
+Perilous Magic            5.7     1.0     1.2    3     21 F_INF_ARC
+Perseus & Andromeda       3.5     0.4     0.9    2        64_INF_ARC
+Persistence of Memory     6.2     1.2     1.1    1     17 F_HUG_ARC
+Phlegm                    5.2     1.2     1.0    2     10 F_INF_ARC
+Photopia                  7.4     1.5     0.7   29     17 F_INF_ARC
+Phred Phontious...Piz     5.2     0.9     1.3    2     13 F_INF_ARC
+Pickpocket                4.1     0.6     0.8    1        F_INF_ARC
+Piece of Mind             6.3     1.3     1.4    1     10 F_INF_ARC
+Pintown                   1.3     0.3     0.2    1        F_INF_ARC
+Pirate's Cove             4.8     0.6     0.6    1        F_INF_ARC
+Planet of Infinite Mi     6.8     1.1     1.3    1     23 F_TAD_ARC
+Planetfall                7.3     1.6     1.4   15      4 C_INF
+Plant                     7.3     1.2     1.5    4     17 F_TAD_ARC
+Plundered Hearts          7.4     1.4     1.3   11      4 C_INF
+Poor Zefron's Almanac     5.6     1.0     1.3    3     13 F_TAD_ARC
+Portal                    8.0     1.7     0.2    3        C_I_A_AP_64
+Prodly The Puffin         5.8     1.3     1.1    2     23 F_INF_ARC
+Punk Points               6.4     1.4     1.3    1        F_INF_ARC
+Purple                    5.6     0.9     1.0    1     17 F_INF_ARC
+Pyramids of Mars          5.8     1.2     1.1    2     24 AGT_ARC
+Quarterstaff              6.1     1.3     0.6    1      9 C_M
+Ralph                     7.1     1.6     1.2    3 10, 25 F_INF_ARC
+Rameses                   8.0     1.6     0.4    2     23 F_INF_ARC
+Rematch                   7.9     1.5     1.6    1     22 F_TAD_ARC
+Remembrance               2.7     0.8     0.2    3        F_ARC
+Reruns                    5.2     1.2     1.2    1        AGT_ARC
+Research Dig              4.8     1.1     0.8    2     17 F_INF_ARC
+Revenger                  4.2     0.8     0.5    1        F_INF_ARC
+Reverberations            5.6     1.3     1.1    1     10 F_INF_ARC
+Ritual of Purificatio     7.0     1.6     1.1    4     17 F_ARC
+Saied                     4.6     1.0     0.2    1     15 F_INF_ARC
+Sanity Claus              7.5     0.3     0.6    2      1 S10_AGT_ARC
+Save Princeton            5.6     1.0     1.3    5      8 S10_TAD_ARC
+Scapeghost                8.1     1.7     1.5    1      6 C_I
+Sea Of Night              5.7     1.3     1.1    2        F_TAD_ARC
+Seastalker                5.2     1.1     0.8   11      4 C_INF
+Shade                     8.5     0.7     1.0    2     23 F_INF_ARC
+Shades of Grey            7.8     1.3     1.3    6   2, 8 F_AGT_ARC
+Sherlock                  7.0     1.3     1.4    5      4 C_INF
+She's Got a Thing...S     7.0     1.7     1.6    3     13 F_INF_ARC
+Shogun                    7.0     1.2     0.6    2      4 C_INF
+Shrapnel                  7.5     1.4     0.5    7     20 F_INF_ARC
+Simple Theft              5.8     1.3     0.8    1     20 F_TAD_ARC
+Sins against Mimesis      5.5     1.0     1.2    3     13 F_INF_ARC
+Sir Ramic... Gorilla      6.0     1.2     1.2    2      6 F_AGT_ARC
+Six Stories               6.3     1.0     1.2    4     19 F_TAD_ARC
+Skyranch                  2.8     0.5     0.7    1     20 F_I_ARC
+Small World               6.5     1.3     1.1    4 10, 24 F_TAD_ARC
+So Far                    8.0     1.1     1.4   13 12, 25 F_INF_ARC
+Sorcerer                  7.2     0.6     1.6    7   2,15 C_INF
+Sound of... Clapping      7.1     1.3     1.3    8      5 F_ADVSYS_ARC
+South American Trek       0.9     0.2     0.5    1      5 F_IBM_ARC
+Space Aliens...Cardig     1.5     0.4     0.3    6   3, 4 S60_AGT_ARC
+Space under Window        7.1     0.9     0.4    6     12 F_INF_ARC
+Spacestation              5.6     0.7     1.1    1        F_INF_ARC
+Spellbreaker              8.5     1.2     1.8    8   2,15 C_INF
+Spellcasting 101          7.4     1.1     1.5    4        C_I
+Spellcasting 201          7.8     1.6     1.7    2        C_I
+Spellcasting 301          6.0     1.2     1.2    2        C_I
+Spider and Web            8.6     1.7     1.7   19      14F_INF_ARC
+SpiritWrak                6.7     1.2     1.3    6     22 F_INF_ARC
+Spodgeville...Wossnam     4.3     0.7     1.2    2        F_INF_ARC
+Spur                      7.1     1.3     1.1    2      9 F_HUG_ARC
+Spyder and Jeb            6.2     1.1     1.4    1        F_TAD_ARC
+Starcross                 6.6     1.0     1.2    7      1 C_INF
+Stargazer                 5.4     1.1     1.1    1        F_INF_ARC
+Starrider                 7.2     1.2     1.4    1        F_INF_ARC
+Stationfall               7.7     1.6     1.5    7      5 C_INF
+Statuette                 3.7     0.0     0.1    1        F_INF_ARC
+Stick It To The Man       6.2     1.8     1.0    1        F_GLU_ARC
+Stiffy                    1.2     0.1     0.2    2        F_INF_ARC
+Stiffy - MiSTing          4.1     0.8     0.3    7        F_INF_ARC
+Stone Cell                6.0     1.1     1.0    3     19 F_TAD_ARC
+Stranded                  6.4     1.4     1.5    1        F_TAD_ARC
+Strange Odyssey           4.0     0.0     1.0    1
+Strangers In The Nigh     3.2     0.7     0.6    2        F_TAD_ARC
+Stupid Kittens            2.9     0.6     0.4    2        F_INF_ARC
+Sunset Over Savannah      8.7     1.7     1.4    6     13 F_TAD_ARC
+Suspect                   6.2     1.3     1.1    8      4 C_INF
+Suspended                 7.7     1.5     1.4    8      8 C_INF
+Sylenius Mysterium        4.7     1.2     1.1    1     13 F_INF_ARC
+Symetry                   1.1     0.1     0.1    2        F_INF_ARC
+Tapestry                  7.3     1.4     0.9    6 10, 14 F_INF_ARC
+Tempest                   5.3     1.4     0.6    3     13 F_INF_ARC
+Temple of the Orc Mag     4.5     0.1     0.8    2        F_TAD_ARC
+Terror of Mecha Godzi     4.6     0.8     0.6    1     26 S10_I_ARC
+Test                      1.9     0.1     0.4    1        F_ADR_ARC
+Textfire Golf             7.1     1.3     0.4    2     25 F_INF_ARC
+Theatre                   7.0     1.1     1.3   13      6 F_INF_ARC
+Thorfinn's Realm          3.5     0.5     0.7    2        F_INF_ARC
+Threading the Labyrin     1.9     0.0     0.0    1        F_TAD_ARC
+Time: All Things...       3.9     1.2     0.9    2 11, 12 F_INF_ARC
+TimeQuest                 8.0     1.2     1.6    4        C_I
+TimeSquared               4.3     1.1     1.1    1        F_AGT_ARC
+Toonesia                  5.8     1.1     1.1    6  7, 21 F_TAD_ARC
+Tossed into Space         3.9     0.2     0.6    1      4 F_AGT_ARC
+Town Dragon               3.9     0.8     0.3    2 14, 22 F_INF_ARC
+Transfer                  7.6     1.0     1.6    2     23 F_INF_ARC
+Trapped...Dilly           5.1     0.1     1.1    2     17 F_INF_ARC
+Travels in Land of Er     6.1     1.2     1.5    2     14 F_INF_ARC
+Trinity                   8.7     1.4     1.7   18    1,2 C_INF
+Trip                      5.4     1.2     1.1    2        F_TAD_ARC
+Tryst of Fate             7.1     1.4     1.3    1     11 F_INF_ARC
+Tube Trouble              4.2     0.8     0.7    2      8 F_INF_ARC
+Tyler's Great Cube Ga     5.8     0.0     1.7    1        S_TAD_ARC
+Uncle Zebulon's Will      7.3     1.0     1.5   12      8 F_TAD_ARC
+Underoos That Ate NY      4.5     0.6     0.9    3        F_TAD_INF_ARC
+Undertow                  5.4     1.3     0.9    3      8 F_TAD_ARC
+Undo                      2.9     0.5     0.7    4      7 F_TAD_ARC
+Unholy Grail              6.0     1.2     1.2    1     13 F_I_ARC
+Unnkulian One-Half        6.7     1.2     1.5    9      1 F_TAD_ARC
+Unnkulian Unventure 1     6.9     1.2     1.5    8    1,2 F_TAD_ARC
+Unnkulian Unventure 2     7.2     1.2     1.5    5      1 F_TAD_ARC
+Unnkulian Zero            8.4     0.7     0.8    21,12,14 F_TAD_ARC
+Varicella                 8.2     1.6     1.5    9     18 F_INF_ARC
+Veritas                   6.6     1.3     1.4    4        S10_TAD_ARC
+Vindaloo                  2.9     0.0     0.4    1        F_INF_ARC
+VirtuaTech                6.1     0.0     1.2    1        F_TAD_ARC
+VOID: Corporation         3.2     0.4     0.8    1        F_AGT_ARC
+Water Bird                5.0     1.1     0.8    1        F_TAD_ARC
+Waystation                5.5     0.7     1.0    4      9 F_TAD_ARC
+Weapon                    6.8     1.1     1.4    1     26 F_INF_ARC
+Wearing the Claw          6.5     1.2     1.2    7 10, 18 F_INF_ARC
+Wedding                   7.4     1.6     1.3    3     12 F_INF_ARC
+What-IF?                  1.6     0.0     0.0    2        F_INF_ARC
+Where Evil Dwells         5.1     0.8     1.1    1        F_INF_ARC
+Winchester's Nightmar     6.9     1.5     0.5    1     22 F_INF_ARC
+Winter Wonderland         7.6     1.3     1.2    7     19 F_INF_ARC
+Wishbringer               7.6     1.3     1.3   16    5,6 C_INF
+Withdrawal Symptoms       4.4     0.5     0.7    1        F_INF_ARC
+Witness                   6.7     1.5     1.2   10  1,3,9 C_INF
+Wizard of Akyrz           3.2     0.3     0.8    1
+Wonderland                6.4     1.4     1.1    3        C_MAG
+World                     6.5     0.6     1.3    2      4 F_I_ETC_ARC
+Worlds Apart              8.0     1.7     1.4   10     21 F_TAD_ARC
+YAGWAD                    6.7     1.1     1.3    2     23 F_INF_ARC
+You Are Here              6.0     1.0     1.3    1        F_INF_ARC
+Your Choice               5.5     0.0     1.1    1        F_TAD_ARC
+Zanfar                    2.6     0.2     0.4    1      8 F_AGT_ARC
+Zero Sum Game             7.5     1.5     1.6    4     13 F_INF_ARC
+Zombie!                   5.2     1.2     1.1    2     13 F_TAD_ARC
+Zork 0                    6.3     1.0     1.5   10      14C_INF
+Zork 1                    6.1     0.8     1.4   24  1, 12 F_INF
+Zork 2                    6.4     1.0     1.5   13  1, 12 F_INF
+Zork 3                    6.5     0.9     1.4    8  1, 12 F_INF
+Zork Undisc. Undergr.     5.9     0.9     1.1    3      14F_INF_ARC
+Zork: A Troll's Eye V     4.4     0.6     0.1    3     14 F_INF_ARC
+Zuni Doll                 4.0     0.6     0.9    2     14 F_INF_ARC
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Ten:
+
+I've gotten twelve, count 'em, *twelve* votes since the last issue. Hey,
+that's about four votes a month, almost one a week! Unsurprisingly,
+nothing has changed in the top ten. Not one thing. Oh, wait -- one
+thing: Mind Forever Voyaging got one more vote. Not that this vote
+affected its score or placement in any way. Sheesh, no wonder I'm
+putting this feature to bed. 
+
+1.  Gateway 2: Homeworld  9.0   6 votes
+2.  Anchorhead            8.7   29 votes
+3.  Sunset over Savannah  8.7   6 votes
+4.  Trinity               8.7   18 votes
+5.  Spider and Web        8.6   19 votes
+6.  Gateway               8.6   7 votes
+7.  Losing Your Grip      8.5   6 votes
+8.  Babel                 8.5   11 votes
+9.  Spellbreaker          8.5   8 votes
+10. Mind Forever Voyaging 8.4   15 votes
+
+A game is not eligible for the Top Ten unless it has received at least 
+three ratings from different readers. This is to ensure a more 
+democratic and accurate depiction of the best games.
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

@@ -1,0 +1,1072 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #36
+
+           Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                       March 16, 2004 
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #36 is copyright (c) 2004 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Amnesia
+Bad Machine
+Hamlet
+Insight
+Shadowgate
+To Hell In A Hamper
+
+SPECIFICS
+=========
+The Act Of Misdirection
+
+EDITORIAL------------------------------------------------------------------
+
+It's a collection of miscellany that I have to discuss today. First up
+is the lamentable absence of an interview in this issue. I'm working on
+a few different things, but none of them came together in time for this
+issue. As a small consolation prize, I can tell you a little of what's
+waiting in the wings, or at least what I *hope* the future holds. I
+recently canvassed you all for interview suggestions, and one dynamite
+idea I received was to interview Stephen Ramsay. For those of you
+unfamiliar with this name, Dr. Ramsay is a professor of English at the
+University of Georgia who taught a class last fall called Digital
+Narratives. This is the first academic course I've ever seen that
+focuses entirely on text IF, and that includes many works created by the
+IF community in its required reading and playing materials. If you're
+interested in the syllabus, it's available at
+http://cantor.english.uga.edu/cocoon/classes/engl4890.html.
+Unfortunately, though I tried to contact Dr. Ramsay for an interview, he
+didn't answer my email and his phone just rang and rang. If any of you
+out there know how to contact him, or if you took part in the class and
+want to tell SPAG's readers a little bit about your experience, get in
+touch with me. The other thing that's cooking is an interview exchange
+between myself and Urbatain, one of the luminaries of the Spanish IF
+community. If all goes well, the interview with me will be translated
+into Spanish and published in SPAC (Sociedad para la Preservación de las
+Aventuras Conversacionales, the Spanish equivalent of SPAG), and the
+interview with Urbatain will appear here. Sadly, my Spanish isn't strong
+enough for me to interview him in his native language, so we'll just
+have to muddle through as best we can.
+
+Another change that's recently occurred with SPAG is in the way it
+handles email addresses. This zine was started way back in 1994 (Whoa!
+It's almost our 10th anniversary!), and in those simpler Internet days,
+attaching email addresses to the names of authors and reviewers was
+actually a good thing. It encouraged feedback, made communication
+easier, and generally added cohesiveness to our small community.
+However, in today's spam-crazed Net environment, putting email addresses
+in cleartext out on the web is basically like pinning a sign on the
+person that says "Spam Me." Consequently, all email addresses appearing
+in SPAG will henceforth be spamblocked by replacing the @ sign with the
+string " SP@G ". This change has also been made to all addresses on the
+website, including everything listed in the review index and back issues
+listings. All mailto: links have also been removed, with the exception
+of the links to contact me or Joe DeRouen, SPAG Webmaster. It's
+regrettable to be driven to such measures by the bottom-feeders of the
+world, but there shouldn't be an overall penalty for being published or
+reviewed in SPAG, and for some people, the spam overload was becoming
+just that. 
+
+Finally, I want to mention and publicly mull over a situation that
+occurred recently. I received a review that would have been great for
+this issue -- it was written clearly, specific in its analysis,
+objective, and fair. There was just one little concern, a parenthetical
+comment where the reviewer mentioned a plot thread that hadn't been
+followed, or, as he said, "at least not in the parts of the game I have
+succeeded in reaching so far." When I inquired further about this
+comment, the reviewer told me that in fact, he hadn't finished the game,
+quitting after reaching 50 points out of 75. In his mind, this wasn't a
+concern, since he had spent several hours with the game and had plenty
+to say about it. Also, to be fair, SPAG's submission policy has up until
+now been completely silent on the topic of whether a game should be
+finished before reviewing.
+
+Reluctantly, I had to reject the review, since I feel that completing a
+game is a necessary prerequisite to reviewing it. It feels a bit odd to
+say that, since I've written plenty of reviews of games I haven't
+finished, but those are competition game reviews, which is a bit of a
+special case, as the comp's rules dictate that a score must be assigned
+after playing a game for two hours, finished or not. In my mind, those
+comp reviews served to explain the score, not necessarily to provide a
+complete analysis of the game as a whole, though of course many times
+they serve that purpose as well. It's a thorny issue all around, though.
+When reviewing a book, or a movie, or a CD, the lines are rather clear:
+experience the entire thing, and until you do so, you aren't fit to
+review it. With games, though, there are a variety of different
+experiences of "finishing", and it's a much more subjective call on
+whether a reviewer has seen enough of the work to be able to review it.
+It's murky enough with traditional IF, but with experimental IF that has
+no ending, or that has hundreds of endings, or that has a facile "best"
+ending reachable in two moves, the lines blur even further.
+Consequently, although I've updated the submission guidelines, I've
+tried to leave a fair amount of wiggle room for a wide definition of
+"completeness." The bottom line is that if you're unsure how much of a
+particular game you need to see before reviewing it, ask me. 
+
+LETTERS TO THE EDITOR------------------------------------------------------
+
+From:	Rich Mellor <RWAPSoftware SP@G aol.com>
+
+Just a quick update following on from SPAG #34 - All of the adventures
+sold by RWAP Software for the Sinclair QL and PC are now available on a
+dedicated website:
+ 
+http://www.rwapadventures.com
+ 
+I should be obliged if you would include this in your next issue of
+SPAG.
+ 
+[Consider it included, Rich. --Paul]
+
+NEWS ----------------------------------------------------------------------
+
+AND THE XYZZY GOES TO...
+It was another fantastic XYZZY awards ceremony this year, held on March
+2nd in the Massive Auditorium on ifMUD (http://ifmud.port4000.com). It
+was an especially exciting ceremony for me, because for the first time I
+was able to be a presenter, though as it turned out, Earth and Sky
+stepped into that duty for me. Happily, I've been able to work something
+out with the MUD's lawyers so that I won't be billed for the damage my
+hapless characters caused. As for the awards themselves, it was
+definitely a banner year for Star Foster and Daniel Ravipinto's
+steampunk comp-winner Slouching Towards Bedlam, which was nominated for
+eight awards and won four, including Best Game. The ceremony itself was
+just as fun and chaotic as ever, as you can see if you care to check out
+the transcripts Stephen Granade has kindly made available at
+http://brasslantern.org/community/comps/xyzzy2003.html. Here now, the
+winners of the 2003 XYZZY Awards:
+   * Best Use of Medium: ASCII and the Argonauts, by J. Robinson Wheeler
+   * Best Individual PC: The PC from Episode in the Life of an Artist,
+     by Peter Eastman
+   * Best Individual NPC: Triage, from Slouching Towards Bedlam, by
+     Daniel Ravipinto and Star Foster
+   * Best Individual Puzzle: The Purple Room, from The Recruit, by Mike
+     Sousa
+   * Best NPCs: City of Secrets, by Emily Short
+   * Best Puzzles: Gourmet, by Aaron Reed
+   * Best Setting: Slouching Towards Bedlam, by Daniel Ravipinto and
+     Star Foster
+   * Best Story: Slouching Towards Bedlam, by Daniel Ravipinto and Star
+     Foster
+   * Best Writing: Narcolepsy, by Adam Cadre
+   * Best Game: Slouching Towards Bedlam, by Daniel Ravipinto and Star
+     Foster
+
+NEW GAMES
+And now that we've seen the 2003 XYZZYs, the contenders for 2004 may
+begin to emerge. The new games from the past few months run the gamut of
+development systems, themes, and annoyance levels. (Hint: the one called
+"Annoyotron" is really, really annoying.) I was happy to participate in
+a little pre-game promotion for Callico Harrison's excellent new game,
+The Act Of Misdirection, and Emily Short kindly provides us with an
+in-depth review of it for this issue's SPAG Specifics section. 
+   * Smuggler by Frank Fridd
+   * The Gate by Owen Parish
+   * The Last Hour by Roberto Grassi
+   * The Act Of Misdirection by Callico Harrison
+   * Annoyotron IV: Affrontotron by Joe Mason
+
+LOST, CONCEALING A DRIFTER (6)
+If the only place you read about IF is on the rec.*.int-fiction
+newsgroups, you may not be terribly aware that there's another thriving
+IF community that only overlaps a bit with the newsgroup crowd. This is
+the ADRIFT community, a group of enthusiasts for Campbell Wild's ADRIFT
+development system. Luckily for you, a wealth of information is
+available in the ADRIFT newsletter, a monthly publication run by Ken
+Franklin. The latest version of the newsletter can be downloaded from
+http://www.insideadrift.org.uk. Also, if you're interested in becoming a
+"drifter", check out the ADRIFT beginner's guide at 
+http://home.gcn.cx/mystery, in the downloads section
+
+A TWISTY MAZE OF LITTLE ANALYSES, ALL GOOD
+For me, one of the most exciting IF-related events of the winter was the
+publication of Nick Montfort's book Twisty Little Passages, the first
+book-length academic treatment of interactive fiction. Montfort does his
+subject justice, treating IF as a new medium worthy of careful study and
+possessing enormous potential. I could go on at length about it, but as
+it turns out, I already have. If you want to see the results, they're at
+http://ucsu.colorado.edu/~obrian/tlprev.html. If you're interested in
+somebody else's opinion (a shocking thought, really), check out
+Montfort's own TLP page, which contains links to all online reviews and
+discussion about the book. It's at http://nickm.com/twisty/.
+
+I'M AFRAID I CAN'T LET YOU DO THAT, DAVE
+Finally, a bit of sad news: David Cornelson has come to the end of a
+long chapter of IF activism, and is shutting down his IF-related
+operations, including the Plover server and the IF Library's publishing
+endeavors. Right now, it's looking like another community member will
+take up the torch for Plover, keeping the sites it hosts from sliding
+into oblivion. As for the Inform Designer's Manual and the Inform
+Beginner's Guide, both published by IF Library, the sun is setting on
+their printed versions. The IF Theory book is still going forward, and
+its editors remain committed to shepherding it into publication. The
+latest news on the project is always available at
+http://www.iftheory.com. Let me take this space to offer big thanks to
+Dave for all he's done for us, and wish him the best of luck in the
+future. 
+
+KEEP YOUR SPAG ALIVE
+I've gotten a nice variety of reviews for this issue, from lots of
+different sources, but while SPAG has a pulse at the moment, it's always
+touch and go from one issue to the next. Keep this zine's heart beating
+strongly by submitting your own reviews of IF games! If you need
+inspiration, consider the following list of games that I'd love to see
+reviewed here:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  City Of Secrets
+2.  Dr. Dumont's Wild P.A.R.T.I.
+3.  1893: A World's Fair Mystery
+4.  The Gate
+5.  House
+6.  Inevitable
+7.  The Last Hour
+8.  Max Blaster and Doris de Lightning Against the Parrot Creatures of Venus
+9.  Narcolepsy
+10. Smuggler
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+REVIEWS -------------------------------------------------------------------
+
+From: Neil Butters <neil.butters SP@G sympatico.ca>
+
+TITLE: Amnesia
+AUTHOR: Dustin Rhodes
+EMAIL: crazydwarf12 SP@G yahoo.com
+DATE: October 2003
+PARSER: TADS2
+SUPPORTS: TADS2 interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2003/tads2/amnesia
+VERSION: Version 1.0 (competition release)
+
+The first line of Amnesia demonstrates what to expect from the game:
+
+   A cool beach where you should have washed ashore and not have been
+   able to remember anything because you where supposed to have amnesia,
+   which you didn't, which completly ruins the whole storyline this game
+   was going to have, so now the auther will have to make a game up on
+   the spot, enjoy.
+
+Amnesia is a crude, nonsensical, and often hilarious effort, with an
+obvious affection for the genre. It certainly seems as though Amnesia
+was made up on the spot. For example, there is no story and the goal of
+the game does not become apparent until near the conclusion. The parser
+is very limited and there are spelling and grammatical errors aplenty.
+Often the exits from rooms are not mentioned. This only became a major
+problem in one situation. Consulting the walkthrough file did not help
+much -- it is in error. The puzzles make very little sense, but are easy
+to figure out anyway. And don't expect to finish the game; there's a bug
+near the end. A total waste of time? Not really, because I also laughed
+quite a bit. The sloppy and crude design often invoked laughter. The
+major NPC's sole purpose seems to be to act strange. Don't bother trying
+to interact with him (I don't think you can, despite the author's claim
+to the contrary) -- just enjoy his antics. Also contributing to the
+game's enjoyability is the author's self-mockery and love of the
+adventure game. Often the author (or narrator) will acknowledge the
+game's absurdities and invite you to play along. Credit has to be given
+for its self-consciousness. 
+
+It is obvious why Amnesia finished in 27th place in the 9th Annual IF
+Competition. I can't say that Amnesia is "so bad it's good." It is not a
+good game. However, if you have 15 minutes, a sense of humour, and do
+not take it too seriously you may have as much fun playing Amnesia as
+the author had creating it. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[For years I've been wishing for a review of Dan Shiovitz's mind-bending
+and idiosyncratic work Bad Machine. My pleas must finally have been
+heard, because recently a little hole in the universe opened and
+extruded the following piece. I can't vouch for its grounding in
+reality, but Dan has approved its publication, so publish it I will. Let
+me put it this way: it's the best Bad Machine review I've ever been
+sent. --Paul]
+
+From: Valentine Kopteltsev <uux SP@G mail333.com>
+
+TITLE: Bad Machine
+AUTHOR: Dan Shiovitz
+EMAIL: dans SP@G drizzle.com
+DATE: 1998
+PARSER: TADS Hacked
+SUPPORTS: TADS2 interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/tads/bmch.zip
+
+A pseudo-inter-RE-view with Dan Shiovitz
+----------------------------------------
+
+I asked for it, and I got it: a cozy arm-chair next to a fireplace,
+where I can lounge while sipping cold beer and interviewing Dan, who's
+sitting opposite me in a similar arm-chair.
+
+Valentine Kopteltsev: Danny, partner, would you please tell me some
+background info about your game -- maybe something about its history,
+the creation process, etc.
+
+Dan Shiovitz: No, no. You're going about it from the wrong end. Look,
+for one thing, I agreed to help you with your REVIEW, which is supposed
+to be some sort of summary of YOUR OWN, PERSONAL impressions of the
+game. For the other, would you mind refraining from calling me Danny?
+I'd appreciate it a lot.
+
+V.K.: Well, then, let's begin from the very start. How does it happen
+that the trailer for Bad Machine is essentially unrelated to the game
+itself?
+
+D.S.: You didn't enjoy it?
+
+V.K.: On the contrary, I did; in fact, I thought it was just great.
+However, I found it a tad bit confusing to discover the main game had
+nothing to do with it.
+
+D.S.: I see no problem with that. Just take it as some sort of epigraph.
+How many books have you read in your life where the epigraph represented
+an integral part of the story?
+
+V.K.: M-m-m... Sounds convincing. Let's move on, then. The world of Bad
+Machine, this fully automated warehouse, is astounding, even
+overwhelming: while it doesn't take too much time to finish the game,
+one could spend I think at least a couple of hours exploring
+possibilities, gaining information, and trying to figure out how
+everything works. And despite its large size, you somehow managed to
+maintain both its consistency and a high level of detail. Danny, pal,
+please tell me -- was it difficult to create?
+
+D.S.: Could you please stop calling me Danny? You bet it was! You know,
+your question appears somewhat... inadequate.
+
+V.K.: You mean, it's stupid. ;) Sure, come to think of it, I have to
+admit it is. I mean, considering the dimensions of the warehouse, the
+number of different robots you had to implement for it, as well as the
+fact that you rewrote the standard TADS parser almost beyond
+recognition, one really needn't ask you whether it was a lot of work.
+Still, during gameplay, I ran into a few bugs, and there also were
+several things I thought I (or, to be more precise, the player
+character) should be able to do but wasn't. What do you think of this?
+
+D.S. (smiling): I think you're a nitpicker.
+
+V.K. (also smiling): Probably I am -- after all, none of the bugs were
+too critical. Still, there were some issues considering the puzzles and
+the overall gameplay. While, on the whole, the puzzles were logical and
+quite manageable (while I'm not the best puzzle-solver, I could finish
+Bad Machine without resorting to the hints; OK, I used them, but only
+after solving yet another puzzle -- as some sort of proof I was on the
+right track), there were episodes where I had to wait quite a few turns
+for something relevant to happen, and this was a bit confusing. Also,
+considering the recent discussion in SPAG about how doors should
+automatically unlock if the PC has a key, it occurred to me that some
+players (although I'm not one of them) might find the game too pedantic
+about always getting explicit commands. Danny, chum, please tell me your
+opinion on that matter.
+
+D.S.: Please don't call me Danny. First of all, Bad Machine was released
+a few years before this discussion, so referring to it here seems a bit
+inappropriate. Besides, the player is controlling a not too advanced
+robot in this game; I think that requesting precise instructions is
+exactly the behaviour most people would expect of a machine, isn't it?
+As for puzzle solutions requiring waiting for a random number of
+turns... You already mentioned the action in Bad Machine takes place in
+an automated warehouse. This structure has its own production cycles,
+and works strictly in accordance with a certain schedule. If it broke
+this schedule just to be more convenient for the player, that'd be
+rather unrealistic, wouldn't it?
+
+V.K.: OK, I think I can buy this explanation. However, for me, probably
+the strangest thing about Bad Machine was its ending. Somehow, I
+couldn't make heads or tails of it. You know, I've always had trouble
+understanding deeply symbolic games (Losing Your Grip by Stephen Granade
+is a good example); I guess that's the reason for my confusion about Bad
+Machine. Danny, buddy, please give me some clue for better
+understanding.
+
+D.S.: I suspect you also have troubles with your memory, for I have
+asked you several times not to call me Danny, and you still do. Well,
+I'm afraid I can't help you with that.
+
+V.K.: But Danny, my friend...
+
+D.S.: NOW STOP CALLING ME DANNY WILL YOU!!!
+
+V.K. (only slightly disconcerted): Er... still, a little explanation
+would be nice.
+
+D.S. (glancing at his watch): Sorry, I'm afraid we have to skip this. I
+suggest you get right over to the SNATS [Valentine's traditional "Scores
+Not Affecting The Scoreboard" --Paul] section -- I have another
+appointment in a few minutes.
+
+V.K.: Well, let's have a look at what we've got here... the PLOT is the
+element of the game that gives me the most trouble (1.1). Then, the
+genuine ATMOSPHERE of a robot factory (1.6)... WRITING that manages to
+be computer-like and not to degenerate into binary code at the same time
+(1.8)... GAMEPLAY with episodes requiring random waiting, but I think
+the multiple solutions balance it out (1.4)... and BONUSES for the
+overall consistency, lots of background material, as well as for some
+responses (in particular, the response to debris manipulation attempts)
+(1.3). All this results in a TOTAL RATING of 7.2. Considering the theme
+of the game, the CHARACTERS are almost perfect; however, it must be said
+that implementing robots probably is easier than implementing people
+(1.4). The PUZZLES were interesting and logical enough, although I had
+the feeling the game could use a couple more of them (1.3). As to the
+difficulty... well, even *I* was able to solve it without resorting to
+hints (max. 6 out of 10). But Danny, comrade, would you please give me a
+final comme...
+
+D.S. (producing a butcher's axe): HERE!
+
+Disconnect performed -- limb (top, left) removed
+Disconnect performed -- limb (top, right) removed
+Disconnect performed -- limb (bottom, left) removed
+Disconnect performed -- limb (bottom, right) removed
+Disconnect performed -- head removed
+
+D.S. (now alone): Time to find someone to bring this to the reclamation
+area.
+
+---
+
+P.S. I honestly hope you play Bad Machine if you haven't already. The game's
+definitely worth it.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Andrea Crain <acrain SP@G idea-inc.com>
+
+NAME: The Most Lamentable and Excellent Text Adventure of Hamlet, Prince
+      of Denmark
+AUTHOR: Robin Johnson
+EMAIL: rj SP@G robinjohnson.f9.co.uk
+DATE: November 2003
+PARSER: Nondescript
+SUPPORTS: Web browser with JavaScript
+AVAILABILITY: Freeware
+URL: http://www.robinjohnson.f9.co.uk/adventure/hamlet.html
+VERSION: The page says last bug fix was 1/25/04
+
+This game is written with Nondescript, a JavaScript game engine the
+author wrote himself. Lots of people tend to shy away from games not
+written in one of the big IF languages, but have no fear that playing
+Hamlet will leave you battling the engine instead of the game proper.
+This is a really well implemented piece of JavaScript. A couple of
+conveniences are missing that you might be used to -- you can't pick up
+or drop more than one item at a time, for example. Also, NPC's seem
+pretty shallow, and are rooted to one spot most of the time. However,
+things you can do work consistently, and you can use abbreviations the
+way you'd expect.
+
+Some Internet friends and I found this game, and we hadn't played any IF
+in awhile. I hadn't played anything since an abortive stab at Enhanced
+in 1995, in fact, and before that my IF experience was limited to
+Infocom games on a mid-80s Macintosh. The game's interface was fairly
+natural to pick up, and it got me interested in playing a lot of new IF
+games, which is what I've been doing for the past week or so. Now I know
+that I should be able to pick up two things at once, but when I played
+this game, I didn't, so the lack didn't bother me. That and the fact
+that you don't need to download anything and, since the game runs on any
+JavaScript enabled browser, make me think it's a good game to show to IF
+neophytes to suck them into your shadowy IF world.
+
+The game itself is a fun, silly adventure. You are ordering around
+Hamlet, and his mission is clear -- kill his usurping uncle. You don't
+need to have read Hamlet recently to finish the game, although I had,
+and it helped in a couple of spots, particularly with regard to the
+curtain in Gertrude's room. There are also characters from other plays
+thrown in for good measure.
+
+Some of the puzzles were so easy that I didn't even know they were
+there. For example, a ghostly mist stops you from going downstairs if
+you haven't gotten your mission from the ghost yet. Since that seemed
+like the only thing to do first off, I never encountered the mist. Other
+puzzles, one in particular, are fiendish. In fact, the hint system
+gloats that the puzzle in question is the obligatory incredibly
+difficult puzzle that must be included in any IF game. Unfortunately, I
+didn't know I had a puzzle before me when I got to that point. Well, I
+was at a loss for what to do next, and the game obviously wasn't over,
+so I knew there must be something I was missing. But there were no
+clues, as far as I saw, that a certain room existed, so how was I to
+know that I needed to get into it? I even looked in a direction that
+should have given me some inkling, but it didn't. Maybe that was just my
+failing as a game player, but once I looked at the hint page (available
+as a link below the JavaScript window) I started to get the picture.
+
+Anyway, this game was fun to play, fiendish puzzle aside. The
+environment was described well and, since I didn't notice there was a
+save feature until late in the festivities (it's implemented with
+cookies), I replayed from the start so many times I could probably
+navigate the whole map blindfolded if I were dropped there in real life.
+The humor was engaging, and the easy puzzles you start out with make you
+feel triumphant, hooking you in and making you want to finish. It's well
+worth playing. I'd give it an 8 out of 10.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Felix Grützmacher <felix.gruetzmacher SP@G gmx.de>
+
+TITLE: Insight
+AUTHOR: Jon Ingold
+EMAIL: jonnyingold SP@G netscape.net (as given by the game's help text)
+DATE: 2003
+PARSER: Inform
+SUPPORTS: Z-machine implementations
+AVAILABILITY: IF archive
+URL: https://ifarchive.org/if-archive/games/zcode/insight.z5
+RELEASE: 4
+
+"Before I've arrived
+I can see myself coming."
+-- Robbie Williams, from his song "Feel"
+
+From his previous games "All Roads", "Failsafe" and "My Angel", we know
+that Jon Ingold likes to experiment with the various possibilities the
+medium of IF has to offer. "Insight" brilliantly continues in this
+tradition. He is not through with us yet, poor experimental subjects
+that we are. Interestingly, the help text states that "INSIGHT is a
+standard text-game in many ways." Well, it's non-standard in many
+others.
+
+"Insight" is not a puzzler in the sense that "The Mulldoon Legacy" is.
+Neither is it a static story in the guise of interactive fiction, like
+"Photopia". But it also isn't an adventure game of the old school like
+most Infocom classics. This one is different.
+
+The game starts off with the PC interviewing a man who is being accused
+of murdering his wife. This interview serves the purpose of equipping
+the player with certain pieces of information he needs later on when
+investigating the scene of the crime, if indeed a crime it was.
+
+The atmosphere balances precariously somewhere between science fiction
+and political thriller, the sci-fi feeling resulting from the fact that
+most of the action takes place on Mars. These are two genres which have
+seldom been combined in literature (Frank Herbert's Dune being an
+interesting exception), let alone in IF. To my mind, the combination was
+successful.
+
+There are two major puzzles in the game. The PC has a certain special
+talent, and one of the puzzles consists of finding out what it is and
+putting it to good use. The second puzzle is piecing together what
+really happened. You won't find any of the standard adventure game
+frustrations such as mazes, battery failures and inventory restrictions.
+
+When I was playing "Insight" for the first time, I eventually felt I had
+exhausted every possible way of gaining more information, so I decided
+to leave the scene and do something else. The game reacted by simply
+telling me my investigation was finished, and asking if I wanted to
+restart or quit. Frustrated, I gave it a break. When I came back to it a
+few days later, I played with more insight. Don't give up when you feel
+stuck, just try again.
+
+As to the experimental nature of this game, I cannot go into any
+substantial detail without spoiling the fun. You'll have to find it out
+for yourself. But take my word for it, it's worth every second of
+download time.
+ 
+On the technical side, I didn't find any serious flaws. Mackenzie, the
+only substantial NPC, has a vast repository of responses, and the
+program keeps track of which topics have already been talked about. He
+speaks a language foreign to the PC, thus his inability to understand
+certain complex questions appears quite realistic. This reminded me a
+lot of "Failsafe", "LASH" and "Suspended", where the parser's
+restrictions are brilliantly excused with a bad communication channel.
+
+On a scale from 0 to 10, I would rate "Insight" at 8. Difficulty is 3
+out of 10. Experienced IFers will probably complete this one in three
+sessions.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Adam Myrow <amyrow SP@G midsouth.rr.com>
+
+TITLE: Shadowgate
+AUTHOR: David Griffith (originally published by Icom for the Nintendo
+        Entertainment System as well as many other platforms)
+EMAIL: dgriffi SP@G cs.csubak.edu
+PARSER: Inform standard
+SUPPORTS: Zcode interpreters
+AVAILABILITY: freeware IF-archive
+URL: https://ifarchive.org/if-archive/games/zcode/sgate.z5
+     Source code is also available at:
+     https://ifarchive.org/if-archive/games/source/sgate.tar.gz
+
+Sometimes, a game grows larger in the mind when it is not played for
+many years. This was the case for a game called Shadowgate which was
+released by Icom for the Nintendo Entertainment System in 1989. I have
+been totally blind since birth. Thus, I was never able to play the
+original game by myself. However, I was able to play it a few times by
+having a friend read the text and I would tell him what I wanted to try.
+The game was a mixed graphical/text game with a menu of verbs which
+could be applied to objects in your inventory. Anyway, I never got very
+far, and eventually, lost access to the game.
+
+Fast forward to late 2003. I was casually browsing rec.games.int-fiction
+when I noticed a post announcing that David Griffith had just released
+an Inform adaptation of Shadowgate based on the Nintendo version. I was
+thrilled. After over a decade, I could now finally play this game by
+myself and get past the puzzles which had previously stumped me. I
+grabbed it immediately.
+
+What I discovered was that this game had become much more exciting in my
+mind than it was in reality. First off, as the original was based on a
+menu of verbs rather than a parser, the puzzles were rather simple. With
+one or two exceptions, one object is used to solve one puzzle. Once the
+puzzle is solved, the object is either removed from play or will never
+be needed again. There are no alternate solutions, and few hints. Either
+you get past the obstacle, or you die. In fact, dying is extremely
+common in this game. There are numerous death traps besides the instant
+death puzzles. Take an object, go through a door, or attack a monster
+with the wrong weapon, and it's curtains for you. As if that weren't bad
+enough, there is the light source problem. When you start the game, you
+have a torch. You will quickly notice lots of torches lying around for
+the taking. Be sure and grab them! Your torches don't last very long, so
+you will find yourself constantly lighting new torches and dropping dead
+torches. The good news is that there is no inventory limit. This was
+fairly minor, as there are more than enough torches to let you finish
+the game. I think I ended up with 10 extra torches at the end of my play
+session. It's just a nuisance to constantly be told that your torch is
+about to go out and having to light one. There are no mazes, and no
+hunger or sleep puzzles, so most of the really annoying puzzles of older
+games are absent. It's just that learning by death is not much fun.
+Here's a typical example of what I mean.
+
+   Tower Prison
+   You are in a bare, round room. A beautiful woman is chained to the
+   wall. Moonlight streams in from a window.
+
+   You can see a golden blade and a beautiful woman here.
+
+   >x blade
+   It's some sort of spike that is made of precious metals. The tips are
+   as sharp as needles.
+
+   >get it
+   As you reach for the golden blade the beautiful lady suddenly
+   transforms into a wolf! With a load [SIC] roar, the wolf pounces on
+   you, taking your life! The wolf's powerful jaws rip your throat out!
+
+
+       *** You have died ***
+
+
+   It's a sad thing that your adventures have ended here.
+
+Examining the girl gives no hint that she is anything other than what
+she seems. So, the only thing you can do is learn by dying, undo, and
+try to figure out how to get rid of the wolf. Another even worse example
+of this.
+
+   Stone Tunnel
+   This hallway is made of large granite slabs. There are exits up,
+   west, and north.
+
+   You can see four unlit torches here.
+
+   >w
+   Without thinking, you jump through the opening and immediately hear a
+   loud click. Suddenly, the granite slab above you gives way and
+   crushes you beneath it. It breaks every bone in your body.
+
+As for plot, it is the standard save-the-world type of plot. You must
+overthrow the evil Warlock Lord before he releases the Behemoth to
+destroy everything. Of course, this involves collecting various items
+and assembling them into a weapon of great power. In other words,
+nothing that hasn't been done before. There are a few spells as well. I
+don't know how spells worked in the original graphical game since I
+didn't get that far, but in this version, the good old Enchanter system
+of using gnusto to copy them into a spell book from a scroll was adopted
+probably because it is readily available. This really isn't a big deal
+as far as I'm concerned since like everything else, the spells each are
+used exactly once.
+
+So, overall, I was a bit let down by the game mainly because it had
+grown into an epic in my mind. What it is, in reality, is a very short
+little fantasy game with loads of death traps and one-use objects. There
+are also plenty of red herrings. However, while the plot is minimal, the
+writing is fairly decent aside from a few spelling errors. I think most
+of the writing comes from the original game, but according to the
+"about" text, many descriptions were made longer to account for the lack
+of graphics. So, it's not all bad. As for coding, I found a few minor
+bugs, but for the most part, things work pretty well. The torches, while
+annoying, have had a lot of work done on them to make dealing with them
+as painless as possible. I would suggest that any game developers have a
+look at this game's source code even if you don't plan on using Inform.
+Bundled with the source code are some transcripts of very early beta
+versions of the game with embedded remarks from the beta testers. These
+serve to illustrate the sorts of bugs to watch out for and the crazy
+things players might try when they get stuck. So, for me, I actually
+found the source code and transcripts very informative despite finding
+the game to be a little annoying. If you treat it like a game from the
+late 1980's rather than a modern piece of IF, I think it will sit much
+better with you than it did with me.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	J. Robinson Wheeler <jrw SP@G jrwdigitalmedia.com>
+
+TITLE: To Hell In A Hamper
+AUTHOR: J.J. Guest
+EMAIL: jason_guest SP@G hotmail.com
+DATE: 2003
+PARSER: ADRIFT
+SUPPORTS: ADRIFT interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/adrift/ToHellInAHamper.zip
+
+This is a short game with a good amount of wit and charm to it, and it
+shows that it is possible to make a one-room, one-puzzle (albeit a
+layered, Babel Fish type puzzle) game that's entertaining.
+
+The situation is that you are Professor Pettibone, eminent Victorian
+Balloonist, on his attempt to circle the world in a balloon. Your
+traveling companion has been replaced at the last minute by a Mr. Hubert
+Booby, a rather shady character with a suspiciously bulging overcoat.
+The puzzle of the game involves throwing enough weight out of the
+balloon to clear an erupting volcano, and you have to prise items one at
+a time (or sometimes, a half-dozen at a time) from Mr. Booby.
+
+I turned to the walkthrough rather soon, just to get the game moving,
+and relied on it a bit too much thereafter, worried that I was going to
+do something out of order and make the game unwinnable. In fact, the
+author was sometimes careful in this regard, and made it so that you
+couldn't toss some items you still needed over the side. (But some you
+could.) I had a few challenging guess-the-verb moments, including
+figuring out the syntax for throwing things overboard, and the rather
+dodgy necessity of using the non-standard verb 'MAKE' at a crucial
+late-game step.
+
+Having gotten that far, I decided to play the rest of the game without
+looking at the walkthrough, which turned out to be the one time I should
+have used it, because the ultimate turn of the game is a win/lose
+scenario. I typed "PULL ROPE" instead of "PULL GAS VALVE ROPE," and I
+lost. Since I hadn't saved the game, I had to start all over again and
+replay the whole thing just to see the winning outcome, which was
+irritating.
+
+There were a couple of spelling errors, including one in the concluding
+text of the winning scenario, and there were some odd tussles with the
+parser on occasion:
+
+   > cut buttons
+   [...] finally, with a great rending sound the coat bursts
+   open, spilling a multitude of diverse objects onto the floor
+   of the basket! These items consist of a large framed painting,
+   an enormous carpetbag, a bundle of twigs, a boomerang, an
+   ear-trumpet, a toy donkey and a sleeping Saint Bernard dog...
+
+   > throw twigs out
+   I'm afraid the meaning of your words escapes me. Could you
+   possibly rephrase that?
+
+   > get twigs
+   Take what?  
+
+   > get bundle
+   I pick up the smudge stick.
+
+   > x it
+   (the smudge stick)
+   A bundle of cedar twigs and sprigs of sage bound together with
+   coloured thread. [...]
+
+   > throw twigs overboard
+   I'm afraid the meaning of your words escapes me. Could you
+   possibly rephrase that?
+
+   > throw stick overboard
+   I don't understand what you want me to do with the smudge stick.
+
+   > throw stick
+   I don't understand what you want me to do with the smudge stick.
+
+   > throw smudge
+   I'm afraid the meaning of your words escapes me. Could you
+   possibly rephrase that?
+
+   > throw smudge stick
+   I toss the smudge stick over the side of the basket. After all
+   I can't imagine what I might have needed it for...
+
+I enjoyed the pop-up introductory picture that set the scene. The
+dialogue of the game was very funny, as was the surprise of one of the
+last items to be revealed hidden about Mr. Booby's person. If I had run
+across this game in the Competition, I probably would have ranked it a 7
+or an 8, depending on how charitable I was feeling. Overall, nicely
+done.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ___. .___    _    ___.     ___. 
+/  _| |   \  / \  / ._|    /  _| 
+\  \  | o_/ |   | | |_.    \  \  
+.\  \ | |   | o | | | |    .\  \ 
+|___/ |_|   |_|_| \___|    |___/ PECIFICS
+
+SPAG Specifics is a small section of SPAG dedicated to providing in-
+depth critical analysis of IF games, spoilers most emphatically
+included.
+
+
+
+
+
+WARNING! SPOILERS BELOW FOR THE FOLLOWING GAME:
+
+The Act Of Misdirection
+
+
+
+
+
+PROCEED NO FURTHER UNLESS YOU HAVE PLAYED THIS GAME!
+
+
+
+
+
+THIS IS NOT A TEST! GENUINE SPOILERS TO FOLLOW!
+
+
+
+
+
+LAST CHANCE TO AVOID SPOILAGE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Emily Short <emshort SP@G mindspring.com>
+
+TITLE: The Act of Misdirection
+AUTHOR: Callico Harrison
+EMAIL: calharrison SP@G eudoramail.com
+DATE: February 2004
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/Misdirection.z5
+VERSION: Release 5
+
+Like Paul O'Brian, I am pleased to see work from a new author,
+especially released outside the competition. It's also excellent to find
+that it's such an interesting game.
+
+The first scene of "The Act of Misdirection" is delightful. Everything I
+did had a strange and fascinating result, but I still felt as though I
+was a step ahead of the audience. Appropriate actions were well-clued
+and became increasingly obvious as time went on. The tricks bore enough
+resemblance to traditional magic tricks that I had some sense of what
+was supposed to happen, but they were still unusual enough to surprise
+and entertain. I was also impressed by the way the tricks themselves
+become gradually more sinister -- the relatively innocuous card trick,
+then the grapefruit which seems to be slightly *off*, then the
+definitely-creepy sword-snake-boa. The descriptions of David and of the
+newspaper, and your refusal to remove your jacket, also seem odd at the
+time, but the flow of the game keeps you concentrating on other things
+until their real significance becomes clear. This is nicely handled.
+
+The scene rewards replaying, too. The second time through the act, when
+I knew what I was doing, I really got into role-playing the performance:
+showing things to the audience before using them in the trick, making
+dramatic gestures with the props, varying the details of the routine. It
+was wonderful how well "Misdirection" handled all of this, making the
+audience ooh and ahh just as I wanted them to.
+
+Such flexibility and responsiveness is something you can only achieve
+with careful implementation. There are a few imperfections, but they're
+relatively trivial. I didn't find the later scenes quite as richly
+implemented as the first, but they still showed a great deal of care and
+attention to detail.
+
+The imagery in "Misdirection" is likewise strong. The intense
+descriptions of light and darkness reminded me at times of "So Far"
+(Andrew Plotkin, 1996), or of the room with the pigeons in "All Roads"
+(Jon Ingold, 2001). Smell and sound are used to good effect. The
+sacrifice of blood to the ashes of the dead has all sorts of resonances,
+too -- though what bothered me most in that sequence was the capture and
+destruction of the rat. It's just so pathetic. I felt much sorrier for
+the dead rat than for my dead self. (This is nominally the happy ending,
+I suppose, but it seemed sad.)
+
+The peripheral features of the game, such as the help menus and the
+startup screen, were nicely handled, and made me expect good things even
+before play started.
+
+In short, "Misdirection" is well worth playing; if you haven't already
+gotten to it, you should (and certainly *not* read the rest of the
+review until you have). But there are a few ways in which it doesn't
+live up to its considerable promise.
+
+Chief among these is the writing. My sense of how good something is
+depends fairly heavily on how well it fulfills its own ambitions, and
+this is ambitious prose. Callico Harrison is aware of the sound of
+language, of the possibilities in an unexpected metaphor, and of the
+pleasure of using a specific word rather than a generic one. She puns.
+She nudges the reader. But she needs more discipline. I read a sentence
+like this --
+
+   "You pig-headed imbecile," roars the boar-like man in the blue suit 
+   with a smile like fresh hay.
+
+-- and I have to think the author is getting too clever for her own
+good. 
+
+Or a somewhat different problem, here:
+
+   A cat expunges from the fog and disappears a few feet further.
+
+This does not mean what it is pretending to mean. I've sometimes found
+that sort of problem in my own prose (or, more embarrassingly, had it
+pointed out to me), and my experience is that this is the result of
+writing fairly quickly and concentrating on getting the rhythm right.
+You grope for the right word, you find a related word that sounds
+better, and you go on without quite registering that you just wrote
+nonsense. Possibly Ms. Harrison's experience is different, but this is
+how it goes for me. I think the word that she was reaching for was
+probably "emerges", but I can also see why she might not have wanted to
+use it in this sentence. "Expunge" is a strong word, and a rare one.
+"emerge" is duller; worse, "emerges from the fog" is a pretty shopworn
+phrase.
+
+Most people will probably know what the sentence means anyway: many will
+hear the sound of "expunge" and understand the sense of "emerge",
+through the miraculous capacity of the human mind to fabricate meaning
+where there is none. But you run the risk that some players will slow
+down, read the sentence literally, and be perplexed -- or think that you
+don't know your vocabulary, which is almost certainly not the problem.
+
+There were more misuses like this, lest anyone think I'm making too much
+of a single sentence. Admittedly, they didn't make "Misdirection"
+unplayable. If I read quickly, I didn't even mind; I caught the energy
+of the prose and missed the sloppy bits. But given the talent that went
+into the writing, it could have been much better.
+
+I don't know what to suggest to the author. Having been corrected on
+these sorts of errors a few times, I now tend to dump all my text into a
+file at compile time and proof-read it that way, preferably weeks after
+it was originally written. Even so, I find phrases in my released games
+that make me wince. The other possibility is finding a beta-tester who
+is also a good editor, someone who won't be fooled by the good qualities
+of the writing into not commenting on the bad ones. That's probably the
+best choice, if you can find someone you trust in that role.
+
+I apologize to the author for going on at such length. If you're feeling
+bitter, someone (I don't know who) wrote some fairly unflattering
+comments on a similar issue in Metamorphoses, here:
+http://www.geocities.com/risor_iracundus/writing.html.
+
+On a completely different note: I appreciate the misdirection that the
+game itself performs, distracting the player on the first playthrough
+into ignoring the rat. At the same time, the way this is set up seems
+almost like cheating. I *tried* to interact with the rat, but I didn't
+have the bun; it requires out-of-character prescience for Sarah to
+bother collecting one in advance, and I would have found the effect more
+pleasing if that were not part of the puzzle.
+
+Also, this one path is the only path that leads to any kind of escape,
+while there are quite a few other plausible things to try (walking away
+rather than approaching the shop; not following David into the darkness;
+emptying or breaking the ash jar; giving the hat away to another
+customer; trying to escape or disobey Eduardo) that aren't allowed.
+Sometimes they're denied on the explicit grounds that history is already
+established, and this is not what you did. But if history's established,
+why are you allowed to change exactly one thing? It makes sense from the
+author's point of view -- none of the other escapes makes a good story,
+therefore the player can't be allowed to use them -- but it's
+frustrating for a player. If I hadn't been told, I'm not sure I would
+have realized there was any valid escape route at all, and that would
+have been a pity.
+
+Finally, I have a question. I understand the bulk of the plot, but the
+exact nature of David's situation eluded me. He was bitten by a snake
+and was thereby doomed to follow it; very well. Once you put your blood
+into the ash, he is doomed to follow you, instead. Does that make you
+the snake? It seems that you're more the victim, all things considered.
+But then the relationships of the players becomes a bit obscure.
+
+Maybe I'm missing something obvious, but it doesn't make complete sense
+to me no matter how I approach it. This is disappointing, because, in a
+plot about a horrific mystery like this, I would really like to have a
+moment where everything clicks perfectly into place. It didn't, quite. I
+still enjoyed the experience of getting there, but I wanted the final
+result to be more coherent.
+
+I want to reiterate at this point that I rarely have such detailed
+complaints about a game I dislike. If this had come up in an IF
+competition I would have scored it high, probably very high. It gets
+more right than it gets wrong, and promises quite a lot from a new
+author. 
+
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers, with the exception of reviews submitted to SPAG Specifics,
+where spoilers are allowed in the service of in-depth discussion. In
+addition, reviewers should play a game to completion before submitting a
+review. There are some exceptions to this clause -- competition games
+reviewed after 2 hours, unfinishable games, games with hundreds of
+endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

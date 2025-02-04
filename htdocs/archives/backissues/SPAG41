@@ -1,0 +1,1264 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #41
+
+        Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                       July 15, 2005
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #41 is copyright (c) 2005 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Bolivia By Night
+Catseye
+Conan Kill Everything
+The Dreamhold
+Façade
+The Fire Tower
+Heist
+Moonglow
+Rock 'Em Sock 'Em Robots
+Wumpus 2000
+
+EDITORIAL------------------------------------------------------------------
+
+Way back in 1999, Magnus Olsson asked me if I'd like to take his place
+as the editor of SPAG. I was honored and flattered to be asked, and
+after some consideration, I accepted. Since that time, for the six years
+and 24 issues that followed, I've done my best to make SPAG a worthwhile
+contribution to the IF community. I hope the reviews and articles
+collected herein have been enlightening, or at least entertaining. I've
+certainly had a lot of fun producing the zine.
+
+You can probably guess what I'm heading towards here. A lot has changed
+in the IF community and in my life over the past six years, and I find
+that I no longer have the time, energy, and enthusiasm to devote to IF
+that I once did. Given that my son Dante was born just last month,
+somehow I don't see a lot of spare time in my immediate future, either!
+So I've decided to step down as editor of SPAG.
+
+Fear not, however! The torch has been passed, and the zine will live on
+in the capable hands of its new editor, Jimmy Maher! You may recognize
+Jimmy's name as the author of Filfre, a nifty new z-code interpreter
+(see this issue's news section.) Or perhaps you know him from the fine
+SPAG reviews he's written, including this issue's eloquent evaluation of
+Wumpus 2000. Hey, you might not even recognize his name at all, but rest
+assured, you'll get to know him well. I have a feeling he's in for a
+prosperous tenure, so please welcome him if you get a chance.
+
+As for me, I'll be around. Who knows, I might even submit a review now
+and then! In the meantime, thank you for helping to keep text adventures
+alive.
+
+LETTERS TO THE EDITOR------------------------------------------------------
+
+From:	Richard Otter <rotter SP@G delron.org.uk>
+
+I notice that your list of 'New Releases' never seems to include Adrift
+games.
+
+   [That's not entirely true, Richard. See, for example, SPAG 37, where
+   the list includes "Curse of the Dragon Shrine". What is true (as I
+   say at http://sparkynet.com/spag/newreleases.html) is that the SPAG
+   New Releases Shelf consists of those games announced on the
+   rec.*.int-fiction newsgroups. I'd encourage ADRIFT authors (for that
+   matter, all authors) to post new game announcements on these
+   newsgroups, particularly rec.games.int-fiction, since that will
+   publicize their games to a wider audience -- one that includes me.
+   (Or rather, one that includes Jimmy, since I won't be writing the new
+   games section of upcoming issues.)
+   --Paul]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From:	Peter Hipson <phipson SP@G hipson.net>
+
+Funny what you find on the Internet that is not expected. Though I am
+sure you have been told the history of Adventure from IBM, here are a
+few things that may not be well known:
+
+1. Adventure was written to test and develop relational database 
+techniques on IBM mainframe computers. It was written in Fortran.
+
+2. The game was so successful that it was ported to PL/I (though the
+port was poorly done by today's standards). I worked on the PL/I
+version, including extending the cave (many limits had been hardcoded in
+the software that needed fixing!) Some of this work was done at AIT (in
+Bangkok) with the support of IBM.
+
+3. The game was first ported to microcomputers around 1980. We did our
+first port to UCSD Pascal on the Apple II. (That port was from PL/I, and
+we had students retype the entire program as there were no ways to
+transfer data between the computers -- before microcomputer networks!)
+
+4. I hated Pascal. I next ported it to C, on the IBM PC. Along the way,
+the Basic version was born, from many different sources, including (so I
+understand) Apple.
+
+5. Some years later, I did a partial port to C++. This port was not
+finished properly, but maybe some day...
+
+If anyone is interested in the C code, I think it is still on one of my
+servers. I could be convinced to post it...
+
+   [Nifty! If anybody's interested in discussing this letter, I suggest
+   rec.games.int-fiction as the forum, since SPAG isn't published
+   frequently enough to support an ongoing discussion. (Man, I'm really
+   shilling rgif today, aren't I?) Also, Adventure/Colossal Cave
+   enthusiasts really ought to check out Rick Adams' excellent page at
+   http://www.rickadams.org/adventure/.
+   --Paul]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From:	"El Clérigo Urbatain" <urbatain SP@G gmail.com>
+
+First of all, sorry by my bad english ;) As all you know my last
+interview was made by a translator in the middle, so here it is my real
+bad writing.
+
+I write you to make two add on to the interview, one about my non
+partial opinions about the spanish IF community history, of course I one
+thinking person and my thought are mine, and are very partial. When I
+said that the gold era of PAW spanish IF was a mesh, I must admit that
+was at the end, when all collapses, 8 bits died, advetures died, and all
+fanzines was falling apart, with bad issues or issues with old info,
+articles, and such. However the gold PAW era give us nearly hundreds of
+PAW games, and a lot of really good DOS PC games, so thats not bad at
+all.
+
+And I must to add context to my egocentric phrase "I'm the Stanley
+Kubrick of the adventure", I must add in the sense that Stanley prefer
+to "interpreter" good stories of other people than make his own ones.
+I'll never thought in compare my skill with such master, but I love to
+interpreter and make my own version or "parserize" a story into an
+adventure. And so, I hope you enjoy the remake of Dracula I'm nearly
+uploading on the net for your enjoy.
+
+See you!
+
+   [Thanks for the clarifications, Ruben.
+   --Paul]
+   
+NEWS ----------------------------------------------------------------------
+
+NEW GAMES
+We've got a healthy crop of new IF to peruse this summer, from the tiny
+to the honkin' huge. Highlights include a joyous smashfest (reviewed by
+William McDuff in this issue), an intriguing puzzle game with a
+theological bent, a text-adventure prequel to an as-yet-unproduced
+amateur graphic Zork game, and sizable opus on the order of Curses.
+Capping the batch is Façade, the culmination of a five-year research
+project into interactive storytelling -- check out Nick Montfort's
+review in this issue. 
+   * Mini-Adventure demo games by Jon Ripley
+   * Conan Kill Everything by Ian Haberkorn
+   * Creepy Mansion by Kevin Lyons
+   * All Hope Abandon by Eric Eve
+   * Dawn Of The Demon by Paul Drallos
+   * Finding Martin by Gayla Wennstrom
+   * Façade by Michael Mateas and Andrew Stern
+
+NOT NEW GAMES
+Andrew Plotkin does right by his old games. He originally wrote Inhumane
+in Applesoft BASIC, and then years later ported it to Inform. He
+released System's Twilight as freeware even while shareware
+registrations were still coming in for it. Now he's done it again with
+Praser 5, also known as Fifth Praser Maze. Zarf says that it's a "sort
+of logic-puzzle, word-puzzle... thing that I created in 1989." It
+originally lived as a collection of files on an academic file server,
+but he's ported it to Inform and put it on the archive. 
+
+I FILFRE
+(I'm about to give a very very minor Enchanter spoiler, if you care
+about that sort of thing.) In Enchanter, the filfre spell was known to
+"produce gratuitous fireworks," which just so happened to display the
+game credits. Enchanter's invisiclues told us that the spell got its
+name as a corruption of "feel free," a phrase which game authors
+allegedly say a lot. Now, Jimmy Maher has exercised his freedom to
+create a different kind of fireworks: a brand new z-code interpreter
+known as Filfre. Some nifty things about Filfre are its integrated
+scrollback buffer (similar to what we find in the Mike Roberts' TADS
+interpreter) and the fact that double-clicking any word on the screen
+pastes that word into the command line. In addition, Filfre has the
+capability of constructing inventory and verb lists in separate panes,
+giving z-code games the feel of the old Legend classics. The interpreter
+is available at your friendly neighborhood IF archive. 
+
+INFORM SCHOOL. NO, REALLY.
+For the past five years, the University of Michigan's Dearborn campus
+has offered a Computer Game Design and Implementation class, in which
+one of the assignments is to create an Inform IF game. Students have
+roughly a month in which to learn Inform and write a small game that
+meets a number of quality standards. Do they succeed? Well, you can
+judge for yourself, since all the games are posted at
+http://www.engin.umd.umich.edu/CIS/course.des/cis487/z5/index.php. Each
+one is even available to play online via Zplet, should you be reluctant
+to download them. If you're curious about the assignment, it's here:
+http://www.engin.umd.umich.edu/CIS/course.des/cis587/if-f02.html.
+
+IF AFTER DARK
+SPAG talks a lot about IF, but there are some parts of IF that SPAG just
+doesn't talk a lot about. Nevertheless, they are out there, thriving in
+their own ways. One of these is the AIF ("Adult Interactive Fiction",
+aka X-rated IF) community. Luckily, this group has a newsletter of its
+own, posted monthly at http://newsletter.aifcommunity.org. Obviously,
+this site is not suitable for children, nor for viewing at work. But if
+you like that sort of thing, you might well find it's the sort of thing
+that you like. 
+
+JIMMY NEEDS YOU!
+It's true that I'm stepping down as editor, but SPAG must go on! I'm
+counting on you guys to come through for Jimmy and send him some reviews
+for issue 42. In case you're stumped for what games to review, here's a
+little list to help prompt you:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  All Hope Abandon
+2.  Dawn Of The Demon
+3.  1893: A World's Fair Mystery
+4.  Finding Martin
+5.  Future Boy!
+6.  Mystery House Taken Over games (any, some, or all!)
+7.  Narcolepsy
+8.  Return To Ditch Day
+9.  Threnody
+10. Whom The Telling Changed
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+REVIEWS -------------------------------------------------------------------
+
+From:	Eric Woods <ewoods SP@G cocenter.org>
+
+TITLE: Bolivia By Night  
+AUTHOR: Aidan Doyle  
+EMAIL: aidandoyle SP@G rushpost.com  
+DATE: March 9, 2005  
+PARSER: TADS 
+SUPPORTS: TADS interpreters  
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/springthing/2005/bbn.gam
+VERSION: One  
+
+Bolivia By Night is a typical mystery-based interactive fiction game
+and, therefore, there's nothing particularly innovative about it. You
+play a journalist for an English-speaking newspaper, The Bolivian
+Herald. Initially you find yourself in an editorial meeting where you
+discover that David, the head reporter, has been missing for over a
+week. You also get the assignment of interviewing two Bolivians with
+interesting jobs, a cook with a nationally televised show and a Ninja
+master. The game doesn't allow the story to progress until these
+interviews are completed. The whole game moves along in a similar
+fashion, giving the player only one course of action at a time. Bit by
+bit you discover a murder or two, the supernatural background of the
+motives for these murders, and the only course of action to make
+everything in the world right. Like I said, it's pretty typical. 
+
+The author obviously had a political and moral motive in creating this
+game. There are many interesting geographic, historical and cultural
+facts about Bolivia woven through the storyline as well as some cracks
+on Republicans. These cracks often are presented when you touch photos
+of Presidents after you have been given heightened senses. The political
+figures making cameos in this story are the Bush boys, Margaret
+Thatcher, and Reagan. I found it ironic that if you choose to be
+American at the start of the game you find a photograph of Lincoln in
+your desk drawer. This is apparently a sign of admiration for Lincoln. I
+wonder if the author knows that Lincoln was a Republican. 
+
+The game play is very smooth in Bolivia By Night. The author recommends
+that players use a multi-media interpreter though I didn't. I didn't
+notice any difficulties with making progress without those features. The
+author also recommends that you keep the game in verbose mode which I
+generally don't like. There were two points where this would have been
+helpful since room descriptions sometimes change when you return to them
+and you won't get any of the changed description upon re-entering. This
+was easy enough to overcome with a simple look command, though. 
+
+There were some nice features in this game which I haven't seen in
+others. The C command gets you a list of characters with whom you have
+already interacted or about whom you have learned something. The a T
+command gets you a list of topics on which you have discovered some
+information. These innovations made note-taking during playing
+unnecessary, which I found to be very helpful. There is also a
+well-implemented hint file contained within the game, though the game is
+simple enough that a gamer with experience probably won't need it. 
+
+There is an Internet café which you can enter and check your email. You
+get some choices as to how you can respond to these emails and the story
+does a good job of implementing your choice in later scenes. For
+example, if you decide to order the Rodriguez Twins DVD Volume III you
+will find it in your apartment, all packaged up, later in the game. You
+can collect all three DVDs throughout the game if you care to. 
+
+The puzzles range from very easy to easy. Even those that border on
+clever are given direction through unprompted statements by your
+sidekick. Your sidekick, by the way, is a talking T-shirt. Again, due to
+the linear nature of the game, I didn't find any problem with following
+the storyline or deciding what I had to do next. I don't generally mind
+being pushed through a story but a little less of this would have suited
+my tastes more. 
+
+By the time you've discovered the nature of the mystery, gained some
+super natural powers and thwarted the bad guys and their evil plot to
+return Bolivia back to the days when it was ruled by drug lords you'll
+have a clear idea of the author's motive for producing the game. It's a
+good notion, of course, but perhaps a little predictable. Overall I
+found the game enjoyable though not very engaging or memorable.
+Certainly it is well written with no bugs, typos, or grammatical errors
+if you don't include the rare preposition at the end of a sentence.
+There are also some points where the humor made me crack a smile. While
+the map able area is relatively small it does a decent job of
+representing Bolivia though I assume I was supposed to feel more like
+the people were struggling than I did. Have a whack at it if you have a
+couple of hours to kill and you aren't overly sensitive about some mild
+Republican bashing humor. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From:	"Niz" <snowblood SP@G bigfoot.com>
+
+Maybe its just me, as the IF community has not been showering it with
+glowing reviews, but Aidan Doyle's BOLIVIA BY NIGHT (2nd place in 2005's
+Spring Thing competition) should have all the ingredients required to
+sweep the XYZZY awards next year, especially if the author can release a
+post-competition bugfixed version soon. It probably won't, but hey,
+that's awards for you.
+
+Initial feelings that the author made the game just to say, "Hey look, I
+went to Bolivia on holiday and instead of boring you with my photo album
+I'm gonna bore you with an IF game I made about it" are thankfully
+quickly shaken off as you head off on various reporting tasks for the
+"Bolivian Herald", investigate a murder, and uncover a conspiracy. The
+scenery feels right throughout: locations are never a chore to plough
+through simply looking for nouns to "examine". The writing is plain,
+simple and funny -- the author is thankfully not a frustrated poet
+trying to wow you with his turn of phrase. It's refreshingly
+down-to-earth. The characters feel alive (especially the TV chef and
+your chauvinistic colleague). The puzzles are just simple enough not to
+get in the way of the story, and entertaining enough to complement it.
+The whole thing is reasonably long (several hours' worth for an average
+player, divided into convenient chapters to allow for short spells of
+gaming), and the story could easily have come straight out of Robert
+Anton Wilson's ILLUMINATUS! trilogy of novels (a good thing).
+
+Okay, the tone of the game is somewhat silly, but let us compare for a
+moment with THE CABAL, an XYZZY nominee for best story of 2004: sure,
+THE CABAL didn't have talking Che Guevara t-shirts, ninjas and the ghost
+of Klaus Barbie, but it comes from the same "school" of piling on the
+conspiracies and craziness until you give in and just go with the flow
+hippy-style... its a style you either "dig" or you don't, and if it was
+"dug" for THE CABAL, why not here?
+
+The locations are fantastic. You can really taste the dusty, dry
+atmosphere, the slow pace of life, the coffee and cocoa. Every South
+American cliche is thrown in, from drug lords to llamas to witch-doctors
+to ancient Incan secrets to Shakira. Best compliment: I'm seriously
+considering travelling there now.
+
+Puzzle-quality is very high, often providing unique spins on standard
+fetch-quest type puzzles, and incorporating what could have just been
+storyline-asides into the main fabric of the game. The range and style
+of these puzzles is very varied: one such fetch-quest is solved rather
+literally (and gruesomely); another (to derail the bad-guys' actions) is
+solved by making use of what could have been just a throwaway gag; yet
+another is solved via a callback to your early reporting missions. As
+for the climactic "boss battle", any puzzle that involves a sun bed, a
+racy DVD, and a portable camera could never be considered derivative.
+
+Yes there are some technical flaws, in particular an annoying bug with
+the framed photo in Richard's room, and some awkward syntax requirements
+at times, but these things can easily be fixed. The tricky bit is
+getting the story, setting and puzzles right, and there the author has
+definitely nailed it.
+
+I get the feeling the game might be lost in the shuffle before the
+awards season comes round, as it doesn't feature any amazing new
+technical innovations or break the narrative conventions of IF. It's
+just a very solid, very playable, very entertaining romp that does
+something few other games can achieve: it's fun.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Mike Tulloch <tarage SP@G bellsouth.net>
+
+TITLE: Catseye 
+AUTHOR: Dave Bernazzani 
+EMAIL:daveber SP@G gis.net 
+DATE: October 17, 2004 
+PARSER: Simple (Microform parser) 
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware -- Author's site 
+URL: http://www.gis.net/~daveber/miniventure/ 
+VERSION: 3
+
+A 10k adventure? How good could it be? With visions of Scott Adams' 16k
+(master)pieces in mind, I began with trepidition. I found the game,
+converted it to pdb format, and loaded it on my aging Handspring Visor
+PDA. 
+
+The intro is concise and informative, and gets you into the action right
+away. The game possesses a pulp fiction or a Golden age comic book feel.
+Your quest? Retrieve the necklace of your uncle Xevion from his
+mysterious house. It's straight-ahead youthful mystery-fantasy. 
+
+The room descriptions are sparse, occasionally omitting words,
+presumably to save memory. Some of the error messages are unhelpful
+because of their brevity. For example, a simple one word response with
+nary a period in sight shows up quite a bit. Still others are errors,
+where a blank line displays as the response to your actions. You'll also
+notice some familiar synonyms missing, the most annoying of which is
+"get" -- you must use "take".
+
+Frustration builds into a claustrophobic spiral, brought on by the small
+number of rooms, the crippled parser, and the unhelpful responses. Only
+occasionally do zephyrs of humor lighten the mood. Want to take a
+breather? You can't, because the game can't be saved. Granted, that's
+not a problem on the PDA, unless you wanted to play another IF game and
+resume where you left off. Still, I'm of the opinion that all
+frustrating games should allow you to save. 
+
+Catseye consists of one puzzle that starts off simple and rapidly
+becomes maddening; you have to play "guess the verb" and also "guess the
+input format for the verb". I finally resorted to r.g.i-f to find enough
+clues to win the game. I say that to my embarrassment, but to the
+author's shame. Even when you've won, you feel like the game's getting
+the last laugh. Your effort is rewarded with a scant two sentences.
+Unfair! 
+
+I congratulate Bernazzani for cramming a game into 10k. However it feels
+like more of a programming triumph than an artistic one. The game is
+playable, but inordinately frustrating. It has an interesting feel, but
+not enough to compensate for the parsing problems and lack of feedback
+(both of which seriously interfere with gameplay). The lack of verbs and
+missing punctuation are also drawbacks. In short, thumbs down.
+
+Score: 3/10.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: William McDuff <wmcduff SP@G mac.com>
+
+TITLE: Conan Kill Everything
+AUTHOR: Ian Haberkorn
+EMAIL: haberkornj SP@G yahoo.com
+DATE: April 12 2005
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/inform/ConanKillEverything.z5
+VERSION: Release 1
+
+   "I hope it is adequately stupid. Comments are appreciated."
+                     -- Ian Haberkorn on Conan Kill Everything
+
+Fear not, Ian! You game is most definitely "adequately stupid". Which is
+meant in the best way possible, of course.
+
+Though perhaps Ian Haberkorn is a bit confused about which competition
+he entered with "Conan Kill Everything". When the title placed second in
+StupidTitleComp (a voting mechanism test for the 2005 Spring Thing) he
+seems to have thought he entered IntroComp, and created a playable game
+with that title, possibly hoping to claim a prize before the year was
+up. Alas, he will win nothing for creating this game other than the
+renown for creating such an amusing, if small, game.
+
+In this game you play the legendary Cimmerian barbarian, Conan, and your
+objective is simple. Kill everything. No, not every living thing.
+Everything. The walls of the room only escape Conan's mighty wrath
+because they "are already dead. Conan suspects that he killed them in an
+earlier episode."
+
+Although a one room game, and as mentioned before, very short, some
+interesting puzzles exist here. None will stymie a veteran IF player for
+long, but they puzzles are fair and logical, if progressing to a logical
+extreme. There's not much of a plot or story to speak off, but given the
+source of the game, expecting one seems silly.
+
+The game itself is technically sound, although more verbs could be
+implemented as with most games, and what can be reached from the table
+is perhaps a bit generous. Also, the actions of the fly in the room seem
+to be a bit too random at times, which can make a long wait. The writing
+is terse, tight phrasing emulating the 'action, not words' approach of
+your average barbarian stereotype. This simplistic style actually
+generates some of the humour, and there are also some great lines
+sprinkled here and there.
+
+Significantly, the game endings take a step back to a director's view of
+the action as a movie, giving a view that this farce is something of a
+play within a play. This decision actually helps, as some distance from
+the absurdity keeps the player from getting too involved and turned off
+by the stupidity of the main action. Not that these aren't amusing as
+well.
+
+The main complaint against the game is that it is, as I've said
+repeatedly, quite short, finishable in less than half an hour even if
+you get stuck at one point or another. More could certainly be added:
+for instance, Conan's association with beautiful women is a significant
+part of the mythos, and is missing here. Besides, with such an addition,
+there's a got to be a joke about the 'little death' that could be
+inserted somewhere.
+
+Still, considering the inspiration, this is an excellent little game.
+One can only hope that "You Get Transported To Another Dimension and
+Find This Weird Machine In A Maze And Then Some Other Stuff Happens,
+It's Really Cool" will be as good if Jacqueline H. decides to produce
+it. (Though it's certain to be stupid.)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Paul Lee <bainespal SP@G yahoo.com>
+
+TITLE: The Dreamhold
+AUTHOR: Andrew Plotkin
+EMAIL: erkyrath SP@G eblong.com
+DATE: December 2004
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware, IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/dreamhold.z8
+VERSION: Release 5
+
+The Dreamhold, in my opinion, strikes the mark of a well-done adventure
+game. This game is written with people new to the lore of interactive
+fiction in mind; in fact, there is a "Tutorial Voice" narrator that
+guides you through your endeavors, helping you with the basic concepts
+of IF. One thing that distinguishes this game is that all aspects of
+this game -- not just the ever-helpful Voice -- seem to be written to
+encourage and bring satisfaction to the player. Rather like a parent,
+this game guides and directs you. It is not that you are not allowed to
+fail, but when you make a mistake, you are gently admonished, then shown
+the right way around an obstacle. As I am fairly new to IF, I found this
+game both insightful and refreshing. Although I already knew how to
+travel and manipulate objects with commands, I was delighted to glimpse
+the sage and kind mind of an interactive-fiction master and the art to
+which I am an infant.
+
+From my perspective, the story is the weakest point of "The Dreamhold."
+That is saying much, for it really is not that bad. At the start of the
+game, the motives for the player character are escape, exploration, and
+self-discovery. As the game moves forward, the plot becomes much more
+interesting. Still, the game does not explain its story as it presents
+it to the player, and I was incapable of figuring it out. I knew there
+was meaning there, yet at best I could put together a few pieces of
+background, which would seem unrelated to each other if it were not for
+a common detail or two, the significance of which I could only muse at.
+I was especially confused at the ending -- it was definitely an attempt
+to tie everything together, but for me it just confused and muddled the
+little bit that I thought I had worked out. Still, the story was not a
+complete failure -- the scenes of background were so nicely integrated
+with the puzzles as to keep me interested in both the narrative and the
+crossword. While irritating, it was fun to try to figure out the meaning
+of the scenes and the history of the player character. Also, my
+difficulties with the story may have been personal; perhaps other people
+would find it all to make perfect sense. Maybe the game was not even
+written to have a clear meaning at all, in which case with story as with
+puzzles "The Dreamhold" succeeded in its goals.
+
+More than making up for the story are the puzzles. Solving the puzzles
+is pleasantly rewarding, and new areas to explore and more story to
+unfold come as results of your efforts. The game never forgets about its
+striving player -- all the puzzles are fair and to my knowledge cannot
+be made unwinnable. Most are probably easier from the norm, but figuring
+out how objects work can sometimes be a bit complicated, although never
+frustratingly so. In addition to the Tutorial Voice, which sometimes
+offers help, the game offers a thorough hint system that will not at
+first spoil the puzzle you are working on, if it tarnishes the joy of
+solving it just a bit. The whole makes "The Dreamhold" very enjoyable.
+In fact, I, being introduced to IF after it had taken a turn toward
+narrative, was shown by this game the value and excitement of good
+puzzles.
+
+The mechanics of the game were excellent to the high standard as a
+tutorial that the game sets initially for itself. I do not try every
+possible action or close every door behind me just for the sake of
+ensuring that it works properly, but I found no bugs in the game. It is
+especially mandatory for this game to be bug-free because of its status
+as beginner's IF; it was created in such a way that it could actually be
+someone's very first game, so imagine the confusion on the part of the
+poor newbie when something did not work as explained. Not only is the
+game without bugs, but also I recall running into no grammatical errors.
+For even those folks who have their playtime experience ruined by minor
+slips of grammar, "The Dreamhold" will likely immerse you in its perfect
+prose.
+
+As a game in general, "The Dreamhold" raises the bar high, not just as a
+tutorial. It builds up the player's trust by never failing to live up to
+its high standards, and the result is great. You become the game's
+friend and feel it encouraging you in your difficulties and delighting
+with you in your triumphs. At any rate, for beginners and advanced
+players alike, I recommend anyone the awesome glow of satisfaction that
+comes from "The Dreamhold."
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Nick Montfort <nickm SP@G nickm.com>
+
+TITLE: Façade
+AUTHOR: Michael Mateas and Andrew Stern
+EMAIL: feedback SP@G interactivestory.net
+DATE: July 2005
+PARSER: Custom
+SUPPORTS: Windows, >= 1.6 GHz, >= 256MB RAM, OpenGL
+AVAILABILITY: http://www.interactivestory.net/download/
+URL: http://www.interactivestory.net/
+VERSION: 1.0
+
+Not another one-room game set in an apartment!
+
+Well, actually, you probably couldn't call Façade a game in the typical
+sense -- even though a pre-release version was a finalist in the 2004
+Independent Games Festival, and the New York Times called the system
+"the future of video games." Façade may or may not even be IF, for that
+matter. But it's clearly something closely related to it, and whether
+you're willing to award it the IF label or not, there are good reasons
+that a lot of people -- myself included -- think that Façade is a
+tremendous advance in interactive storytelling.
+
+This "one act interactive drama" is the outcome of a research project
+that has spanned more than five years, one that you can read more about
+in the two creators' dozen-odd academic papers and in Mateas's
+dissertation, done as the last publication of the Carnegie Mellon
+University Oz Project. Façade is not just good research, though. It can
+provide an intense, compelling experience, even though a session can be
+played in about fifteen minutes.
+
+When you download and fire up the system, you'll get to visit with your
+old friends Trip and Grace -- 3D illustrated characters whose statements
+have all been recorded by voice actors -- as their marriage falls apart.
+You'll be able to type short statements to converse with them, move
+around the room using the arrow keys, and use the mouse to manipulate
+objects. Façade lacks adventuring, a clear way to win, and the typical
+IF command structure -- if you type "PICK UP THE MAGIC EIGHT BALL"
+you'll be saying that to Trip or Grace, not instructing your character
+in what to do. You can manipulate objects, however, and can say whatever
+short statements you like to the two other characters. If you manage to
+keep your comments fairly relevant to the conversation, or apartment, or
+situation, the two are likely to react appropriately, both in an
+immediate sense and in terms of the overall development of the
+conversation and the drama.
+
+Before getting deeper into why Façade is so great, I'll mention that the
+two authors and developers, Michael Mateas and Andrew Stern, do happen
+to be my good friends and fellow bloggers with me at Grand Text Auto,
+where I made the official announcement of the release of Façade. So, you
+may choose to take my evaluation of the system with a grain of salt. But
+then, if no one reviewed interactive fiction by people they knew, there
+would be a lot less reviewing going on.
+
+I'll also mention a few other things by way of preface: Façade is a
+working prototype, one quite capable of providing a powerful experience
+that is both interactive (in a meaningful way) and dramatic (in the
+tradition of drama, going back to Aristotle). But it's also capable of
+breaking. Trip and Grace can fall eerily, permanently silent and remain
+planted in the same spot. You can get stuck walking in the door. Things
+that you type can be interpreted by the system in what seems to be
+exactly the wrong way. As is the case with interactive fiction, you have
+to learn something about how to interact fruitfully before you can
+interact fruitfully. Trying to play along, and not getting it quite
+right, can lead to frustration. Façade's excellence is not that it has
+some sort of dramatic Turing-Test-like ability to handle everything you
+can throw at it; there are plenty of ways to run aground, even when
+you're not trying to.
+
+The thing about Façade, though, is that when things go right, which
+isn't all that difficult to achieve, they can go brilliantly right. Your
+conversation can take you in an exhilarating free ride over the Freytag
+diagram of Trip and Grace's soul-searching and their coming to terms
+with their relationship, a ride that is not just funny, but manages to
+be touching. And, it's a ride that you get to steer: once a good typist
+is keyed into the way to talk to Trip and Grace, he or she can provoke
+reactions, draw the conversation to different topics, side with one or
+the other character, and nudge the drama in different directions. Grace
+and Trip are not stateless Elizas; they are closer, if anything, to
+Galateas, but they also maintain an awareness of the way the
+conversation has progressed so far, and they work together to achieve
+dramatic goals, and they use a complex behavior control system to blend
+their high-level and low-level actions together smoothly.
+
+The Oz Project at CMU, the major academic effort in interactive drama so
+far, sought to develop systems that were "highly interactive," that is,
+ones that allowed the player to move, talk, and act at any point, rather
+than only at the end of a turn. Façade realizes this goal, among others.
+Grace and Trip react fluidly to comments from the player at any point,
+given the somewhat asymmetric typed text interface. They player is
+always free to move around and check out things in the apartment. The
+system structures events beginning at the level of the dramatic beat (a
+visible action and reaction) and allows the player to intervene between
+beats or to interrupt a beat.
+
+Façade is also impressive in how it deals with language. It is able to
+understand many statements that are relevant to the current situation,
+and to correctly handle jokes, praise, agreement, disagreement,
+flirting, rudeness, and so on. Not that every possible statement is
+always correctly classified and acted upon, of course. But the natural
+language understanding system works well enough, enough of the time, for
+the drama at hand. Again, the amazing thing isn't that this system is
+flawless. It's that players can manage to get through an entire act
+without a noticeable slip-up -- even though this framework for
+interaction, unlike the venerable ">" prompt in IF, has few precedents,
+and players can't build on their previous knowledge of how to interact.
+It's as if you found someone who had never played interactive fiction
+before, sat this person down at a new version of Adventure, and found
+that after a few minutes of typing the game understood practically all
+the input it was getting and the newcomer was having a great time.
+
+While Façade looks more like a graphical adventure or a strange
+first-person shooter than like most text-based IF pieces, the insights
+that Mateas and Stern have gained in working on the system can certainly
+trickle into more traditional IF. It's not the place of a review to
+start outlining all the ways in which they might do that, but I will
+note that Mateas, with his student Mark Nelson, has already looked into
+how some of the techniques employed in Façade can be used in the context
+of an existing interactive fiction. Those two discuss this topic in a
+paper presented at the Artificial Intelligence and Interactive Digital
+Entertainment conference, "Search-based Drama Management in the
+Interactive Fiction Anchorhead."
+
+Currently Façade only runs on Windows XP, 2000 or ME. It's pretty
+processor intensive, and will refuse to run on processors slower than
+1.6 GHz. It's also an 800 MB download via BitTorrent. (You can spend $14
+plus shipping to get Façade on two CDs, which Mateas and Stern sell at
+cost.) If you're an IF fan with an adequate Windows machine, it's
+certainly worth the download time or CD cost. I had to ask around my
+department for a while to find a suitable computer to borrow for Façade
+installation and play, so I envy those who only have to wait for the
+download to finish. A Mac version is planned, and will happen whenever
+the two developers (hopefully with some volunteer help) can manage the
+port, but it isn't imminent. In the meantime, if you're lucky enough to
+have a system on hand that will run Façade, check it out! I'd venture to
+guess that it will be the most impressive one-room game in an apartment
+that you'll play all year.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Mike Penman <mike SP@G penman.org>
+
+TITLE: The Fire Tower
+AUTHOR: Jacqueline A. Lott
+EMAIL: jacq SP@G allthingsjacq.com
+DATE: 28 May 2004
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: IF Archive, Freeware
+URL: https://ifarchive.org/if-archive/art/if-artshow/year2004/firetower.z8
+     A map is located at: 
+     https://ifarchive.org/if-archive/art/if-artshow/year2004/firetower_map.jpg
+VERSION: 1
+
+Writing for the IF Art Show isn't easy, I know. Faced with the remit
+"explore interactivity", where do you begin? 
+
+Jacqueline A. Lott chose to begin with an engaging character. The
+protagonist of The Fire Tower is consistently drawn, from the results of
+">look at me", ("You glance down and the first thing you see are your
+hiking boots. They're serious hiking boots...") to knowledgeable asides
+made during the IF. She even has a purpose, having come to the fringes
+of Mount Cammerer in the Appalachians to walk solo and get away "from
+everything: work, responsibilities..."
+
+Though it was good to find such a well-presented character, it's Mount
+Cammerer that stars in this piece. This was an entry in the 2004 IF Art
+Show "landscape" section. It took best of show and "best setting" at the
+following XYZZYs. 
+
+The first, powerful impact is of a beautiful landscape beautifully
+presented. It's tempting to describe sweeping scenes with flowery prose
+but the author resists that temptation. The text is sparse and
+transparent; it doesn't get in the way of the country depicted and
+everything is described with an infectious enthusiasm. I was left
+feeling relaxed, as though I'd been there, at least in part. I presume
+that was the main objective of the piece, so it's a success from the
+first play through.
+
+That sense of "being there" is enhanced by the sheer interactivity of
+the piece. Faced with something that says, in essence, "See how
+interactive I am!" I start to verb the nouns. This setting is deeply
+implemented. Almost everything can be examined, heard, smelled, felt and
+tasted. I know more about Appalachian flora now than I did before
+playing.
+
+Sometimes a lack of options left me feeling frustrated. I wanted to go
+back on myself or try routes that I wasn't allowed to. I was
+particularly miffed to find that I missed the work's titular tower
+because, having moved away from it without entering in order to re-check
+a previous description, I was barred from returning. But this isn't a
+game -- the author's trying to guide the player around a landscape --
+nor would route reversals or unplanned diversions be in character for
+the experienced lone-walker protagonist. 
+
+Time -- always a difficult dimension in landscape -- is well handled.
+The protagonist's watch counts one minute for each turn and each travel
+description adds a number of minutes dependent on the terrain covered.
+There's a sense of time passing at a realistic rate, adding to the sense
+of "being there".
+
+I was disappointed with the centre of the game, the fire tower. It being
+the target and title of my walk, I was looking forward to finding
+something extra there. It's as beautifully described as everything else,
+but I'm not sure it deserves its pivotal placement.
+
+It's a good sign if the only major gripe I can raise about an IF is that
+I was left wanting more. In particular I wanted to explore the issues of
+stilting and entrapment -- barely but skillfully hinted at -- that led
+to this walk in the first place. I wanted to turn the protagonist to an
+equipment shop and then along the whole Appalachian trail, fulfilling
+her lifetime dream. For a player like me, without any real interest in
+puzzles, it wouldn't take much to turn this into a full length game in
+the Sunset Over Savannah mode. 
+
+Perhaps the best praise I can offer the piece is this: I wish I'd
+written it. Its clean, artless-seeming approach fosters the illusion
+that I could have. In fact, I think I feel a landscape entry for next
+year's IF Art Show coming on. But first I'm going back to see if I can
+find the bear that Emily Short saw.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Valentine Kopteltsev <uux SP@G mail.ru>
+
+TITLE: Heist
+AUTHOR: Andy Phillips
+EMAIL: pmyladp SP@G pmn1.maths.nottingham.ac.uk
+DATE: 1997
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/heist.z8
+
+In the last few years, a lot of talk could be heard about IF "growing
+petty" (which effectively means, text adventures becoming shorter).
+Well, there certainly are objective factors calling forth the numerical
+superiority of shorter works -- after all, a simple arithmetic
+calculation shows that in the period of time it takes an average author
+to write a hundred-room game, the same author can create about five
+games of equal quality with only twenty rooms each. (In fact, the real
+statistics could turn out even less favourable for longer games, because
+the beta-testing work usually increases at a rate outstripping growth).
+Of course, there're also a number of subjective factors that make this
+quantitative imbalance even harsher, but this isn't the proper place for
+discussing them; I'd just like to mention that, as usual, several
+opinions about the optimal size for a modern text adventure exist. My
+personal point of view on that matter can be best expressed with a
+paraphrase of a saying popular in Russia: More IF games, good and
+different! Of course, if we had three or four Curses!-sized works
+released each quarter it'd probably be a bit too much, but if they
+vanished from the IF scene completely, a certain vacuum would be left
+behind.
+
+Andy Phillips seems to be one of the people who don't want the latter to
+happen, and who don't just restrict themselves to idle talk but take
+active measures to prevent it. Heist certainly can be considered a
+contribution to the struggle against the extinction of IF giants.
+
+At this point, I'd like to take the bull by the horns, and call the game
+by its proper name: it's a puzzlefest. Those of you who don't feel like
+spending the next period of time (quite an extended one -- the
+walkthrough for Heist includes over 1000(!) moves) hearing about logical
+problems can stop reading right now -- the rest of this review is
+dedicated entirely to puzzles. Of course, the game has a story, and a
+setting, but it really isn't what it is about. ;)
+
+Well, the opening section of Heist could probably be as off-putting as
+the beginning of this review. From the very start, the author
+demonstrates he's not inclined to any compromises -- once the player has
+decided to take her brain to the gym, she has to sweat her guts out from
+the very start. No warming-up exercises are provided for; the prologue
+is at least as hard as the rest of this work.
+
+In some respects, it's even harder: you see, as you progress, you begin
+to get accustomed to the author's design style, and start to know what
+to expect of him. The early stages of just *any* game, on the contrary,
+have chances (at least, theoretically) to take the player by surprise.
+Heist doesn't quite miss these opportunities.
+
+The first thing the player needs to get accustomed here is, uh, let's
+call it adventure game logic. What do I mean by that? Now, suppose your
+relative is going to die, and wants you to visit his place after his
+death. (BTW, this also represents the first problem to solve in Heist).
+On the other hand, he intends to make getting there some sort of
+challenge (for whatever reason), so that he doesn't just send you the
+key by mail. There are several ways to accomplish that, but in real
+life, something like travelling to India to kill a tiger whose stripe
+pattern matches that of your relative's door-mat, reading the
+combination tattooed on the beast's stomach, then returning and using
+the combination on the safe in your relative's office to open it and
+discover there the key sought for hardly would come to anyone's mind,
+although it can't be contended that this action sequence has no logic at
+all. What is more, even a "lite edition" of this solution based on a
+visit to the local zoo, or even on catching a like-coloured cat on the
+nearby garbage heap wouldn't be much of an option, either; however, it
+probably would fit reasonably well into a text adventure. While this
+very example isn't adopted from Heist, the game often uses similar
+approaches to puzzle creation, and heavily relies on the assumption that
+people will fiddle with certain things/visit certain places not because
+there's any indication it's going to help them, but just because it's
+possible.
+
+There are a couple more things one needs to get used to, regarding
+technical aspects of game creation. The first of them is illustrated
+best by yet another abstract example. Let's imagine that in some text
+adventure, the player gets to an abandoned airfield, finding there a
+wreck of a plane. So, (s)he types "X PLANE", and sees the following
+lines:
+
+   This aircraft hardly will ever fly again: the hull is all rusty, and
+   the covering of the wings has rotted through here and there,
+   revealing the underlying ribs. The undercarriage, its posts twisted
+   and bent, rests on two flat-tyred wheels. The cowl is missing, as are
+   a few other, more essential motor parts. From where you're standing,
+   you can't look inside the pilot's cockpit, but its shattered hood and
+   a bundle of wires sticking out of it quite unambiguously hint at the
+   fact marauders already have been there. A glance at the empennage
+   brings you to two important conclusions: 1. judging by the rests of
+   the markings, the airplane once belonged to the Royal Ligutanian Air
+   Force, and 2. even if all its other parts were intact, this machine
+   still wouldn't be able to take off.
+
+Further on, our player randomly tries out, say, "X WINGS", "X COCKPIT",
+and "X EMPENNAGE", each time getting the same description. I think 99%
+would give up after that, rightfully deciding the aircraft was
+implemented as a single object, and stop examining its parts. How could
+they possibly know that, if they happened (by chance or by persistence)
+to enter "X WHEELS", they'd be rewarded with an entirely different
+response:
+
+   You never thought of the reasons why the airplane had been left here
+   to rot away, but as you look at the wheels you realize that at least
+   one of them was sabotage: protruding from the left tyre is a sturdy
+   steel needle (needless to say, it appears to be crucial for your
+   further progress).
+
+Such situations are very common in Heist, so that inspecting every
+single element of a multi-part object is a good idea. To be fair, it's
+to be said the whole is by far not as draconian as it might have been,
+because the game does its best in limiting the scope of objects the
+player can interact with by using the standard "That's not something you
+need to refer to..." response. Still, not being aware of this
+particularity could be pretty confusing.
+
+The other feature requiring getting used to is a strange minimalism of
+some descriptions (as with the previous issue, examples are scattered
+all over the game). For instance, somewhere in the middle of the story,
+I found a remote control unit, which claimed to have "three simple
+buttons", yet gave no hint about how I could distinguish between them. I
+tried "X BUTTONS", but was told that I couldn't see any such thing.
+Pressing the remote control didn't earn me any information about the
+buttons' unique characteristics either (it merely replied with "Nothing
+obvious happens"). As it turned out, this cul-de-sac could be overcome
+by typing "PRESS BUTTON" (note the singular) and learning the
+distinctive features for the buttons from the standard disambiguation
+response -- "Which do you mean, ...". OK, this method worked, but don't
+tell me it's a good game design style!
+
+Normally, I'd dismiss something like that as slopwork; however, it's
+hardly applicable in this case, because Heist clearly isn't sloppy.
+Thus, I tend to see these features as some sort of the author's
+conceptual design choices I'm just failing to understand.
+
+After the prologue, the game splits up into a number of sub-games -- a
+decision amiable for both the author and the players. The author has
+obviously spared a lot of coding work, especially considering the fact
+that the player's inventory can't be transferred between the game parts;
+the players have received an additional chance to complete at least a
+major section of Heist on their own (while solving the entire game
+without help from outside probably also is possible, it'd certainly
+require more time and efforts most people could afford to spend on a
+text adventure). And, of course, there are puzzles, puzzles, puzzles.
+Puzzles abound. Most of them are decent, original and fun to solve,
+although they make massive use not only of adventure game logic, but
+also of adventure game conventions (you know, things like the player
+becoming able to pick up an object that previously had been too heavy
+for him to carry after (s)he swung the dumb-bells a few times). One of
+the puzzles seems to be loaned from Zork II, but I think the reason for
+it lies in the author just being unfamiliar with the immortal
+masterpiece by Infocom; since there's enough proof in Heist of Mr.
+Phillips' creativity regarding puzzle design, I can't blame him for that
+-- not having played Zork certainly isn't the worst crime in the world
+(actually, it's no crime at all).
+
+And this is pretty much all that can be said about this game. It's not
+without faults, but true puzzle-lovers will forgive all of them:
+occasional typos (admitted, their rate is kept quite low, especially
+considering how huge the whole thing is), a few wording problems, and a
+couple non-fatal bugs. As to those who aren't true puzzle-lovers, they
+shouldn't play this game, anyway. 
+
+As to me, I'm completely happy with Heist, and I hope games of this kind
+(and size) will be kept being released. At times, it's great to have
+something you could put your brains to work onto, and to do so (with my
+inclination to bad puns, you could bet I was going to say it!) without
+haste.
+
+The SNATS (Scores Not Affecting The Scoreboard):
+
+PLOT: OK for a puzzle-oriented game; otherwise, I'd rate it lower (1.2)
+ATMOSPHERE: See PLOT, although a few places are really atmospheric (1.3)
+WRITING: Even and solid (1.2)
+GAMEPLAY: Well, puzzlefest. An entertaining puzzlefest, though (1.4)
+BONUSES: The amount of work that obviously has gone into a work so huge
+         automatically deserves at least... (1.2)
+TOTAL: 6.3
+
+CHARACTERS: Well-implemented and not annoying - what else can be
+            required of a NPC in that kind of game? (1.2)
+PUZZLES: Lots of 'em, a vast majority being decent, original and fun to
+         solve (1.4)
+DIFFICULTY: The game is obviously intended to keep the player busy for a
+            very, very long time (10 out of 10)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Mike Tulloch <tarage SP@G bellsouth.net>
+
+TITLE: Moonglow 
+AUTHOR: Dave Bernazzani 
+EMAIL: daveber SP@G gis.net 
+DATE: October 4, 2004 
+PARSER: Simple (Microform parser) 
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware -- Author's site 
+URL: http://www.gis.net/~daveber/miniventure/ 
+VERSION: 3
+
+Moonglow exudes a 50's Sci-Fi feel, that some may find to be cliched,
+but it does provide a familiar backdrop in an economy of words. You see
+a UFO crash in your field; you can guess what unfolds next. 
+
+Moonglow, like Catseye, is a 10k adventure, but it feels more polished
+due to its more robust parser. Like the aforementioned game, it is lean
+on description, terse with its replies, and consists of only a few verbs
+and objects. I also discovered an instant death routine that seemed a
+bit capricious. As with Catseye, you can't save the game, should the
+need or desire arise. 
+
+The puzzles here are a medium level of difficulty, but I found them
+rewarding. First, they are separate puzzles (not simply part of one big
+puzzle as in Catseye); second, they are creative, in that they made
+sense, weren't immediately obvious, and yet weren't insanely difficult.
+The plot proceeds linearly but does involve a lot of "guess the verb"
+towards the end, however, due to the lack of helpful responses. In
+comparison to Catseye, Moonglow is more descriptive, more interesting,
+and more realistic. (Yes, it's a realistic SF.) 
+
+Moonglow is diverting and worth an hour or two of playing. Bernazzani
+hit the mark with this one. 
+
+Score: 6/10. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Paul Lee <bainespal SP@G yahoo.com>
+
+TITLE: Rock 'Em Sock 'Em Robots
+AUTHOR: Benjamin Mullins
+EMAIL: benmullins SP@G gmail.com
+DATE: February 2005
+PARSER: Inform
+SUPPORTS: Z-code ports
+AVAILABILITY: Freeware, IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/reser.z5
+VERSION: Release 1
+
+This is a cute little game in which you play the blue "rock 'em
+sock 'em" robot and are determined to defeat your eternal adversary,
+Red. The obvious goal comes very easily; it is the bells and easter-eggs
+that make this game worth your five or ten minutes. Many actions give
+funny responses, and there are several humorous ways to end the game.
+Although the game will draw its laughs, there are not really enough
+things to do to make it a serious endeavor. Still, it accomplishes its
+goal well enough for what it is.
+
+Neither the coding nor the writing are very spectacular, but they both
+pass. The game has been tested and is not terribly buggy, although the
+Inform debugging commands are still present. Most everything works the
+way it obviously should. The only thing that disappointed me was one
+object that when used suggested something that the game did not
+incorporate. The writing similarly is fine. In fact, in places the prose
+is pleasantly witty. At any rate, the small amount of time that you put
+into this little work should be fun.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Jimmy Maher <maher SP@G grandecom.net>
+
+TITLE: Wumpus 2000
+AUTHOR: Muffy St. Bernard
+EMAIL: muffysb SP@G hotmail.com
+DATE: November 2004
+PARSER: Inform
+SUPPORTS: Z-code ports
+AVAILABILITY: Freeware, IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/wump2ka.z5
+VERSION: Release 1
+
+Wumpus 2000 is a rather bold amalgamation of everything the average
+member of the IF community hates the most. We have hunger daemons,
+randomized combat, and arbitrary death. Best of all, the whole game is a
+gigantic five-level maze. Don't move on to the next review just yet,
+though. There are some interesting things going on here.
+
+As its name would imply, Wumpus 2000 is an homage to the early '70's IF
+progenitor Hunt the Wumpus. However, Wumpus 2000 adds to Hunt the Wumpus
+at least a suggestion of a plot and more interactive elements, thus
+changing its form from an elaborate logical puzzle to a full-blown, if
+rather unusual, text adventure. The player is a newspaper reporter whose
+expose has angered the wrong people, resulting in her being deposited
+into a monster-infested toxic waste dump below her city. The objective
+is simple survival and, ultimately, escape. To do this, the player must
+explore a 5-level, 100 room dungeon which is randomly generated for each
+game, building up equipment and experience in preparation for her
+showdown with the game's ultimate foe, the wumpus itself. In classic
+dungeon crawl style, the monsters and challenges get steadily tougher as
+one progresses, but the rewards -- in the form of more powerful weapons,
+and treasures which can add to the player's score upon escape -- also
+increase. You will also have the opportunity to get physically stronger
+in a couple of different ways, a nice stand-in for the conventional RPG
+experience level trope. Taking advantage of these opportunities is
+essential if you are to have any hope of defeating the tougher monsters
+on level 3 and below.
+
+Yet the heart of Wumpus 2000 remains mapping. There has been
+considerable discussion on the IF newsgroups about potential
+alternatives to the traditional compass style of navigation. Wumpus 2000
+is interesting in this regard, for it dispenses with directions
+altogether. Rooms are numbered from 1 to 100, with rooms 1 through 20 on
+level 1, 21 through 40 on level 2, etc. Exits from each room are listed
+not with their direction but with their destination. For instance, the
+exits from the first room of my game looked like this at the beginning:
+
+Exit 1 corkscrews toward an unexplored room.
+Exit 2 corkscrews toward an unexplored room. 
+Exit 3 corkscrews toward an unexplored room.
+
+After I had explored a bit, they looked like this:
+
+Exit 1 corkscrews toward room 1 (A vast, rough chamber.)
+Exit 2 corkscrews toward room 17 (A vast, rough chamber.)
+Exit 3 corkscrews toward room 18 (A vast, rough chamber.)
+
+Mapping this is not really that difficult, although it does require a
+slightly different frame of mind. One must stop thinking directionally
+and start thinking solely in terms of connections. Deeper in the
+dungeon, things start to get a bit more complicated. You will encounter
+steep slopes upon which you can lose your footing, rushing water which
+can sweep you away in undesired directions, and other such obstacles.
+Things get really tough in the bottom couple of levels, when you run
+into things like this:
+
+Exit 1 corkscrews toward a familiar part of this room.
+Exit 2 corkscrews toward an unexplored part of this room. 
+Exit 3 corkscrews toward a familiar part of this room.
+Exit 4 rises steeply toward room 85 (A vast, dark chamber.)
+
+As you can see, there are now multiple locations located in the "same"
+room. Mapping this sort of thing requires some real ingenuity, as well
+as resorting to the old standby of dropping items about the place and
+hoping no wandering monsters carry them off. For the truly masochistic,
+there is an option to turn off the room numbers altogether throughout
+the dungeon. Needless to say, I didn't partake.
+
+Other than exploring and mapping, you will spend your time collecting
+and experimenting with a variety of useful and not so useful items,
+fighting monsters, and slowly building up your character. There really
+are no traditional set-piece puzzles. The game is completely simulation
+oriented, with it challenges all arising organically from the
+environment. I would say its gameplay has as much in common with Nethack
+and its cousins as it does with traditional narrative IF.
+
+Dungeons and Dragons tropes get pretty unbearable pretty quickly for me,
+but the game's saving grace is that it never takes itself particularly
+seriously. Monsters are silly and fun, and you will even find some very
+humorous little notes left by the dungeon's earlier (doomed) explorers.
+
+It isn't the sort of thing I usually enjoy, but I had quite a good time
+with Wumpus 2000 for the first few hours. I found it fairly challenging,
+but not ridiculously so like, say, Nethack, and figuring out how things
+worked and reading the game's humorous little descriptions and asides
+was a lot of fun. Eventually, though, things got simultaneously more
+difficult and tedious, and I started to cheat, making copious use of the
+UNDO command. The presence of UNDO destroys much of the challenge in a
+game like this, for virtually any combat can now be won by UNDOING
+anytime the result in a given turn is unfavorable to your character. I'm
+frankly rather surprised that the author didn't disable it, although I'm
+not disappointed. I seriously doubt I would have ever completed the game
+without it.
+
+Even with UNDO, winning the game for me involved some more extensive
+cheating. I found myself on the last level of the dungeon, having killed
+the dreaded wumpus, with two of the three keys I needed to make my final
+escape. Naturally, I couldn't find the third. In the end, I hacked into
+the object tree to find that last elusive key and win the game.
+Sometimes a man must do what a man must do...
+
+The prospective player should be aware that there are a few bugs to be
+found. The worst of these is that doing an INVENTORY while holding the
+gem pouch you find on one of the later levels will crash the game with
+an illegal opcode. Perhaps another release will be forthcoming to
+correct this issue, and a few other more minor niggles.
+
+For me, the problem with a game like this is that increased challenge
+just feels like increased tedium. At some point it all becomes work
+rather than fun, and then I either give up or cheat. I suspect that many
+other IF players are, like me, looking for something fundamentally
+different in their computer entertainment than that which Wumpus 2000
+provides, and so I am not surprised that there has been virtually no
+discussion of this game in the community since its release. Still, if
+you think you might enjoy a heaping dose of RPG-style simulation and
+old-school mapping puzzles to go with a little bit of narrative, give
+Wumpus 2000 a try. It really does do what it does very well, and I don't
+know of any other modern parser-based game quite like it.
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers, with the exception of reviews submitted to SPAG Specifics,
+where spoilers are allowed in the service of in-depth discussion. In
+addition, reviewers should play a game to completion before submitting a
+review. There are some exceptions to this clause -- competition games
+reviewed after 2 hours, unfinishable games, games with hundreds of
+endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

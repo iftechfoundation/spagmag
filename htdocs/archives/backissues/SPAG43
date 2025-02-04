@@ -1,0 +1,3128 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #43
+
+        Edited by Jimmy Maher (maher SP@G grandecom.net)
+                       January 7, 2006
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #43 is copyright (c) 2006 by Jimmy Maher.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign.
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Attempted Assassination
+Beyond
+Book and Volume
+Building
+Chancellor
+The Colour Pink
+The Corn Identity
+Dawn of the Demon
+Distress
+Internal Vigilance
+The Lost Kingdom, Brainf*ck Edition
+Narcolepsy
+A New Life
+Phantom: Caverns of the Killer
+The Plague (Redux)
+Snatches
+The Snowman Sextet
+Space Horror I: Prey For Your Enemies
+Space War! ...and the PDP-1
+A Sugared Pill
+Tough Beans
+Unforgotten
+Vespers
+Whom the Telling Changed
+
+
+EDITORIAL------------------------------------------------------------------
+
+There has been a fair amount of discussion on the newsgroups recently about 
+possibilities for bringing IF to a wider audience.  Some want to see IF returned
+to commercial viability, and certainly the relative recent successes of 1893: A
+World's Fair Mystery and Future Boy! give such folks hope.  Others are more
+ambivalent about IF's commercial prospects, at least for right now, but feel 
+that there are many potential players out there who could and should be brought
+into the fold.  For what it's worth, I count myself tentatively among the
+latter  group.  Proposals to accomplish this broadening of IF's acceptance
+range widely in scope and feasibility.  Before adding my two cents to the
+debate, I want to talk briefly about what might be motivating us to have these
+discussions in the first place.
+
+It seems to me that there is a slight feeling of stagnation within our
+community.  The excitement of the early nineties IF renaissance, which stemmed 
+first from the idea of having new quality "text adventures" to play at all and 
+was then largely fuelled by a sense of experimentation, of seeing just what this 
+medium might be capable of once freed of the need to conform to traditional 
+adventure game tropes, has somewhat run its course now.  Our community is not 
+unhealthy by any means, but it no longer really seems to be growing.  I think
+some of these subjective impressions of mine are borne out when taking a look
+at one of our community's most cherished institutions, the annual IF
+Competition.
+
+The Comp peaked in 2000 and 2001 in terms of number of game entered.  Each of 
+these years sported more than 50 games.  It has since shrunk to a relatively
+stable 35 or so entries each year.  Now, this is hardly disastrous under any 
+circumstances, and judging the overall health of the IF community by the number 
+of entries in one competition is of course extreme folly.  Further, others have 
+pointed out that a smaller Comp is in some ways a good thing, allowing judges as 
+it does to have a reasonable expectation of playing all or most of the games 
+during the Competition period.  There is also something of a consensus that, 
+while the number of entries are fewer, the general quality has increased 
+somewhat in recent years, at least in the sense of there being fewer --
+although, of course, still too many -- examples of bug-ridden dreck entered.
+
+Still, perhaps you, gentle reader, will allow me the assertion -- formed from IF 
+Comp data, my admittedly subjective personal impressions, and, yes, even the 
+size of the average SPAG magazine issue from year to year -- that in terms of 
+numbers the IF community peaked around 2000 or 2001, and then shrunk slightly to 
+its present level.  Now, our present situation is not a bad one.  Games, and
+often very good games, are still getting written, exciting new developments
+like TADS3 are still appearing on occasion, and our community remains a more or
+less active and vibrant place to be.  I certainly am happy to be here, and
+am repeatedly amazed at the generally elevated level of the discourse that goes
+on here.  I  hope that some of the shockingly well-written and thoughtful
+reviews you will  find in this very issue speak to that.  If we are a small
+club, we are also an  exclusive club.  And yet I wonder at times what an
+infusion of fresh blood might accomplish for IF.
+
+Now, IF is by its very nature a niche pursuit.  We are never going to rival, to 
+pick a few random examples, NFL football, Eminen, or Grand Theft Auto for
+popularity.   It does not necessarily follow, though, that are present
+community of perhaps a thousand at best active players is the best we can do.  
+Consider for a moment another quiet, cerebral hobby: crossword puzzles.  Next 
+time you find yourself trapped at an airport, spend a few minutes wandering 
+about the terminals observing your fellow travelers.  I can almost guarantee
+that you will find, tucked away here and here in various dark corners, 
+individuals working crosswords.  Yes, in this day of Gameboys and handheld DVD 
+players, a certain tiny segment of the world prefers to entertain themselves 
+with a pursuit that is if anything even more austere -- and certainly much more 
+low-tech -- than IF.  I would love to find a way to introduce some of those 
+folks -- as well as some proportion of the much more sizable population of
+book lovers, and maybe even some more pencil-and-paper RPG nerds -- to this
+hobby of ours.  These are of course niche pursuits in themselves, and yet the 
+number of people engaged in each dwarfs us by several orders of magnitude.  
+
+At this point, I want to note that my agenda here is not to bring hordes of
+crossword lovers on the IF scene.  While I will gladly welcome anyone who is or
+might become interested in the medium's possibility, I would love to see a
+mixture of people, including a fair number with a background in literature and
+the humanities.  In other words, storytellers.  The crossword-playing "
+community" , assuming it can be defined as such at all, I choose only as a
+handy example.
+
+You are probably expecting me to propose a grand outreach program to these other
+intellectual (not to say nerdy) communities at this point, and are all ready to
+protest that this has been tried on various occasions before.  For instance, IF
+was given quite a nice write-up in Games magazine, a journal for crossword-
+loving types, in 2004.  That article did bring a few new faces into our 
+newsgroups, but it hardly ignited a revolution.  Why?  Well, I don't think it is
+due to our medium being inherently too difficult for readers of that magazine.  
+Certainly I am a great lover of IF, and even (more due to dogged experience than 
+any intellectual brilliance on my part) fairly good at solving the games, yet
+many of the logical conumdrums to be found in the typical issue of Games leave 
+me frankly baffled and thoroughly out of my depth.  I think the failure of this
+article, and many others like it, to generate significant new community members 
+has something to do with our own failure to put our best foot forward.  Put 
+bluntly, we make it too darn hard to get into IF.
+
+Consider what a prospective IFer who has read about our hobby in Games Magazine, 
+the New York Times, or anywhere else is initially faced with.  First of all, we 
+have two major systems for writing games, TADS and Inform, each requiring their 
+own interpreter download, plus several more less commonly used but no less
+viable alternatives.  Once our newbie has figured out that she needs an 
+interpreter, there is a good chance that she will end up attempting to navigate 
+the IF Archive in search of said interpreter and possibly of games to play on
+it. The Archive's organization is... arcane at best, the sort of thing that
+might make sense to a techie but that can seem a hopeless mess to someone just
+curious about trying out a new type of game.  And then, of course, it's slow.
+Boy, is it slow!
+
+There are of course solutions to these problems.  Baf's Guide is a wonderful
+resource that eases the migraines that the unfiltered Archive is likely to
+induce in even experienced IFers.  Yet Baf's Guide is not much help in getting
+started with an interpreter.  There are a fair number of generously donated
+Archive mirrors that are generally much faster than their parent site.  Yet the
+newbie probably does not know about these, and won't find out unless she takes
+the time  to read the fine print on Baf's VERY carefully.
+
+But surely, I hear you say, anyone with the patience and intelligence to 
+appreciate IF can overcome these comparatively minor hurdles?  Of course they
+can, but I think this response to some extent misses a crucial point.  A person 
+who wanders into the realm of IF due to a mention in an article somewhere, or 
+who stumbles across it during casual web surfing, is probably idly curious at 
+best.  If she is greeted with an experience that, as in our current model, 
+manages to be simultaneously archaic in appearance and technologically daunting
+in practice, she will most likely just shrug her shoulders and move on to 
+something else.  Remember, she doesn't know how cool what we are doing really
+is, because she has no experience with it.  We have to make it easier for her
+to get that experience and hopefully come to that realization.
+
+There is good news, though, in the form of some projects that might just ease
+the way for newbies and perhaps even be convenient for us oldtimers.  Damian
+Dollahite has been working steadily on an IF Metadata Standard which could be
+the key piece of plumbing to allow a host of cool new automated applications.
+Tor Andersson has made considerable strides toward a unified suite of
+interpreters  that have an identical look and feel for the user.  Imagine these
+two  innovations combined with an iTunes-like front end.  Now the new IFer can
+browse  through a database of games based on any criteria she chooses, with
+background  information on each game and even reviews from resources like the
+one you are  now reading available right there in this iTunes-IF application.
+When she finds  something that looks interesting, she clicks a link and it is
+downloaded to her  computer and launched, seamlessly.  Sure, oldtimers like me
+and possibly you might spurn all of this fancy overhead.  But just imagine if
+you could put the whole world of modern IF at an interested but daunted 
+friend's fingertips by giving her one application to download and install?
+Wouldn't that be just a  little bit cool?
+
+I feel like a bit of a hypocrite in advocating a sleeker, friendlier face for
+modern IF, simply because the SPAG web site, and the SPAG delivery model for 
+that matter, is anything but.  Thus, in an effort to put my money where my mouth 
+is, I plan to begin to change that this year.  First, I plan to begin working on 
+a new version of the SPAG site using modern PHP-based content management that 
+should make the site cleaner, easier to navigate, and in general much less 1995 
+in feel.  After that I want to look into offering SPAG as HTML-formatted emails, 
+with pure text of course remaining an option for the diehards.  I have other 
+ideas for the future, but we will leave things at that for now.  If you are
+experienced with PHP and have the willingness and time to help with such a
+project, by all means contact me.  Rest assured that I have no desire to turn
+SPAG into a bandwidth-heavy monstrosity.  I just hope to create a more
+attractive, professional, and useful version of the community pillar you have
+come to know and (hopefully) love.
+
+In the meantime, while you peruse this issue -- one unusually large thanks to 
+the generosity of all of you in our community, and absolute proof that in spite 
+of the negativity of some of my comments this community has plenty of life in it 
+even if the status quo never changes -- perhaps give a few minutes thought to
+how we might make IF more accessible to the masses who are not in the know, 
+assuming you think this is a good idea at all.  Feel free to send me your 
+thoughts.  Should I receive them, I will be happy to publish voices of
+agreement or dissension in SPAG's next issue.
+
+
+IF NEWS -------------------------------------------------------------------
+
+IF COMPETITION RESULTS
+The 11th Annual IF Competition has come and gone.  My congratulations and
+gratitude go out not just to the winners but to everyone who completed a game
+and entered it, regardless of its final finish.  You are the folks who are
+truly, to paraphrase SPAG's byline, helping to keep text adventures alive.
+Keep reading for interviews with the three top finishers as well as reviews of
+the top ten games plus a few others.  First, though, here are the final
+standings:
+
+1 Vespers, by Jason Devlin
+2 (tie) Beyond, by Mondi Confinanti
+2 (tie) A New Life, by Alexandre Owen Muñiz
+4 Distress, by Mike Snyder 
+5 Tough Beans, by Sara Dee 
+6 The Colour Pink, by Robert Street 
+7 Unforgotten, by Quintin Pan 
+8 Snatches, by Gregory Weir 
+9 Chancellor, by Kevin Venzke 
+10 Internal Vigilance, by Simon Christiansen 
+11 Escape to New York, by Richard Otter 
+12 Mortality, by David Whyld 
+13 History Repeating, by Mark & Renee Choba 
+14 Vendetta, by James Hall (writing as Fuyu Yuki) 
+15 Son of a..., by C.S. Woodrow 
+16 Xen: The Contest, by Ian Shlasko (writing as Xentor) 
+17 Gilded, by A Hazard 
+18 Mix Tape, by Brett Witty 
+19 Waldo's Pie, by Michael Arnaud 
+20 Off the trolley, by Krisztian Kaldi 
+21 Psyche's Lament, by Now We Have Faces 
+22 The Plague (Redux), by Laurence Moore (writing as Cannibal) 
+23 Sabotage on the Century Cauldron, by Thomas de Graaff (writing as Thomas de
+Graaff)  
+24 On Optimism, by Zach Flynn (writing as Tim Lane) 
+25 Space Horror I, by Jerry  
+26 Cheiron, by Sarah Clelland and Elisabeth Polli
+27 Neon Nirvana, by Tony Woods  
+28 The Sword of Malice, by Anthony Panuccio  
+29 Dreary Lands, by Paul Lee  
+30 Hello sword, by Andrea Rezzonico  
+31 Phantom: caverns of the killer, by Brandon Coker  
+32 Amissville II, by Santoonie Corporation  
+33 FutureGame (tm), by The FutureGame Corporation  
+34 Jesus of Nazareth, by Dunric (writing as dunric)  
+35 PTBAD6andoneeighth, by Jonathan Berman (writing as Slan Xorax)  
+36 Ninja II, by Dunric (writing as Dunric)
+
+
+IF ON DVD
+Jason Scott, creator of an earlier documentary about the BBS world of the 1980s, 
+is now planning to create a film chronicling the history of IF.
+http://www.getlamp.com
+
+THE FRENCH IF COMP
+Non-English IF continues to be a growing concern.  The latest evidence of that 
+is the First Annual French IF Competition, which sported five entries this year.  
+If you are lucky enough to have French, check out the games, and perhaps report 
+what you find to those of use who are more linguistically challenged.
+http://ifiction.free.fr/concours.php
+
+THE BEST GERMAN IF OF THE YEAR
+On a similar note, check out these six adventures written auf Deutsch, if you
+are able to.
+http://people.freenet.de/if-album/
+
+IF IN THE SLAMDANCE COMPETITION
+Two games of interest to IFers have been selected as finalists for the 2006 
+Slamdance Guerilla Games Competition.  One is Whom the Telling Changed by our 
+own Aaron Reed.  You will find a review of this game in this very issue.  The 
+"interactive drama"  Facade, also reviewed recently in SPAG, is also a
+finalist. Congratulations to the creators of both!   http://www.slamdance.com/
+games
+
+AN INTEGRATED IF PACKAGE
+If you have already read my editorial, you will recognize this as the sort of 
+project that is near and dear to my heart: James Mitchelhill has created a 
+single Windows setup package that installs interpreters for all of the major IF 
+systems along with the appropriate Start Menu shortcuts and file associations, 
+all with the goal of giving newbies a one download entry point into the world of 
+IF.  He requests that you try out the installation if you have time, and report
+back to him at james SP@G disorderfeed.net.
+http://disorderfeed.net/xall_demo_0.1.exe
+
+IF MAP TEMPLATES
+Jon Ripley has created several custom map templates for all of you IF 
+cartogrophers out there.  They are available on his web site as either .ps or .
+pdf files.
+http://jonripley.com/i-fiction/maps/
+
+SPAG NEEDS YOU!
+I'm very proud to note that this edition of SPAG is the largest we have seen in 
+quite a while.  This is due to a number of factors, but the principal man to 
+thank is Greg Boettcher, who turned his Non-Comp Review Project into something 
+of a cooperative effort with SPAG.  Much of this issue's content is due 
+to Greg's efforts alone.  If you appreciate the work he puts in for our 
+community -- running the Spring Thing, founding the Non-Comp Review Project, and 
+of course providing a brand new and much needed Golden Banana of Discord -- drop 
+him a line and tell him so.  In the meantime, let's see if we can't keep up the 
+momentum and make next issue another big one.  I will welcome "second opinion"
+reviews of any of the games profiled here, and of course there are still games 
+deserving of a first SPAG review that haven't received one.  To wit:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  All Hope Abandon
+2.  A Spot of Bother
+3.  1893: A World's Fair Mystery
+4.  Finding Martin
+5.  Dracula: The First Night
+6.  Mystery House Taken Over games (any, some, or all!)
+7.  Remaining IF Comp 2005 Games
+8.  Threnody
+9.  2k Competition Games
+10. IntroComp 2005 Games
+
+
+NEWS FROM THE WIDER WORLD--------------------------------------------------
+
+ULTIMA 5 LAZARUS
+There have been many, many projects over the years to remake one or another of 
+the classic Ultima games.  For the first time, one has actually been completed, 
+and it looks quite good.  Ultima 5 Lazarus is built on the Dungeon Siege engine, 
+and requires that you have that game installed.  Luckily, though, Dungeon Siege 
+is quite cheap these days, and Lazarus might just be more than enough to justify
+its modest purchase price.
+http://www.planetdungeonsiege.com/ultima5/main.asp
+
+THE INDIGO PROPHECY (A.K.A. FAHRENHEIT)
+Modern technology has opened up the possibility for doing amazing things in 
+interactive storytelling, but its potential has been almost completely 
+unrealized until now.  Most video games confine themselves to the cliched and 
+simplistic, the bare minimum necessary to justify their gameplay, which usually 
+tends to involve killing large numbers of somethings.  Those graphical games 
+which do attempt to tell a coherent story, on the other hand, are generally 
+built around simplistic point and click gameplay, with little attention given to 
+realistic world modelling.  The Indigo Prophecy -- known to those outside 
+America as Fahrenheit -- is different though, attempting as it does to tell an 
+interesting story in a novel way.  The game has its share of problems and 
+frustrations, and its script, while being miles ahead of most video game
+writing, is hardly ready to rival the best of cinema, but it is worth checking
+out to get a glimpse of what the future  could hold if game developers ever
+begin to take the storytelling possibilities of their chosen medium seriously.
+http://www.atari.com/indigo/
+
+
+THE SPAG INTERVIEW---------------------------------------------------------
+
+In keeping with long-standing tradition, I here present interviews with the top 
+three finishers from this year's Competition.  Roberto Grassi (one-third of the 
+team behind Beyond) and Jason Devlin (author of Vespers) have appeared in 
+SPAG's pages before, while the remainder are new to us.  I want to
+congratulate all  of them on their success, and thank all of them for taking
+the time to share a  little bit about themselves and their games with SPAG's
+readers.
+
+=-=-=-=-=-=-=-=-
+ Alexandre Owen Muñiz, author of "A New Life"
+-=-=-=-=-=-=-=-=
+
+  SPAG: So, who is Alexandre Owen Muniz?  Can you share a little bit about
+  yourself with SPAG's readers?  Where you live, how you spend your days, and so
+  on?
+
+AM: I live in a suburb of Portland, Oregon. I'm either an unemployed programmer
+or a bum, depending on whether I find another job soon. I sing in a Renaissance
+ensemble. I enjoy Irish céilí and set dancing, recreational mathematics, and
+learning languages.
+
+  SPAG: What is your personal experience with IF?  Have you been playing for a
+  long time, and if so can you share with us any games or authors that are
+  personal favorites for you?
+
+AM: I had the Hitchhiker's Guide game when I was a kid, but I didn't get very
+far. After peeking at the solution to the babelfish puzzle I determined that
+actually playing the game (as opposed to blindly  following the Invisiclues)
+would be an exercise in total frustration, so I gave up, on the game and on IF
+in general. At some point in the late '90s I found a set of comp reviews, but
+they only convinced me that playing the games would be much less entertaining
+than reading the  reviews had been.
+
+I stumbled upon the newsgroups in early 2001, and was quite impressed by the
+reviews and discussions of the games from the 2000 comp. I had an idea for a
+story I wanted to tell that wouldn't work in static fiction, and I started
+sketching out the design of an IF game. Unfortunately, it would have required
+a huge number of NPCs, and I couldn't come up with  any good puzzles, so I
+abandoned it. Then I thought that a bag of bag of holding holding would be a
+fun thing to put in a game, and would lead to some decent puzzles, and the
+outline of what became A New Life came together pretty quickly.
+
+As a player of IF, I haven't improved significantly since my experience with
+Hitchhiker's Guide. Puzzles that should be easy still flummox me, and I
+frequently give up on games before I get very far. I'm quite fond of Emily
+Short's games, and the fantasy worldbuilding therein. Photopia was quite
+emotionally affecting. Rematch is the one puzzle based game I've finished
+without relying heavily on hints or outside help. I've yet to finish So Far,
+but it inspired me to cram my game world with  metaphorical connections. (This
+is an aspect of A New Life I have not seen discussed; I don't know if this is
+because players found it too obvious to comment on, or too subtle to notice!)
+
+  SPAG: A New Life appears to be your first full-fledged, polished IF release.
+  As such, your second place finish in this year's Comp is especially deserving
+  of congratulations.  I do notice you have been entering SpeedIF competitions
+  since 2001, however.  Was this valuable experience in the development of A New
+  Life?
+
+AM: It's not so hard to do well with your first game if you put a really huge
+amount of time and effort into it. That said, I don't recommend that new
+authors write something this big as their first game. There were design flaws
+that I made due to my inexperience that I was stuck with long after I had
+learned why they were mistakes.
+
+Speed-IFs are fun, and I wish I had done more of them. I tend to be a
+perfectionist, and they force you to set perfectionism aside, although I have
+taken somewhat longer than the traditional two hours every time I've done one.
+But as experience goes, they're really just trifles.
+
+  SPAG: A New Life appears to be the first full-length game to use Platypus in
+  place of the standard Inform library.  Can you comment on your experiences
+  using Platypus?
+
+AM: Soon after I started coding A New Life I discovered Platypus, and it seemed
+to correct the most egregious design flaws in the Inform library, so I
+switched. What I didn't understand at the time was that Platypus  was rather
+buggy, and that in the absence of a strong community of  users, the only remedy
+was to fix the bugs oneself. What made this worse  was that since I lacked
+confidence in the correctness of the library, I frequently sent myself on wild
+goose chases in the library code looking for bugs that were in my own code.
+Since it is still buggy and is no longer being maintained, I cannot recommend
+Platypus to new authors.
+
+This is not to say that the benefits of using Platypus were not real. I didn't
+realize until I went back to standard Inform for my section of The Corn
+Identity how bad the Inform library's handling of indirect objects is.
+
+  SPAG: Did any particular fantasy books or games strongly influence A New Life?
+
+AM: My choice of goblins as a race came from every fantasy game that ever
+cribbed from D&D. Goblins are the one common enemy race that is too weak to be
+feared, but too strong to be pitied. I wanted to put the player into a world
+where racism is accepted as the norm, and the contempt towards goblins that is
+implicit in these games was a useful tool for that purpose. Certainly there's
+a lot in A New Life that's taken from fantasy literature, but it's mostly
+generic tropes that I'd be hard pressed to think of a single source for.
+
+  SPAG: You have obviously put a fair amount of effort into the background
+  world in which your game takes place.  Indeed, I will go out on a limb here
+  and say that the setting is probably the most memorable single aspect of the
+  work.  Did you create this world just for this game, or was it something you
+  already had kicking around, so to speak?  Any chance that we will see more
+  games from you set in this same world?
+
+AM: I created it for this game. Sometimes an element of the game design would
+have pretty far reaching effects on the worldbuilding. ("I have a dish pointing
+straight up at a geosynchronous satellite, in a temperate region with normal
+seasons? Um, okay, so this must be a cold planet with a narrow temperate zone
+centered around the equator, and the seasons must be caused by orbital
+eccentricity rather than axial tilt. And the planet's woolly mammoth analogues,
+with their much greater range, would survive to become domesticated, and...")
+On top of the bog-standard political and cultural fantasy Europe, the flora and
+topography are based on that of the Pacific Northwest. The game takes  place in
+the Cascades, the PC's hometown is somewhere around Walla Walla, and his
+destination is around Corvallis or Eugene.
+
+I have no plans to revisit this world. My ideas for future IF works are too
+vague to bear comment, but I expect that in future games I'll follow the same
+pattern of allowing each game's system of magical and science  fictional
+devices to lead the worldbuilding.
+
+  SPAG: I have to ask about the ability to change sexes at will that
+  inhabitants of this world apparently possess.  Where did you come up with
+  this rather unique -- to say the least -- concept?
+  
+AM: My initial conception of the PC was a nameless, gender-ambiguous adventurer.
+Then I decided that I wanted to delve into the PC's backstory, so that was no
+longer tenable, but I discovered that e was  still genderless. (Pronouns are a
+problem. I managed to mostly avoid using gender-neutral pronouns, but there
+was one spot where I couldn't.)  The gender system I came up with fit well with
+the theme of the blank  slate running through the game. I wanted the sense that
+the PC could  become absolutely anything, and I didn't want gender to get in
+the way  of that. John Varley's Eight Worlds stories, LeGuin's The Left Hand of
+Darkness and the anime series Ranma ½ are all antecedents that may have
+provided some inspiration.
+
+  SPAG: How long did you spend writing A New Life?  How long debugging? (Your
+  beta testers are to be commended, by the way, as the game seems exceptionally
+  polished.)
+  
+AM: I'd disagree strongly with your assessment of the game's level of polish.
+An entire major branch of the game is unfinishable due to a bug,  which is
+redeemed only by the omission of hints and clues that would help players find
+that branch. (Even the "main" branch of the plot is  too hard to find the
+thread of without resorting to the walkthrough.) [Perhaps we can at least agree 
+then that you did a good job of hiding the bugs that were present. --ed.]
+
+I started writing A New Life in the spring of 2001. I had testers start
+looking at the game before I was halfway done, so the writing process  was not
+separate from debugging. Even at the end, I was scrambling to complete the
+game as I was fixing problems that were reported by my  testers, and some parts
+were never seen by a tester before I submitted the game. With two hours
+remaining before the deadline I had to ask Rachel Portnoy (who is a very good
+friend and an incredibly diligent beta-tester) to complete the half-finished
+walkthrough I had, because my  brain was too burnt out from my last minute work
+on the game.
+
+  SPAG: Did you get a chance to play some of the other games from this year's
+  competition?  If so, any favorites?
+  
+Sadly, I didn't seriously get into playing the other comp games. I looked at
+several games, but the only one that held my attention for very long was
+Chancellor, in which I frequently got stuck and had to ask  for help. I can't
+entirely blame myself, as I thought the puzzle  solutions were often
+unintuitive and poorly clued. But I'm a sucker for certain sorts of fantastic
+elements, and Chancellor delivered them pretty reliably.
+
+  SPAG: Can you offer any advice to prospective future Comp entrants?
+  
+AM: I think it's traditional to have a question asking for the interviewees
+advice to future comp authors, for which the response is always, "Beta-test
+thoroughly!" But my response would instead be, "Look for ways to score cheap
+points with judges." A library extension that puts a  compass in the status bar
+takes almost no effort to use, but makes your game look fractionally slicker.
+A hint system takes only a little more work, and pays off handsomely in cheap
+points. A New Life was not a great game by any stretch of the imagination, but
+it scrounged for every cheap point it could get, and managed to tie for second
+with a game that, judging by the number of nines and tens received, was
+thought by more people to be excellent.  [This is definitely the most unusual 
+and amusing response to this rather typical SPAG interview question that I have 
+ever seen! --ed.]
+
+  SPAG: Would you like to respond to the reviews or other commentary on your 
+  game?
+  
+AM: I have been accused, somewhat justly, of making up nonsense fantasy names
+for things. However, I must state for the record that "palapala fern" was not
+one of these. The name (and the game played with them) were shamelessly ripped
+off from the native peoples of the Puget Sound and Vancouver Island, as
+described in Plants of the Pacific Northwest Coast, (ed. Pojar, MacKinnon).
+
+
+=-=-=-=-=-=-=-=-
+ Mondi Confinanti (Roberto Grassi, Paolo Lucchesi, and Alessandro Peretti),
+ authors of "Beyond"
+-=-=-=-=-=-=-=-=
+
+  SPAG: Your game is rather unusual in that it has three authors.  Can each of
+  you tell SPAG's readers a little bit about yourself?  Where you live, how you
+  spend your days, that sort of thing?
+  
+PL: I'm 37 and live in Livorno (port city on Tuscany coast). I'm graduated in
+Computer Science but I work in naval design. I divide my time between my job
+and my family, so I don't have much free time. Apart from computer and computer
+games, my interests are reading, writing, playing table-top rpgs and boardgames
+and playing bass guitar.
+
+AP: I'm 26, I live and study in Torino. I've always loved fantasy and science
+fiction literature and role playing games, but I approached interactive fiction
+late (just a few years ago), and thanks to my graphic works, 'cause I'm a
+drawing-painting amateur too.
+
+RG: I'm 35. I live and work in Brescia as Project Manager for an ICT
+organization. I'm married with Paola and father of Cesare, my two years old
+baby. I've been recently interviewed by SPAG so I believe you could read more
+about me on SPAG #40.
+
+  SPAG: Beyond is credited to the software house Mondi Confinanti (http://www.
+  terradif.net/mondiconfinanti).  Can you tell us a little bit about this
+  organization?  What is the group's "chartar," so to speak, and what are your
+  long-term goals?
+  
+PL: One of the tasks of MC is to coordinate the efforts of several authors,
+programmers and artists to create good quality IFs, with multimedia and, often,
+something more: experimental things, we could say.
+
+RG: Mondi Confinanti has been created with the mission to let multiple authors
+work together in order to share knowledge, discussions, ideas and so on. The
+basic idea is "Why do it alone?". I've been the promoter of the group together
+with Paolo Lucchesi and Alessandro Schillaci (the main author of Little Falls).
+Then we asked for help and the other five guys joined (Giancarlo Niccolai,
+Alessandro Peretti, Paolo Maroncelli and, more recently, Fabrizio Venerandi and
+Pierpaolo Colucci). About the 'chartar'. My tasks are mainly plot, design and
+music related (and let me say some sort of 'final quality assurance' and
+coordination), since i'm a very bad programmer. Paolo Lucchesi, Giancarlo
+Niccolai, Paolo Maroncelli and Alessandro Schillaci mainly deal with the
+programming side (and they do it very, very well, let me say) but they also do
+really great work on the design side. On the graphics side Alessandro and
+Pierpaolo provide the artwork (and sketches, in some cases). Fabrizio Venerandi
+will help us to improve the quality of writing. Our long-term goals are to
+allow for cohoperation of people writing IF, not only italian (infact, we've
+recently ask the collaboration for non-italian developers), and overall looking
+for new ways and forms of IF in order to revitalize the genre. I think that IF
+has still many things that deserve some improvement or, let me say, "evolution".
+One of them is the proper use of multimedia or a "movie-like" approach of the
+narration. Anyway, the topic is too vast to be treated here. Furthermore, we'd
+like to promote and experiment with new forms of IF (to be intended as 'games'
+in which narration is the most important part of the game, but interaction
+could be completely mouse- or voice-driven, and investigate multiplayer IF in
+more detail).
+
+  SPAG: It is my understanding that none of you speak English as your first
+  language, yet Beyond reads very smoothly.  I would never have guessed it to
+  be the work of non-native speakers.  From one who knows how difficult just
+  mastering the basics of a foreign language can be, congratulations on that
+  achievement.  Was Beyond written in English from the beginning, or was it
+  written in Italian and translated at some point?  Is there or will there be a
+  separate version for Italian players?
+  
+PL: Well, most of all we have to thank our beta testers, who have done a
+wonderful work in polishing our writing. Beyond was written in English from the
+beginning, and yes, there will be an Italian version.
+
+AP: At the beginning I was pushing for an Italian writing, English translation
+work. But then, because of the time limitations, we went for a should-be-faster
+English native writing. The reviewing work was really... Endless! So I missed
+the advantages. No, talking seriously, the programming part would have been
+more complicated with the translation. I think the next (Italian) version would
+be a little more accurate (it couldn't be different, because we three are
+Italian), but no significant changes will appear.
+
+RG: There will be an italian version, my estimates are around February. And,
+yes, Beyond was written in english from the beginning. I started coding in
+Adrift around January of 2004. Then Paolo took over the programming and the
+game was developed in Glulx. Anyway, editing and debug phases made by english
+players helped a lot. Particularly, I would like to thank David Welbourn for
+this particular aspect.
+
+  SPAG: You credit Neil Gaiman as a strong influence on Beyond.  As one who has
+  read only American Gods and Good Omens from Gaiman, I perhaps speak from a
+  position of ignorance, but I am nevertheless curious what drew you to 
+  Gaiman' s work.  What work of Gaiman's would you consider to have had the
+  strongest influence on Beyond? PL: Most of all, the "Sandman" comics; the
+  presence called SHE is exactly Death. But other parts are indirectly
+  influenced by Gaiman's books.
+
+AP: As I'm interested in graphic artwork, I'm very fond of the Sandman comics.
+They've been truly a revelation for me, developing greatly my "comics"
+conception. So if you ask me, I'll rate Neil's comics much more than his novels,
+but Paolo and Roberto like so much all of his works that they wanted to make
+some "quotations".
+
+RG: As Paolo said, most of all the "Sandman" comics. Some characters in Beyond
+have been inspired by Sandman characters. Rat Angel has been inspired by
+Wilkinson, the rat-in-a-trenchcoat. "Death" citation is explicit. I think that
+the 'mood' of the story is Gaiman-ian and the fact that a surreal and a real
+world intersecates (like in "Sandman").
+
+  SPAG: Your game is lovely to look at, featuring some of the best artwork I
+  have seen in the modern IF era.  What tools did you use to create such
+  professional work?  Has your artist, Alessandro, been involved in any other
+  projects, particularly Internet projects that SPAG's readers could check out?
+  
+AP: Hey, stop the compliments please! :D I'm very happy for your appreciations,
+but I know I have still much more technical stuff to learn (do you really think
+simple black-pencil drawing is easier than colour painting?). The material
+involved here is relatively simple: pencils and papers, a scanner, a graphic
+tablet, and some basic effects you can find in almost all photo-retouch
+programs. The trick is that I negative-drew the images (on semi-transparent
+paper mosto of the times) and turned them to positive after the scanning and
+colour changing process. For now I haven't done any more works you can find on
+the net, but I'm still in the Mondi Confinanti's staff. Although the final
+result is a little different from what I had in mind at the beginning, I'm
+satisfied by the result and I hope (also thanks to you and this interview) that
+Beyond and IFs in general will receive more attention and increase their
+popularity, 'cause some of them are really worth playing, as some books are
+really worth reading in a man's life.
+
+  SPAG: As I mentioned earlier, collaborative IF efforts are comparitively rare.
+  Judging by your excellent results, however, I have to assume that the process
+  worked very well for you.  Did you strictly divide the duties of game design,
+  technical implentation, and artwork?  Would you recommend this method of
+  development to others, and do you have any advice to offer about organizing a
+  collaborative effort?  It certainly seems an excellent way to complete larger
+  projects more quickly while giving folks who might otherwise find IF
+  development daunting a chance to be involved.
+  
+PL: The duties were divided between us, but not strictly. Roberto is
+responsible for the main concept and plot outline, but the plot details were
+discussed between us (as an example, at the beginning the story was placed in
+modern times, and in U.S.A.). Implementation details were discussed too (so we
+decided together to use a menu based dialog system, to switch between first and
+second person, to use a variable layout for graphics). Images were discussed
+too sometimes (we have three versions of SHE). And although I did most of
+programming stuff, often Roberto and Alessandro helped me coding rooms and
+scenery. Infact, all this made the whole creation process slower. But we ended
+up with something that we three really liked and, we think, something of good
+quality.
+
+AP: Surely it's true: duties assignment works good; but since we were just
+three people, we were involved in every branch of the work. Paolo and Roberto
+told me suggestions and comments, on drawings; they also refused some. I and
+Paolo reclaimed modifications on the plot (the original concept was entirely by
+Roberto). And my main work, at the end, was not only the graphic part, but the
+text reviewing too.
+
+RG: Dividing the tasks is advisable, but most of all, aside from specific tasks,
+it is important that someone must have the final word and decide for the group,
+in most critical decisions. These aspects can be applied in many fields (design,
+plot, technical implementation, and so on...). It is not a 'democratic' way to
+work, but when decisions are critical (or yes/no) and the group doesn't come to
+an agreement, some sort of decision is preferrable. One of the positive
+aspects of cooperation, on the other side, is that new and fresh ideas
+strengthen the plot and the design and, if someone is overloaded by 'real life'
+commitments, the work still goes on because it's rare that ALL of us are not
+free to work on IF.
+
+  SPAG: How long did you spend writing and debugging Beyond?
+  
+PL: Something like 18 months, I believe. Yes, it's a very, very long time. But
+I have very little time tp spare, and Beyond was seriously changed in the
+meantime. At the beginning it was a z-code game, but halfway through the
+process we decided to add multimedia.
+
+AP: For me... Not enough! I think it was about a year.
+
+RG: It took around 20 months, considering the first implementation in Adrift 
+(the corridor and the first room) from January 2004 to September 2005. Debug
+was done concurrently with the development (the fact that the game is in 
+'episodes' helped a lot). I have to thank Dan Shiovitz for the help in
+debugging and the editing help in the first phases of the project.
+
+  SPAG: I see from your website that Mondi Confinanti has another completed
+  game, Little Falls, in the process of translation into English.  Can you tell
+  us a bit about this project?  And what can you tell us about Nemesis, the all-
+  new project that you have in the works?
+
+AP: Regarding myself, just this: In Nemesis, I should do nothing more than some
+artwork. Many more people are involved and for now, sadly, I don't have much
+time to spend on IF.
+
+RG: Little Falls was our first game and was released in Italy in June 2005. The
+main author is Alessandro Schillaci. I helped a bit on the writing and plot
+side. Enrico Simonato did the artwork. It relies heavily on the use of
+multimedia (particulary sounds and music but the artwork is very good, anyway).
+English translation is on the way and hopefully it will be released in the
+first months of 2006 (after a debug and editing phase). Nemesis is our main
+title for 2006 and my high hopes rely on that. We're in plot and design phase
+at the moment. It's a sci-fi ('a-la Philip Dick') story set in the very next
+future. We're considering some innovative solutions for layout and artwork (and,
+consequently, how the things can be narrated). It's the first project in which
+all of the staff will be involved, so i hope that we'll do a very good work. On
+the other side, implementation looks difficult because the plot is evolving
+fast and the story is turning to be "difficult to be told". Anyway, we'll see.
+
+  SPAG: Did you get a chance to play some of the other games from this year's
+  competition?  If so, any favorites?
+  
+PL: I didn't had time to play anything, but I found a lot of unappealing games.
+I played Vespers only after the comp end, and I agree with the competition
+results; it was very good.
+
+RG: I've had a quick look at "On Optimism", "Escape to New York", "Cheiron", 
+"Jesus" and "Vespers". I appreciated very much the last (and i think it
+deserved the victory) for the mood and the setting. The beginning of the game
+was a bit aimless but later the game turned out to be very interesting. On the
+other side, I' m interested to identify which were the weak points of Beyond in
+order to improve the quality of our game and studying "Vespers" and "A New Life"
+in more detail will help us to improve our games.
+
+
+ =-=-=-=-=-=-=-=-
+ Jason Devlin, author of "Vespers"
+ -=-=-=-=-=-=-=-=
+
+  SPAG: Readers of SPAG probably already have an idea of who you are, both
+  through the introductory texts of your two games and through the SPAG
+  interview you were gracious enough to participate in last year, so I will not
+  bore you with too many more "getting to know you" questions.  One thing I am
+  curious about, though, is how you balance your academic studies in biology
+  and chemistry -- does that add up to biochemistry? -- with your obvious
+  talent as a writer and game designer, particularly in that your writing 
+  doesn't really feel like the work of a scientist.  Do you ever feel pulled
+  in two directions, or does it come naturally to you to engage in two such
+  completely different pursuits? 
+
+JD: Reading and writing science is what I do
+pretty much every day in my academic and working life, and while I like it,
+it gets tiresome: writing interactive fiction is a fun break.  It's nice to
+be able to write something completely under my own direction. It's nice to
+not have to worry about harsh criticism and maintaining a GPA.  Reviewers in
+the interactive fiction community are million times more gentle than some of
+my profs.  As for my work not sounding like the work of a scientist, that
+makes sense, as my school work doesn't sound like the work of a scientist
+either :) .  But really, I just write what I'd want to play, and I'm not
+really sure I'd like to play the work of a scientist.
+
+  SPAG: I am always gratified when someone arrives in our community who is NOT
+  a child of the eighties, for it reinforces my belief that this is a viable
+  artform as opposed to an exercise in retrogaming nostalgia.  It does beg the
+  question, though: the nostalgia factor presumably being completely absent,
+  what most draws you to write and play text adventures in 2005?
+
+JD: You're right, it isn't nostalgia that brings me to IF: I think it's
+probably the independence of the medium. I can write an entire game by myself 
+(with the exception of betatesters) that other people can play and enjoy.  I
+couldn't do that with anything else.  The world is rife with static fiction, a
+lot of which is way better than anything I could hope to write. By writing in
+this community, I can be assured that people will actually play my games and
+possibly enjoy them out of the fact that there simply isn't that much IF
+produced each year. I couldn't expect that with static fiction.  But in all
+honesty, if I could draw/design pretty graphical adventures, I'd be out of IF
+so quick (well, maybe not).  I like IF, but I'm still drawn to games with
+pretty pictures.  As for why I play IF, I think it's because good stories are
+really lacking in many games.  I've played a lot of good graphical adventure
+games, but I could probably count the number with really great stories on my
+fingers.  With IF, there's so much great stuff out there, that it would take me
+years to get through even the top 5% of games.
+
+  SPAG: While I recall that Sting of the Wasp was to some extent inspired by
+  your own friends and experiences, you yourself mentioned in your introductory
+  notes to Vespers that you have little experience with organized religion.
+  What drew you to the austere atmosphere of a Medieval monastary as the
+  setting for your game?
+
+JD: Well I wanted to write a horror game with a really strong atmosphere.  And
+something about real-world settings appeals to me a lot. I think it adds to a
+lot to a game if you kind of think it is possible that what goes on actually
+could go on in the real world.  While a lot of what goes on in Saint Cuthbert's
+is purely fantastic, I think the fact that people in the medieval period
+actually believed that Saints could intercede and the Devil walked among them
+helps somewhat with the story's believability.  Also, I've always been
+fascinated by religion and the way someone can live in a different world just
+because of it.
+
+  SPAG: Did any particular works of fiction, interactive or traditional,
+  inspire your latest effort?  (I was reminded of The Name of the Rose, A
+  Canticle for Leibowitz, and -- strange as it may sound -- Paradise Lost, for
+  what it's worth.)
+
+JD: Vespers was originally gonna be more along the lines of slasher horror, so
+I was kind of going for a Five Days a Stranger/Seven Days a Skeptic (two great
+amatuer graphical adventures by Ben Croshaw) or Enclosure (by Femo Duo) feel.
+All those games have a rigid plot based structure where certain events cause
+the passing of time.  Also, they have a mounting tally of dead bodies
+throughout the game which I find really spooky (and it also removes those pesky
+NPCs so you don't have to keep updating their conversation topics).  Other than
+that, I can't say much influenced me consciously.  Many people have mentioned
+In The Name of the Rose, but it's been so long since I've seen it that I can't
+imagine much has stuck.  I think something more along the lines of Tapestry
+might have been more influential: choice and morality was a huge theme in it.
+
+  SPAG: The setting certainly seemed very authentic and well-realized to me.
+  Did you invest a lot of time in research to make it so?  Did you envision
+  Vespers as taking place in any historically particular time and place?
+  
+JD: I did a fair bit of research before I started writing, but most of it got
+thrown out in the end.  I probably should have thrown out even more. Calling
+the sitting room a locutory may add a little atmosphere, but it probably causes
+more confusion than anything.  The plague symptoms I found really didn't add
+anything to what I already knew: you cough, you get sores, you get a fever etc.
+The part that I kind of wished I had found more on was medieval theology.
+Originally I had planned to make the sin counter a lot more complex with the
+character having to pray at each canonical hour (which is reason for the waking
+up to the murderer outside your door on the first night) and do all sorts of
+piddling stuff, but I realized it would bog things down a lot and just be
+ridiculous to expect people to know unless they happened to have been
+researching medieval sins for writing a game. Vespers actually takes place in
+Italy (I found the village Rovato by randomly pointing to a map of Italy), but
+I pretty much threw out everything to do with regional monastic conventions, so
+you could pretty much swap it out if you changed the NPC names.  [Personally, I 
+think that there are two approaches to the incorporation of historical detail 
+into fiction.  On the one hand, the author can try to throw it all in 
+explicitly.  On the other, he can allow his research to inform his piece without 
+necessarly incorporating every piece of minutae into his text.  See Neal 
+Stephenson's Quicksilver trilogy for an example of the generally coma-inducing 
+results of the former approach, and Gore Vidal's American history novels for an 
+example of just how well the latter approach can work in the hands of a master.  
+I would submit to you, Jason, that you may have engaged in the Vidal approach 
+without entirely realizing it, and that perhaps all that research was not quite 
+as wasted as you think.  --ed.]
+
+  SPAG: Did you find it difficult to dwell in the starkly desperate world of
+  your game during its creation?
+  
+JD: Hah. It wasn't so bad when I was writing it, but when I played it a few
+weeks after I had finished it, I was kind of grossed out that that kind of
+stuff came from me.  I felt a little weird showing it to friends and family, as
+it is a little gruesome. I'm just glad that I came out with Sting of the Wasp
+before Vespers, so I didn't look too creepy and disturbed (well maybe just as
+creepy and disturbed, but for different reasons :) ).
+
+  SPAG: Vespers has a lot to say, but unlike some "highbrow" efforts does a
+  good job of balancing its literary ambition with the interactivity that makes
+  our field unique.  How did you go about balancing these literary elements
+  with the gamelike elements?
+  
+JD: I think the reason why the literary and gamelike elements were as balanced
+as they were was because it was requirement that they be.  A story about choice
+would be pretty lame if there was no choices to make.  And if those choices are
+immediately apparent and spelled out for you, then it loses a bit of depth.
+
+  SPAG: Vespers gives the player the freedom to be evil if she so chooses.
+  Indeed, it actively tempts the player to embark on that path.  I have to say
+  that the scene in the bell tower early in the game, when the game whispers
+  its temptations to murder in the player's "ear," was absolutely chilling. Was
+  it difficult to not only allow the player the freedom to either
+  metaphorically fall or resist temptation, but even to subtly tailor room
+  descriptions and the like to reflect the player's actions?
+  
+JD: It's not so hard to allow the player the freedom as it is to ensure
+everything remains consistent afterwards.  I would have liked to make the game
+more responsive to the player's actions, but it would have been too complicated.
+Basically, the events remain the same throughout the paths, it's the PC's
+perspective that changes.  This is a lot easier to do (by changing descriptions)
+than it would be to change the consequences of the PC's actions.
+
+  SPAG: IS choice really better than happiness?
+
+JD: Haha, God no!  I'd much rather be happy.
+
+  SPAG: Did you get a chance to play some of the other games from this year's
+  competition?  If so, any favorites?
+  
+JD: I didn't play many: a half a dozen or so.  I looked through the
+introductions to all the games and only played the games that really leapt out
+at me.  I liked Tough Beans for its smooth implementation and good
+characterization of Wendy.  I liked Distress also for the smoothness of play
+and neat story; I just wish the twist at the end had found itself more in the
+game proper.  My favorite game by far though was Chancellor.  I didn't quite
+get all the subtleties, but it was a brilliant game nonetheless.  I'm quite
+disappointed it didn't place higher (which I'm almost certain is due to the
+lack of hints).
+
+  SPAG: Your $500 prize means that you are one of very few people who got paid
+  this year for writing IF.  Will you be putting it to any particularly
+  exciting use?
+  
+JD: I had a rather drunken celebratory bash with a quarter of the winnings,
+spent some of it on Christmas presents, and the rest I will spend on eating
+something other than potatoes and discount chicken for a few months.
+
+  SPAG: So what's next?  I am sure I speak for all of SPAG's readers when I say
+  that I would love to see more work from you.  Any thoughts about your next
+  project?
+  
+JD: I have a couple of ideas floating around but not enough time to do them all
+for a while.  I'll probably enter anonymously in next year's IFComp: I just 
+don't want anything I release to go completely unnoticed and the reviews of
+IFComp games are great incentive.  Now that I've won, I'm not concerned about
+placing. In fact, I don't really want to take away any high spots from anyone
+else.  So I'm gonna do something a little more experimental: a little more odd.
+Something that I'm sure a lot of people will hate, but I hope it will make some
+kind of big impact on a few.  More currently, someone approached me with an
+idea to adapt Vespers into a semi-different medium. I'm quite interested in
+doing this and am gonna take an active part in the adaptation.  I don't wanna
+reveal too much, as it's still in the planning stages, but if this pans out, it
+could really be quite neat.
+
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+
+MONSTERS!: AN IF COMP 2005 REVIEW PACKAGE-----------------------------------
+
+
+From: Valentine Kopteltsev <uux SP@G mail.ru>
+
+Have you ever thought about how an IF game author chooses the genre her/his
+game's going to belong to? And why certain game themes undergo a splash of
+popularity in certain years? This subject is interesting on its own, and
+certainly worth a separate study. For now, I just like to state that there were
+at least five horror games entered in the last IF-Comp -- a good deal over the
+average of a number of previous Comps, as it seems (although I might be wrong).
+Two of them could have borne the subtitle "Terror from Ancient Graves", one
+tells a chiller-diller story taking place underground, and the remaining two
+entertain the player with SciFi-styled horror. Well, a good enough occasion to
+write a review package, the more so as it's been ages since I've written one.
+
+A SHORT PRELIMINARY NOTE ON THE SCORING SYSTEM
+
+Usually, I rate all games (including competition entries) I review for SPAG
+using the traditional scoreboard-style system. However, I use a different
+system when being a judge in the Comp - a system based entirely on how much
+I liked a game (I know, it's pretty subjective). Well, this isn't the first
+IF-Competition I participate in, but until this year, it never occured to me
+the ratings sometimes turn out to be different depending on the rating
+system I use. There are several reasons for that, but I'm not going to
+discuss them here. Instead, I'll just adduce both ratings (the usual SNATS
+and the score I've given the game as a Comp judge), accompanying them with a
+short comment explaining why they're different; I thought this could be
+interesting for the game authors.
+
+And one last diversion describing what my ratings actually mean:
+
+1 - couldn't find anything good to say about it;
+2 to 5 - seriously flawed game;
+6 - solid, but nothing special ("uneven" games - like, if Photopia had a few
+show-stopping bugs - also fall under this category);
+7 to 9 - excellent games;
+and, the (one and only) 10 - my favourite.
+
+And with that off my back, let's proceed to the reviews.
+
+NAME: Phantom: caverns of the killer
+AUTHOR: Brandon Coker
+EMAIL: grimslade1135 SP@G yahoo.com
+DATE: 2005
+PARSER: Inform
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/
+     phantom/phantom.z5
+
+An example of an unsuccessful attempt at the genre. You play an archeologist
+trying to find the burial place of a legendary Egyptian warrior. Most of the
+game, you just wander around, collecting artifacts for non-obvious purposes. I
+expected them to become more clear later, but in vain -- said artifacts didn't
+affect the outcome of the story in any way, only reflecting themselves in the
+number of points I received. Although the author demonstrated intentions to
+inject atmosphere into his work, and to sorta build up tension towards the
+finale, the results turned out to be pretty pathetic. To a no small degree,
+this was the fault of the writing, and the many spelling mistakes.
+
+Phantom failed entirely as a representative of the horror genre, and hardly won
+any points back even as a puzzlefest. Most of its puzzles could be subdivided
+into two categories: (fairly generic) mazes (there were three of them), and 
+"choose the right option or die". It seems the author invested a lot of work
+into making up intricate clues for the second ones, and believed them to be
+fairly challenging. However, he overlooked the fact they could be solved by
+brute force (pick option -- die -- undo -- pick another option -- repeat until
+solved).
+
+I don't want to offend anybody, but, speaking in F1 terms, this is the Minardi
+of our today's race.
+
+SNATS (Score Not Affecting The Scoreboard):
+
+PLOT: Generic (0.5)
+ATMOSPHERE: The author did his best to maintain it, but failed (0.5)
+WRITING: Clumsy and full of spelling mistakes (0.3)
+GAMEPLAY: Pointless treasure hunt (0.6)
+BONUSES: None I could think of (0.0)
+TOTAL: 1.9
+CHARACTERS: None
+PUZZLES: Rather unoriginal (0.2)
+DIFFICULTY: Nearly trivial (3 out of 10)
+
+COMP SCORE: 3
+
+COMMENTS: OK, I encountered a few games (even) worse than Phantom, and thus 
+          had to set it off a bit. Besides, the author's intentions clearly 
+          were good, his work didn't take too much of my time, and wasn't 
+          meant to annoy me -- all that was worth an incentive in the form
+          of an additional point. Wasn't it.
+
+
+NAME: The Plague (Redux)
+AUTHOR: Laurence Moore
+EMAIL: adv SP@G turntopage.com
+DATE: 2005
+PARSER: Adrift
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2005/adrift/
+     plague/The Plague - Redux.taf
+
+NAME: Space Horror I: Prey for Your Enemies
+AUTHOR: Jerald M. Cooney
+EMAIL: jcooney_email SP@G yahoo.com
+DATE: 2005
+PARSER: HTML-based CYOA
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2005/windows/
+     space/space.exe
+
+These two games have a lot in common. First of all, both of them represent
+first episodes of their respective series, implying there's going to be a
+continuation, and thus stipulating their stories being incomplete. Then, both
+works don't entrust the arduous task of frightening the player to
+individualists, employing whole teams of eminently qualified specialists for
+those purposes -- Plague benefits from the services of old trusty zombies,
+while Space Horror resorts to the help of no less reliable murderous aliens.
+Finally, both games represent carefully implemented, solid, and well- polished
+efforts -- especially Space Horror, which only contained very slight glitches.
+On the other hand, the author of Space Horror probably has had it somewhat
+easier, since his work is a CYOA. At this point, it must be said I don' t share
+the rather widespread in the IF-community bias against that kind of game.
+Especially if it is done as careful as Space Horror -- with several fully
+fleshed out plot lines, well-defined characters (although, of course, they 
+aren't too interactive), and great illustrations. The author even managed to
+squeeze in a couple of puzzles -- quite a feat, considering the game format.
+The puzzles are logical enough, and fit well into the story. All in all, once
+you let this game play on its home turf and don't cry for the moon, Mr. 
+Cooney's work leaves nothing to be desired.
+
+Plague isn't as strong at presentation and multimedia effects -- it's a text-
+only adventure, but it possesses its own trump cards, which allow it to stay
+abreast. The very first of them is the game name -- with all due respect to Mr.
+Cooney, the title "Space Horror" is one of the leading contenders for the top
+ten of the Most Generic Names Chart. Besides, Plague has a much more intense
+beginning that sets the pace and atmosphere for the rest of the game. In fact,
+the atmosphere and the setting make up about 80 percents of it. They're best
+described with "bloody chaos". Of course, people could have different opinions
+on it, depending on their personal preferences -- some players would find it
+disgusting, others would dismiss it as rather hackneyed -- but as for me, I did
+like it.
+
+The characters... Now, Stacie, our main hero, was well defined from the
+emotional point of view, so that I found it easy to identify with her. Although
+the wondrous transformation of a rather inexperienced town girl into a rough
+zombie slayer came kinda sudden and thus seemed somewhat unrealistic, I guess
+it was part of the genre... or maybe I'm just underestimating inexperienced
+town girls (typical case of male chauvinism;). Other characters only have been
+good enough for a crowd scene -- maybe they'll hit the big time in the next
+episode(s).
+
+Plague is by no means a puzzle-oriented game; the puzzles present are kept
+rather easy, and their main virtue is not hampering the story too much. They
+cope with this task pretty well, except for one scavenger hunt requiring
+careful examination of lots of scenery objects. Fortunately, the walkthrough
+helped me to get over this unfavourable design choice without any losses.
+
+The conclusions. It's true there's nothing groundbreaking about either of these
+works -- they don't even try to expand the genre boundaries, and probably
+reproduce every cliche existing within them. However, it's no less true both of
+them represent solid, competently implemented efforts, and I don't regret any
+minute spent playing them. I honestly hope the authors won't be put off by the
+relatively low ranks they got in the Comp, and release the next episodes of
+their respective works.
+
+SNATS (scores before the slash apply to Plague, after the slash to Space
+       Horror):
+
+PLOT: Adequate (1.2)/"Truly" branching (1.3)
+ATMOSPHERE: Makes up most of the game charm (1.5)/Exciting enough (1.2)
+WRITING: Supports the atmosphere very well (1.3)/Supports the atmosphere
+         very well (1.3)
+GAMEPLAY: Now that one comes to think of it, it was pretty standard, but when
+          playing, I was too thrilled to notice;) (1.3)/Well... CYOA (1.2)
+BONUSES: Identifying with the player character (0.9)/Graphics, fake websites
+         and other similar stuff (1.1)
+TOTAL: 6.2/6.1
+CHARACTERS: Rather generic (0.8)/Nice, but not very interactive (1.0)
+PUZZLES: Not very remarkable, with at least one unfortunate design choice
+         (0.9)/The very fact there are puzzles in a CYOA is a feat on its own
+         (not rated)
+DIFFICULTY: You should have no troubles completing it (5 out of 10)/
+            Again, this doesn't apply to a CYOA (not rated)
+
+COMP SCORE: 6
+
+COMMENTS: I think no comment is needed. No matter how you slice it, those are
+          good, solid games.
+
+
+NAME: Snatches: An Interactive Horror Story
+AUTHOR: Gregory Weir
+EMAIL: Gregory.Weir SP@G gmail.com 
+DATE: 2005
+PARSER: Inform
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/
+     snatches/snatches.z5
+
+In a number of respects, this game is so unusual I haven't been sure how to
+start reviewing it. Finally, I've come up with drawing an analogy with a
+theatre play.
+
+So, imagine a dark stage, on which, in a circle of light, a fight is going on --
+a fight between the main hero and a strange, evil creature. Searchlights start
+to flare up in a seemingly random fashion, illuminating various spots on the
+stage for short periods of time. Finally, putting the single pieces of this
+mosaic together, the spectators get an integral picture of what's going on.
+
+And that's how Snatches is set up. It consists of several episodes from the
+perspective of different characters in the game (so that there're many player
+characters, but only one main hero), following in a random order. The narration
+is threaded by the aforementioned fight, cut-scenes of which occur after each
+episode like a refrain. This technique works very well -- to a no small extent
+thanks to the catchy writing (I've even considered to imitate it in my review,
+but finally let it be, realizing I'm not up to the task). There have been minor
+implementation issues regarding overlapping of, uh, let's call it "character
+experiences" (in the single episodes, different actors often are able to visit
+the same places and interact with the same objects, which sometimes can have
+effects unforeseen by the game author), but they are completely forgiveable.
+
+The main problem the work has is (I'm returning to our theatre parallel),
+after the searchlights have finished scanning the stage, and the battle has
+ended, the director doesn't quite have an idea what to do next, and
+effectively just rings down the curtain. Sure, Snatches featured several
+endings, but none of them seemed worthy. In my opinion, a "the evil can't be
+defeated" type of epilogue (in the style of the X-Files movies) suggests
+itself here -- but it's just what I think. Anyway, in my eyes, this is the
+only snag that prevented Snatches from being a major challenger for the
+podium.
+
+SNATS:
+
+PLOT: An appropriate ending would help it a lot (1.2)
+ATMOSPHERE: Satisfyingly sinister (1.5)
+WRITING: One of the best in this IF-Comp (1.8)
+GAMEPLAY: Ragged but integral (1.6)
+BONUSES: The unusual story-telling approach (1.3)
+TOTAL: 7.4
+CHARACTERS: Mostly adequate (1.4)
+PUZZLES: Modestly stick to their last (0.6)
+DIFFICULTY: Trivial -- except for a couple somewhat tricky points
+            (4 out of 10)
+
+COMP SCORE: 8
+
+COMMENTS: The correlation between the SNATS and the Comp score is pretty
+          good. The slight difference is caused by the fact that, when I 
+          replayed Snatches for the review, I fished out the technical issues
+          mentioned there (somehow, they eluded me during my first
+          play-through).
+
+
+NAME: Distress
+AUTHOR: Mike Snyder
+EMAIL: sidneymerk SP@G hotmail.com
+DATE: 2005
+PARSER: Hugo
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2005/hugo/
+     distress/distress.hex
+
+Quite a time ago, I read an article in a sports newspaper comparing the two
+German football players, the famous Karl-Heinz Rummenige and his younger
+brother Michael. Well, I can't vouch for the exactness of the following
+quotation, because more than ten years strolled past since then; however, in
+the section dedicated to the brothers' manner of dribbling, it said something
+like, "Karl-Heinz can get past a couple of backs after gaining a good speed in
+an open space. Michael is an entirely different type of player -- he can make
+fools of four or five opponents 'on a handkerchief'".
+
+The latter can be applied to Distress: the game is tiny -- slightly more than
+ten rooms, most of which you run by in a rush, but it manages to unwind an
+intricate plot with an ending, which manages both to be immensely satisfying
+and to neatly tie up all loose ends. And it's not too wordy, either -- but  the
+reticent descriptions are just long enough to create a truly creepy atmosphere.
+The puzzles also are set up with a minimum of items to manipulate, yet they are
+both challenging and logical.
+
+It's been said the game sometimes restricts the player's actions in a manner
+that may appear a little blatant to some people, but, to be honest, I only
+learned about this issue from other reviews -- the restrictions seemed
+perfectly reasonable for me when I was actually playing.
+
+As you may have guessed already, this is my favourite entry in this year Comp.
+Finally, I'd like to explain why I ranked it higher than, say, the actual
+winner of the contest, Vespers (a disclaimer right off -- it's not my intention
+to set anybody at loggerheads or to start a flame war).
+
+Vespers is a splendid, wonderful game -- but it calls heavies into play where
+Distress does with minimalist resources. Now, who is greater a commander -- a
+general capturing a town by force of a brigade after days of preparatory
+bombardment and carpet bombings, or a lieutenant infiltrating it with a small
+troop by stratagem, and managing to sabotage the garrison to an extent it can't
+put up a proper resistance?
+
+SNATS:
+
+PLOT: Outstanding, with an immensely satisfying ending (1.6)
+ATMOSPHERE: Ominous (1.7)
+WRITING: Masterfully terse (1.7)
+GAMEPLAY: Gripping (1.6)
+BONUSES: The ability of being expressive with minimalist means (1.2)
+TOTAL: 7.8
+CHARACTERS: You can't converse with them -- in every other respect, they are
+            faultless (1.4)
+PUZZLES: Best in this review package (1.3)
+DIFFICULTY: Fairly challenging (6 out of 10)
+
+COMP SCORE: 10
+
+COMMENTS: Well, this has been my favourite game in the Comp, so I had to give
+          it a ten. A typical case of a "normalizing effect" in scoring (I'm
+          afraid that without this normalization, hardly any game would get
+          more than an 8 from me for a very long time, because of Blue Chairs
+          being entered in the previous Comp).
+
+
+THE IF COMP 2005 TOP TEN --------------------------------------------------
+
+
+********************************** #10 ************************************
+
+From: Michael A Russo <mar2116 SP@G columbia.edu>
+(review originally published on rec.games.int-fiction)
+
+TITLE: Internal Vigilance
+AUTHOR: Simon Christiansen
+EMAIL: simonchrist1729 SP@G hotmail.com
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/vigilance/
+     vigilance.z5
+VERSION: Release 1
+
+When writing this review, I've continually been aware that perhaps I'm taking
+the game more seriously than it wants to be.  I work at a human rights
+organization directly involved with issues - U.S. detention and interrogation
+policy, the proper role of civil liberties in wartime  - which are very close
+to those implicated by Eternal Vigilance.  As  a result, I found the premise of
+being put in an interrogator's shoes and turned loose fascinating, if
+disturbing, and was eager to explore the dynamics of security.
+
+That the game turned out to be more spy-thriller than political-thriller was
+thus disappointing; both main factions appear rather cartoonish, and again,
+the struggle is rarefied and divorced from social reality.  The fate of the
+poor writer is somewhat problematic, but not especially so - given my job, I
+feel like I'm rather more sympathetic to the civil liberties side of things
+than are most people, so if I thought his detention and interrogation was bad
+policy but ultimately justifiable, I suspect most players would be even less
+bothered.  Internal Vigilance employs the rhetoric of the ideological struggle
+between liberty and security, but it fails to really address the issues, and
+they act more to flavor the plot than  drive it.  This is a valid approach,
+certainly, and can make for an enjoyable game - but it wasn't what I was
+looking for.
+
+Of more moment is that the game ultimately feels superficial.  All through
+high school, my English teachers would repeat that most annoying of mantras:
+show, don't tell.  Internal Vigilance presents a 1984-style dystopia, but
+doesn't provide any details or specificity on what, exactly, the society does
+that's so terrible.  We're told that the Union tramples on individual freedoms,
+but the primary example is rather problematic - the writer who's been arrested
+on suspicion of being involved with terrorism in fact does have a link to a
+terrorist faction dedicated to the overthrow of the Union, after all.
+
+Once the plot picks up speed and the player begins investigating said faction,
+instances of government oppression are few and far between.  The interrogation
+methods employed by the player are generally unsavory, but not so terrible in
+the grand scheme of things - indeed, the game perhaps includes an implicit
+anti-torture message, as direct  beating gets you nowhere.  As a result, the
+proceedings feel bloodless;  the central dilemma which is meant to give force
+to the plot lacks tension, and the ideological struggle is an abstraction
+without weight.
+
+All of the above is rather personal and ideological (as opposed to the  rest of
+my reviews, the arch reader points out), which is perhaps testament to the fact
+that the game doesn't really have any major problems.  A few sloppy mistakes
+appear to have slipped through - I  noticed some capitalization errors in the
+Investigation section, and the apartment number given for the author's mother
+is inconsistent -  but overall the plot proceeds logically, the player has a
+reasonable  amount of choice of where to push the story, and the puzzles are
+clever and well-clued.  Indeed, the opening interrogation is a highlight -  
+it's a conversation puzzle which involves asking probing questions and
+researching background intelligence on the subject, exactly what's  required in
+actual interrogations.  I would have liked to see more options for ideological
+debate - throwing the fact that the  anti-statist author was able to write his
+book because he was on welfare, for example - but the options that are there
+are fairly  robust.  And while the password puzzle is reasonable enough, it's
+almost unnecessary, as I came very close to guessing the phrase without  any
+clues.  The game also shows flashes of humor - the record will  show that I am
+a sucker for X ME descriptions which work in "as good  looking as ever."
+
+In the end, my objections to Internal Vigilance probably boil down to wanting
+something out of it that it wasn't meant to give.  As a spy  story with an
+oblique nod in the direction of current political debate, it works quite well.
+But the focus on bombing plots and digging up conspiracies causes the social
+milieu to recede, and the governmental oppression which theoretically drives
+the story isn't sharp or specific enough to be anything but background.  One
+advantage of this is that the player is relatively free to decide whether the
+Union or the terrorists have the right of it, and act accordingly.  But this
+moral weightlessness prevents the game from really engaging with the issues
+it raises.
+
+
+*********************************** #9 ************************************
+
+
+From: Valentine Kopteltsev <uux SP@G mail.ru>
+
+NAME: Chancellor
+AUTHOR:  Kevin Venzke
+EMAIL: stepjak SP@G yahoo.fr
+DATE: October 1, 2005
+PARSER: TADS 2
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2005/tads2/chancel/
+     chancel.gam
+     
+Kevin Venzke is the author of Kurusu City, the entry in the previous IF-Comp
+that (at least as far as I'm concerned;) would have won the TADS division if
+the division rating still was there. Well, the reviewed work is *entirely*
+different; the light-hearted atmosphere of Kurusu City made way for gloominess
+and mysteriousness, and probably the only thing that remained unchanged was the
+player character being a young female.
+
+Chancellor rather brought up reminiscences of two other IF-classics: for one
+thing, Dave Lebling's Lurking Horror, from which it inherited parts of the
+setting (a deserted college building), along with a couple of characters 
+(including a murderous janitor); for the other, Losing Your Grip by Stephen
+Granade that lent to it the way of telling the story in several fits, the
+switching of the player character between two fairly distinct worlds, as well
+as the extensive usage of deeply symbolic (well, maybe pseudo-symbolic) stuff.
+
+Actually, a superposition of elements from other works alone isn't a suitable
+tool for creating a decent game, no matter how splendid the "donors" have been.
+OK, OK, I probably don't have the right to say such things, because 
+Chancellor's inheritance of certain features from other games is entirely my
+assumption, and the similarities mentioned earlier might be purely coincidental.
+Anyway, coincidence or not -- Chancellor does better than just mixing up
+ingredients of other games, and introduces a device personally I quite rarely 
+(if at all) encountered in IF: it lets the two game worlds melt together. This
+process goes on not too quickly, but steadily, progressing with each episode:
+first, items from one world start appearing in the other one; then,
+interconnections between the worlds begin to crop up, and finally, the two
+worlds become one. It's been a thrilling experience indeed, which has been
+enhanced even more by the magnificent writing and the very comprehensive
+setting that implemented every object mentioned in the descriptions, and
+responded adequately to every action I could think of.
+
+Unfortunately, the game isn't crowned with a worthy end; rather, it shakes off
+all the mysterious stuff the player has encountered using a quite battered
+excuse. In this respect, it called to mind yet another work of IF -- this time,
+Rippled Flesh by Rybread Celsius, where the player, after being taken through a
+series of weird rooms and shown a number of scary things, receives an ending
+that is essentially unrelated to the game itself, along with an explanation of
+all the oddities he encountered (in the vein, "the bloody corpse in the bedroom
+was a practical joke of your second cousin once removed... and the hellish
+sounds coming from the hall was your dog Berny toppling over the clothes tree".)
+Now, Chancellor acts very similarly -- only the explanatory note isn't needed,
+and thus (thankfully) absent. That's a pity; while cutting the Gordian knot is
+a handy approach for a number of real life situations, it doesn't work half as
+well for entangled IF-plots. On the other hand, I can understand the author's
+point -- resolving the story properly probably would double the game size, thus
+rendering it totally unsuitable for the Comp.
+
+Still, in spite of this not minor issue, Chancellor remains a notable game, even
+-- I dare to say it -- a "must play". You just don't see worlds being melted
+together every day.
+
+(See the NOTE ON THE SCORING SYSTEM in the "Horror in the IF Comp" review
+ package above)
+
+SNATS (Score Not Affecting The Scoreboard):
+
+PLOT: The ending spoils it somewhat (1.0)
+ATMOSPHERE: Galore (1.5)
+WRITING: Discreet but effective (1.5)
+GAMEPLAY: Unhurried (1.4)
+BONUSES: Two worlds blending together (it seems I can't stop saying that
+         again and again;) (1.5)
+TOTAL: 6.9
+CHARACTERS: Quite good, but not the kind I'll remember for the rest of
+            my life (1.2)
+PUZZLES: Just solid (1.2)
+DIFFICULTY: Manageable (6 out of 10)
+
+COMP SCORE: 6
+
+COMMENTS: Chancellor was one of the few entries in this Comp not providing
+          any hints or a walkthrough (the stub of a hint file that was
+          accompanying it contained clues for the prologue only). Combined
+          with the unhurried gameplay (and it must be said that the rich
+          setting practically pleads for not moving ahead too fast and for
+          fiddling with the environment instead), this resulted in me getting
+          stuck somewhere within the third fit by the end of the judging
+          period. At that stage, there was no sign yet of the two worlds
+          growing together -- the feature that, in my opinion, makes
+          Chancellor outstanding. Thus, I had no other choice than to give
+          it a rating corresponding to solid yet non-exceptional games. A
+          simple inclusion of a walkthrough would earn it at least one extra
+          point from me.
+
+
+*********************************** #8 ************************************
+
+(See Valentine's review of Snatches as part of his "Horror in the IF Comp"
+review package above.)
+
+
+*********************************** #7 ************************************
+
+
+From: Michael A Russo <mar2116 SP@G columbia.edu>
+(review originally published on rec.games.int-fiction)
+
+TITLE: Unforgotten
+AUTHOR: Quintin Pan
+EMAIL: expiation SP@G devils.com
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/
+     unforgotten/unforgotten.z5
+VERSION: Release 1
+
+Clearly, I haven't sufficiently internalized the tropes of adventure gaming: I
+was stymied for quite a while in the opening of Unforgotten, because after
+being told that my friend really didn't want anyone to break into his
+belongings and read his diary, my reaction was to respect his privacy.  More
+the fool I.  For much of the game, Unforgotten seems primarily about sticking
+one's nose into other people's business - the primary action is in unraveling
+the secrets of the family of the player's friend.  Unfortunately, the contours
+of the central mystery - not its solution, simply the setup - are very unclear
+until relatively late in the game, and the author's penchant for twists make
+the story more confusing than it needs to be. Underneath the continual Big
+Reveals, there's an interesting story, but I felt like the thriller tropes
+wound up getting in the way of the interesting relationships.
+
+Unforgotten's beginning is probably its weakest section; after the rather
+forced searching of the friend's possessions, the player is thrust into a
+conversation which reveals some backstory, but leaves important concepts and
+facts unexplained.  Then without warning, the setting abruptly shifts, without
+the player being aware of what exactly has happened.  This middle section,
+which contains the meat of the game, is clearer, and the player has specific
+goals to work towards, but just when I felt like I had my bearings, an NPC -
+the aforementioned friend's sister - began launching into exposition whose
+relevance wasn't immediately clear.  Soon after, the player is thrust into two
+vignettes, widely separated in time and space, which are likewise fairly
+disorienting, and cast everything that's come before into doubt.  And then
+there's a final big twist at the end (albeit this last one is rather heavily
+choreographed).  I do enjoy games which are one big meta-puzzle - Jon Ingold's
+corpus comes to mind - but here, the twists just sort of pile up on each other,
+yanking the player one way then the other.  Eventually whiplash - and fatigue -
+set in.
+
+This is too bad, because the relationships between the three main characters -
+the player character, his friend, and the friend's sister - are interesting,
+and really drive most of the action. Foregrounding them a little more, keeping
+the friend around for a while longer so the player can form an attachment to
+him, and keeping the story more focused by more aggressively framing the
+problem which the player is attempting to solve, would have made for a stronger,
+sharper, more affecting game.  The wall-to-wall twists make the proceedings
+feel contrived, and the game doesn't allow sufficient space for the
+repercussions of each individual revelation to play out, which really reduces
+their impact.
+
+Unforgotten does do a good job of integrating puzzles into what's a fairly plot-
+heavy game.  The initial journal-stealing sequence, for all my grumbling, is
+actually well-put together; depending on how exactly the player goes about it,
+there are a number of possible outcomes. There's a lot of fairly intuitive
+sneaking around, and except for that first sequence, the player usually knows
+precisely what he's working towards.  I found one puzzle in particular to be
+shaky - lowering a doped pie to attack dogs on the end of a fishing rod feels
+far too slapsticky for the rest of the game, and LOWER PIE seemed a much more
+natural way of doing this than LOWER ROD - but otherwise the puzzles are well
+clued, even when the player doesn't necessarily know what he's meant to be
+doing.
+
+One sequence does remind me of a comment I made about Tough Beans, to the
+effect that too few games depict the player character reacting to events.
+There's a scene in Unforgotten where the player is controlling a little girl
+who, while hiding, overhears two soldiers talk about raping her mother - this
+strikes me as a rather traumatic event, but for all the game discloses, the
+girl reacts with stone-faced impassivity.  I'm not lobbying for histrionics
+here, but any human being would be really upset in this situation, and the
+tension of perhaps calling attention to yourself could make for a more
+dramatically interesting scene.
+
+Still, Unforgotten does pay more attention to questions of character than do
+most games, and its narrative shortcomings are real but not fatal.  Definitely
+worth a play.
+
+
+*********************************** #6 ************************************
+
+
+From: Mike Snyder <wyndo SP@G prowler-pro.com>
+(review originally published on Mike's web site, http://www.sidneymerk.com.)
+
+TITLE: The Colour Pink
+AUTHOR: Robert Street
+EMAIL: robertrafgon SP@G hotmail.com
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/pink/
+     pink.z8
+VERSION: Release 1
+
+I love this game.
+
+This is old-fashioned puzzle goodness. You are sent to investigate the
+disappearance of a colony, missing from an alien planet. Eating a suspicious
+bird egg – for no good reason other than an irresistible urge – puts you into a
+surreal, alternate reality. I did something similar way back in the ’99
+competition. It was met with mixed reactions.
+
+You must be thinking “Great. Another one. Everything is all random and unreal,
+but it’s all just part of the fantasy and that’s supposed to make it okay.”
+That’s one way of looking at it. Yes, this does allow for some wacky encounters
+in which animals (both real and mythical) talk and ask for help with personal
+dilemmas. The puzzles are well-clued and not very difficult (aside from a
+carrot-harvesting bit that’s optional anyway), and most importantly, the entire
+game is fun. It’s really fun. This is what adventure gaming is all about.
+
+I solved the game along one path (not realizing another was even possible)
+without hints. The various endings are picked CYOA-style (following a CYOA
+ending in the game I played just prior, Vendetta). I was left missing 5 points,
+and a few objects/areas seemed unused. So, a peek at the hints, the after-game
+notes, and finally the walkthrough put me onto an alternate path that not only
+expands the enjoyment of the game, but actually changes much of the second half,
+resulting in two additional endings.
+
+The first two areas are quads that require no real mapping. The next area is
+larger, but arranged in a pattern that looks pretty cool on paper. Another quad
+underwater reflects some aspects of the “real” world, as does the interior of
+the red tower. As was probably the author’s intent, no single ending seems like
+the best or the most real, and it’s never quite clear how the things in the
+alternate land (either of them, since there are two paths) relate to the
+missing people or the lost inventory from the real world.
+
+The writing in The Colour Pink isn’t particularly colorful or clever (although
+it is pink in spots), lacking complicated metaphors and dense descriptions.
+This keeps it unpretentious and more game-like than story-like. The focus is
+always on the puzzles. I have little else to say about this game, except that I
+highly recommend it to puzzle fans – especially those who like the easy,
+traditional kind, where the gold key always opens the gold door and the carrot-
+loving rabbit is always going to give you something good if you feed him.
+
+As for the story, it’s not complicated, but it could be deeper than it seems.
+I’m not sure why the pink theme was abandoned mid-way, nor why the love potion
+was just a segue to the fantasy world. I’m basing the game at 9.0 on my scale,
+skewing +0.5 for an “unofficial” 9.5 because I had so much fun playing.
+
+
+*********************************** #5 ************************************
+
+
+From: Mike Snyder <wyndo SP@G prowler-pro.com>
+(review originally published on Mike's web site, http://www.sidneymerk.com.)
+
+TITLE: Tough Beans
+AUTHOR: Sara Dee
+EMAIL: saradee123 SP@G gmail.com
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/toughbeans/
+     ToughBeans.z5
+VERSION: Release 1
+
+All in all, Tough Beans is a fine piece of work. It isn’t often where a
+person’s first game (assuming Sara Dee isn’t a pseudonym) is so polished and
+playable. “This is Sara Dee’s first game.” I kept thinking, though, that my
+entry last year was Sidney Merk’s first game, too. Why didn’t she say “…my
+first game” instead? Just semantics? Moving on.
+
+Tough Beans does a better job of describing a day where everything just goes
+wrong than does Son of a...(another entry in this year’s competition). The
+story hints at something deeper, which remained unexplored up to my 3-point
+ending. Was the early elevator scene a premonition of one possible ending 
+(mishap with the firework)? Does Wendy have a mental illness, or some kind of
+tumor that’s causing her numbness and flashbacks, or is that just for narrative
+effect? What was her boyfriend’s motivation, beyond the obvious? The
+walkthrough claims there are five endings, with variations to each. Does that
+include the firework mishap? If not, then I found only one. I did identify a
+key decision early on (it’s pretty obvious – the game tells you it’s a key
+decision, more or less). I played briefly into each, and settled on just one.
+
+The puzzles aren’t complicated, but they aren’t always easy. For puzzle experts,
+this is probably perfect. The clues are usually just right. I made it to the
+coffee shop before feeling stuck enough to peek at the walkthrough. I felt
+guilty here, though, because I should have noticed what’s important after Rhoda
+broke her pen. Some of it may still walk the border between fair and unfair –
+the form goes unnoticed, for instance, even when looking right at the spot
+where it’s found. I guess if I visualize the scene, and consider what I might
+see walking up to my own desk – the orientation of it, and the angle of
+approach – I guess I can see how a form might remain unnoticed until further
+action is taken. I guess since it did work, and I found the form, then the
+puzzle worked.
+
+The bugs – what few there are – are minor. Looking at the kitchen table reports
+a bowl, but searching it states nothing is on the table – that kind of thing.
+Errors in the text are almost non-existent. The game succeeds very well as
+fiction, where the level of implementation is deep and the writing stands out
+as descriptive and emotional.
+
+It’s a story about breaking cycles and standing up for yourself. Some of that
+is obvious from a 3-point play-through, but the scoring hints in the
+walkthrough make it more clear. I couldn’t quite decide what the story was
+meant to achieve, though. Was it meant to be a poignant introspection into
+Wendy’s psyche? Should I have felt bad for her, or should I have resolved to be
+more assertive? Both? It wasn’t easy for me to recognize decision points aside
+from the early one, and it wasn’t easy to think like a weepy 22-year-old
+secretary. This game is going to hit the proverbial perfect note with some
+players, but I never quite connected with the PC.
+
+Fiction is less about writing main characters that are familiar to the audience
+– that’s a playground for stereotypes – and more about writing main characters
+that will become familiar to the audience. Games with a deemphasis on the PC’s
+identity avoid this almost entirely, except where the PC’s motivations are
+concerned. Whether or not Wendy is familiar to the author, she probably isn’t
+familiar to many of us. The game succeeds in making her real, but not (for me,
+anyway) in making her evolve.
+
+I think more can be learned in the unseen, alternate endings. It’s a shame the
+author didn’t include alternate walkthroughs, showing a ten-point ending. I’m
+curious about what other actions I might take as Wendy, and how this will
+reflect on those endings.
+
+My scoring scale fits Tough Beans in somewhere between 8 and 9, so I have based
+it at 8.5. I think it’s a great game even though I couldn’t connect with the
+protagonist, and I think it’s going to do very well in the competition. It
+deserves a +0.5 skew for great writing and a convincing game world. Unofficial
+score: 9.0.
+
+
+*********************************** #4 ************************************
+
+
+(See Valentine's review of Distress as part of his "Horror in the IF Comp"
+review package above.)
+
+
+******************************** #2 (tie) *********************************
+
+
+From: Mike Snyder <wyndo SP@G prowler-pro.com>
+(review originally published on Mike's web site, http://www.sidneymerk.com.)
+
+TITLE: A New Life
+AUTHOR: Alexandre Owen Muñiz
+EMAIL: munizao SP@G xprt.net
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2005/zcode/goblin/
+     goblin.z5
+VERSION: Release 1
+
+Once again, I have jumped ahead to a game later in my list. This time, it’s
+because A New Life was recommended to me. If I really won’t have time to finish
+all the games before November 15th, I might as well take them in any order,
+right?
+
+I’ll probably go back to the list now. I enjoyed this game, but I found it
+incredibly difficult. Maybe it’s just me and my sub-par puzzle-solving
+abilities, but I was only able to complete the game down the path set by the
+walkthrough. I was already over two hours into the game my own way, using the
+built-in hint system more and more, and I had exhausted all of those options. I
+may have been in an unwinnable state. I’m not sure.
+
+It’s a very unique story, hinting at parallel realities and mythical races
+where a person’s gender can be changed from time to time. While playing, I kept
+wondering if the goblins were really humans and vice-versa, but this was never
+confirmed. A New Life has a lot going on, and much of it surfaces as memories 
+(a “remember” command does this), or as considerations when examining scenery
+or talking to the game’s characters. The back-story is an epic tapestry of
+magic and mystery. Much of the fun comes from learning more and more about the
+unique world in which the game is set, and about the people who inhabit it.
+
+The biggest problem is, it’s sometimes (okay, often times) unclear what to do
+without getting pointers from the hints. Even then, it can be a little
+confusing. This is the kind of game that would be great outside the competition,
+where it might be played over the course of three or four nights without that
+two-hour mark looming ahead. I think it would be more rewarding taken at
+leisure. I spent three hours on it, and the last of that was just typing from
+the walkthrough. My original path might have been interesting, if I had been
+able to figure it out. The thing with the three bags and the two staffs was
+pretty clever, but even putting them to use, I never quite felt as though I had
+solved everything. On my own plot branch, I couldn’t figure out what was
+important about the stars and panels, even though I could make them light up as
+described in the hints.
+
+This is either a really great game I just didn’t fully understand, or a pretty
+average game that does a great job of seeming to be a really great game I
+didn’t fully understand. If taken without recommendation, I might have based it
+at 6.5 or 7.0 – lower because of the complicated puzzles, and the lack of clear
+objectives. This is the trap we fall into when judging a game we know is or
+isn’t liked by others. If I’m to trust in someone else’s opinion, I have to
+believe the game is better than it seems. And now it’s my turn, to pass my
+opinion along to others by way of this review.
+
+The writing in A New Life is excellent. This is one of the few games where the
+text just flowed right. It wasn’t forced, it wasn’t overdone, and it wasn’t
+choppy. Good writing makes a game seem more real, and when the unique world
+seems to be the focus, that’s important. This is the basis for my +0.5 skew,
+from a base of 7.5. A New Life may fare well in the competition. It’s a good
+enough game: worth the time, but not my favorite. I recommend playing it
+without expecting an easy, two-hour experience. Don’t rush, ease into it with
+exploration and experimentation (looking, remembering, asking), and you’re
+likely to have a great time.
+
+
+******************************** #2 (tie) *********************************
+
+
+From: Michael A Russo <mar2116 SP@G columbia.edu>
+(review originally published on rec.games.int-fiction)
+
+TITLE: Beyond
+AUTHOR: Mondi Conifanti
+EMAIL: beyond SP@G terradif.net
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Glulx interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2005/glulx/beyond/
+     beyond.blb
+VERSION: Release 1
+
+I recently made my way through a video game called Indigo Prophecy. Initially,
+it looked like a dark and brooding game of psychological horror, but about two
+hours from the end the wheels fell off and it devolved into, to put it
+charitably, batshit lunacy.  What started out as a compelling examination of
+the intrusion of random, terrifying  violence into an ordinary life, dealing as
+much with the emotional fallout as with the inevitable whodunit, metastasized
+into tripe about Mayan prophecies, Matrix-style kung-fu, Illuminati-style
+conspiracies, and sentient AIs.  The transformation cripples the game, making
+it impossible to take seriously - one gets the feeling the designers wanted
+to pull out all the stops and reveal twist after twist, but didn't realize
+that the more stripped-down, impressionistic stuff at the beginning was the
+best part.
+
+Don't get me wrong, Beyond certainly isn't crippled by its twists to nearly
+the extent of Indigo Prophecy, but I did find that my enjoyment of the game
+steadily eroded as time went by, not so much because the writing or puzzles
+got less compelling as due to the fact that the slow hints led up to
+revelations which seemed disappointingly over-the-top.  The early stages of
+Beyond successfully invoke world-weariness, wistfulness for what might have
+been, and a compelling investigative urgency, but the endgame turns into
+something different, more garish and obvious and inferior to the understated
+early sequences.
+
+The opening is very strong, introducing the central mystery and the framing
+device which turns it into something other than just a commonplace cop-show
+procedural.  The authors manage to evoke real pity for the fate of the central
+protagonist, and the complicated way she interacts with the character who the
+player guides through most of the game winds up being enjoyable - trying to
+solve the mystery of one's own death is a compelling premise.  In the first
+viewing of the corpse, for example, the player in his detective-guise is
+presented with a young victim of violence, leading to a hint of paternal
+feeling, while simultaneously in the child-protagonist's eyes, the body is
+that of a lost parent.  The overlapping impressions create dynamic frisson
+which very much deepens the experience.  The small Italian village in which
+the main action is set is well-drawn, and the characters quickly manage to
+make an impression.  Indeed, the detail of the real-world vignettes make for
+an effective contrast with the overtly fantasy-based interludes.
+
+One could perhaps complain that these interludes occasionally suffer from
+being overly-precious - the Mad Joker's transformations do sometimes feel too
+zany for the surrounding narrative - but when they work, they're absolutely
+devastating.  The authors managed to make a sequence of chores into the most
+compelling thing in the story; this luminous portrayal of a casual domesticity
+rendered impossible by violence is far more effective and heart-wrenching than
+the late-game reveals on what was going on in the shack's cellar.  There is a
+noticeable missed opportunity in this sequence, however - when fetching well
+water, DRINK WATER returns a default "you're not thirsty" response.  The
+protagonist, a child who's never been born, has never tasted water before;
+this would have been a perfect chance to zoom in and bring home the poignancy
+of lost possibilities, of the mundane experiences the protagonist will be
+denied.
+
+The puzzles are well-clued and unobtrusive, which is almost a shame, as the
+integrated hint system is elegant and enjoyable in its own right.  Finding the
+secret door in the shack is nicely handled, and the initial investigation is
+more entertaining than just Xing everything in sight, as the player
+demonstrates that he's figured out what the murderer did by walking through
+the same steps.  A word should be said about the accompanying artwork, which
+is evocative and very successful at setting  a mood of obscure dark fantasy -
+again, especially in the opening, where everything is threatening and
+unfamiliar.
+
+So I did very much enjoy most of Beyond, but as alluded to at the top  of the
+review, I found the game got decreasingly effective as it wore on.  From the
+set-up - a young girl, murdered as her pregnancy becomes obvious - I'd assumed
+that the crime was essentially domestic and squalid, arising out of a
+relationship which never should have happened, the fruit of desperation and
+anger and stupidity.  The  murderer, I imagined, was somebody who acted out of
+recognizably human motives - evil, sure, but still essentially a person.  The
+authors, however, went in a rather different direction: the killer is a Satan-
+worshipping priest who'd been ritually and sexually abusing two different
+girls of the town.  This felt disappointingly over-the-top, turning the
+villain into a cartoon and rendering everything far too simple and pat.
+Besides this aesthetic objection, conjuring up the specter of ritual satanic
+child abuse brought to my mind the famous hoaxes,like the McMartin Preschool
+case, which further undermined its effectiveness.  Sure, there's something
+horrific about discovering that your father is a demon-worshipping sexual
+predator, but since the character is so unrecognizable, it's essentially safe.
+Presenting the villain as an actual person who did something terrible for all
+the wrong reasons would have been far creepier, and more memorable.  I'll
+willingly concede that choosing this particular trope isn't by any means
+invalid or wrong, and it certainly pops up in fictional portrayals with some
+regularity, but again, I think a more humanistic approach to the evil would
+have made for a more satisfying experience.  The final real-world sequence
+compounds the mistake in my view - the hostage drama, replete with guns and
+shouting, lacks the grace and subtlety which are the game's greatest strengths.
+In the final sequences, understatement is deprecated in favor of spectacle and
+narrative pyrotechnics, but I think the detail-work of the opening is superior
+to the broad strokes of the endgame.
+
+Additionally, while the game is quite solid, a few mistakes did seep through -
+I noticed misspellings of "chamomile" and "consecrating,"  but these are
+forgivable.  Likewise, in one place I saw "e" used in place of "and,"
+presumably due to the authors' native language being Italian.  There also
+appeared to be some inconsistencies involving the appearance of the
+protagonist; during the first interlude, she is supposed to look like a woman
+in her twenties, but looking in a mirror returns a description about her being
+a child in a pink dress, and X ME gives the newborn response.  And in a few
+places, I ran into disambiguation issues.
+
+I feel churlish even mentioning these, though - as is often the case with
+games I enjoyed, I think I've spent most of this review harping on things I
+disliked, which might give the wrong impression.  To state it baldly, Beyond
+is a good game, and has all sorts of highlights - from the moody art to the
+artful juxtaposition of fantasy and reality, with plenty of imaginative
+flourishes (the discourse on bright and dark inspirations sticks in my head as
+particularly clever).  I think the choice of making the bad guy a *really* bad
+guy broke the emotional realism of the scenario, but up until that point, I
+got as much  enjoyment from the game as from anything else in the Comp, and
+even looked at in aggregate, I still think it's one of the very strongest
+games on offer.
+
+
+*********************************** #1 ************************************
+
+
+From: Michael A Russo <mar2116 SP@G columbia.edu>
+(review originally published on rec.games.int-fiction)
+
+TITLE: Vespers
+AUTHOR: Jason Devlin
+EMAIL: jdevlin1984 SP@G hotmail.com
+DATE: October 1, 2005
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/vespers.z8
+VERSION: Release 1
+
+Vespers feels a lot like Name of the Rose.  I know, I promised I'd stop with
+the using other works of fiction to make comments, but I'm not so  much drawing
+functional comparisons as I am pointing out topical and thematic similarities
+here, so according to my head it's all right.  The primary reason why I bring
+this up isn't to do something so dreary as to accuse the author (responsible
+for last year's Sting of the WASP, an excellent but very different game) of
+lack of originality or anything like that - in IF as in every other medium, 
+it's all about execution, and the best creators are plunder-happy magpies,
+ripping off ideas from wherever they can find them.  I mention the Eco
+connection mostly to disclose that I liked Name of the Rose a lot, am a sucker
+for Medieval Catholic eschatology, and therefore might be biased towards
+Vespers due to an affinity for the subject matter and residual good-will for
+works which hoed much the same row.
+
+So with that out of the way, I can now start praising Vespers.  It has
+numerous strengths, but I think the most important is how well paced it is.
+The introduction slopes in gradually, and while I generally like to have some
+idea of what I should be accomplishing from the very beginning, here the more
+leisurely approach worked well - knowing that plague was loose and the
+monastery was locked in made things more interesting than the standard wander-
+corridors-until-something-happens opening, and front-loading much of the
+exploration allowed later sequences to play out tauter, since the player knows
+exactly where everything is.  The number of NPCs is initially a little
+overwhelming, but the author does a very good job of giving each of them a
+distinctive feature, so that the player soon remembers which is the crazy one,
+which is the terse, practical one, and so on.  Besides,  things pick up fairly
+quickly once the player's visited all the important areas - Cecilia's arrival
+kicks off a string of clear, well-motivated puzzles, and from there
+interaction with her serves to give the player character his next objective.
+
+The narrative doesn't just progress, though - it deepens.  As time passes and
+the malady which has laid claim to the player character does its work,
+descriptions change quite strikingly, which is a very nice touch - not only
+does it effectively convey the character's deteriorating mental state and
+effectively underline the thematically central mood of decay, it also makes re-
+visiting already-explored areas a pleasure rather than an invitation to tedium.
+The player is also allowed to complete major goals along the way, which lead
+fluidly on to the next.  The arcs of individual monks are continually resolved
+(usually, sad to say, this involves their death), which each add something to
+the larger puzzle.  The game also does a good job of unlocking new areas to
+explore in a controlled fashion; the player is introduced to a few new
+locations at a time, generally already knowing what he wants to do, which
+helps create a fleshed-out world without unnecessary disorientation.
+
+Speaking of avoiding unnecessary disorientation, the puzzles are another
+strong suit of Vespers.  The player knows about most of the major puzzles 
+(finding the hidden diary, gaining access to the cellar)  from the early
+stages of the game, which serves to alert him to any tools or clues which might
+help with those tasks.  Smaller-scale, more immediate puzzles (the avalanche,
+the wolf attack), often confined to one particular area, are introduced cleanly,
+usually requiring some quick thinking but no items from previous scenes.  The
+prayer system is  particularly elegant, almost serving as get-out-jail-free
+cards - I  think in every case, the player can find a solution which doesn't
+involve prayer, but if you're having trouble coming up with the answer, a 
+saint's intercession will do the job, without forcing recourse to the hints
+file. This middle ground of providing the player with a limited number of
+expendable puzzle-solving tokens is very good game design,  and evocative too -
+before bedding down on the first night, I thought  the good abbot should say
+his nightly orisons, and was pleasantly surprised by the fact that this
+preemptively solved a puzzle which otherwise might have required a die-and-
+undo!
+
+So Vespers is already a very good game, before you get to the endgame and the
+rug gets pulled out.  Not only is the narrative twist nicely  done - it both
+comes out of nowhere and had me slapping my forehead for not noticing it
+sooner - there's also a mechanical twist, as this whole time the game has been
+keeping track of the sins you've  committed.  It would be very easy to have put
+the mechanic front and center and transparently informed the player when he's
+moved down on the degeneration track, but keeping it hidden was definitely the
+right call, as this way the player isn't even aware he's being judged until
+it's too late, and it's never obvious which particular decisions were decisive.
+My only objection is that I think the scale might be too unforgiving - my
+first time through, I got the "evil" ending, even though of course I think my
+transgressions were relatively minor (I'd once prayed to Cecilia, and attacked
+the unknown figure I'd tripped down the stairs since I wasn't sure if he was
+incapacitated from the  fall).  Still, given the setting, an unforgiving
+morality is definitely appropriate.
+
+Flaws?  A few.  The mystery of what Constantin's been up to is a major driver
+of the narrative, so the rather hasty reveal felt abrupt and therefore had
+less impact than it might have.  The last scene, while a nicely calculated
+sucker-punch, also has about it a faint redolence of a heavy-metal album-cover.
+And sometimes the header quotes (which are nicely done, by the way, like the
+scenery descriptions starting out familiar, almost banal, but slowly growing
+strange and threatening as the plague progresses) wouldn't properly erase, so
+that bits of earlier quotes would stick around and overlap on the new ones.
+But that's literally all I can come up with, which is pretty impressive, given
+how much of a stickler I can be.  My notes don't record any disambiguation
+issues or typos; they're basically just reminders not to forget how neat
+particular elements were.
+
+Overall, Vespers was my favorite game of the comp.
+
+
+OTHER REVIEWS -------------------------------------------------------------
+
+
+From: Greg Boettcher <greg SP@G gregboettcher.com>
+
+TITLE: Attempted Assassination
+AUTHOR: Matt Slotnick
+EMAIL: mslot722 SP@G yahoo.com
+DATE: April 16, 2005
+PARSER: Quest
+SUPPORTS: Quest 3.53
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/quest/AttemptedAssassination.zip
+VERSION: 3.0
+
+This was the first Quest game I've ever played, and my goodness. I have to
+start by telling what I've observed about the Quest system before I go on to
+review the actual game.
+
+*The Quest System*
+
+Some people might only barely consider Quest games to be interactive fiction.
+Although you can type in commands, the range of commands is extremely limited.
+From what I could tell, Quest is used mostly to make adventures that can be
+solved by using no verbs other than "look at," "examine," "take," "drop," 
+"speak to," "give," the ever-popular "use," and the directional verbs such as 
+"north" and "south." To input these verbs, you can type them in, but you can
+also input them via a graphical user interface on the right side of the game
+window. Also in that part of the screen there is also a list of nearly all the
+objects you can interact with. By clicking buttons and dragging various words,
+you can do 90% to 100% of everything you need to do to win a Quest game,
+without the need to type anything, and without the need to use any verbs not
+listed above.
+
+In the game I played, I only found one case where a non-standard verb was
+implemented. In the case of one noun, it actually does work to type "open noun."
+But this verb was implemented badly. If you try to "open X", where X is almost
+any other noun, you get the same response as if you type "asdf X".
+
+Thus, it is not very rewarding to spend much time using non-standard verbs in
+Quest games. There is no illusion of being able to try to do anything you can
+think of to type. As such, I would expect most people to almost always use the
+click-and-drag interface on the right-hand side of the screen. This is IF at
+its most rudimentary; in fact, it is barely IF at all.
+
+Aside from verb problems, there was also a tendency for noun problems, at least
+in the game I played. If you want to take a beach ball, for instance, "get ball"
+might not work; you might have to type "get beach ball." Not very impressive.
+
+As a result, the level of interaction in a Quest game is not adequate. At best,
+it feels like a graphical game with a clunky interface. But to me, having a
+trimmed-down interface without graphics is like having the thorn without the
+rose. And when it comes to interpreting textual input, Quest does a bad job.
+
+*Attempted Assassination*
+
+I keep thinking to myself that, to be fair, I should not ask whether Attempted
+Assassination is good, but whether it's good as a Quest game. On this basis, I
+have to ignore the game's shallow interactivity, bad parsing of verbs, bad
+parsing of nouns, clunky interface where almost all interactive objects are
+listed, etc. By Quest standards, is Attempted Assassination good?
+
+Well, the game begins when you wake up at 8:05, already late for work. You run
+to the car, arriving there at 8:08. There you find a note that says, "Your car
+will detonate at 8:08 this morning. Have a nice day!" So you hightail it out of
+there, seconds before the explosion. Then, later, you find out that the bomb
+was planted between 8:00 and about 8:02. My, but your guardian angel was quick
+at writing that note! Ah, the realism.
+
+In another part of the game, you chase a suspicious man, who jumps through a
+window. You follow him until you have him cornered. Finally he says, "I don't
+know of any bombing on your car. I jumped out of that window because I dropped
+my watch." How do you respond? You say, "Oh, sorry to have bothered you then."
+
+These cornball events might make you roll your eyes, or they might make you
+laugh. But even if there's some humor here, how are you supposed to enjoy it
+when the game is so sloppy and badly designed? The game contains rooms named 
+"room03" and other such things; there are gruesome spelling and grammar
+mistakes ("no where in side" should be "nowhere in sight"); there is a car that
+you can' t drive, but behaves for all the world like a door; and so on.
+
+No, I can't call this game successful even by the standards of what Quest could
+achieve. And even if it was good as a Quest game, that would still make it
+pretty far from being a good game.
+
+On the other hand, this was the author's first game. The good news is, there's
+plenty of room for improvement.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Jose Manuel Garcia-Patos <josemanuelinform SP@G josemanual-gp.jazztel.es>
+
+TITLE: Book and Volume
+AUTHOR: Nick Montfort
+EMAIL: nickm SP@G nickm.com
+DATE: November 17, 2005
+PARSER: Inform
+SUPPORTS: Z-code interpreters
+AVAILABILITY: freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/bookvol.z5
+VERSION: Release 7
+
+It is my great pleasure to write the review of the game that brings back to the
+genre one of the best authors and theorists in the IF community. Book and
+volume, Nick Montfort's latest work, possesses two fundamental virtues: it is
+extraordinarily entertaining and intellectually stimulating. It also has one
+problem: it hides these virtues with a lot of talent. The arbitrary deaths, the
+large number of ways of getting stuck in an unwinnable position, and the never
+too clear statement of the final objective of the game play against it. I think
+this can be attributed to the technique employed (maybe unconsciously) by the
+author in the design of the game, which could be summarized as: "Trust me. In
+the end everything will make perfect sense".
+
+And it's true, for the game leaves, like good wines do, a great taste and a
+strange melancholy. Not only because the ending opens the door to multiple
+interpretations and passionate reflections, but also because all the crazyness
+that wraps it up finally finds its sense -- even though it never ceases to be
+just that: crazyness.
+
+I must admit, however, that I miss more literature. Nick is a brilliant writer,
+but he seems not to want to demonstrate it here with better descriptions of
+places and stuff, or more possiblities of interaction with the NPCs. I think
+this was a lost opportunity, because the game is so entertaining that even the
+most "arcade inclined" among us would have been delighted to read a little more.
+This deficiency reveals itself more notably if we take a look at the list of
+games that he recommends for those new to IF, which includes some titles that
+even I consider boring and too literary, like Savoir faire, by Emily Short, or
+Varicella, by Adam Cadre (about which Nick even wrote a very good essay years
+ago). I am afraid that, due to this dryness of its style, some of the people
+who decide to try Book and Volume will lose many of the big and little ideas,
+suggestions and winks that fill almost every moment and place in it. This game
+contains much more than meets the eye, but that's exactly the problem: the
+player has to look for everything by himself without any indication from the
+author of what he might find if he does. (One example, the title: Probably most
+of you know where it's taken from, but do you know where does it appear in the
+game?) In a game like this the author should sting the player's curiosity, but
+here its own mechanics kind of forbid that, at least the first few times. It is
+my opinion that doing that (giving more room to the player for moving,
+exploring, interacting) everyone would enjoy it more and they all would be
+taking more out of it. What were Nick's reasons for not taking this approach?
+My bet is that he did it out of respect for the player. Respect to his freedom
+to interpret the game in any way he wants to or to not interpret it at all and
+just play and have fun with it.
+
+So, what's the game about? That's a good question. Thanks for asking. Our role
+is that of a sysadmin in the city of nTopia. The game begins with a call from
+our boss telling us that several of our servers are down. One of the reasons
+why we must leave our apartment in the wee hours of the morning to reboot some
+stupid servers is that in a couple of days will take place a mysterious demo
+which we seem to be the only ones in town who haven't heard about. From this
+moment on, things will be getting more and more bizarre, and more and more
+complicated, to the point that, almost certainly, we'll end, not just once or
+twice, but lots of times, in a snowy white hospital where our only
+entertainment will be to play cards with a tall, deaf and dumb indian.
+
+Talking about indians and hospitals, I'd like to mention a detail that I think
+is a bug in the game, and it is that after doing (or not) certain actions, we
+can be sent to this pillowed white room which you can only get out of to play
+cards with the indian. My question is: if you can't get out of the room 
+(according to the author's own confession), why should you spend there such a
+long time trying to escape or whatever? I'm sure there is an explanation for
+this behaviour, as it just seems illogical, but I honestly didn't see it.
+
+Another detail, that others may consider a bug, although I don't think of it to
+be one at all, is the measure of time. Time is very important in this game. The
+player, as he dies and achieves tasks (in this order), will realize that he's
+got a lot of free time. One of the things he must do with it is wander around,
+examine every spot of the city. Almost every location in the game has something
+interesting to offer, although it's true that you must look a little harder
+than usual, and, more importantly, look at the right time of day. As in any
+other town, not all places are open 24/7 in nTopia.
+
+
+From:	Neil Butters <NEIL.BUTTERS SP@G SYMPATICO.CA>
+
+Book and Volume is a sci-fi/fantasy/techno mind game that could have been much
+more interesting and satisfying. It may be entertaining for some but others may
+find it tedious. I, unfortunately, fall into the latter category as I found
+wandering around the city fixing computers less-than-compelling gameplay. The
+game is short and could probably be played in a couple of hours. It opens with
+you lying on your couch.  Your beeper sounds and you are then sent on a series
+of tasks by your boss that take you into the city. As you perform the tasks
+weird things happen and you come to question reality. I think there is only one
+conclusion although maybe had I tried a few more things after finishing the
+tasks there might have been more to the game.  The conclusion I reached was
+obtuse, it didn’t help me to understand the game at all. It should  however
+cause you to at least pause and think about the preceding events even if you
+may not come up with a satisfying explanation of the game. 	
+
+The game has stripped-down prose that only contains essentials. The interiors
+of buildings are in a few sentences at most. For example, your apartment
+consists of a couch and some clothes and no other rooms. The NPCs do not
+generally stick around to chat and those that do aren’t particularly helpful.
+This helps keep you focused on what needs to be done, and you don’t spend time
+needlessly performing useless actions.  This terse approach gave the game a
+cold, impersonal feel that may or may not be what the author was striving for.
+At times this approach was frustrating. The setting is a futuristic city with
+some really interesting places that I would have liked to learn more about. The
+airport for example is not what you would expect but when you try to examine
+objects you get two-word descriptions. 	
+
+The game’s puzzles consist mainly of wandering around the city doing tasks to
+get a job done. The tasks are not particularly difficult. There are no hints or
+walkthroughs but there is a map available at http://www.xs4all. nl/~rlbos/
+bookvol%20feelie%20map.pdf .  On the plus side the growing realization that
+something odd is definitely going on is well done. The conclusion fits nicely
+with the game’s feel even though it is difficult to interpret and I don’t think
+anyone will see it coming. It may have some meaning that was lost on me. The
+game is technically sound and I did not find any bugs. I had no problems doing
+what I wanted to do and tasks that should not be difficult, ie working with
+your laptop, are made simple. 	
+
+I don’t think this game will appeal to everyone. If you don’t know your server
+from your waiter you may find the game uninteresting and a bit tedious. But if
+you are a techno/ sci-fi enthusiast you may appreciate some of the goings-on
+and the general feel of the game.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Daphne Brinkerhoff <cendare SP@G hotmail.com>
+
+TITLE: Building
+AUTHOR: Mike Tulloch
+EMAIL: poster SP@G aurora.cotse.net
+DATE: July 2005 (original release)
+PARSER: Inform
+SUPPORTS: Z-code interpreters
+AVAILABILITY: freeware; IF Archive and author's website
+URL: https://ifarchive.org/if-archive/games/zcode/building.z5
+VERSION: Release 15
+
+BUILDING: RED HERRINGS, PURPLE PROSE, AND A CORRIDOR OF BLUE LIGHT
+
+(Disclaimer: I played an older version of Building than what is currently
+available.  So I have not mentioned bugs or typos in this review, assuming that
+they're probably fixed.  But if I've criticized something else that's changed
+in the newer version, please let me know.)
+
+My friend oh-so-casually remarked, "You know that new game Building?  I hear no
+one has beaten it yet."  "I know a dare when I hear one," I said.  I played it
+anyway.  My goal was to win without hints.  I didn't quite achieve that, but I
+still feel a sense of satisfaction.  Building is a toughish game.  It's not
+Curses-level long, or Curses-level tough, but it's no CYOA IFComp entry.  If
+you're going to play, be prepared to spend a week or two with it.
+
+The game begins with some nightmarish visions, after which you wake up with
+amnesia, standing in front of a building.  I don't think it's giving too much
+away to say that it's an office building.  Building is about how office work
+turns people into soulless drones.  Yes, we've had Little Blue Men on that
+subject, but in LBM your character was angry and still fighting the inevitable.
+Here there is just a sense of hopelessness.
+
+The story in Building is minimal.  You're supposed to be figuring out who you
+are, but really from the beginning you know everything important about yourself
+except your name.  It's an office building, you worked here, and it sucked (one
+"remember" will tell you all that).  Gradually you do discover hints that your
+bosses might have been doing something odd, above and beyond the usual
+corporate evils.
+
+Generally, though, this game is more about atmosphere than story.  Dark, dusty,
+uninhabited (mostly), a little off-kilter, with remnants of technology lying
+around, seemingly abandoned mid-use...  If I may get all English-majory for a
+moment, this just reinforces the artificiality and transience of the office
+life that came before.  At least that's how it made *me* feel, especially given
+the contrast between your memories and the present disrepair.  Another plus:
+the author paid a lot of attention to implementing as many of the five senses
+as possible.  I particularly noticed sounds in various locations (the cicadas,
+the generator, ghostly voices), but there are smells and textures mentioned too.
+This worked for me.
+
+A few people have commented on the purple prose in the game.  It's a fine line
+between lush writing and overwriting, and I think this game has examples of
+both.   Sometimes the author relies a little heavily on adjectives (emphasis
+mine):
+
+Second-floor Stairwell
+FLUORESCENT lights mounted at ODD angles send down DYING, ARTIFICIAL light that
+provides a HARSH, CLINICAL hue for the DINGY carpet and YELLOWED walls. A set
+of stairs descends into shadows nearby, and OPEN hallways lead east and west.
+
+Out of 39 words in this room description, 9 of them are adjectives.  This felt
+overdone.  In contrast, strong verbs make this room description work better 
+(again, emphasis mine):
+
+Authorized Room
+The remnants of a COMPUTER CONTROL room, this room now provides a case study in
+destruction. SEVEN-FOOT HIGH cabinets lie face down, their GLASS windows
+shattered in BRILLIANT LIGHT-REFRACTING sprays of BROKEN glass; cables of every
+shape and hue lie severed from the wall as though victims of a BIZARRE type of
+autopsy. Computers lie caked in dust with their innards utterly removed and
+scattered in pieces across the floor.  Dust covers even these, as though these
+acts occurred several generations ago.
+
+Here there are 9 adjectives again, out of 82 words, a much more reasonable
+proportion (IMHO).  And verbs like "shattered", "severed", and "caked"
+strengthen the description.
+
+Although the main strength of the game is its atmosphere, it's not a story-
+based game, but instead is packed with puzzles.  The structure is extremely
+loose.  There's one opening puzzle (get into the building), and then the game
+opens up with multiple puzzles that can be completed in any order.  It's almost
+like a treasure hunt -- once you've remembered enough, you can go on to the
+endgame.
+
+For the most part, the puzzles are difficult but fair, requiring intuitive
+leaps that are more-or-less well-clued (getting into the corridor of blue light,
+finding the Ruined Lobby, even getting a light source).  But occasionally
+almost-right actions don't give any hint of the proper solution (I'm thinking
+here of getting the ring).
+
+There's also a plethora of red herrings.  I spent quite some time trying to get
+into inaccessible places, interact with scenery, and look under immobile
+objects.  I rather like red herrings -- they give a sense of a world that's not
+just created for these specific puzzles.  However, in Building it's a little
+frustrating, since the game doesn't really give you a sense of what you need to
+be working on next at any particular time.  So my advice to players is, don't
+assume you have to open a locked door just because it's there, or make use of
+some unusual room feature because no one would ever put a salsa-dancing Venus
+flytrap into their game if it weren't part of a puzzle.
+
+I found the inventory limit imposed by the game to be extremely irritating.
+There doesn't seem to be any reason for realism in a game with such a surreal
+setting.  And I didn't find any puzzles related to the inventory limit (e.g.,
+the kind of thing where you can only take five things with you to the next
+stage of the game, choose carefully).  I ended up just dumping objects in a
+centrally located room and coming back later.  I also found that sometimes the
+game would let me drop an object I was carrying but not pick it back up again
+on the next turn -- granted, a bug, but one that wouldn't happen without the
+inventory limit.  I'd definitely consider getting rid of the limit in a future
+release.
+
+The limit makes things especially hard because of one recurring puzzle of sorts.
+I'm trying to avoid spoilers here, so I'll just say that several objects in the
+game are keyed to particular rooms.  But it's almost always an arbitrary
+connection, so there's no way to know which room unless you bring the object
+there.  As an imaginary example, you might think that a dictionary would be
+connected to a library, but in this game it's likely that the dictionary would
+instead be connected to the bathroom.  This really makes the inventory limit
+feel constricting.  You have to make sure you've carried every object into
+every room, but you keep having to leave objects behind and pick others up, and
+unless you've got a better memory than I do, it's just about impossible.
+
+As you travel through the building and its environs, you gain memories of
+yourself a la Babel.  However, unlike in Babel, there's no way to replay a
+memory.  Once it's gone, it's gone, and you'd better have gleaned everything
+the first time.  You can get the game to list memories with short descriptions 
+(an imaginary example: "Grocery shopping with Nyarlahotep").  I would have
+liked it if typing "REMEMBER X" with some of the key words in those
+descriptions (in this example, "REMEMBER GROCERY" or "REMEMBER NYARLAHOTEP")
+would work.  That seems easier for the player than having to go back to the
+location of the original memory.  But any mechanism for remembering would have
+been useful.
+
+So, do I recommend this game?  My main experience in playing it wasn't
+enjoyment but frustration, as anyone listening could attest.  "What do you mean
+I can't?...  Oh, great, now what?... Somehow solving this didn't get me as far
+as I'd hoped."  But that does go to show that I was engaged in the game.  I
+wasn't bored.  And it's also typical of puzzle-based games.  Basically I don't
+regret having put in the time to play it, and I'll definitely download the
+author's next game.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Aaron Reed <aareed SP@G gmail.com>
+
+TITLE: The Corn Identity
+AUTHOR: The "IF Whispers" Project
+EMAIL: mark.musante SP@G gmail.com
+DATE: September 26, 2005
+PARSER: Inform
+SUPPORTS: Z-code interpreters
+AVAILABILITY: freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/whispers.z5
+VERSION: Release 1
+
+The Corn Identity is a unique experiment in collaborative interactive fiction.
+Thirteen authors were each responsible for taking the previous author's source
+code and, without having seen the whole story, constructing a new segment
+before passing their code on to the next author. The concept is somewhat
+similar to the party game "Whispers" or "Telephone," where a phrase is passed
+from person to person with increasing loss of fidelity.
+
+The release notes say "It should be obvious that this idea can't be effectively
+applied to interactive fiction.  So of course we had to give it a try." But
+what emerges is not the muddled mess one might expect: instead, the
+conspirators have created a dreamlike pastiche of corpses, puzzles, a
+distressingly ballooning inventory, and scenarios alternatingly disturbing and
+goofy. It manages, surprisingly, to be entertaining.
+
+Awakening groggy and trapped in a twenty foot steel cube, the player must
+explore a sequence of connected areas and solve a variety of puzzles from
+simple to middling-tricky, in order to unravel a mystery that seems to involve
+corn, murder, shadowy powers-that-be, drugs, and a lot of colorful buttons. As
+might be expected, the style of the game varies; in some parts you may die
+without warning and need past-life experience to solve puzzles, while in others
+you can't die at all and the puzzles are self-explanatory; some parts of the
+game feature well-implemented areas while others are bare-bones and empty.
+Interestingly, the tone of the story also varies, from deadly serious "X-Files"-
+like mystery to goofy self-referential comedy to political satire and back
+again.
+
+What's perhaps not so expected is how smoothly the game transitions between all
+these states. Any given moment feels self-consistent; it's only when you think
+back to fifteen minutes ago that you realize you're essentially playing a
+different game. Like a dream or a David Lynch movie, the game hustles you along
+through self-contained situations that flows smoothly into each other, almost
+succeeding in distracting you from the fact that the big picture is making less
+and less sense all the time.
+
+This is often annoying, as items tend to become useless as you move on to the
+next segment, and plot threads are introduced and discarded so frequently that
+the story slowly becomes a tangled mess. You never know when the game will
+throw you a curve ball revealing that the new author has no idea what a certain
+plot thread signifies, or rather, used to signify. The ending, in particular,
+is unsatisfying, since it fails to tie up the myriad of loose ends that the
+hapless final author could not even have known about.
+
+But on another level, the experience is fascinating. Something taken for
+granted in interactive fiction is that the game always knows more about its
+story than you, and your goal is to figure out what commands will convince it
+to give you more of its knowledge. Here, after the first few segments you
+honestly know more about what's going on than the author did, and the game is
+funniest when it acknowledges this shortcoming:
+
+>>EXAMINE MAN
+
+...  He resembles no one you know, either from your scientific life or your
+family life (the two of which you take great care to keep separate).
+
+In a context where the author knows nothing about the character's distant or
+even immediate past, and indeed has no idea what the character is even meant to
+be doing, this otherwise humdrum line had me grinning from ear to ear.
+
+"The Corn Identity" is by no means a great game, and by many standards may not
+even be a good one: it is often sparsely implemented, breaks no new ground in
+terms of story, structure, or content, has a poorly-hinted puzzle or two and
+enough dead-ends and red herrings for three games its size. For IF novices in
+particular, it would be an off-putting introduction to the medium. But for
+those familiar with the conventions of IF or the styles of the individual
+authors, it's an amusing, sometimes clever, and always surreal adventure.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: David Welbourn <dswxyz SP@G look.ca>
+
+TITLE: Dawn of the Demon
+AUTHOR: Paul Drallos
+EMAIL: pdrallos SP@G tir.com
+DATE: May 2005
+PARSER: Inform
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware; Author's website; IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/dotd.z5
+VERSION: Release 0
+
+Dawn of the Demon is a text adventure set in the world of Infocom's Zork about
+a thousand years before the founding of the Great Underground Empire and the
+use of G.U.E. dating. It is also a prequel for a graphical game, Zork: The
+Hidden Evil, which is being produced by The Zork Library (http://thezorklibrary.
+com). In Dawn of the Demon, you play a nameless adventurer in search of the
+Demon's treasure which is rumoured to be hidden somewhere in the forest south
+of the One River.
+
+Geographically, the game is fairly large with over 130 locations, including the
+cities of Pheebor and Borphee, a large forest, a maze, and a sizeable network
+of grue-infested tunnels. I was a bit disappointed with the cities which were
+portrayed blandly and with few Zorkian characteristics. Pheebor, for example,
+does not yet sport the aqueducts or marble spires mentioned in the Encyclopedia
+Frobozzica, but instead offers an understated royal palace with guards, an 
+"acedemic-looking" library with yet another librarian sporting glasses and a
+hairbun, and a coffee shop which somehow isn't called Starbloits or Pheebucks.
+The great Arch is being built in the plaza, however, which does help connect
+this Pheebor to the ruins seen in Beyond Zork.
+
+Minor touches like this aside, I can't help but feel that several game
+locations were unused for either story or puzzle purposes. The forest, for
+example, does its best to have enough landmarks to distinguish one part from
+another, but there's still very little in there for the player to interact with.
+Likewise, Borphee has to have a harbour and marina because it's famous for it,
+but it's just filler here and plays no part in your story.
+
+For your Zork nostalgia dollar, the game both hits and misses, not unlike Star
+Trek: Enterprise. The hungus, easily my favourite NPC in the game, scores a
+bullseye by deftly combining humour, plot exposition, and a puzzle into one
+neat package. Instead of zorkmids, which won't be minted until about 1600 years
+later, we have zoons, another borrowing from Beyond Zork. There is some clever
+business with the grues involving how they perceive the world, but I was less
+happy with the portrayal of grues as a people with a primitive culture, as if
+they were Morlocks. A more obvious miss is an accidental mention of the
+Flathead mountains long before there were any Flatheads; the coffee shop and a
+CD-like disk are anachronistic. Some of the events in Hades might contradict
+what we think we know about Yoruk, who won't show up for centuries.
+
+It gets tiresome to point out unpolished prose and spelling errors, but darn it,
+they're in there. The game also inspired me to invent two new terms to describe
+particular style errors -- the "pointless porch" and the "duh-scription" --
+both of which are exhibited in the following example:
+
+    Outside the Pheebor Public Library
+    You are standing outside the Pheebor Public Library.
+
+A "pointless porch" is a unnecessary location between a street and a building.
+And could there be a better example of a "duh-scription" than the description
+of the hilt below?:
+
+   >x sword
+    The broadsword has a shiney blade and a jewel-encrusted hilt.
+
+   >x hilt
+    The jewel encrusted hilt is encrusted with jewels.
+
+Even with these weaknesses, I still liked the game for its attempt to add to
+the Zork ouevre. I appreciated the in-game help menus which helped me through
+the game's major bottleneck. If you dislike mapping, there is a pdf file of
+maps available. Also, the game will detect if you're having trouble talking
+with an NPC and suggest topics to ask him or her about.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Greg Boettcher <greg SP@G gregboettcher.com>
+
+TITLE: The Lost Kingdom, Brainf*ck Edition
+AUTHOR: Jon Ripley
+EMAIL: jon SP@G jonripley.com
+DATE: June 12, 2005
+PARSER: extremely crude
+SUPPORTS: brainf*ck
+AVAILABILITY: Freeware; Author's site
+URL: http://jonripley.com/i-fiction/games/LostKingdomBF.html
+VERSION: 0.11
+
+I'm not sure why I like The Lost Kingdom, Brainfuck Edition. Its parser is
+crude in the extreme, and when you play it, you spend a lot of time mapping out
+mazes. That's not exactly a recipe for success. However, within the modest
+constraints of what this game tries to do, it is very well polished and
+playable. It's also rather amazing from a technical point of view, and it comes
+with an interesting backstory. For all of the above reasons, I think it's worth
+a play.
+
+The Lost Kingdom was originally entered into the 1st Annual 1 to 2K Classic
+Text Adventure Competition, back in 2004. It took first place out of six games,
+and the competition organizer, Paul Panks, called it "head and shoulders above
+any game thus far!" This new edition of the game is not just a new port of the
+game, but a considerable expansion of it. The new version has new features,
+better descriptions, and one or two new puzzles, in addition to the distinction
+of being written in an esoteric programming language.
+
+Jon Ripley claims that this game is "probably the first ever piece of
+interactive fiction written in an esoteric programming language and probably
+one of the largest non-trivial Brainfuck programs ever written." Indeed, the
+game is written in brainfuck, which does make it rather remarkable. Brainfuck
+is an esoteric programming language, a fully functional language, but one that
+is not at all designed to be practical, instead aiming only to be amusing to
+programmers due to its extreme minimalism. In Brainfuck programs, there are a
+maximum of eight commands, each of which are represented by a single character.
+(For more information, see http://en.wikipedia.org/wiki/Brainfuck.) Thus, the
+first line of the source code of The Lost Kingdom BFe looks like this...
+
+   [-][.]>+<+[>[>[-]+<-]>[<+>>[-]>>>>>>>[-]+>>>>[-]<<<<[>>>>+<<<<-]<<<<<<<[
+
+...and the remaining 29,000+ lines of code look rather similar. The code is
+thus nearly inscrutable, and so it is not hard to figure out how brainfuck got
+its name. Obviously, Jon Ripley found a way of machine-generating all this code,
+but the game is still quite a piece of work from a technical point of view.
+
+The parser in this game is more crude than any I've ever seen. In the game's
+documentation, that author claims that a full-blown two-word parser might have
+made the program run too slow on some computers, given the very sub-optimal
+efficiency of brainfuck. As a result, Jon Ripley has set up a system where all
+nouns are referred to not by a word, but by a number. Thus:
+
+   You can see:
+     a small wooden box of matches sitting on the table. (2)
+
+To pick up the matches, type "take 2". At first this seems awkward and annoying,
+but there is an advantage here. Every verb has a one-letter abbreviation, and
+you can issue commands of no more than two characters. "t2" is an easier way of
+picking up the matches. Once you get used to the verb abbreviations, the system
+has a kind of simple elegance. Nobody will extol the game for giving you a
+feeling of complete freedom -- you can't use more than 22 verbs -- but within
+its constraints, it works well. By the way, it is worth noting that this
+brainfuck edition of this game allows you to save, making it much preferable to
+the version in the 2K Comp.
+
+Likewise, the game's help menus are well-designed, as are the menus that
+provide the backstory. Speaking of which, the backstory is another of the game'
+s great virtues, one that is shared with the original version of The Lost
+Kingdom. Although the game itself is very simple, even crude, it is surrounded
+by a very interesting backstory that gives the story more depth. (And you
+should definitely read the entire backstory if you want to win.) You can read
+all this at Jon Ripley's web page for the game's 2K Comp version -- http://
+jonripley.com/i-fiction/games/LostKingdom.html -- or within the game itself, by
+using the "!" command.
+
+There is one other technically interesting aspect of The Lost Kingdom BFe. It
+is actually two games in one. When you begin the game, you get a chance to play
+it with either "short descriptions" or "long descriptions." The "short
+descriptions" version closely resembles the original 2K Comp version of the
+game, while the "long descriptions" version has much longer and more
+atmospheric room descriptions, as well as one or two different puzzles.
+
+That just leaves the game itself. Well, what can I say. You pick stuff up, you
+manipulate the stuff with the 22 verbs, you wander into a cave, you map out a
+couple of mazes, you defeat the bad guy (albeit a bad guy who is unusually well-
+characterized in the game's backstory), that sort of thing. The game itself
+says, "This game is intentionally written as a classic model text adventure
+game." Either you can get into that, or you can't.
+
+Anyway, in short, this game is pretty bad in some ways. In other ways, however,
+it's very impressive. I recommend reading the backstory, and if that sounds
+interesting, then this game is probably worth a play.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Jose Manuel Garcia-Patos <josemanuelinform SP@G josemanual-gp.jazztel.es>
+
+TITLE: Narcolepsy
+AUTHOR: Adam Cadre
+EMAIL: acmail SP@G adamcadre.ac
+DATE: December, 2003
+PARSER: Inform
+SUPPORTS: Glulx interpreters
+AVAILABILITY: freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/glulx/narco.zip
+VERSION: Version 1.07
+
+The first modern IF game that I ever played was I-0. I downloaded it because
+its description began with the words: Warning: sexually explicit. It actually
+wasn't that explicit, but I enjoyed it anyway, and I thought that its author,
+Adam Cadre, was someone whose career deserved to be followed. This was the year
+2001, or maybe 2002. So suffice to say I wasn't making any new nor slightly
+original discovery.
+
+But then there was nothing. I mostly forgot about him and his works. I decided
+I wanted to write my own games, so I had to learn Inform well enough as to
+accommodate it to the ideas I had. One of these ideas was this story that I
+wanted to tell in this particular non-linear way. One day, while I was already
+struggling with the program, a friend came home and asked me what I was working
+on, an so I told her. She inmediately said: `That looks a lot like Photopia.'
+`What's that?' `It's a piece of IF written by Adam Cadre. It's pretty good,
+though I missed the puzzles. It's almost puzzleless.' I am the optimistic kind,
+so I didn't let that bring me down. `I have another idea. It's completely
+different. In this one the PC dies several times before completing the game. I
+like it because it's stretching the limits of the genre, you know, the death of
+the PC as the real end of the game and all that.' `Oh', she said. `Oh, what?',
+I asked, surprised by her lack of amazement at my talent. `That's Shrapnel.'
+`Shrapnel?' `Another game by Adam Cadre.' `No shit.' `No shit at all.' `Oh.'
+Now I'm glad I didn't tell her about my last idea: a game in which the PC
+assumes to be someone that he later finds out he was not. Anyway, that was the
+moment when I began to hate Adam. And it explains too why I haven't written any
+games to date. I'm still waiting for an idea he hasn't had yet.
+
+Narcolepsy is my favorite IF game. And that's because it is, in a way, the
+ultimate game. It's not that I think you can't do any better, I just don't
+believe that anyone can make something substantially different with the current
+development tools. Adam (with the help of his collaborators) has not pushed the
+limits any further on this one, he just has reached them.
+
+So, let me get this straight, are you saying that IF has reached its limits
+with this game? No. What I'm saying is that certain development tools are
+finally falling short for IF writing.
+
+Look at books. Real books from your shelves. Do you think we have reached the
+limits of them as a form of expression? And they've been here for more than
+five hundred years (in their printed form). How could IF, which has been around
+for barely thirty, reach its own? I think we need new development tools, and we
+need to base them on a new paradigm, because all those that exist today have
+not been made with that idea in mind. Most have been designed following this
+reasoning: Well, I have Inform, but Inform has this limitation I want to
+overcome, so I'm gonna create my own system and it will let me do what I need.
+But what you want or need is not the ultimate frontier of IF. It's just 
+Inform++.
+
+We need a paradigm, something that clearly defines what IF is and is not, and I
+think this should be the book. The real book. Remember some of the surrealists'
+works, remember Finnegans Wake. (I'm not talking about Literature here, but
+about aesthetics, about typography, about Fine Arts applied to the
+communication of the written word. Why can't I as an author place the elements
+of a game precisely on the screen and expect that every player could see what I
+intended them to see and just the way I wanted to independently of the device
+and platform the game is run on? Is it possible to write games in Greek, or
+even just words in exotic alphabets? How easy it is to translate a game?) Have
+we got that far yet? No. And we still should add the features that come with
+interactivity and computing. (Can you easily change the way the parser works so
+it can accept, for example, input in a programming language or even in an
+invented one?) So how can Narcolepsy be the end of IF? It just can't. It just
+can't. It's all a matter of freedom. If you're writing a book, you can't make a
+movie, but you still can decide if you want to write poetry or a novel or an
+essay or a play. Or mix formats or whatever. You know what you cannot do, you
+know your limits, but, inside those, you must be allowed to do what you want
+any way you want to and to do it easily. Right?
+
+But I digress, so let's get back to the game. In it you play a narcoleptic, and
+this gives the whole thing a surrealistic atmosphere. When you live in dreams
+as much time as you do in reality, almost everything that happens to you, no
+matter how strange, looks like normal, because your own situation is weirder.
+And that's the exact sensation you get when playing Narcolepsy. That you may be
+the only normal person in town and all the rest be weirdos, but, at the same
+time, if you're the only one who's normal, that means you're the weirdo.
+
+One question: Did any of you identify with the PC? I didn't, and that made me
+feel a kind of double-sided estrangement: one between the PC and his world, and
+the other between the PC and me. But it was a good thing, because it stimulated
+that sense of alienation the author --I think-- wants us to experience. Quick
+theoretical note: Is it important to feel identified with the PCs?
+
+On the technical side, the game is outstanding (I especially like the way he
+creates a complete and believable world without making the interaction too
+complicated, as it did happen --in my humble opinion-- in Slouching Towards
+Bedlam, for example). Probably the best thing about it, though, is that it is
+fun, tons of, as all his other games; the worst being that it is dumb. That's
+why most people will love it while they're playing, but will easily forget
+about it afterwards. So what?, you might say. Yeah, I guess it all depends on
+what you're looking for in a game. I, for one, would like to see ideas.
+Something I could take home, like I did with Photopia. Games with ideas are as
+scarce as hen's teeth, and they are not always the most praised ones.
+Incidentally, this is one of the reasons why it is impossible to talk about
+real IF criticism. Criticism's main goal is to promote discussion based on the
+contents of some artwork, discussion that may lead to the evolution of that
+form of art or even of our own lives. Something that is made only for fun can't
+be discussed, because it is intellectually void. You can't criticise The Da
+Vinci Code, because what would be the point? Would it make you wiser? Criticism
+is not meant as a recommendation ("Oh, I wanna go to the movies. Let's see what
+Roger Ebert says it's good.") just like wine is not meant to get you drunk. In
+its ideal form it should be read a posteriori so it could be a dialogue (or a
+monodialogue, as Unamuno put it) between the critic and the reader. A
+discussion. An enhancement of the pleasure of the game/book/movie/whatever. If
+there are no ideas in games, what can we say about them? Yeah, it was fun. I
+hope you agree. Yes, I do. Oh, great. Well, bye. Bye. Lack of ideas and lack of
+author's freedom. Those are the challenges the IF community (if such exists)
+should face in the foreseeable future. That is, if they want to call themselves
+artists and not just amateurs.
+
+IF is still in its teens, and we know only people like Mozart or Rimbaud have
+done something really valuable and mature in their teens.
+
+As for the author, I'll just say this: John Carpenter used to distinguish
+between two kinds of film directors: the Hitchcocks and the Hawks. His point
+was that in Hitchcock you can see what he's doing, you can see why he is so
+good; Howard Hawks, on the other hand, is just as good, but he's invisible.
+Adam Cadre is a Hitchcock. His brilliance is (mostly) in what you see. IF seems
+to be for him an intellectual game. What can I do now that hasn't been done
+yet? I wish he was not so brilliant, but more profound (what can I say now that
+hasn't been said yet?). I wish he was a Billy Wilder.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Dan Shiovitz <dans SP@G drizzle.com>
+
+TITLE: The Snowman Sextet (Parts 1, 2, 4, and 5)
+AUTHOR: Roger Carbol, Jessica Knoch, Josh Giesbrecht, and Tommy Herbert
+EMAIL: david.cornelson SP@G gmail.com
+DATE: May 26, 2005
+PARSER: TADS2 and Inform
+SUPPORTS: TADS and Z-Machine interpreters
+AVAILABILITY: freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/mini-comps/segment
+
+I am totally interested in continuity in IF. I like it intra-game, like in time
+travel games where you get to visit a place at different times and see how it's
+changed; and I like it inter-game, like how in Unnkulian Unventure II you play
+the famous hero of Unnkulian Underworld, or how Paul O'Brian's Earth And Sky
+series develops a storyline over three games. The obvious next level of
+complexity is to try for continuity involving multiple authors. I've heard
+several proposals for doing this -- some kind of shared-world deal, or
+different authors working on a single game -- but the most complicated multi-
+author setup I've seen is the Snowman Sextet that David Cornelson organized
+earlier this year.
+
+Perhaps a little too complicated -- although the name suggests it was to be a
+six-part story, parts 3 and 6 never got completed. Nevertheless, there's a
+pretty decent story that can be pieced together from the existing four parts,
+so I thought I'd take a look at what's there, and see how the different games
+compare.
+
+The overall setup seems to be some sort of story about a family travelling up a
+mountain to make a snowman and coming back again. The individual games are
+pretty small -- usually only four or five rooms each -- with one or two puzzles.
+Each game advances the plot a bit and the next one picks up more or less where
+the previous game left off. None of the games are particularly hard; you should
+be able to play all four in an evening.
+
+The first part of the story, But For A Single Flake by Roger Carbol, is set in
+your family cabin in the mountains. It seems like Carbol may have expected the
+players to know the overall premise coming in, since the game never explicitly
+tells it (or even tells the player what their immediate goal is). On the other
+hand, the game is small enough that this isn't really an issue -- there're just
+four rooms and one puzzle -- so you can pretty much bumble through without
+knowing exactly what you're supposed to be doing. In fact, it's small enough
+room-wise that I'm surprised that the implementation isn't any deeper: your
+wife is in bed asleep in the first room, but you can't wake, kiss, or talk to
+her. On the other hand, there are a number of bits of writing that are quite
+snappy, and I was evilly pleased to see a response for >PUSH GRANNY.
+
+The second segment, by Jess Knoch, is set on a boat in the middle of the lake.
+Just starting this shows a few bumps in the segment-game idea -- the story-so-
+far at the beginning of the game disagrees with the previous game over whether
+your wife came along, and the boat's suddenly gotten a lot bigger than it was
+last game. This segment has the best puzzles of the four, I think: they're not
+too hard, but they fit the environment and I had to think about them a bit 
+(although there's one thing that seems like a puzzle but as far as I can tell
+is just a red herring -- sort of a weird choice to make time  for in this short
+a game). The writing is fairly straightforward, but Knoch definitely gives the
+impression of having done her homework about boats. Unfortunately, there's no
+game three in the series so I was  unable to find out what happened next, but
+it wasn't too hard to pick up the plot with game four.
+
+Game four, Josh Giesbrecht's Kaboot's Story, was my favorite of the four games,
+and not just because the PC is a hamster. Well, ok, it's *mostly* because of
+that, but it's also funny and cute on its own merits. My notes for this game
+say "storing things in cheekpouches = awesome", and I don't think I can put it
+any more clearly than that. The family seems to have weird priorities if they'
+re more worried about building a snowman than freezing to death, but luckily
+the heroic hamster is here to save the day. Save the day multiple times, in
+fact -- I played through this game in just 22 turns and still had to shepherd
+the family through three crises. The puzzles themselves aren't particularly
+challenging but they don't slow the game down either, so there's nothing wrong
+with them being the way they are. I guess that's really the secret to the
+appeal of this game for me: it was about the same length as the other three
+games, but had like three times the number of events, and that made it feel
+extremely fast-paced and fun, especially with the cheerful writing to back it
+up (the thing with gangster chipmunks was totally ridiculous but also pretty
+funny).
+
+Game five, the fourth and final game written for this project, is Tommy 
+Herbert's Fran and Bart Want a Snowman!. Despite the previous game being about
+a hamster who fights off a puma, I found this game the least plausible of the
+four. Possibly this was inevitable given the premise -- you have to bring the
+snowman back down off the mountain, and there's no real way to do that without
+pretending snowmen are much less likely to fall apart than they actually are.
+The game also feels a little overwritten most of the time, but there are a few
+very funny bits -- especially the ending text -- that are noteworthy. The
+coding, on the other hand, was uniformly solid: this felt to me like the best-
+implemented of the four, despite requiring the most complex commands.
+Unfortunately, there was no game six written, so the cliffhanger that game five
+ends on won't be resolved, but I'm sure it all worked out happily in the end.
+
+Overall, the Snowman Sextet is a useful look at the benefits and drawbacks of
+doing a multi-author series like this. The most obvious issue is, of course,
+that if not everyone gets their parts done you're left with holes in the story.
+And really, even if they do, you're still likely to have more issues keeping
+strict continuity from game to game -- Susan's re-/dis-appearance between games
+one and two, but also more subtle stuff like how the characterization of the
+NPCs (sulky or cheerful? quiet or loud?) changes from game to game here.
+Playing these also pointed out the usefulness of having a story-so-far summary
+at the start of each game -- I only got it in game two, but it was really nice
+there to re-establish the backstory as the current author understood it.
+
+On the plus side, though, I really think it's cool to have a bunch of games in
+the same story. The viewpoint switch on one of the games was especially nice to
+provide a different perspective on the story while advancing the overall plot,
+but even when authors didn't switch viewpoints, they still provided a unique
+style for their games that made the series as a whole better than any part.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Greg Boettcher <greg SP@G gregboettcher.com>
+
+TITLE: Space War!...and the PDP-1
+AUTHOR: Paul Allen Panks
+EMAIL: dunric SP@G yahoo.com
+DATE: June 2005
+PARSER: Simple
+SUPPORTS: DOS/Windows
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/pc/pdp1.zip
+VERSION: 1.03B
+
+If you played the games in IF Comp 2005, you may have played Paul Allen Panks'
+game Ninja 2, which took last place in the comp. It begins with a dragon who is
+programming a PDP-1 computer and shouting "Spacewar!" If you looked at this and
+thought it was sort of weird and irrelevant, then you may not have realized
+that the "Spacewar!" remark was a reference to this game. Well, okay, it was
+still pointless and irrelevant. Nevertheless, just in case you're interested,
+it was a reference to this game. So what is this game like?
+
+Some people complain that Panks' games are all full of generic fantasy cliches.
+If you are among these people, then you should know that this game is not in
+some generic castle or dungeon, but is set solidly in the real world --
+specifically, on the M.I.T. campus in the year 1962. The goal of the game is to
+locate a tape of the then-new computer game Spacewar and find a way ot play it
+on M.I.T.'s PDP-1 mainframe computer. Of course, to do that, you have to kill a
+dragon that inhabits M.I.T., and maybe deal with the campus werewolf too. But
+mind you, such combat is only the means to an end. The main purpose here is to
+play Spacewar. In such a way does this game depart from the usual dragon-
+slaying conventions of Paul Allen Panks.
+
+Oh yes, and I forgot. In this game, you are Master O'Ryoko, a "ninja of peace."
+Also, sometimes another ninja will come from out of nowhere to fight you.
+Therefore, let no one say that this game does nothing to escape from the drab,
+boring atmosphere often to be found in games set on college campuses.
+
+I wish I could say that this game is better implemented than many of Panks'
+earlier efforts, but I'm afraid I can't. Few verbs are recognized, and none of
+the items mentioned in room descriptions can be interacted with at all, unless
+they are listed individually as something "you see." Basically, if you can't
+take it or kill it, you can't do anything with it, with only two exceptions.
+This is a step down from the likes of The Golden French Fry, which Panks at
+least had beta-testers for.
+
+Maybe the weirdest thing about this game is the scoring system. Sometimes your
+score goes up or down based on your achievements, but more often it depends on
+verb usage. If you want to boost your score, just take something and drop it
+repeatedly. Each time you do, you get ten points for taking it and four more
+for dropping it. Taking inventory gets you two points every time, and examining
+anything is good for three points (even if you just type "examine asdf" or just
+"examine"). However, be sure not to use a verb the game doesn't know, such as 
+"wait" or "listen" or "put," because then your score goes down by ten points.
+
+In conclusion, if you liked Ninja 2, you'll probably love Space War!... and the
+PDP-1. But, oh wait, based on IF Comp statistics, there is roughly a 0% chance
+that you liked Ninja 2. Well, anyway.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Greg Boettcher <greg SP@G gregboettcher.com>
+
+TITLE: A Sugared Pill
+AUTHOR: Colin Borland
+EMAIL: colin SP@G colinborland.com
+DATE: December 30, 2005
+PARSER: TADS 2
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware; Author's site or IF Archive
+URL: https://ifarchive.org/if-archive/games/tads/pill.gam
+VERSION: 1.0
+
+Although A Sugared Pill has a few flaws, its story and its puzzles were
+interesting enough to keep me feeling involved all the way until the end of the
+game. It's worth a play.
+
+As the game opens, you are walking out of a social club, when suddenly a hit
+man tries to kill you. This is rather unexpected, since you are more or less an
+everyman character (or maybe an "everywoman" character, considering your
+character's taste for Whitney Houston). Anyway, your first job is to prevent
+yourself from being killed by the hit man. After that, you will naturally want
+to uncover the reason for your attempted assassination. By the time you solve
+this mystery, you will have gone through both the upper crust and the shady
+underworld of modern-day Scotland, and you will be in a position to stop the
+plans of your would-be killer.
+
+Certain elements of this game are rather impressive. At the bottom of the game
+window, there is an attractive, custom-built set of icons, telling you where
+the exits are, and giving you shortcuts for driving, walking around, and
+talking to people. Also favorable is the fact that many of the puzzles are well
+designed and satisfying to solve, and the story is likely to hold the attention
+of anybody who likes mysteries. There's also quite a bit of humor in the game,
+poking fun at bureaucrats, executives, security guards, and other components of
+modern-day society. For instance:
+
+   The clerk opens a desk drawer and takes out a box of staples. He
+   then fills in the relevant form, recording that he has done this.
+
+Unfortunately, the game also has quite a number of bugs. For instance, "open
+car" and "close car" doesn't work, while "close car door" actually produces an
+error message in some cases. There are also annoying aspects of game play, such
+as the fact that, in more than one case, you have to look behind objects in
+order to win the game, even though examining those objects gives you no hint
+that there is anything behind them.
+
+The worst aspects of the game involve puzzles that are harder than necessary
+due to flawed game design. A couple of such problems are created by the game's
+conversation system, which is not implemented in a consistent manner, thus
+making things harder than they should be. You can talk to characters using a
+number of methods, including (1) the traditional system of "ask," "tell," and 
+"character, command"; and (2) the command "talk to character," which sometimes
+brings up a list of options and sometimes doesn't. The problem is, these two
+systems are not interchangeable. There is a case where you need to tell a
+character about something, but if you use the "tell" verb, you will never
+accomplish this. You must instead use the "talk to" verb. Then, after you've
+gotten used to the idea that "talk to character" is the primary format for
+conversation, it later turns out that there is a puzzle you cannot solve
+without using the "character, command" format; the ability to give the
+corresponding command is not available in the "talk to" conversation menu.
+
+Due to these problems, A Sugared Pill can be quite a frustrating game, and I
+probably wouldn't have solved it if I hadn't emailed the author more than once.
+
+On the other hand, most of the puzzles are satisfying to solve, and the game
+has plenty of funny moments. What's more, the game's story may well appeal not
+only to mystery lovers, but also to those who are interested in the author's
+ideas about a few things that are wrong with modern society. As far as I'm
+concerned, that makes A Sugared Pill well worth playing.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+From: Felix Plesoianu <felixp7 SP@G yahoo.com>
+
+TITLE: Whom the Telling Changed
+AUTHOR: Aaron A. Reed 
+EMAIL: aaron SP@G aaronareed.net
+DATE: March 13, 2005
+PARSER: Inform Standard 
+SUPPORTS: Z-code (Infocom/Inform) interpreters 
+AVAILABILITY: Freeware; IF Archive and author's site
+URL: https://ifarchive.org/if-archive/games/zcode/telling.z5
+VERSION: Release 2 
+
+I don't normally review interactive fiction because I'm very picky, not to
+mention an awful puzzle solver, and I'd rather not be unfair as well. Often, I
+would type quit as the first and only command in a game. Especially when the
+work announces itself as experimental.
+
+Not this time around. Whom the Telling Changed begins so... relaxed. You're a
+prominent member of a shepherd tribe in the ancient times. Every full moon,
+everyone gathers to hear a tale of even more ancient times. Only, tonight the
+telling will change the fate of the tribe, and it's up to you to get it right.
+The tension, virtually inexistent at first, builds up in perfect gradation. You
+can't miss the climax, it's obvious.
+
+Right at the beginning I thought I was facing a guess-the-noun situation but
+the vagueness was in fact intentional. At first, I didn't know what I was
+supposed to do, either, but it became clear soon enough, thanks to the well-
+placed characters, and by that time I was already hooked, anyway. Speaking of
+nouns, the writing uses few but effective words, and some of them are keywords;
+typing one of these by itself performs the most obvious action for it at the
+time, usually ask about. The full command works just as well.
+
+This system showed its strength as the story proper began. My, I love
+conversation-based games. It's just that sometimes these are too subtle for me.
+Again, not this time around. I really liked how the game decided to convey
+important information when I didn't ask about it (here's that command again).
+My reactions were probably inappropriate at times, but Telling... weaved them
+gracefully into the story. Not that I had many reasons to react: through most
+of the second part, the only required command is z. Which was so much the best,
+as I didn't quite agree with the player character's views.
+
+Not everything's perfect, of course. At one point, I was told I speak too much,
+though I had been silent for most of the time (as another character later
+confirmed). At the peak, it finally saw the opportunity to alter the course of
+the story, as the author had promised, but choosing the right keyword for the
+desired effect required a bit of guesswork; and until the very end, I wasn't
+sure I actually made a difference. But the story came out the way I wanted, so
+I guess the game works as intended after all.
+
+Telling... is a short, but fresh and satisfactory experience. Play it to the
+end, read the afterword, then play it again. You'll have a big (and pleasant, I
+hope) surprise. I know I liked it, and I'm waiting for more games in the same
+vein.
+
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure games, a.
+k.a. Interactive Fiction. This includes the classic Infocom games and similar
+games, but also some graphic adventures where the primary player-game
+communication is text based. Any and all text-based games are eligible for
+review, though if a game has been reviewed three times in SPAG, no further
+reviews of it will be accepted unless they are extraordinarily original and/or
+insightful. SPAG reviews should be free of spoilers, with the exception of
+reviews submitted to SPAG Specifics, where spoilers are allowed in the service
+of in-depth discussion. In addition, reviewers should play a game to completion
+before submitting a review. There are some exceptions to this clause --
+competition games reviewed after 2 hours, unfinishable games, games with
+hundreds of endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We accept
+submissions that have been previously published elsewhere, although original
+reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at http://www.
+sparkynet.com/spag/spag.faq.
+
+---------------------------------------------------------------------------
+
+
+           Thank you for helping to keep text adventures alive!
+

@@ -1,0 +1,1135 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #34
+
+           Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                    September 24, 2003
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #34 is copyright (c) 2003 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Doomed Xycanthus
+Dutch Dapper IV:  The Final Voyage
+Goldilocks Is a Fox
+Gremlins
+Heroine's Mantle
+Hollywood Hijinx
+Katana
+
+SPECIFICS
+=========
+Lazy Gods Of Earth
+
+EDITORIAL------------------------------------------------------------------
+
+First, the bad news: there's no SPAG Interview in this issue. There are
+a couple of reasons behind that, though both are pretty lame. The first
+reason is just that I lacked organization -- this issue's deadline came
+around before I knew it, and I suddenly found myself up against the
+beginning of the competition with no interview subject. I'm pretty
+strict about getting the pre-comp issue out before the festivities
+begin, so I eschewed the interview. My second reason is that I lacked
+inspiration. Between comp winners and regular interview subjects, SPAG
+has interviewed a lot of people now, and I'm not exactly sure where the
+most interest lies for future subjects. So, in classic pass-the-buck
+fashion, I'm throwing the question open to you guys. Who do you want to
+see interviewed in SPAG? Email me at obrian SP@G colorado.edu and I'll follow
+your leads, beginning with the first issue after this fall's annual Comp
+special.
+
+With that out of the way, I'd like to talk about one way that my
+experiences with IF have affected my life recently. An emerging rule for
+IF design is that if the parser knows what it wants you to say, it
+should just act as if you've said it. For instance, you're in a room
+with a locked door, and you have the key to that door. You type UNLOCK
+DOOR. In most IF, the standard response to this command is "What do you
+want to unlock the door with?" But really, as many people have pointed
+out, this is not a useful response. The game knows you have a key, it
+knows that the key unlocks this door, and it knows that you want to
+unlock the door. It should just say "(with the key)" and get on with
+things. Even if you say OPEN DOOR, rather than saying "You'll have to
+unlock the door first," it should just get on with the business of
+unlocking for you, with just a small acknowledgement that it's done so.
+In fact, it's even reasonable to argue that if the door is, say, to the
+north of you, and you type N, the unlocking, opening, and proceeding
+through should all happen automatically, because the directional travel
+is much more likely to lead to something interesting than the fiddly
+small steps of door management. Now, there are plenty of good reasons to
+buck this philosophy in a particular game situation, and I've done so
+many times myself. The point, however, is to think through this aspect
+of interface design, and not simply default to being obstructive for the
+sake of it. And indeed, more and more modern games are providing this
+higher level of service for the player.
+
+I was talking to a friend about this emerging trend in IF, and it
+occurred to us that traditional IF's insistence on UNLOCK DOOR WITH KEY
+is a great metaphor for something that happens all around us in the
+world, in all kinds of areas. She'd find herself doing it in her
+relationship -- her husband says something vague to her, and she knows
+perfectly well what he means, but some impulse drives her to ask for
+clarification, just because she wants him to know that he's being
+unclear. These aren't proud moments, but they're very human ones, and
+I'd venture to say that most of us have been the guilty party in that
+sort of conversation at one time or another. I see it in business
+interactions all the time, too -- for instance, I work in a college
+financial aid office where we process a lot of loan promissory notes.
+Sometimes, students make handwritten changes to their personal
+information on these notes, and even though they're supposed to initial
+those changes, they often don't. The UNLOCK DOOR WITH KEY part of me
+wants to return such a note to the student who wrote it, asking that
+they please initial their changes like they're supposed to. Although it
+would certainly satisfy my desire for correctness, this response is
+guaranteed to drive a student crazy. "They know what I wanted to
+change," a student would reasonably protest. "Why couldn't they just
+change it?" So instead, I initial the changes myself and just process
+the note, so that the student can get to the interesting part of our
+interaction: getting her money. Yes, there's a valid reason behind the
+requirement to initial changes, but I never want to let the letter of
+the law lead me away from its spirit -- if in my judgment the changes
+aren't fraudulent, the right thing for me to do is just make them,
+whether or not they conform to the initials rule. 
+
+I think this urge to force people into perfect compliance with an
+arbitrary set of rules is something that's pretty deeply ingrained in a
+lot of us. Its appearance in IF is a particularly stark example of how
+easy a default it is, and just how irritating it can be to encounter. My
+friend and I couldn't find a word that sums up the tendency perfectly --
+the closest we could come is "bureaucracy." It's no wonder Douglas Adams
+felt inspired to write an IF game about the phenomenon; sometimes
+playing IF can feel like a long encounter with a particularly obtuse
+bureaucrat. As the form evolves, though, the best authors try to put our
+UNLOCK DOOR WITH KEY tendencies behind us, and in my brightest
+imaginings about the world, the rest of humanity experiences a similar
+growth beyond the pleasures of petty obstruction. Better games, better
+world. Hmm, maybe there's a self-help series in the making there...
+
+LETTERS TO THE EDITOR------------------------------------------------------
+
+From: Vlad K. <info SP@G kerovnian.com>
+
+Hello! I am an audio producer/sound designer, and would like to offer
+text adventure writers my support with sound effects and music for the
+horror, suspense, and mystery genres.
+
+I know that such writing today is freeware, as text adventures have lost
+their commercial value, but for a long time I have had a project in mind
+to make a good text adventure with excellent audio backup, and I am not
+talking about few sound effects and cheap music, but real
+commercial-quality stuff. Unfortunately, my writing skills are poor, and
+I don't have enough time to make an IF programming language that would
+support MP3 or OGG music and sound effects.
+
+Since I am a great lover of text adventures, especially horror and
+mystery (let alone the Lovecraftian genre), I am willing to offer a
+completely royalty-free audio solution for new text adventures. I
+understand TADS has the possibility to play MP3 files, so this would
+probably apply to TADS writers, though perhaps to others as well, as
+long as their chosen development system supports MP3 or OGG playback.
+
+So, I would like IF writers with serious and quality textual adventures
+in development, either for the IF competition, or as standalone
+projects, to know they can get sound effects and music for their horror
+and mystery games, tailored for their specific needs, not just as
+another SFX library.
+
+NEWS ----------------------------------------------------------------------
+
+NEW GAMES
+The theme for this summer's new games appears to be "translation." For
+instance, Nick Montfort has produced a translation of Olvido Mortal, an
+award-winning Spanish text adventure. And in this corner, David Griffith
+has translated an NES console game called Shadowgate into text adventure
+form. Perhaps most astonishing of all, Colin Woodcock's new game Blink
+has been translated onto ZX Spectrum cassette format, and is for sale at
+his website (http://www.zxf.cjb.net/). Now if somebody would just
+translate Unter Hirschen into English for us non-German speakers, our
+summer would be complete. 
+   * Unter Hirschen by Florian Edlbauer (this game is in German)
+   * Dead Reckoning, a translation by Nick Montfort of "Olvido Mortal"
+     by Andres Viedma Pelaez
+   * Shadowgate, a zcode adaptation by David Griffith of the original
+     NES game Shadowgate Classic
+   * Blink by Colin Woodcock
+
+AVENTURAS TEXTOS
+Speaking of translation, a translation thread on rec.arts.int-fiction
+spurred a brief discussion of the Spanish-language IF scene, and a
+poster to that thread mentioned that SPAG hasn't done much to promote
+that scene. In response, I asked for any interested party to send me a
+brief summary of it. That didn't happen, so I did a bit of research
+myself. I only grasp un pocito de Español, and even that is muy mal, but
+from what I can gather, there's a thriving community of people writing
+text adventures in Spanish. If your Spanish is better than mine, you
+might be edified by visits to http://usuarios.lycos.es/SPAC and
+http://conversacionales.cjb.net. The first is home to SPAC, which is
+SPAG's Spanish counterpart, and the second site contains the results
+from the latest Spanish IF Comp. 
+
+SINCLAIR AS CRYSTAL
+While Colin Woodcock produces new games for the Spectrum ZX, RWAP
+Software has acquired the rights to redistribute some old text
+adventures released for the Sinclair QL, with titles including Return To
+Eden, The Lost Kingdom of ZKUL, West, and The Prawn (a Magnetic Scrolls
+parody.) In addition, they've ported some of these adventures to PC, and
+are working on creating a "charityware" CD with some help with modern IF
+authors. This CD will collect some modern IF games, with all profits
+going to charity. For more information, check out
+http://hometown.aol.co.uk/RWAPSoftware/adventures.html.
+
+YOU KNOW THE SCORE
+As some of you may remember, about a year ago I retired the SPAG
+Scoreboard due to lack of interest. Now, thanks to Chrysoula Tzavelas, a
+shiny new web-based service has filled that vacuum. It's at
+http://www.carouselchain.com/if, and in just a few months of operation
+it's already received over 4000 ratings. Huzzah! If you're a text
+adventure player, visit the site to see ratings and comments on the best
+games, enter such ratings and comments yourself, and search by a huge
+array of variables. If you're a text adventure author, visit the site to
+inflate and/or batter your ego.
+
+HELP ME GET MY ZINE BACK OFF THE GROUND
+The next issue of SPAG will be the annual competition issue, and
+traditionally it's always been the hardest one to get original reviews
+for. Most people tend to just post their reviews to the newsgroups, but
+if you'd like to offer commentary that is more comprehensive, or that
+takes into account the general reaction to a comp game, or that just
+makes me happy, send your comp reviews my way. In addition, I'm still
+seeking reviews of regular IF games for SPAG 36. If you need a
+suggestion for what to review, why not pick a selection from the...
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  City Of Secrets
+2.  Dead Reckoning
+3.  Dr. Dumont's Wild P.A.R.T.I.
+4.  1893: A World's Fair Mystery
+5.  Heist
+6.  Inevitable
+7.  Insight
+8.  Max Blaster and Doris de Lightning Against the Parrot Creatures of Venus
+9.  Shadowgate
+10. Westfront PC
+
+KEY TO REVIEWS-------------------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+REVIEWS -------------------------------------------------------------------
+
+From: David Whyld <me SP@G dwhyld.plus.com>
+
+TITLE: Doomed Xycanthus
+AUTHOR: Eric Mayer
+DATE: November 2001
+EMAIL: emayer00 SP@G epix.net
+PARSER: ADRIFT
+SUPPORTS: ADRIFT Runtime
+AVAILABILITY: IF Archive, ADRIFT Main Page
+URL: https://ifarchive.org/if-archive/games/adrift/xycanthus.taf
+VERSION: Release 2
+
+Eric Mayer's first ADRIFT game, Lost, was a strange one with little or
+no plot -- playable and even kind of likeable but hardly the sort of
+thing that was ever going to be remembered. His second, Doomed
+Xycanthus, is a far different sort of game. It's larger, with more
+details and a more complex plot, and overall a far better game.
+
+As Doomed Xycanthus starts, you are in the midst of a forest with no
+memory as to how you arrived there and little or no idea of what to do
+next. Following a brief fight with a "nightmare creature", you discover
+a gem embedded in your left hand and a brief note from a wizard by the
+name of Malevol. It appears Malevol has cursed you with forgetfulness
+and dumped you in the middle of nowhere as payback for stealing his
+daughter's virtue. So starts the game.
+
+I have to confess that after the beginning, I was surprised to find that
+the aforementioned Malevol the wizard did not make another appearance. I
+was half expecting Doomed Xycanthus to turn out to be a
+hunt-the-wizard-and-exact-your-revenge sort of game but instead it turns
+out to be more a hunt for treasure in the city of the game's title.
+While this is no bad thing in itself -- the storyline as you wander
+around the wilderness outside Xycanthus and then subsequently inside the
+ruined city itself is well written and has impressive depth -- I was
+anticipating Malevol at every moment. When the game finished and there
+was no sign of him, I couldn't help feeling a little disappointed. The
+game reaching a conclusion without any kind of appearance from the evil
+wizard left me feeling as if matters hadn't been properly resolved.
+
+That isn't to say that Doomed Xycanthus is a bad game -- far from it. It
+has some intricate puzzles -- the one involving the snake and the pool
+is an interesting one (if a little on the overly-complicated side), as
+well as the letters which allow you access to the ruined city -- and the
+locations are often lengthy and detailed. The style of writing is
+overall very impressive, lending the game an eerie atmosphere,
+particularly during the times when you wander around the city of
+Xycanthus itself.
+
+One aspect of the game I found frustrating -- and something that,
+thankfully, seems to be getting rarer and rarer in text adventures these
+days -- is its zeal to kill the player off for making a single bad move.
+Sometimes there are warnings about what will happen if you go a certain
+way but more often than not these warnings are subtle to the point that
+they will most likely be missed, leaving the poor player to have to
+reload time and time again. Often, after I'd died and started again, I
+was able to spot the warnings and avoid them subsequent times but it was
+still frustrating being killed for doing nothing more than moving in the
+wrong direction. Maybe this isn't such a bad thing as it encourages you
+to read the location descriptions more carefully than you might normally
+do and anyone who just rushes through this game without reading where
+he/she is going is liable to wind up dead more than a few times.
+
+All in all, this is a well above average game that suffers from a little
+too much guess-the-verb (the puzzle involving the statue is an unusual
+one that it is doubtful you would manage to guess without the hints) but
+the standard of writing and the atmospheric location descriptions more
+then compensate for any shortcomings. From the ending I would have
+guessed that this was the first part in a series of adventures (hints
+are given that you're going to set off after Malevol the wizard) but as
+nothing has come out in the months since then it seems unfortunately not
+which is a pity because this is the sort of game we see too little of.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Emily Short <emshort SP@G mindspring.com>
+
+TITLE: Dutch Dapper IV:  The Final Voyage
+AUTHOR: Harry Hol
+EMAIL: bibberfrob SP@G haha.demon.nl
+DATE: 2002
+PARSER: Inform
+SUPPORTS: Z-code (Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/DDIV.z5
+VERSION: Release 11
+
+I never finished either of the Douglas Adams Infocom games, because the
+same zany humor that made the text so much fun also meant that the
+puzzles were more or less incomprehensible to me. If you leave out the
+complete disconnection between cause and effect, though, the Douglas
+Adams approach lends itself nicely to IF: many of the best bits of
+Hitchhikers' Guide are descriptions of some strange culture, practice,
+or creature. IF's emphasis on setting means that there's plenty of room
+in the average game for amusing satirical descriptions, without it even
+feeling like a digression.
+
+Harry Hol's "Dutch Dapper IV" takes this idea and runs with it. You're
+hero of sorts, though how and why you got into the business was never
+entirely explained; you just woke up one morning and found yourself with
+a mysterious transporter machine. It proceeds along those general lines.
+Hol's humor isn't as sharp as Adams', so inviting the comparison is
+possibly dangerous; in particular, some of the things he chooses to
+satirize are all-too-easy targets, like the fast food restaurant. It
+doesn't take great originality to mock McDonalds and its ilk.
+
+All the same, there were lines that made me smile. And the game has a
+generally light-hearted tone, doesn't take itself too seriously, and
+gives the impression that the author was having a good time. It's hard
+for me to really dislike a game like that. In fact, I'd say the
+generally good-natured approach made the game more fun to inhabit than
+the sometimes-caustic Adams worlds.
+
+Unlike Bureaucracy or HHGG, Dutch Dapper IV relies on some fairly
+straightforward puzzles, mostly of the kind where you need to get item x
+in order to appease person y in order to get into place z. Only one of
+them caused me any great confusion, and that was largely because I had
+used the wrong verb and assumed that an action was pointless when, in
+fact, I was just going about it wrong. On the other hand, there was one
+puzzle whose solution particularly pleased me, because it fit so well
+into the humorous logic of the game world.
+
+As for plot, there is one, but it doesn't take front stage for most of
+the game. The majority of the puzzles take place in a plot vacuum, while
+the player wanders around and tries to figure out what's going on; then
+you hit a stage where things take off, and suddenly you're accumulating
+bunches of points every time you turn around, and reading through a lot
+of plot exposition without doing very much. By this time the game had
+earned my goodwill, so I didn't really mind, but it does give a bit of
+an unbalanced feel to the whole experience.
+
+The game could also stand to be a bit more polished. There are quite a
+few points where the game should, logically, assume an action, but it
+makes you do it by hand. The inventory limit is apparently just there to
+drive one nuts. There are some synonyms that aren't implemented. (In
+particular, any hyphenated term should be typed exactly as in the game.)
+But again, I found myself willing to forgive this, because I was having
+enough fun to make it worthwhile. I encountered no actual bugs, which
+was nice.
+
+On the whole, I found "Dutch Dapper IV" a pleasant and entertaining way
+to spend an hour and a half. Once you're done, you can play with the
+long Amusing list, and read synopses of the first three Dutch Dapper
+adventures, in case you missed them. (Since they are either in Dutch or
+nonexistent, it's pretty likely that you did.)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: David Whyld <me SP@G dwhyld.plus.com>
+
+TITLE: Goldilocks Is A Fox
+AUTHOR: Jason Guest
+EMAIL: amazing_poodle_boy SP@G yahoo.co.uk
+DATE: September 2002
+PARSER: ADRIFT
+SUPPORTS: ADRIFT Runtime
+AVAILABILITY: IF Archive, ADRIFT Main Page
+URL: https://ifarchive.org/if-archive/games/adrift/Goldilocks.zip
+VERSION: Release 2
+
+From the title, you might get the impression that this is a rather silly
+game. You'd be right, too.
+
+Goldilocks Is A Fox is a strange mishmash of various fairy tales: the
+Goldilocks of the title, a big bad wolf, three bears, a fairy godmother,
+Sleeping Beauty, Prince Charming, etc. References to the three little
+pigs also pop up from time to time.
+
+The story is pretty much nonsense from the word "go", but it's handled
+in such an amusing and charming manner that I found myself not minding
+how ridiculous and farfetched it all is. In fact, part of the game's
+charm is that it's written strictly tongue-in-cheek and isn't afraid to
+let it show.
+
+As the game begins, you, as the eponymous Goldilocks, have just returned
+from a crazy art party and have decided, as you do, to walk through a
+dark wood on the way home (well, I *did* say it a was nonsense
+storyline). The wood is pretty much just a way to get from the start of
+the game to the three bears' cottage -- where the game begins in earnest
+-- but it has a few interesting set pieces that add to the humour of the
+game: Goldilocks' cry of "ooh, I'm so scared" popping up in the location
+description, the big bad wolf (my favourite character in the game)
+appearing and mistaking Goldilocks for Little Red Riding Hood (who is,
+alas, missing from the game). Indeed, the wood is an interesting set of
+locations in its own right.
+
+The game properly opens up when you reach the three bears' cottage and
+have to figure out just how to get inside and what to do once you're
+there. Getting inside isn't easy but shouldn't cause too many problems
+if you try just about everything. One interesting thing I found when I
+finally got inside the cottage was how much larger on the inside it was
+than on the outside -- a kind of magic cottage crossed with Doctor Who's
+Tardis perhaps?
+
+Of the various fantasy characters encountered during the game, my
+favourite had to be the big bad wolf, who was the sort of character you
+could probably base an entire game on. He mistakes Goldilocks for Little
+Red Riding Hood and then turns to up at the three bears' cottage
+demanding to see the three little pigs (for "see" read "eat"). There are
+several other characters in the game (Prince Charming was amusing) but
+none left quite the same impression as the big bad wolf.
+
+The original version of the game was entered in the ADRIFT Summer Comp
+2002 and came in second (a strange occurrence, really, as the game it
+lost to wasn't half as good). That version of the game came with a
+detailed walkthrough, which was something of a good and bad idea at the
+same time: good because it allows you to get past some of the harder
+puzzles in the game (some of them very hard indeed) but bad because it
+also spoils much of the enjoyment you get from solving them yourself.
+Goldilocks Is A Fox isn't an overly large game but the solution is a
+lengthy and convoluted one, often requiring players to double back on
+themselves and reuse the same item time and time again; in this way it
+generally gives the impression of being a far larger game than it really
+is.
+
+Unlike so many comedy games, Goldilocks Is A Fox doesn't just go for the
+quick humour and forget about the gaming side of things. Take away the
+comedy and the general silliness and there is a very well constructed
+game here. There are some quite intricate puzzles (the one with the
+large chair being a particular favourite of mine) and while not every
+puzzle is logical or straightforward, for the most part they don't
+require too much thought on the part of the player to solve. That said,
+this isn't a game that you're likely to solve in the space of a single
+sitting, which is probably just as well as there are a fair number of
+good ideas here that would be ruined if you played the game through too
+fast. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Harry Hol <harry SP@G haha.demon.nl>
+
+TITLE: Gremlins
+AUTHOR: Brian Howarth
+E-MAIL: Unknown
+PARSER: Scott Adams Standard
+SUPPORTS: ZX Spectrums & emulators
+AVAILABILITY: Commercial
+URL: https://ifarchive.org/if-archive/games/spectrum/zx.zip
+
+Gremlins is a game based on the Joe Dante movie of the same name. A
+bunch of ugly, evil little critters have run over the small town of
+Kingston Falls and you must try to stop them, with the assistance of
+Gizmo the Mogway. The game was published by Adventure International and
+employed the Scott Adams engine. This means minimal descriptions and a
+rather picky "verb noun" parser. Some versions had crude graphics.
+
+I don't mind a picky parser, as long as it is fair. The game Gremlins,
+however, isn't. I started to play it when I was about eleven and never
+got very far, even though I spent weeks playing it on my C16. I was only
+able to finish it a couple of months ago, thanks to a walkthrough I
+found on the Internet. I finally discovered why I never got anywhere. It
+was bad game design.
+
+If I order the parser to "search" something, I expect the game to list
+all that I have found. The Scott Adams system seems to think it more
+fair to reveal only one item at a time when you look into something. Now
+this would make some kind of sense when you dig around in the dirt, or
+go through a pile of papers. But when I look into a kitchen drawer, I
+expect the game to tell me all that is in there. The reason I never was
+able to finish Gremlins was because the game made me search an ordinary
+kitchen drawer three times to find all three crucial items in there.
+
+After I finished solving this "puzzle", more and more bad design
+decisions became apparent to me. First: the game makes heavy use of
+timed events, with the Gremlins running around through town. They
+basically kill you after a random number of moves, but it is impossible
+to know how much time you have left. Realistic tension? Without an
+"undo" option, getting killed just after making some progress isn't my
+idea of fun.
+
+Also, the game is devoid of any sense of wonder. The setting is a
+mundane little town with mundane objects. Some of them invite
+experimentation, but the vocabulary of the game is so small that the
+only thing you actually can do with them is the "right" action to solve
+the puzzle. Any attempt that is not *exactly phrased as needed* is
+dismissed with "I don't understand".
+
+I realize some of my frustrations have to do with the old school way the
+game is put together. But all that would be forgiven if you as a player
+had some interesting things to do. Unfortunately, the entire middle
+section of Gremlins takes place in an anemically implemented department
+store, and the endgame is a hit and miss affair I did not find
+satisfying at all. I finally did manage to finish it, as I mentioned
+earlier. But in the end, I wondered why I bothered.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Jimmy Maher <jimmy.maher SP@G verizon.net>
+
+TITLE: Heroine's Mantle
+AUTHOR: Andy Phillips
+EMAIL: aphillips SP@G ma.man.ac.uk
+DATE: December 2000
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/Heroine.z8
+VERSION: Release 3
+
+Sometimes I think people in our little community take this new literary
+form of ours just a little too seriously, and games occasionally suffer
+for it. A case in point is Heroine's Mantle, an ambitious gem by Andy
+Phillips that came and went with far too little fanfare.
+
+Heroine is either a comic book or (bizarre as it may sound) a first
+person shooter adapted into IF... or perhaps it is both. The player
+takes the role of one Lisa Flint, a young lady about to be transformed
+into the Crusader, whereupon she will devote her life to fighting for
+Good (TM) and Justice! After a prelude, the game is played out over
+seven chapters, each of them as large as the typical Competition game.
+In each, Lisa must thwart the evil scheme of a different villain. These
+villains are one of the highlights of the game, as each is larger than
+life and possessed of unique powers of their own. Take the Toymaker:
+
+   "What did you used to play with as a child, Lisa? Colouring books?
+   Lego? Dolls? Plasticine? There was one little boy who enjoyed
+   building his own toys: razored yoyos, acidic crayons, explosive
+   balloons-- yes, a real problem child. He still hasn't grown up yet,
+   despite reaching physical adulthood ten years ago."
+
+Stan Lee himself would be proud! I may have been influenced by having
+played No One Lives Forever and Freedom Force at around the same time,
+but this game's episodic structure (each chapter featuring a "boss" to
+kill) reminded me of a more mainstream action-oriented game, and its
+general sense of good humor and fun reminded me of both of those
+(wonderful) titles as well. Some of the puzzles are unusual for IF,
+being more action-oriented than the standard cerebral affairs. Lisa has
+some very potent powers, and you will have to make use of all of them
+(often in very creative ways) to solve the game. Be warned that a lot of
+saving and restoring will be required (especially to work your way
+through the intricate final battle sequences which climax each chapter),
+but the game is generally solvable for anyone willing to spend a bit of
+time and mental energy, and working out the correct next move in these
+action sequences especially is great fun. I had to turn to a walkthrough
+for a couple of somewhat dodgy puzzles, but solved 99% of the game on my
+own.
+
+I should mention that there are some suggestive scenes involving Lisa
+and Mistletoe, a villain who kills her victims by, ahem, "seducing" them
+to death. These scenes are hardly explicit though, and I found them to
+be completely innocent fun.
+
+Indeed, fun is the adjective I find myself using over and over to
+describe this game. Yes, the moral universe it presents is black and
+white to an almost comical (pun intended) degree, but sometimes that's
+perfectly okay with me. Andy Phillips' writing is occasionally a bit
+awkward, but his prose is energetic and generally effective. At times
+you can almost see the "BASH! BANG! POW!" captions surrounding the scene
+in your mind's eye.
+
+Heroine's Mantle is huge, challenging, exciting and ambitious. The more
+literary and experimental works from authors like Short and Plotkin are
+fascinating, yes, but sometimes everyone feels like a good comic book...
+if they know what is good for them. When that time comes, Heroine's
+Mantle will fill the bill admirably.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Emily Short <emshort SP@G mindspring.com>
+
+TITLE: Hollywood Hijinx
+AUTHOR: Dave Anderson/Liz Cyr-Jones
+E-MAIL: Unknown
+DATE: January, 1987
+PARSER: Infocom Standard
+SUPPORTS: ZCODE interpreters
+AVAILABILITY: Commercial
+URL: http://www.csd.uwo.ca/~pete/Infocom/hijinx.html
+VERSION: Release 37
+
+Hollywood Hijinx is a late-period Infocom game, with a cheerfully kitsch
+theme and a premise of unabashed treasure hunting. You stand to inherit
+a fortune if you are able to discover an assortment of bizarre B-movie
+props in a very strange Hollywood mansion -- so off you go to hunt. It
+contains even more than the usual number of references to Infocom, and
+at no point does it seem to take itself terribly seriously.
+
+There are a few features of the game that irritated me. I might as well
+get those over with at once. The most severe is the time limit that
+prevents you from succeeding unless you have completed all the puzzles
+within an arbitrary number of moves. This is pretty much impossible to
+do the first time around, so I had to play until I'd earned about half
+the points, then start the game over. The game's other design sins are
+comparatively minor: several smaller-scale timed puzzles that seemed a
+bit unfair, and one puzzle that couldn't reasonably be solved except by
+discovering something and then restoring an earlier state. Coupled with
+the inability to UNDO moves, this was somewhat annoying. There's also an
+inventory limit that gets in the way at times, but since the treasure
+objects are not themselves useful for anything, one can safely drop them
+somewhere and keep one's collection of objects to a reasonable size.
+Finally, one or two puzzles seemed disappointingly trivial, with the
+solution consisting more or less of walking through a series of obvious
+actions.
+
+On the other hand, there are a couple of neat set-piece puzzles that
+show the attention to detail at which Infocom excelled: amusing and
+colorful responses to wrong answers as well as right ones, systems that
+you can learn how to work, red-herring partial solutions that seem right
+at first but then turn out to be wrong. If those are overdone, they can
+be infuriating, but I thought that Hollywood Hijinx hit just the right
+level of complexity on several of these. There is also one quite elegant
+puzzle that relies on solution-by-intuition, depending on your memory of
+how an earlier puzzle was solved and your ability to translate that
+information to a new context.
+
+This game also contains a massive maze. Most mazes in IF are designed to
+irritate the player by making him go to a lot of trouble to figure out a
+mapping, and are (relatively) harmless once successfully mapped. This
+maze, on the other hand, is probably nigh impossible without the map --
+indeed, the game warns you before you go inside that you shouldn't even
+make a try for it. Even when you do have the map in hand, it takes a
+minute to figure out a good route: in other words, the challenge of this
+particular maze is like the challenge of mapping out a maze on paper,
+and not very similar to playing through other IF mazes. It can still be
+a bit exasperating to play through, especially if you lose your place as
+you navigate and have to go back to a saved position and start over.
+
+If I've talked mostly about the puzzles, it's because puzzles are most
+of what's worth talking about. The prose style is nothing stunning, and
+most of the scenery is sparsely implemented; there are plenty of items
+that don't exist at all, and plenty of others that garner a
+nothing-special sort of response. Considering the era in which the game
+was written, this is not very surprising. Many of the location
+descriptions do offer amusing reminiscences about past events in the
+house, which is a nice touch, and gives character to some rooms that
+would otherwise seem very spare indeed.
+
+As for the plot, it is fairly contrived, and, as in many Infocom games,
+most of the actual story occurs either in the prologue or at the very
+end. Still, putting the treasure-hunt agenda so blatantly in the
+foreground does, at least, remove any difficulty in explaining why the
+house is in such a strange condition. If things are implausibly
+scattered around, that's because someone put them there for exactly this
+purpose. Moreover, the central Hollywood-esque focus, and the emphasis
+on your history with Uncle Buddy, Aunt Hildegarde, and Cousin Herman,
+provides a nice thematic unity to the whole thing.
+
+The game also has a very satisfying Easter egg; after the game was over,
+I realized that there was one obvious action I'd never taken, and taking
+it proved to work out exactly as I might have hoped.
+
+It took me only three or four hours to finish Hollywood Hijinx, even
+with the unavoidable replay of the early parts of the game. I referred
+to hints only a couple of times. In one case, I needed them because the
+action in question didn't seem obviously possible, given the
+descriptions of the rooms; in another, the solution wasn't something I
+would've thought of ever in a million years. For the most part, however,
+I felt that they were fair. For me this game didn't provide as much
+sense of adventure as Plundered Hearts, or offer the atmospheric
+richness of Wishbringer or Deadline, but it is still an entertaining,
+solid game of the old school. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: R. N. Dominick <rnd SP@G bookmice.net>
+
+Oh, hey, look, it's just after midnight. Two minutes into September
+15th. Maybe I'd better think about going to bed...
+
+September 15th... hmm... that sounds familiar, for some reason.
+
+Oh, yeah. I volunteered to review that old Infocom game for the next
+issue of SPAG. The review's due on September 15th. Well, um, that gives
+me about twelve hours to solve the game before Paul O'Brian sends an
+oh-so-polite inquiry asking what happened... oh... oh, boy...
+
+That puts me in exactly the same situation as the nameless protagonist
+of Infocom's Hollywood Hijinx. As the nephew of infamous B-movie
+producer Buddy Burbank, you stand to inherit Uncle Buddy's movie
+business and fantastic Hollywood estate -- if you can prove you're
+clever enough to handle it by finding the ten mementos from Buddy's
+career hidden throughout the estate in twelve hours.
+
+Released in 1987, Hollywood Hijinx seems to be a deliberate throwback to
+the desolate treasure hunt period. There are no NPCs or animate
+creatures in the game (until the end-game, which is a timed sequence
+seemingly designed to hide the fact that the NPCs are pretty much
+cardboard ciphers). The puzzles are mostly of the clever mechanical
+type. The atmosphere is very jokey, and both Hollywood and Infocom
+in-jokes abound.
+
+There are throwbacks other than the atmosphere, however. (One annoyance
+is just a convenience that hadn't been implemented yet -- 'x' doesn't
+work, but damn if I didn't type it eleventy million times anyhow.)
+
+The game contains a maze. A *huge* maze. A huge sprawling maze it would
+take forever to map and even then you wouldn't know where you had to do
+what you had to do to get any value out of the maze. Luckily, you're
+given a map; unluckily, this doesn't provide any sort of automatic maze
+negotiation. Even after you've gotten the 'treasure' hidden at the
+center of the maze, you have to manually navigate your way back out. It
+takes more than 100 moves to complete the maze section of the game,
+meaning even with the map you spend an inordinate amount of time on it.
+
+Time? Yes, the game is timed. Even though the status line is the
+standard turns/score format, each and every move you perform in the game
+costs 1 minute of time -- even 'look' and 'inventory'. You only have 12
+hours -- 720 turns -- to complete the game. This puts an exasperating
+focus on optimizing the solution to a puzzle after you solve it. The
+game requires you to save rather more often than I'm used to because of
+this; if you're not careful, restarting will be required.
+
+It is also very possible to waste resources required to progress
+elsewhere in the game or to go to a location too soon or with the wrong
+items and have to backtrack via 'restore' to fix your error. After
+getting trapped like this three or four times, I was daunted by the
+proposition of replaying part of the game yet again and turned to a
+walkthrough for what turned out to be the last three treasures and forty
+points.
+
+(One blessing, at least, is that you don't have to tromp around and
+deliver the treasures anywhere; just having had them in inventory at one
+time is enough for the game to progress.)
+
+At the end of it all, nothing in Hollywood Hijinx stands out all that
+much. The one stand-out treasure-retrieval puzzle (which involves atomic
+mutant mayhem in a scale model of downtown Tokyo) is marred by two
+instances of the "wasted resource" problem (if you fail, or if you do
+something too soon, it's 'restore' for you, buster, or you cannot win).
+
+I think the real problem is that even in 1987, Infocom had progressed
+far beyond the basic dry puzzle hunt this game provides. Already
+released before this game were much better puzzle-fests (Spellbreaker),
+much funnier games (Leather Goddesses) and -- much more importantly --
+advances in mood, setting and dramatics (A Mind Forever Voyaging and
+Trinity) that outclassed this game and type of game completely. Other
+releases the same year included the truly different (Nord and Bert
+Couldn't Make Head or Tail of It), the genre-busting (Plundered Hearts)
+and the systemically different (Border Zone). Namechecking so many other
+excellent games may not be quite fair, but those games set expectations
+that Hijinx just couldn't meet.
+
+...
+
+Phew. There we go. 10 hours and 55 minutes. (Only five of those were
+spent playing the game and writing this review -- I had to sleep
+sometime!)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Valentine Kopteltsev <uux SP@G mail333.com>
+
+TITLE: Katana
+AUTHOR: Matt Rohde
+EMAIL: rohdemusic SP@G yahoo.com
+DATE: 2003
+PARSER: TADS Standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/tads/katana.gam
+VERSION: 2.0
+
+   Judge for yourself, Valentina Mikhailovna -- in the 15th century, the
+   Heaven knows who sails up to you and starts speaking Japanese.
+                     -- V. Belobrov, O. Popov, "Valentine's Day"
+
+Are you tired of IF experiments? Are you looking for an old-school game
+you could spend a few quiet days with? Then you should give Katana a
+try.
+
+Yes, it's basically a rather conventional text adventure, set in Japan.
+A disclaimer is needed here: it's difficult to judge the depth of the
+author's knowledge of Japanese history and traditions by this game; the
+only thing that's sure is that he knows a whole lot more about it than I
+do. Likewise, I can't say the game provided me with a comprehensive
+picture of Japanese culture, in general, or Japanese mythology, in
+particular, but that didn't seem to be the author's intention anyway.
+The only purpose of all the Far-Eastern decorations, references, and
+characters (which, by the way, they served very well) seems to have been
+the creation of an atmospheric setting -- and it's probably better so.
+One of the pleasant aspects of such an approach is that one doesn't get
+the impression that the author plumes himself with his erudition; at
+least, I never got the feeling of being talked down to because of my
+lack of certain knowledge, as has sometimes happened with other games.
+
+The story underlying this work is a fine match for the setting. Sure,
+it's not the fanciest I ever encountered, but it's still a pretty good
+one. The author tells it very competently using the flashback technique.
+My only complaint about it was that the player character somehow didn't
+get emotionally involved into it -- he seemed to remain a distant
+observer. That's all the more paradoxical, since this story concerns the
+PC's ancestor, and since in the course of the game, the PC makes
+considerable efforts in order to put right injustices of the past.
+
+The puzzles are an essential part of old-school text adventures; in
+Katana, I'd describe them as "not exceptional, but solid". Their main
+virtue is the smoothness with which they fit into the story. Let's put
+it this way: while probably none of them will be an aspirant for the
+"Best Puzzle" Xyzzy Award for 2003, they do help to create a consistent
+and well-built structure for the game. Many of them are based on careful
+examination of your surroundings. There's nothing wrong with that,
+though I got the feeling that this trick was a bit overused. That's
+pretty much all I can say about the puzzles, except for an observation
+of minor importance: the layout of the first major puzzle in the game
+reminded me of one certain episode in the movie "The Fifth Element" by
+Luc Besson -- with the only difference that Milla Jovovich was missing
+from the centre of the composition; I assume that, if she were of
+Japanese origin, she wouldn't be. ;)
+
+In addition to being a traditional text adventure, an atmospheric piece,
+and a story-driven game, Katana is one more thing: a first attempt. And
+while it clearly represents a decent one, there're a number of details
+showing that its author had little or no experience when working on it.
+I'm not talking about bugs, though there are some; after all, this is a
+review, not a public beta-test report. (However, I'll be glad to send
+one to the author if he's interested, and asks me to do so.) Here's an
+example from the game illustrating what I mean:
+
+   >x door
+   It's a solid slab of granite that fills the entrance to the tomb.
+       There's a Kanji symbol for fire carved in the granite.
+       There's a Kanji symbol for air carved in the granite.
+       There's a Kanji symbol for water carved in the granite.
+       There's a Kanji symbol for earth carved in the granite.
+
+It seems to me that the author followed the path of least resistance
+here. If he'd had more experience, he probably would have formulated
+this description some other way -- at the least, he'd have listed all
+the Kanji symbols in one single phrase instead of using four nearly
+identical sentences. Other details I implied when talking about first
+attempts are similar, so that I won't dwell on them any further, except
+for one feature that significantly affected the gameplay. I refer to the
+way that the game parser makes extensive use of responses of the type
+"If you want to do such and such, just say so" (for instance, typing
+"turn on car", and being told, "I think you mean 'START THE CAR'.")
+Somehow, I got such responses a bit more often than I'd like to. (After
+writing this, I remembered how frequently I did the same thing in my own
+first game. Then, I recalled that game I played some time ago, which had
+a shimmering curtain of light in the northern wall in its opening scene;
+it harassed me for at least twenty minutes by rejecting all my attempts
+to enter, go in, go through, etc. that darn curtain with the message, "I
+don't know how to <put the appropriate verb here> the shimmering curtain
+of light", until I finally happened to type "north"... Well, looks like
+I'm getting to be an old grumbler. ;)
+
+Fortunately for Katana, being a first attempt doesn't necessary consist
+of disadvantages only. The positive aspects are the genuine fun the
+author clearly had writing it (this fun shows through, say, in a number
+of witty responses to weird player input), and the attention to details.
+And they outweigh the negative ones, despite the fact that you could get
+a different impression reading all my nitpicking. ;)
+
+So, to sum up, if you prefer longer text adventures, and don't mind some
+minor technical flaws... hey, it's time to look at the beginning of the
+review again!;)
+
+...and the SNATS[*]: 
+
+PLOT: Reasonably solid, matches the setting very well (1.2)
+ATMOSPHERE: Certainly original (1.4)
+WRITING:    Sometimes not emotional enough (1.1)
+GAMEPLAY:   Just what you'd expect of a traditional text adventure --
+            with minor issues that are listed in the review (1.1)
+BONUSES:    The rich setting and the many Easter eggs (1.2)
+TOTAL:      6.0
+CHARACTERS: Convincing enough (1.2)
+PUZZLES:    Fit into the game structure very smoothly -- so smoothly
+            they don't stand out at all (1.1)
+DIFFICULTY: An appropriate ordeal for a novice samurai (5 out of 10)
+
+* SNATS stands for "Score Not Affecting The Scoreboard"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ___. .___    _    ___.     ___. 
+/  _| |   \  / \  / ._|    /  _| 
+\  \  | o_/ |   | | |_.    \  \  
+.\  \ | |   | o | | | |    .\  \ 
+|___/ |_|   |_|_| \___|    |___/ PECIFICS
+
+SPAG Specifics is a small section of SPAG dedicated to providing in-
+depth critical analysis of IF games, spoilers most emphatically
+included.
+
+
+
+
+
+WARNING! SPOILERS BELOW FOR THE FOLLOWING GAME:
+
+Lazy Gods Of Earth
+
+
+
+
+
+
+PROCEED NO FURTHER UNLESS YOU HAVE PLAYED THIS GAME!
+
+
+
+
+
+THIS IS NOT A TEST! GENUINE SPOILERS TO FOLLOW!
+
+
+
+
+
+LAST CHANCE TO AVOID SPOILAGE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Emily Short <emshort SP@G mindspring.com>
+
+TITLE: Lazy Gods of Earth
+AUTHOR: Stark Springs
+EMAIL: stark SP@G null.net
+DATE: 2002
+PARSER: Inform
+SUPPORTS: Glulx interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/mini-comps/library/IFLibComp2002.zip
+VERSION:  Release 4
+
+Last issue of SPAG, I reviewed Stark Springs' "Words of Power". That
+piece entertained me enough that I went back to try his IFLibrary comp
+game from last year, "Lazy Gods of Earth".
+
+In certain respects the two are fairly similar. Both rely heavily on
+desolate settings, with a sense of vastness and also, perhaps, great
+age. In fact, I thought some of the settings in "Lazy Gods" were more
+captivating than the ones in "Words". Springs uses some typically
+under-developed places, like the transitional messages when walking
+between rooms, to convey a sense of the great scale of the terrain. And
+while the writing often verges on the perfunctory, some of the things it
+describes are, if you envision them for a moment, quite memorable. Once
+again I found myself mentally translating everything into cinematic
+images.
+
+At a few points the description in "Lazy Gods" rises to a higher level.
+At one point, you're told that you see a gnarled root shaped like a
+beckoning finger. The image is both evocative and functional: it's
+easily visualized, it suggests an eerie presence in the otherwise
+uninhabited landscape, but it also conveys to the player the idea that
+one ought to have a closer look at the object. And one does, and it
+turns out to be a grappling hook. Easy enough to see in retrospect how
+the grappling hook might have looked like a finger of root. Springs
+*could* have gone for the standard (and generic) "You see something
+stuck between the rocks" in order to get the player to have a closer
+look. But this bit of detailed description is a million times better,
+because it leaves an impression with the player even after the true
+nature of the object has been identified.
+
+"Lazy Gods" also shares some structural features with "Words of Power".
+Both games rely on visits to a number of specific NPCs; both involve a
+geography with important landmarks to the far north, south, east, and
+west. There's a kind of self-aware tidiness about this arrangement that
+makes the gameplay easier on the player (because it's usually clear
+where to go next, and how many more episodes/interactions are required
+before the game will be complete). At the same time, though, it
+impresses one with a sense of artificiality, or perhaps of great
+formality.
+
+At the same time, "Words of Power" works better than "Lazy Gods" on a
+couple of important levels. For one thing, it provides character
+motivation from the start. "Lazy Gods" leaves the player to wander
+around, without any kind of goal or stated purpose, until he does
+something quite drastic just because it's the only thing in the entire
+game that seems interactive. Then he finds himself in another place,
+where, again, he has nothing to do but wander around until a plot
+manifests itself. In fact, as it turns out, your task is to *undo* the
+stupid drastic thing you did out of boredom at the opening stage of the
+game.
+
+This, it strikes me, is a mildly unfair way to plot your game. First of
+all, the player feels a bit foolish; if the first step of the game
+wasn't progress, then why was he herded into doing it? And second,
+leaving the player without any idea of what he's supposed to be doing,
+or why, or how, for too long a period tends to result in a certain
+amount of disengagement. Purely by chance, I wound up not visiting the
+NPC I needed to visit to receive my infodump about what was going on
+until quite late in the game; during all the intervening period, I was
+poking around the various environments looking for something to do and
+collecting objects that seemed to be put there for me to take.
+Fortunately (I suppose) there are few enough red herrings that wandering
+around pushing all the obvious buttons and taking all the obvious
+objects is, in fact, a reasonable way to get through the game. But it's
+not a reasonable way to motivate the story.
+
+Then there was a second, far more important problem. "Lazy Gods" turns
+out to be about these meddling immortals who have been steering the
+development of Earth, but got bored and decided to stop looking after
+it. Fine. I don't see anything inherently wrong with this premise; it
+could be taken some quite interesting places. But it's treated with a
+triviality of implementation that really undermines the effect the
+premise might have had. It seems to me that if you were to meet a giant
+boar in the forest, and it were to turn into Aphrodite, and she were to
+tell you that you had accidentally destroyed, not only your friends and
+their nice beach house, but the entire world and everyone in it, you'd
+feel pretty stunned. But no, I didn't get that sense about my character
+at all.
+
+Partly this is because, in general, the PC is given very little shading
+by the game; his conversation is all fairly straightforward, without a
+distinctly individual voice. The descriptions are more or less objective
+as well, and don't tend to concentrate on the PC's feelings about
+things. This is a valid choice for IF, and I don't have a problem with
+it, for the most part.
+
+But if the PC isn't going to react visibly, then it seems as though the
+conversations themselves at least need to feel a bit weightier, a trifle
+less silly.
+
+For instance, when you ask one of these deities who he is, he replies:
+
+   His lips compress in a thin, superior smile. "I am. I don't need a
+   name. But you can call me Conrad."
+
+I support the thin, superior smile. The first two sentences of the
+dialogue are fine. "You can call me Conrad," after that opening, is pure
+comedy. I laughed, but I don't think I was supposed to; the rest of the
+game doesn't carry itself in a way that suggests deliberate jokiness at
+this point.
+
+Even worse:
+
+   Alea sighs. "I know. You managed to destroy your world. Perhaps it's
+   for the best."
+
+That's *it*? That's all? "You destroyed the world, but don't worry about
+it"? My character doesn't show any shock, and the goddess doesn't show
+any concern; between the two of them, it's hard for me-the-player to be
+convinced that this catastrophic event really even occurred.
+
+I suppose that some of this might be deliberate. A deeper exploration of
+the topics raised might have made for a longer game, and possibly one
+with a grimmer tone. And then, these passages could so easily have been
+horribly overwritten that it makes sense to practice some restraint. All
+the same: this was too much restraint, I think. With a bit more
+investment these themes could have been elaborated into something rich
+and memorable, instead of passing the player by without effect.
+
+And I've managed to talk about all these things without mentioning the
+adaptive aspect of the game. In essence, during the prologue you're
+given a quiz by one of the characters intended to elicit your feelings
+about certain plot devices. I gather that the answers affect the way the
+game plays out, though I didn't explore enough to exhaustively catalog
+how that might work. This is also potentially interesting, except that I
+think the device of explicitly asking the player what he'd prefer is too
+blatant a way to customize the game. As a player, I care more about
+storytelling than I do about the author somehow managing to guess which
+scary monster I will personally find the most creepy.
+
+It's exactly there that more work is needed. More character for the
+NPCs, more depth, more of a sense that all these things are important.
+
+I raise all these issues because I think, in fact, that Stark Springs is
+doing progressively better work. His writing is not universally
+polished, but he has the eye for a memorable detail, and this serves him
+well. His game design sometimes shows flaws (and whose doesn't?), but I
+think, on the whole, that it's improving. "Lazy Gods" has some good
+images; "Words of Power" has those *and* a more engaging set of puzzles
+and better motivation. So I look forward to what he may do if he
+continues to write games.
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>ISSUE #37 - July 10, 2004 - SPAG</title>
+  <link rel="stylesheet" type="text/css" href="../style/spag.css"/>
+
+  <link rel="top" type="text/html" href="../index.html"/>
+  <link rel="up" type="text/html" href="../backissues.html"/>
+  <link rel="prev" type="text/html" href="spag36.html"/>
+  <link rel="next" type="text/html" href="spag38.html"/>
+ </head>
+
+ <body>
+  <h1 align="center">
+   <a href="../index.html"><span id="title"><img src="../spag.png" alt="SPAG" width="349" height="94" border="0"/></span></a>
+  <br/>
+   <span id="subtitle">ISSUE #37 - July 10, 2004</span>
+  </h1>
+
+<div>
+<pre>
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames
+                    _              ___.           
+                   / \            /  _|           
+                  |   |           \  \            
+                  | o |           .\  \           
+                  |_|_|nniversary |___/pectacular!
+
+
+                          ISSUE #37
+
+        Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                        July 10, 2004
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #37 is copyright (c) 2004 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+Whizzard: Ten Years After
+The SPAG Interview with Magnus Olsson
+Duncan Stevens on Ten Years Of IF
+UNLOCK DOOR WITH KEY by Brad O'Donnell
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Black Sheep's Gold
+City Of Secrets
+Dr. Dumont's Wild P.A.R.T.I.
+The House
+Inevitable
+Shadowgate
+Solitary
+
+EDITORIAL------------------------------------------------------------------
+
+On May 15th, 1994, Gerry Kevin "Whizzard" Wilson released the first
+issue of SPAG, which at that point stood for "Society for the
+Preservation of Adventure Games." In its editorial, Whizzard announced
+that "the purpose of SPAG is the advancement of the modern text
+adventure." Since that time, SPAG has published 36 more issues, more
+than half a million words devoted to discussing interactive fiction.
+SPAG's writers have reviewed hundreds of IF games, from tiny jokes like
+Richard Basehart Adventure to epics such as Worlds Apart and First
+Things First. Over one hundred reviewers have contributed, and we still
+continue to welcome new ones -- this issue sees the debut of Mary Kate
+Alexander, who turns in a review of Kathleen Fischer's "Inevitable." An
+early message from Whizzard celebrated Magnus Olsson's creation of a
+SPAG mailing list by noting, "no longer will I have to suffer through
+typing 30 names into my e-mail program." Today, the SPAG subscriber list
+contains more than 500 people. 
+
+That's the good news. Here's the even better news: SPAG is far from the
+only IF success story of the last ten years. 2004 also marks the 10th
+anniversary of the IF Competition (also begun by Whizzard), which has
+given rise over the years to some of the medium's most important works.
+We've seen the first book-length academic treatise devoted exclusively
+to text adventures, Nick Montfort's TWISTY LITTLE PASSAGES. IF
+development tools such as Inform, TADS, and Hugo have enabled amateur
+implementors to create new works that far outstrip even the Infocom
+classics, and those works have been released completely free of charge.
+There's enough great, free interactive fiction out there to keep avid
+players busy for years, and thanks to the maintainers of the IF Archive,
+all that work is available in a central location. We even changed the
+"P" in SPAG from "preservation" to "promotion" as it became increasingly
+clear that text adventures are by no means an endangered species.
+
+It's been an amazing decade for IF, and new wonders continue to unfold.
+So this issue of SPAG is both a look back and a look forward, but more
+than either of those, it's a sincere expression of gratitude. This zine
+has always been a community effort, and it will always be one. Whatever
+success we've had has been due to the many people who give generously of
+their time and abilities to review IF games, write articles, and read
+the work of others. In this issue, I've invited contributions from three
+particularly important participants in that process. Duncan Stevens, a
+stellar IF critic and by far the most prolific contributor to SPAG,
+offers a look back at the last ten years of IF. Magnus Olsson, my
+editorial predecessor, answers our questions in the SPAG Interview. And
+of course, we couldn't have an anniversary issue without a few words
+from our founder, Gerry Kevin Wilson.
+
+My heartfelt thanks to everyone who's made it such a great ten years for
+SPAG and for IF in general. Here's to the continued advancement of the
+modern text adventure. 
+
+NEWS ----------------------------------------------------------------------
+
+NEW GAMES
+It's always so heartening to have a nice long list for this section, and
+this one has the requisite ingredients of exciting, novel, and just
+plain weird. The crop includes a hilarious parody of the IF community by
+Stephen Bond, several debuts by new authors, one of the most outlandish
+virtual machine abuses ever, and long-awaited new games by veteran
+authors Mike Roberts and Robb Sherwin.
+   * IF Quake adapted by Jason Bergman
+   * George Bush And The PDB by Curt Siffert
+   * The Cabal by Stephen Bond
+   * Solitary by Kahlan
+   * The Quest for Waitomo Cave by Paul Panks
+   * Curse of the Dragon Shrine by Mystery
+   * I'm Gonna Take You To The Video Bar!: A TADS abuse by James Mitchelhill
+   * Return To Ditch Day by Mike Roberts
+   * 2004 IF Art Show by various authors
+   * Necrotic Drift by Robb Sherwin
+
+SYNTAX ERA
+As we celebrate ten years of SPAG, let us stop to pay our respects to
+the end of an even longer-lived zine. SynTax magazine was a UK-based
+venture run by Sue Medley and devoted to adventure games, including text
+adventures. It started in July 1989 and ended with issue 90 (!) in
+May. Sue has temporarily removed her back issue archive, but plans to
+bring it back soon. Meanwhile, you can see the proud remains at
+http://www.syntax2000.co.uk/hello.html.
+
+THE INSIDE SCOOP
+Speaking of IF zines, Ken Franklin has been publishing InsideADRIFT as a
+monthly magazine since 2002, producing content-filled issues more or
+less monthly. He's recently converted its site to a web forum format --
+check it out at http://www.kfadrift.org.uk/~insideadrift/. Hey, issue 16
+even has an interview with me! Now *that's* quality!
+
+BASH AND SNAP
+I've recently been made aware of a couple of new web-based IF
+development systems. The first is QuestBasher, at
+http://www.hsmx.com/cyoa. Through basic text entry boxes and JavaScript
+buttons, this system allows you to create a rudimentary text adventure
+which you can then advertise and share with all your rudimentary-text-
+adventure-loving friends. If the QuestBasher system is still too
+complicated for you, no problem! Peek over at
+http://www.drizzle.com/~dans/if/snap to see Dan Shiovitz's latest
+creation, Snap! Snap programs can be incredibly small -- in fact its
+"Cloak Of Darkness" source code is one byte long. No wonder that ever
+since Dan announced the system in very early April, it's been the IF
+language everyone is talking about!
+
+THE TIMELESS ART OF INTERACTION
+Previous incarnations of Marnie Parker's IF Art Show have brought us
+games like Galatea and A Stop For The Night. The Show is back for 2004,
+and here are the results:
+  Landscape Category
+     The Fire Tower - Jacqueline A. Lott - Best of Show
+     Swanglass - Yoon Ha Lee - Best of Landscape
+     Last Ride of the Night - Mordechai Shinefield
+  Still Life Category
+     Flametop - Dave Malaguti - Best of Still Life
+  Event Category
+     The Battle of Walcot Keep - Steve Breslin with Eric Eve and 
+        Lindsey Hair; illustrated by Michael Bechard - Honorable Mention
+          
+Visit http://members.aol.com/iffyart/ to download the games and to read
+reviews by judges J.D. Berry, Jon Ingold, Mike Roberts, Emily Short,
+Adam Thornton, and Chrysoula Tzavelas
+
+WITH GREAT ZINE COMES GREAT RESPONSIBILITY
+As I mentioned above, whatever success SPAG has enjoyed is due solely to
+the efforts of those who donate their time and energy to contributing
+reviews. For this zine to make it another ten years, or even another
+three months, I'm depending on those contributions to continue. If you'd
+like a little inspiration for choosing review fodder, I offer the
+following list:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Curse of the Dragon Shrine
+2.  Dead Reckoning
+3.  1893: A World's Fair Mystery
+4.  Heist
+5.  IF Art Show 2004 games  (any, some, or all!)
+6.  Max Blaster and Doris de Lightning Against the Parrot Creatures of Venus
+7.  Narcolepsy
+8.  Necrotic Drift
+9.  Return To Ditch Day
+10. Unease
+
+ANNIVERSARY ARTICLES-------------------------------------------------------
+
+And now, a few words from our founder...
+
+From:	Gerry Kevin "Whizzard" Wilson <gkw SP@G pobox.com>
+
+Wow, it&#8217;s been ten years already? I barely even noticed. It fills me
+with a sense of pride to know that SPAG and the IF-Comp are still going
+strong, and to know that I had a hand in creating them, even if my
+grades in college were the worse for it. I apologize that I haven&#8217;t been
+a part of the IF community for some time other than on the ifMUD, but I
+plead real life. Here I&#8217;ll insert a disclaimer...anyone not interested
+in what I&#8217;ve been up to for the last decade might as well skip down past
+this bit, since that&#8217;s what I&#8217;m about to talk about.
+
+Okay, for the folks still reading (both of you), after college I bummed
+around awhile and finished up Avalon (er, I mean Once and Future) and
+then got busy looking for work. Eventually, I came to rest at Alderac
+Entertainment Group, makers of fine roleplaying games and collectible
+card games. There I stayed for several years before moving on. I spent a
+year coding oil truck simulation programs (the company&#8217;s client was
+Halliburton, amusingly). I&#8217;ve since moved on to Fantasy Flight Games,
+where I&#8217;m the company&#8217;s board game developer, of all things. It&#8217;s been a
+weird trip. I never would&#8217;ve predicted that I&#8217;d be designing board games
+for a living. But then, I never thought the IF-Comp would do so well,
+either. Shows what I know.
+
+All told, I&#8217;ve worked on roleplaying games (7th Sea and Spycraft), card
+games (7th Sea CCG and the upcoming Call of Cthulhu CCG), board games
+(Arena Maximus and Warcraft: the Board Game, to name a couple), and just
+generally passed the years in a haze of activity. Currently I&#8217;ve begun
+work on a fantasy novel that I hope to get published in a year or two
+and I&#8217;m designing Doom: the Board Game (ah, sweet, sweet irony). After
+that, who knows? Maybe in another 10 years I&#8217;ll be selling hula hoops
+and marbles, or maybe I&#8217;ll be designing video games in a weird sort of
+full circle. One thing is certain. I don&#8217;t think that I ever would&#8217;ve
+become a game designer if it weren&#8217;t for IF. Starting those projects
+back in college and carrying Avalon through to the bitter end gave me a
+terrific sense of confidence that I lacked back then. Once I saw that I
+could make good things if I put my mind to it, I just went out and did
+it. I may not be rich now, but I love what I do, even on the bad days.
+Yessir, I&#8217;d say that IF has been really good to me.
+
+But enough about me. Here&#8217;s to Paul and Magnus and everyone else who&#8217;s
+helped to carry the torch! Here&#8217;s to SPAG, and here&#8217;s to another 10
+years! And here&#8217;s to everyone who&#8217;s helped to keep text adventures
+alive. Thank you all.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The SPAG Interview with Magnus Olsson
+
+Magnus Olsson was a prominent SPAG reviewer, then took over from
+Whizzard as editor with issue #11, and steered the ship for two years.
+He continues to administer the SPAG mailing list; if you're a
+subscriber, he probably sent you the message you're reading right now.
+In addition to helping out with SPAG, he's been a member of the IF
+community for more than 10 years, and has authored many games, including
+Uncle Zebulon's Will, winner of the TADS division in the first comp. For
+this anniversary issue, he was kind enough to answer some questions for
+us. 
+
+   SPAG: The usual opening question may sound a little odd to you, since
+   I believe you actually wrote it, but I'll ask it anyway: Could you
+   tell us a little about yourself? Who are you, what do you do for a
+   living, and so forth? 
+
+MO: I'm Swedish, in my late thirties, and live in a medium-sized Swedish
+city. I used to be a theoretical physicist but found the grass greener
+in the software industry. My interests range from linguistics to
+aviation; I'm a bit of an SF fan, do some role-playing of the table-top
+variety, that kind of stuff.
+
+   SPAG: What first sparked your interest in interactive fiction?
+
+MO: Back when I was in high school, text adventures were pretty much the
+dog's breakfast (it's hard to believe nowadays, but text-only
+dialog-based interfaces were the state of the art); the big computer
+magazines ran reviews of the great new games like _The Hobbit_ and
+_HHGTTG_. So I suppose it would've been pretty hard not get interested
+in IF.
+
+   SPAG: You've been around the IF community for a long time -- what has
+   kept you involved? 
+
+MO: Actually, I'm not very involved nowadays -- for the last few years,
+I've been pretty much watching from the sidelines. 
+
+What kept me involved for so long was the wonderful community spirit on
+the IF newsgroups -- it's not too much of an exaggeration to say that
+r.a.i-f *was* the community, and the community was r.a.i-f. Alas, that
+has changed.
+
+   SPAG: Tell me about your tenure as SPAG editor. How did you acquire
+   the job, and what are your memories of it? 
+
+MO: I was a regular contributor when Whizzard was the editor, and I
+helped with various practical things, so when Whizzard wanted to pass
+the torch I was one of the first people he asked.
+
+I'm afraid that I don't have very many memories of my "tenure" - it was
+all rather uneventful; there were never any tough editorial decisions to
+make or anything like that. It's had two lasting effects: on the
+positive side, I've learned to see things from an editor's perspective,
+which is very good for an author. On the negative side, I've been unable
+to write reviews since I took over SPAG. I've tried, but I never get
+more than a paragraph or two into the review before giving up. Of
+course, this may also be because people like Emily Short have raised the
+level of IF criticism to heights that were all but unimaginable when
+SPAG started.
+
+   SPAG: What made you decide to pass the reins?
+
+MO: Lack of time, lack of inspiration. It had become a routine chore to
+be done, which is not a good thing for a 'zine like SPAG.
+
+   SPAG: In the geeky spirit of the novel and film HIGH FIDELITY, tell
+   us your top five favorite interactive fiction moments. These could
+   moments from a game, things that happened on the newsgroups or ifMUD,
+   or anything else that seems IFnal to you. 
+
+MO: In chronological order:
+
+* Playing _HHGTTG_ and realizing that I wasn't just playing a game, I
+was actually playing a character in a book and experiencing the story
+from the inside, as it were.
+
+* Discovering the IF newsgroups. 'Nuff said, I think.
+
+* The release of _John's Fire Witch_ -- for the first time, I was
+playing a brand-new, amateur-written IF game that was as good as the old
+classics. To me, this marks the starting point of the IF renaissance.
+
+* Beta testing _So Far_. This is perhaps the piece of IF that's made the
+deepest impression on me, and being a beta tester gave me the
+opportunity to discuss it in detail with the author, and actually to
+influence it in some small ways.
+
+* And, finally, a more recent event: the 2003 XYZZY awards ceremony. For
+various reasons, I hardly visit the ifMUD, but it was very nice to see
+that the friendly community spirit lives on there,
+
+   SPAG: What frontiers do you think still remain to be explored in IF?
+   Is there anything you really hope to see done, say in the next ten
+   years? 
+
+MO: There's one problem area with traditional IF that sticks out like a
+sore thumb, and that's NPC interaction. We've all played games that
+seemed just perfect until we encounter an NPC that's about as responsive
+as a refrigerator -- and bang goes mimesis. 
+
+Mind you, this doesn't necessarily mean more intelligent NPCs in the AI
+sense -- in the foreseeable future, AI will probably only give us NPCs
+that act as more intelligent robots, rather than human beings. It could
+very well be scripted conversation, only deeper and better integrated
+than today. And I don't think any technical breakthroughs are necessary,
+though of course they'll help.
+
+We've seen a few steps in this direction, such as _Galatea_. I'd like to
+see a more "traditional", story-based game with that kind of NPCs.
+
+   SPAG: I see from your web page that you're a fan of webcomics. As a
+   comic aficionado myself, I wonder if you have any thoughts about what
+   IF and comics have in common? 
+
+MO: Artistically, I don't think they really have very much to do with
+each other at all, except that both media are used to tell stories.
+Comics are static, non-interactive, primarily graphic; while IF is
+dynamic, interactive, and -- by the usual definition -- text-oriented.
+
+But there's a similarity in that both comics and IF seem to have found
+an "alternative", non-commercial outlet on the Net. In the case of IF,
+it's almost impossible to get published commercially; in the case of
+comics, it's just very difficult. In both cases, distribution for free
+over the Net seems to work really well -- which is not the case at all
+for related art forms such as static fiction (with the exception of
+fanfic, which again is impossible to publish commercially).
+
+   SPAG: About the games you've written in the past: how do you view
+   them now? Any memories that stand out as particularly special about
+   them? 
+
+MO:
+
+_Atomia Akorny_: Primitive to the point of unplayable by today's
+standard (by *any* standard, actually), but great fun to write, and
+quite a challenge to fit an entire text adventure into 10 KB. 
+
+_Dunjin_: Very old school, of course. I wasn't trying to tell a story
+until quite late in the development process (when a tester told me that
+it needed a plot), but it was an exercise in world-building and, in a
+sense, game-mastering; trying to manipulate the player, making him
+experience certain things, see things in a certain light. And that is of
+course at the core of story-telling as well. It's all very
+college-boyish, of course, which is no wonder since I was an undergrad
+when I started it. I remember that the parser was a real bitch to write,
+since I knew nothing about parser construction at the time. And the
+paranoid satisfaction of protecting my precious secrets with clever
+encryption algorithms...
+
+_Uncle Zebulon's Will_: It started with the idea of exploring a wizard's
+house, and with the blue and green bottles. The rest grew from there.
+Until quite late in the process, it was called _Uncle Phil's Will_, by
+the way -- which doesn't have quite the same ring to it, does it? 
+
+When the other Competition entries had been released, I looked in awe at
+all the features they had which _Zebulon_ hadn't, and I didn't think it
+would stand a chance of winning -- which shows how difficult it is to
+assess your own works. Today, of course, the Competition entries are far
+more sophisticated; _Zebulon_ is a trifle compared to, say, _Slouching
+Towards Bedlam_.
+
+_Aayela_: Most reviewers see it as an experiment with darkness, but it
+was intended rather as a mood piece: the darkness isn't there as an
+obstacle to the player but to set a certain atmosphere. It was inspired
+by a dream which in turn was inspired by Ursula LeGuin's _Tombs of
+Atuan_.
+
+_Zugzwang_: A joke, of course: a demo for something that would be
+impossible to write. But ever since I learned to play chess as a kid,
+I've wanted to use the point-of-view of a chess piece. 
+
+   SPAG: Are you working on anything IF-related at the moment?
+
+MO: Yes, for some definition of "working", but it's very much on the
+back burner. Don't hold your breath.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Duncan Stevens has authored more SPAG reviews than any other single
+reviewer, and they have all been of a remarkably high standard --
+cogent, incisive, and well-written. Real life has diverted his attention
+for the past few years, but for the anniversary issue he's done us the
+favor of applying his knowledge and intelligence to an examination of
+what's happened during the last ten years of IF development.
+
+From:	Duncan Stevens <dns361 SP@G cox.net>
+
+So SPAG's been around for ten years now, and what's happened in the IF
+world in the ten years of SPAG's existence? Oh, not much. Consider:
+
+1) THE RISE OF FREEWARE IF. Ten years ago, much of what was produced in
+the IF community was some variety of commercial effort -- often
+shareware or crippleware. Legend was on its last legs (Gateway 2:
+Homeworld was released in 1993), the Adventions games saw their last
+commercial installment with 1993's Unnkulia Zero, and amateur efforts
+like MacWesleyan (1995), Save Princeton (1994), Perdition's Flames
+(1993), and Enhanced (1994), were all shareware. Much of what was made
+available for free was the leavings of the annual Softworks AGT
+competition, about which, honorable exceptions like Cosmoserve (1992)
+and Shades of Gray (1994) aside, the less said the better. The 1993
+freeware release of Curses heralded a trend of high-quality freeware
+games (The Legend Lives! in 1994, Christminster and Jigsaw in 1995,
+etc.) that left shareware largely a memory in a few years.
+
+You can argue, of course, that the move away from commercial IF has been
+less than salutary for authors, who have lost a chance at even the
+meager compensation available from shareware registrations -- but the
+freeware revolution has likely broadened the IF audience (in that new
+players are arguably more willing to try a free game with no pressure to
+register) and diversified the IF available (since the decline of
+commercial avenues for IF left fewer constraints on authors'
+creativity).
+
+2) BREVITY, THE SOUL OF IF. Relatively short IF games were all but
+unknown ten years ago; Unnkulia One-Half was written in 1993 as a teaser
+for Unnkulia Zero, and medium-length fare like Busted! was rare (and
+only half-serious.) The advent of the annual competition in 1995, with
+its "One Rule" that entries must be finishable in under two hours,
+heralded a movement toward shorter games, and popular games like John's
+Fire Witch (1995) both followed and pushed the trend -- fast enough that
+longer IF is now largely unknown, with maybe a release or two each year.
+(Three of the past four Best Game winners have been competition
+entries.)
+
+As above, this is both good and bad. New writers can break into the
+IF-writing biz more easily if the median length of an IF release is
+relatively compact; if all new games were expected to be Curses-length,
+there would likely be many fewer IF authors. At the same time, however,
+the trend toward shorter games has lessened players' patience for highly
+difficult, epic-length IF on the scale of Jigsaw; it's hard to
+reaccustom oneself to devoting months to a single game when the more
+common IF experience takes only an evening (and when there are hundreds
+more worthy efforts in the archive). The diminished appetite for long
+games has in turn made authors reluctant to devote the considerable
+energies required, and the spiral proceeds from there. How significant a
+loss this is for the IF world is a matter of taste and opinion, of
+course, but it's certainly a striking trend.
+
+A somewhat unfortunate example of this was G. Kevin Wilson's Once and
+Future, a sprawling Arthurian epic written over the course of five years
+and released commercially in 1998. While reviews were generally
+positive, interest (at least, as measured by sales) was tepid -- in
+part, it seemed, because epic-length IF had fallen out of style to some
+extent over the course of the game's creation, and the ample supply of
+short, high-quality freeware games narrowed the game's appeal somewhat. 
+
+3) THE NARRATIVE CATCHES UP WITH THE CROSSWORD. Through most of its
+history, IF has consisted largely of puzzles wrapped in an ostensible
+plot premise -- sometimes with obvious set-piece puzzles (see Zork
+Zero), and usually with the seams only slightly better hidden.
+Aberrations like Trinity and A Mind Forever Voyaging aside, most IF had
+so little plot that it was all but inevitable that puzzles would
+predominate and largely displace what passed for a story. Many of the
+games produced in the freeware IF revolution featured stronger stories,
+however (perhaps because, in shorter IF, it's easier to sustain a
+narrative arc), spawning a trend toward smoother integration of plot and
+puzzle (in other words, fewer locked doors that have to be unlocked
+because no IF player can leave a door unlocked in good conscience, etc.,
+and more puzzles that the PC might actually want to solve). Notable
+harbingers of this trend were Christminster (1995), The One That Got
+Away (1995), Delusions (1996), and Kissing the Buddha's Feet (1996); by
+the 1997 competition, the plots of the top-ranked games (The Edifice,
+Babel, and Glowgrass) had become highly focused, and the puzzles to be
+solved would have made little to no sense in any other context.
+Increasingly, a plot that both makes sense and drives the bulk of a
+game's action has become an expected IF feature, and well-regarded games
+integrate their plot and puzzles seamlessly. (Try to imagine the puzzles
+in the last three competition winners -- Slouching Toward Bedlam;
+Another Earth, Another Sky; and All Roads -- transposed into any other
+game.)
+
+This is a welcome development in a lot of respects, but in one in
+particular: it suggests that the IF medium can be valuable for
+expressing ideas and telling a story in new ways, not simply for the
+crafting of puzzles (which was, largely, its original purpose). Some
+have argued that the ability to not only put the player in the shoes of
+the protagonist (as static fiction does with first-person narration) but
+actually direct the protagonist's actions heightens a sense of
+complicity in the plot as it unfolds and offer an opportunity to make a
+statement that simply could not be made as effectively in static
+fiction. Similarly, the experience of interacting with characters and
+experiencing a setting gives IF a potential emotional impact not
+available in static fiction -- and the best writers have found ways to
+make such an impact, notably Adam Cadre in Photopia (1998) and Andrew
+Plotkin in Shade (2000).
+
+Much ink has been spilled on the subject of the decline of puzzlefests,
+of course, a large portion of it by yours truly, but the nature of the
+shift has sometimes been oversimplified. Even now, relatively few IF
+games eschew puzzles altogether (and even those that do must contend
+with players' puzzle-solving expectations; thus, the branching plots of
+Galatea (2000) were taken by many as an invitation to find each and
+every narrative possibility), and even now there are well-regarded games
+that could reasonably be viewed as puzzles with some ostensible story
+(Lock and Key). The few genuinely puzzleless games that have been
+produced (many in the annual Art Show, a few -- Exhibition (1999), Best
+of Three (2001) -- in the competition) have garnered respect but have
+hardly set off a stampede. More common are games that use a few puzzles
+for pacing (Photopia, All Roads, My Angel), but focus their efforts on
+plot and character development rather than complex puzzles.
+
+It's hard to argue, moreover, that puzzle development is a lost art, as
+the last few years of IF development have seen some of the best puzzles
+ever devised. The language puzzle in The Edifice (1997), the entirety of
+Rematch (2000), and a certain puzzle in Spider and Web (1998) all
+require persistence, ingenuity, and a bit of lateral thinking. Nor are
+full-blown puzzlefests entirely things of the past: recent years have
+given us the gargantuan Mulldoon Legacy (1999), Not Just an Ordinary
+Ballerina (1999), and First Things First (2002), each crammed with
+creative puzzles. The demise of the puzzle, in short, has been greatly
+exaggerated.
+
+4) NPC INTERACTION: MORE, BETTER. Part of the rise in the storytelling
+element of IF has been increased attention to NPC development: while
+many NPCs in the early days of IF simply served as puzzle props
+(recognize what the NPC wants, give it to him/her, obtain
+knowledge/object to solve another puzzle -- or disable/distract NPC
+guarding exit/treasure), the latter-day IF revolution has increasingly
+offered more complex characters with whom the PC can interact more
+extensively. Some of this arises simply from authors giving NPCs more
+personality -- both Small World and Kissing the Buddha's Feet in the
+1996 competition gave key NPCs a wide variety of one-liners and amusing
+reactions to the game's events, making them feel like well-developed
+characters even though the PC didn't need to interact much with them.
+But the complexity of NPC interactions, in the form of more elaborate
+conversation systems, has also played a key role.
+
+At the forefront of this particular development is Emily Short, whose
+Galatea (2000) consisted almost entirely of interactions with a single
+exhaustively realized NPC, interactions that, both through an ASK/TELL
+conversation system and a variety of other means, helped develop a
+highly complex NPC personality; different questions or approaches would
+elicit different reactions depending on the conversational context and
+send the relationship between the PC and NPC down a variety of different
+paths. Subsequent Short efforts, including 2001's Pytho's Mask and Best
+of Three and 2003's City of Secrets, featured a novel conversation
+system that blend the freedom of an ASK/TELL interface with the specific
+phrasings (and associated tone choices) of menu-based systems, allowing
+for considerably more complex interactions -- and more complex
+characters, like Grant from Best of Three and Evaine from City of
+Secrets, have emerged as a result. Other notable NPC-centric games were
+Adam Cadre's Varicella (1999), many of whose NPCs were vividly rendered
+loathsome characters, and Stephen Granade's Common Ground (1999), a
+shifting-perspective look at complex family relationships. Both the
+tools and the precedents are there for multilayered NPCs, in short,
+characters that drive the story rather than merely being cogs in the
+wheel.
+
+5) EXPERIMENTATION. As noted, commercial IF is largely gone and is
+unlikely to make a comeback any time soon -- but with the decline of
+commercial IF has come a great deal of narrative experimentation with
+the IF medium, some of which, of course, has worked better than others,
+but most of it has offered something worthwhile.
+
+Those experiments have taken a variety of forms, many of which cannot be
+revealed here without spoilers -- authors began testing the waters with
+puzzleless and puzzle-light IF in 1996 and 1997 (In the End, Tapestry,
+Space Under the Window), and have moved on to more radical experiments.
+Some of the experiments have included novel PC points of view, from dogs
+(Ralph, 1996) to cats (Day for Soft Food, 1999) to teddy bears (Bear's
+Night Out, 1997) to robots (Bad Machine, 1998) to genies (Djinni
+Chronicles, 2000), and others have taken the form of PCs that prove
+unreliable in a variety of ways. An even more striking experiment was
+The Gostak (2001), written in a language whose syntax was akin to
+English but whose vocabulary was entirely unfamiliar, and the challenge
+was to decipher it sufficiently and interact sensibly enough to solve
+some simple puzzles. Other notable experiments have included Aisle
+(1999) and Rematch, both of which offer just one turn (repeated over and
+over) but manage to provide surprisingly varied and deep exploration of
+the game's world, and Heroes (2001), where the player has a task to
+achieve and can assume any of five separate roles to achieve it. There
+have also been attempts at literary adaptation (The Tempest, 1997, and
+Nevermore, 2000); surreal/symbolic settings (So Far, 1996, and For a
+Change, 1999), IF games in reverse (Zero Sum Game, 1997, and Janitor,
+2002), and games where most or all of the challenge is to figure out
+what is going on (Shade, 2000, and All Roads, 2001). These and other
+successful experiments have helped pushed the boundaries of what IF
+authors can do with the craft.
+
+The common thread here is that many, if not all, of these experiments
+would have been hard to market (at least, the history of commercial IF
+includes little boundary-pushing as ambitious as the above efforts,
+which says something); it's reasonable to conclude that the freeware
+revolution gave rise to an environment that made innovation of this sort
+possible. It's undeniable, however, that things have been done with IF
+tools in the past ten years that have expanded the frontiers of the
+possible -- at least, in this setting. (No, not Z-abuses.)
+
+6) MULTIMEDIA FOR THE COMMON MAN. While most IF is still text-only,
+development tools facilitating the use of multimedia have, if not
+flourished, at least achieved a modicum of popularity in recent years,
+notably HTML-TADS, Glulx, and Hugo, such that basic graphics and sound
+files are now relatively commonplace. Particularly notable in this
+regard were Carma (2002), which had fairly polished animations and
+well-produced music, and Kaged (2000), which had photographs and a
+nicely mood-enhancing soundtrack.
+
+It's not clear whether this represents a significant advance in relative
+terms -- the progress of multimedia IF has been slow enough, and the
+enhancement of multimedia in commercial games fast enough, that
+potential players accustomed to highly vivid graphics and professionally
+produced sound are likely in for a rude shock. Still, there are viable
+multimedia tools available, which is certainly an improvement on 1994.
+
+7) PARODY/COMMENTARY. I'm not sure how much it says, in these
+self-conscious times, that IF has developed the ability to comment on
+itself and on its own limitations, but that it has is undeniable.
+Arguably the first example was Undo (1995), a peculiar little effort
+with no puzzles in the traditional sense, one problem that is solved
+with linguistic trickery, a possible score of 86 points but no actual
+opportunity to score said points, and a variety of bizarre red herrings.
+Zero Sum Game, where the goal was to undo the entirety of a
+hack-and-slash fantasy quest and thereby bring the score down to 0 (and
+the protagonist caused considerably more mayhem in trying to set things
+right than he/she had caused during the "original" game, was another
+game that explicitly poked fun at IF conventions, and the list has grown
+from there: 9:05 (1999), Shrapnel (1999), Being Andrew Plotkin (2000),
+LASH (2000), Guess the Verb! (2000), Voices (2001), and Janitor have all
+employed self-reference in one way or another to amuse or inform. All
+this suggests that, if nothing else, the medium is stable and defined
+enough that critique and mockery makes some level of sense, which is
+progress of a sort.
+
+8) GENRE WITH THE WIND. Finally, one of the more encouraging aspects of
+latter-day IF development is that most of the better games have
+transcended genre limitations in ways that very little old-school
+commercial IF managed to do. Whereas much of the most successful IF in
+the '80s fell firmly into well-trodden genre categories, much of the
+most acclaimed IF of the last ten years has avoided such categories.
+
+Consider the competition winners: over the nine years of the
+competition, the first-place games have included an elliptical little
+nightmare about being stuck in the rain, an allegory of sorts for
+evolution and civilization, a fragmented tale of untimely death that
+defies categorization, an medieval-Venice metaphysical-fantasy story
+involving political scheming and a narrator who moves into and out of
+various bodies, and a steampunk story set in an insane asylum with a
+dash of unreliable narrator. Other notables of the past few years
+include: an 18th-century France drama with incursions of fantasy-style
+magic; a palace-intrigue game in an anachronism-heavy alternate-history
+19th century Italy where none of the contenders for the throne,
+including the PC, are even vaguely sympathetic; a
+delve-into-your-own-head saga arising from the PC's attempts to quit
+smoking; a parody of an offbeat indie movie, shot through with IF
+reference; and a neo-Platonist story freighted with symbolism and object
+transformation. By this point, well-regarded IF games that fall within
+genre boundaries at all are more the exception than the rule: Anchorhead
+(1998), Spider and Web (1998), and Worlds Apart (1999) could fairly be
+called Lovecraftian horror, espionage, and sci-fi games without
+stretching the definitions too much, but not many other top-flight IF
+games of the last several years could be so classified.
+
+That latter-day IF increasingly ignores genre boundaries is noteworthy
+in a few respects. First, it tends to elevate the significance of story
+over puzzles, a dynamic discussed above; if the setting and plot are
+generic fantasy or sci-fi, the game often becomes an excuse for
+set-piece puzzles (since the appeal of the game tends to lie more in the
+puzzles grafted into the setting than in a tired plot). If the concepts
+and settings are fresh, however, the author is less tempted to play them
+down, or ignore them for long stretches, in favor of puzzles. To be
+sure, genre does not necessarily mean trite -- but without striking
+innovations that stamp a game as somehow transcending a category
+(notable examples are Enlightenment (1998), which both inhabits and
+satirizes fantasy, and LASH, science fiction that encourages the player
+to apply the story's themes on multiple levels), it can be difficult to
+make genre fiction feel fresh. (The increasing complaints over the years
+about genre IF, particularly fantasy -- without regard for the
+cleverness of the puzzles in the genre setting in question -- underscore
+the IF audience's increasing dissatisfaction with puzzles as a game's
+raison d'&#234;tre.)
+
+Second, the decline of genre IF -- in particular, the decline of fantasy
+and sci-fi -- suggests a growing acknowledgment that realistic and
+complex characters and compelling human conflicts matter, as those
+genres traditionally have been better on outlandish visions of
+alternative worlds, or on bizarre occurrences in traditional settings,
+than on bringing characters to life. (At the very least, the rise in
+"realistic" high-quality IF that eschews both fantastic settings and
+strange/mystical events -- Varicella, Common Ground, Exhibition (1999),
+Gourmet (2002) -- indicates more interest in bringing to life the
+interactions within those settings than in portraying the fantastic and
+otherworldly.) There's nothing about those hallmarks of fantasy and
+science fiction that precludes character development, of course, but it
+says something that authors, more and more, no longer need to rely on
+the outlandish and unusual as a hook. Finally, whatever you might think
+of IF's aspirations toward serious literature, going beyond genre --
+either by subverting it or disregarding it outright -- certainly
+reflects those aspirations.
+
+In short, the past ten years have been quite a time for the development
+of IF -- and while the long-sought foothold in the commercial gaming
+world, a few heroic attempts to the contrary notwithstanding, has not
+yet materialized, that day may yet come. If it does, thanks to the
+freeware revolution, the medium will certainly be a good deal more
+mature than it was when the market petered out in the early '90s.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+This article isn't part of the anniversary celebration per se, but it
+does reference a discussion that's been ongoing during the last several
+issues, and besides, it was too interesting to pass up. 
+
+From:	Bradley O'Donnell <bp_odonnell SP@G hotmail.com>
+
+UNLOCK DOOR WITH KEY
+
+Back in SPAG issue #34, Paul O'Brian's editorial examined a design
+tradeoff common in IF. The situation is as follows:
+
+The player is in a room with a locked door. The player also has the key
+to the door:
+
+	>OPEN DOOR
+	The door is locked.
+
+	>UNLOCK DOOR
+	What do you want to unlock the door with?
+
+The player winces as precious mimesis breaks; the game _knows_ he has
+the right key for the door, so why doesn't it just fill in the details?
+
+It's a good question, and there are many ways of responding to it, each
+with their pros and cons. Here are analyses of the three responses I
+find the most interesting.
+
+	RESPONSE #1: Implement your way out of it.
+
+You can add extra programming to increase what the game "knows" how to
+deal with. The door will now check for the key and unlock itself
+accordingly. With some extra work and some object-oriented programming,
+you can extend this knowledge to every locked door in your game.
+
+The game now conforms with user expectations, at least in this specific
+case. But the player's expectations will rise. Imagine the myriad
+situations where it might be convenient for the program to anticipate
+the player's intent. Now imagine writing all of that anticipatory code.
+On the library-writing side, imagine a complete framework that tracks
+the dependency trees of actions and sub-actions and game-state
+requirements, filling in the blanks everywhere they are "obvious" or
+"trivial". It's a beautiful thought, but if you seriously want to go
+down that road, I look forward to playing your game sometime after the
+creation of bonafide AI, which you will have developed just weeks
+earlier.
+
+	RESPONSE #2: Design your way out of it.
+
+You can restructure your game so that these situations don't occur. The
+rule of thumb for this method is to ensure that any action that isn't
+intended as a puzzle takes only one command and requires as little
+disambiguation as possible. This solves the problem by saying that
+unless choosing a specific key for a given door is meant to provide
+problem-solving satisfaction, the entire unlocking process should be
+discarded in favour of some other means of blocking entry into an area.
+
+That way the game never asks stupid questions, nor makes the player jump
+through too many hoops to do non-puzzle tasks. On the other hand,
+sometimes a door and a key just make so much sense that any other option
+seems ridiculous in context.
+
+	RESPONSE #3: Alter the player's expectations by altering the interface 
+   and/or world model.
+
+Each IF experience makes assumptions about the game's interface and
+world model. In the UDWK case, the standard IF behavior causes part of
+the problem: the door is not just for travelling from room to room. It
+is also a full-fledged object in the game world and (ideally) has to be
+treated as though the player might do anything to it, including trying
+to take it off its hinges.
+
+But the seasoned IF player knows that 99% of all doors are there to
+either indicate or block an exit, and so he leaves them alone unless
+otherwise encouraged. The seasoned author, knowing that his doors are
+not going to be taxed beyond simple ingress and egress, also leaves them
+alone. In this way both parties acknowledge the limited purposes of
+doors and doorways in a game.
+
+So when UDWK rears its head, the game is saying, "This door's purpose is
+to block your way until you acquire its key. You now have the key, but
+the world-model insists that you perform two or three obvious commands
+to unblock the door." No wonder the player cries foul -- here is this
+door, this glorified piece of scenery, giving him a hard time!
+
+One of my favorite IF games, The Haunted Mission Adventure, has an
+interface/world model that potentially sidesteps this problem. In it,
+the exits of a room are just that, exits, and they're listed in a little
+window for easy reference. They don't react to other verbs. I can
+imagine this system extended to include locked doors; simply disallow
+passage until the key is acquired, and allow it afterward, printing
+appropriate advisory messages as the player passes through.
+
+Haunted Mission has a few other, similar user conveniences. A list of
+objects in the area gets its own window, as does your inventory. The
+only thing missing is a verb list, and even with one, Haunted Mission
+would remain far from perfect.
+
+I suppose this constant listing of things directly in the interface
+seems very un-mimetic, very un-Infocom (except for Beyond Zork). But
+consider another mimesis-breaker, the menu-based conversation. If you
+concede (and many do not) that there is merit in spelling-out the
+player's speech options and bypassing the world-model to do so
+(traditional ASK/TELL relies on the world-model for conversation
+subjects), then perhaps the world-model can be bypassed or altered in
+other useful ways. Perhaps exits are a good place to start. I'd love to
+see object and verb lists.
+
+To those who immediately oppose such ideas because they break mimesis, I
+respond that we actually never obtain mimesis more than a negligible
+percentage of the time, using the current model of IF as a continuous
+stream of conversation between player and game. I think the UDWK
+phenomenon shows that mimesis is rare, fragile and (probably)
+technologically distant.
+
+If this is the case, then I think the more interesting question is what
+aspects -- if not mimesis -- make IF compelling in the first place, and
+how do we emphasize them?
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+REVIEWS -------------------------------------------------------------------
+
+From:	Emily Short <emshort SP@G mindspring.com>
+
+TITLE: Black Sheep's Gold
+AUTHOR: Driftingon
+EMAIL: Unknown
+DATE: February 2003
+PARSER: ADRIFT
+SUPPORTS: ADRIFT interpreters (the ADRIFT runner, MacScare, jAsea)
+AVAILABILITY: Freeware
+URL: ftp://ftp.adrift.org.uk/adrift/games/blacksheep.taf
+
+[Obligatory disclaimer: I played this game on the MacScare interpreter,
+and it is conceivable that there were some differences between my
+experience and what someone would experience using the ADRIFT runner.
+From looking at other people's comments on the game, though, I get the
+impression that I am not the only one suffering guess-the-verb issues. I
+did not encounter anything in the playthrough that seemed like evidence
+of a definite flaw in MacScare.]
+
+"Black Sheep's Gold", by Driftingon, starts as a slice of life piece
+about an eight-year-old girl who has to clean the attic; soon, however,
+she discovers evidence of a treasure hidden by a relative many years
+before, and goes off in search of it.
+
+The young narrator is one of the game's strongest points. Aside from
+some character-breaking moments towards the end, she remains perky and
+distinctive throughout, putting a personal spin on the rather mundane
+house in which she lives. She's obviously a bit precocious, but there's
+nothing wrong with that.
+
+The game's prose is also quite decent -- I didn't find many problems or
+errors -- and the implementation (except for some parsing issues) seemed
+fairly strong and consistent throughout.
+
+The NPCs in the game were varied; most only have one or two (not very
+interesting) lines to say, but a few are more interestingly fleshed out,
+including amusing in-joke cameos: ADRIFT's creator Campbell Wild appears
+as the rather odd owner of an aquatic pet shop, and at least one other
+name was familiar to me from the ADRIFT forum.
+
+Other aspects of "Black Sheep's Gold" don't work quite as well. For one
+thing, I found myself faced with a number of guess-the-verb moments, and
+at a couple of key points could only get through with the help of a
+transcript. The game does alleviate some of these problems by putting
+correct action phrasings in italics some of the time -- but it doesn't
+do this quite consistently enough, and in a few places I was left high
+and dry. (It also italicizes the names of any important objects in a
+room, which is either a convenience or goofy and annoying, depending on
+how you look at it. It certainly draws attention away from immersion
+towards the user interface.)
+
+The puzzles themselves (aside from phrasing difficulties) are extremely
+simple and obvious, too. Frequently the game quite blatantly tells the
+player how to solve them, with suggestions like "If I only had a rope
+ladder, I would be able to LOWER THE LADDER FROM THE WINDOW and CLIMB
+DOWN!". (Example changed to protect the innocent, though I'm not sure
+why I bother trying not to spoil puzzles that give themselves away like
+this.)
+
+I don't know much about the background of the game, but I found myself
+starting to wonder whether it had been designed for younger players.
+That would explain the age of the protagonist, the
+not-at-all-challenging puzzle design, and the game's tendency to draw
+special attention to important nouns and verbs. The experienced IF
+puzzle-solver is likely to find most of the puzzles too simple to be
+very interesting, however.
+
+One final difficulty was the pacing. A fair amount of time is given to
+the prologue and to what I thought were opening stages of the midgame,
+so I assumed that the later portions of the plot would unfold at the
+same rate. But just at the point of the game when things seemed to be
+getting interesting and I hoped for high adventure, I was ambushed... by
+infodumps. There comes a point where you find yourself reading pages and
+pages of text about all sorts of interesting but uninteractive events.
+Then there are a couple more fairly obvious puzzles, and the game ends.
+And the ending -- well, it seems to me that the final few paragraphs
+break with the narrator's charming personality and go somewhat more
+cynical and world-weary than suits the rest of the game. I was
+disappointed. A more obvious ending would probably have been trite, but
+I still didn't entirely like the effect of this, since most of what had
+carried me through earlier had been sympathy for the kid.
+
+So overall I thought "Black Sheep's Gold" showed considerable effort, a
+fair amount of polish, and a mostly-charming narrator. On the other
+hand, it has some unintentionally frustrating moments, and does not
+offer much challenge as far as puzzles go. It might be suitable for
+younger players being introduced to IF, but they would still probably
+need a little help with phrasing a few commands correctly.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Cirk Bejnar <eluchil404 SP@G yahoo.com>
+
+TITLE: City of Secrets
+AUTHOR: Emily Short
+EMAIL: emshort SP@G mindspring.com 
+DATE: June 24, 2003
+PARSER: Enhanced Inform
+SUPPORTS: Glulx interpreters
+AVAILABILITY: IF Archive (https://ifarchive.org/if-archive/games/glulx/CoS.zip)
+URL: http://emshort.home.mindspring.com/CSUpcoming2.htm
+VERSION: 3
+
+My overall impression of this game was very good. Short's
+characteristically strong coding and writing combine for a great
+experience, and I found no notable bugs in this release. 
+
+From a purely technical standpoint, the work is a gem. Short has again
+used her resource-intensive ask-tell/menu hybrid conversation system.
+There are two difficulty settings and various options to set up the
+conversation system and the graphics to suit a variety of tastes. There
+is an impressive amount of detail in the descriptions with nearly all
+first level objects implemented and many second and third level as well.
+Such extras as your complementary personal shampoo from the hotel are
+fully implemented, which gives the world a solid feeling. The City seems
+to be an actual place rather than merely the setting for a game. The
+superb map design also contributes to this feeling. The city is
+represented as 20 or so rooms, but between the graphical map that you
+have available and the intuitive layout of the main thoroughfares travel
+is easy. She has also admirably succeeded in giving the different
+sectors of the City a unique feel. A quick glance at the room name will
+tell you whether you are in Malta or May Street and thus what to expect
+from your surroundings.
+
+The writings is, as I said before, also up to Short's usual high
+standards. Once the plot got rolling I could see the main twist coming
+but resisted it because of my personal convictions. (This also seemed
+perfectly in character for the PC.) However, as details emerged I was
+slowly won over, against my will, as it were, to the other side. That
+Short could pull this off, even while I was aware of it, is a testament
+to the immersive effect of the prose and the real emotional impact of
+the characters. 
+
+However, this work is not perfect. None are. And in this case, the weakest
+link is the plot. It is well written and paced, in my opinion, but more
+predictable and linear than I would have preferred. In particular I was
+not able to derail it by personal choice, as far as I could tell. My
+choices were generally to advance the plot or to continue wandering
+about the City. I was unable to find a way to take decisive action
+according to my own judgment, only as the story dictated. The exception
+to this is the climatic move in the snowstorm. In this case, however, I
+was too dense to figure out why my options have the effects they do. I
+know that it is supposed to be mysterious but it would be nice if saving
+the world depended on more than a guess. 
+
+In summary, City of Secrets is a fine game that demonstrates not only
+Short's preeminence in the field but also the way that writing and
+atmosphere can carry a game rather than devilish puzzles or
+breathtakingly new plot. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Andrea Crain <acrain SP@G idea-inc.com>
+
+TITLE: Dr. Dumont's Wild P.A.R.T.I.
+AUTHOR: Text, script and design by Muffy and Michael Berlyn
+        Inform translation by Mark J. Musante and Michael Berlyn
+        Hints by Gunther Schmidl.
+EMAIL: ???
+VERSION: 4.11
+DATE: May 5, 2000
+PARSER: Inform
+SUPPORTS: Z-code (Inform) interpreters
+AVAILABILITY: Freeware, IF-Archive
+URL: https://ifarchive.org/if-archive/games/zcode/dumont.z5
+
+The premise of Dr. Dumont's Wild P.A.R.T.I. is that you're a student
+whose off-kilter physics professor has built a combination particle
+accelerator and A.I. computer. The computer needs a human observer in
+order to find and view Particle X, a new subatomic particle. Dr. Dumont
+asks you to sit in the interface shell, just to take some measurements,
+but of course you accidentally activate the linkage and get plunged into
+the metaphorical virtual reality the computer creates for you. In order
+to get out again, you have to help the A.I. view Particle X.
+
+Dr. Dumont's Wild P.A.R.T.I. was originally written for Infocom but, due
+to Infocom's demise, was released by another company in the late 80s.
+When the Berlyns started their own company in 1999, it was updated and
+re-released as a commercial, download-only product. Then they went out
+of business, too, and this game was finally released as freeware. The
+original manual and "feelies" (artifacts from the game world, including
+a kite race flyer you'll need to solve a puzzle) are included as PDF
+files in the same if-archive directory as the game file.
+
+Due to its long history as a commercial product, I expected playing this
+game to be an extremely polished experience. Unfortunately, there were
+some sloppy elements. For example, there is an object you gain at one
+point that, when in use, renders you unable to go anywhere or examine
+objects because you "can't see much". However, you're perfectly able,
+somehow, to see the same room description as always and to read a
+banner.
+
+Another sloppy piece is that there is an object you need to alter in
+order to finish the game successfully. Reading its description carefully
+will tell you what it really is. However, when you find it in the room
+and when you see it in your inventory, it is named inaccurately, as
+though it were already in the state to which you are meant to change it.
+This worked to prevent me from realizing that I needed to alter it until
+I checked the hints.
+
+A third object needed to be made to turn through some complicated
+manipulations of the environment. However, when I tried "turn"ing it
+before doing any of those manipulations, I was told it was already
+turning. That was very confusing -- if it's already turning, I thought,
+then why isn't it making this other thing work?
+
+In addition, the kite race seems not like an integral part of the game,
+but a tacked-on puzzle originally meant as a low-tech copy protection
+scheme. To win the kite race, you had to have the information on the
+flyer. Since the flyer was included in the physical package of the 80s
+version of the game (it's now part of the .PDF "feelies" file),
+presumably you had to buy the game and not copy it from a friend's
+floppy disk. (There is even a jab in the in-game hints section to this
+effect.) Because there were no photocopy machines in 1988, of course, or
+even pens, you couldn't have just gotten the hint from your friend's
+copy. The flyer exists as a game object, including the text that says
+instructions on how to win the race are on the reverse, but there is no
+in-game way to turn over the flyer and read the reverse side. The game
+doesn't even anticipate that we'll try this, and tell us we can't.
+
+Anyway, if you try to play the kite race puzzle without this
+information, you will think that you are following the kite, based on
+the motions the kite makes in the course. However, the game will tell
+you that the kite "takes off to the north, then heads off to the south."
+So you will go south, and the kite may not be there, or it may not be
+possible to go that way. When you follow the path that using the flyer
+hint gives you, the way the game says the kite goes will not always
+match the path you take, yet it will be there with you in the next room
+of the puzzle, and you will still win. And when you reach the end of
+that path, you will expect that something "You've won"-ish should
+happen, but it will not until you leave the course, so you may flounder
+about thinking you've misunderstood the hint. You haven't. It's just a
+weird puzzle.
+
+There are other annoyances. You have to play guess-the-verb with a duck,
+and you may not "toss" a ring despite being at a Ring Toss. You will
+have to cause something to reach a precise state without going too far,
+and even though you should be able to judge it by "touch"ing or
+"feel"ing it, you can't. The game will tell you you are standing outside
+a building, and then will not allow you to look at that building. There
+is a door with no purpose but to make you open it before you walk
+through -- it isn't even locked. And in order to get more information
+from the game about the puzzles by using the "meditate" verb, you have
+to go through a series of three actions, meditate, and then reverse the
+steps before you can carry on with the game, every time. It's tedious --
+it'd be nice if, once you figured out how to meditate, the process could
+be automatic!
+
+But my biggest disappointment with this game was something a little less
+nitpicky. This game's premise and atmosphere are very cool. You get the
+impression that in playing this game, you're going to be immersed in
+particle physics, philosophy, astronomy, metaphysics and the Marx
+brothers. In short, you feel like you're about to learn a little
+something. The game doesn't deliver. The School of Thought is just a
+place to pick up some objects. The Science Art Museum is just a place to
+get some objects. The Planetarium is just a place to get some more
+objects. The professor NPC's don't know anything about their subjects
+and can barely converse at all. The A.I. is waiting for you to solve its
+problem for it. You might learn a little about the Milky Way at the
+fair, but that's about it. This is a puzzlefest wrapped up in an
+Einstein poster. It looks cool and makes you feel smart, but ultimately,
+it's just a paper-thin diversion.
+
+The demise of the game publishing house that re-released Dr. Dumont's
+Wild P.A.R.T.I. in the late 90s should not be taken as proof that
+selling commercial IF is no longer a workable business model. Maybe it
+isn't, but maybe if the product they were selling had been an
+outstanding, polished, bug-free game, a game that made people think and
+talk and tell their friends "hey, you've got to try this," things might
+have worked out.
+
+It's worth playing for a couple of the puzzles, and the fun atmosphere.
+The prose is lively and engaging, which is why it sets up such
+unrealistic expectations. If the careless bugs and annoyances I
+mentioned above were fixed, it would have gotten an 8 from me. But as it
+is, I'll rate it a 6.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From:	Valentine Kopteltsev <uux SP@G mail.ru>
+
+I've got to warn you -- the chief motive power behind this review is my
+spirit of contradiction. It began as I came across the blurb for Dr.
+Dumont in Baf's Guide, which contained, among other things, statements
+like "one of the most bizarre examples of true IF ever published", and
+"recommended for those who found Trinity too tame". I disagree with
+these statements, but the Trinity comparison gave me a reference point
+to compare Dr. Dumont's Wild P.A.R.T.I. with. I'd rather apply the
+second of the quotes above to Graham Nelson's Jigsaw, so let's make that
+a reference point, too.
+
+Along with the reasons adduced above, using Trinity and Jigsaw as
+criteria is justified by the fact that these works all feature a similar
+structure: in all three games, the player character starts in his
+habitual environment, and then lands, whichever way, in some surreal
+place. These places, in their turn, also share a rather similar layout:
+a core area (a "central trans-shipping point") that contains several
+portals leading to more (fairly varied) worlds. However, there is a
+significant difference in game size; for instance, Dr. Dumont manages to
+squeeze the prologue, implemented as a mini-game in both classics
+referenced, into its (admittedly quite long) opening text, and to shrink
+the aforementioned "central trans-shipping point" to a single room. To
+avoid rather overused metaphors about meal- and snack-sized games, let's
+put it this way: while Jigsaw reminds one of a stretched Bentley, and
+Trinity a Jaguar, Dr. Dumont is (let's stay with European cars) a
+Volkswagen Passat at best -- the only thing about it bigger than that of
+the others is its title. ;)
+
+Sure, a shorter game still can compete with a longer one in toughness --
+for instance, by being bizarre. I don't deny that Dr. Dumont's main
+theme contains an enormous peculiarity potential; particle physics is
+quite a mind-bending matter itself, and all the more so is the idea of
+connecting a human brain to a particle-detection-oriented AI -- one
+could go off one's head just by trying too hard to imagine the results.
+In spite of this, though, the game didn't appear that odd. It rather
+reminded me of a draftee attempting to convince the medical board at the
+recruiting station that he's crazy in order to avoid conscription into
+the army. Yes, there were pretty many grotesque, comically distorted
+details and decorations -- and yet, the puzzles had perfectly logical
+solutions, and the major subgoals were formulated clearly and
+unambiguously, sometimes even a bit straightforwardly. Well, maybe not
+that straightforwardly, because some aspects of the game are downright
+confusing.
+
+To begin with, unlike Jigsaw and Trinity, Dr. Dumont allows the player
+to get into all the areas accessible through the "central trans-shipping
+point" from the very start of the game -- due to its relatively small
+size, it can afford to do so without becoming totally unwinnable.
+However, the player gets most of the information crucial for success in
+only one of these areas, and thus should visit it first, since roaming
+through the other areas without having the goals in the game formulated
+is rather misleading indeed. As the game contains no hints about in
+which order the areas should be visited, one is left to find it out
+oneself by trial and error.
+
+Secondly, Dr. Dumont comes with a bunch of feelies in the style of
+Infocom. And, like some of the Infocom games (though not Trinity), the
+player needs to refer to these feelies to win. This could be quite
+confusing for people who don't have much experience with commercial IF,
+even despite the fact that Dr. Dumont provides quite a clear inkling at
+the point where the feelies are needed. One more confusing aspect of the
+game is the 'how to play' documentation that accompanies it. Most of the
+experienced players probably will ignore this documentation completely,
+since it appears to be addressed to novices, and as far as I remember
+Dr. Dumont makes no effort to dispel this impression. The thing is, this
+documentation describes, along with the usual (and trivial) directives
+like LOOK, TAKE, etc., a few less obvious commands, which are crucial
+for success. A typical case of RTFM. ;)
+
+Finally, there indeed are a couple of slightly obscure puzzles (like a
+quiz requiring some basic astronomical knowledge). But even with all
+these issues, Dr. Dumont still isn't half as tough as Trinity, not to
+mention Jigsaw: no Enigmas, no careful, turn-precise pre-planning of
+your actions, no random hints disguised as gibberish... sheer
+disappointment for a true puzzle-fan! ;)
+
+As everybody knows, there is no direct dependence between a game's size
+and its difficulty or its depth. For the reviewed game, however, this
+relationship is true: Dr. Dumont indeed hasn't got the vast
+philosophical background Trinity possesses; in fact, it's entirely
+light-hearted. This doesn't mean, however, a quality decrease: splendid
+writing, consistently high level of detail, carefully implemented
+characters, and a state-of-the-art hint system are a sufficient warranty
+against disappointment. In fact, these features work so well that the
+game even failed to frustrate me after I had to restart it three times
+because I run into an unwinnable state due to bugs. These glitches
+really were of the "very difficult to locate" kind; I think 95 percent
+or more of the players will never encounter them. This, along with the
+realization of my bad luck and the fact that redoing the game from the
+start wasn't too torturous thanks to its not so large size, helped me to
+avoid fixating on these problems too much.
+
+To sum things up, if it's appropriate to speak about the image a game is
+trying to form of itself, so Dr. Dumont doesn't act like a super-epic
+breaking bizarrity records, and outshining classics; rather, it modestly
+tries to entertain the player for a few evenings with good puzzles and
+healthy humour. Quite unambitious, isn't it? ;)
+
+SNATS [Scores Not Affecting The Scoreboard]:
+
+PLOT:       Sufficient for a game emphasizing puzzles, and with clearly
+            defined subgoals (1.0)
+ATMOSPHERE: Makes the game appear more surreal than it really is (1.4)
+WRITING:    The opening text impressed me a lot; later on, I got used to
+            the quality of the prose, and took no notice of it, but one
+            has got to admit it plays a very important role in
+            determining Dr. Dumont's appearance (1.5)
+GAMEPLAY:   As you might have guessed from the comment for the PLOT, it
+            stresses puzzles, and has got its subgoals defined clearly.
+            ;) (1.2)
+BONUSES:    Lots of optional stuff to do, feelies (1.2)
+TOTAL:      6.3
+
+CHARACTERS: Nice, but fairly conventional (1.3)
+PUZZLES:    Range from "very logical" to "slightly obscure" (1.3)
+DIFFICULTY: Not without its snags, but manageable (6 out of 10)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Neil Butters <neil.butters SP@G sympatico.ca>
+
+TITLE: The House
+AUTHOR: Owen Parish 
+EMAIL: doubleprism SP@G hotmail.com 
+DATE: November (?) 2003
+PARSER: TADS2
+SUPPORTS: TADS2 interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/tads/house.gam 
+VERSION: Version 1.0 
+
+The House is a short game that represents Owen Parish's first attempt at
+IF, and it is fairly entertaining, despite its derivative story and some
+technical annoyances. Ostensibly the objective is to get out of a house
+that you woke up in, hungover and disoriented. You have heard disturbing
+rumours about this house and its occupants. Could they be true? If you
+decide to explore the house, other objectives become readily apparent,
+and you uncover goings-on that will be familiar to genre fans. The story
+borrows from Lovecraft and Frankenstein, but it is underdeveloped, and I
+never did get a clear understanding of the House's secrets. This may
+have been because I did not get the full score, but I think it is more
+likely that the ideas never mesh into a coherent story. Some games can
+be satisfying even with an open-ended conclusion (see "All Alone") but
+the House doesn't pull this off successfully. There are a few surprises
+but they also remain underdeveloped. For example, two possibly
+interesting NPCS are introduced but I could not figure out what to do
+with them or how to get any useful information from them. The story
+should have made it more obvious what I was supposed to do with these
+guys. Motivation is one of the glaring problems with the game since it
+is often stressed that you want to get out of the house ASAP and it is
+possible to do so in five moves without getting any points. Why should I
+stick around and explore? The only motivation is curiosity. However, the
+game does reward inquisitive behaviour with rooms crammed full of
+objects that can be fiddled with or examined. There are some nice
+atmospheric touches as well, such as the noisy staircase. 
+
+The gameplay is straightforward for the most part. There are only a few
+points in the game where interaction with the world was difficult. The
+library and the kitchen come to mind, where searching or reading the
+objects, respectively, is awkward. For instance, in the library a
+"search the west books" command will result in "which books do you mean,
+the west books, east books, north books or south books?" that
+necessitates a further "west books" command. In the kitchen, you cannot
+read the notes attached to objects but must read the object instead (ie
+"read cupboard"). These problems could easily be fixed in future
+versions. You have to guess where the exit is in the room you wake up
+in, and the maze does not make any sense (although it is easy to do).
+Most puzzles are easy to figure out. However, as I mentioned, I did not
+get the full score and I am quite sure I missed out on a few things. It
+doesn't really matter though, since you can leave the House at any time
+without doing anything. 
+
+A stay in the House was worthwhile, largely due to the lack of "empty"
+rooms. If you decide to visit don't expect to leave with your curiosity
+satisfied. The House keeps its secrets locked within. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Mary Kate Alexander <mkalex1 SP@G yahoo.com>
+
+TITLE: Inevitable
+AUTHOR: T.L. Heinrich (a.k.a. Kathleen M. Fischer)
+EMAIL: mfischer5 SP@G aol.com
+DATE: 2003
+PARSER: Inform
+SUPPORTS: Z-code interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/Inevita.z5
+
+In Kathleen Fischer's Inevitable, you find yourself wandering through a
+deserted city, your ostensible goal to find a way to repair your plane
+and leave, though it quickly becomes apparent that the player will also
+be delving into the PC's past at the same time. The atmosphere and
+puzzles in this game are reminiscent of Myst, and the descriptions are
+vivid enough to make this work well in a text-based game.
+
+Inevitable has several interesting features. One is the ability to set
+the difficulty level to easier or harder than the default (an option
+only available at the start of the game). While there are no hints or
+walkthrough available, attempting a particular puzzle in the easier
+version of the game is a pretty good substitute; the difference in
+difficulty between levels is not great, but enough to help a couple of
+times when I got stuck in the harder version. The puzzles themselves are
+pretty straightforward, with minimal guess-the-verb problems. 
+
+In addition to the score and number of moves, a number of memories is
+given at the top of the screen; at various points throughout the game,
+something that you see will remind you of the past, and the number of
+memories will increase. The command REMEMBER will retrieve these
+memories. I found this to be a relatively smooth way bring up things
+that the PC knows but the player doesn't. Another set of commands that I
+found convenient was LIST PLACES, which gives a list of locations that
+you've already visited, and GO TO [location], which lets you jump to
+places that you've already visited (the response is, "You make your way
+back to [location]"). The map in this game isn't big enough for moving
+around in the usual way to be too onerous, but I'd love to see GO TO
+implemented in larger games, where moving from one place to another can
+get to be rather tedious.
+
+The writing was excellent; as mentioned above, the puzzles require a
+very clear visualization of the setting, and the location and object
+descriptions were more than sufficient for this. I only caught one typo,
+in an object description. The game was well-implemented; most things I
+tried to do or look at gave an appropriate response, and the default
+messages were altered to avoid breaking the mood (e.g., when you try to
+go in a direction without an exit, "After a moment's thought, you
+realize that you can't go that way."; or when you try to do something
+that's not allowed or not possible, "You scowl at the thought," or "You
+laugh at the thought.").
+
+My only criticism would be that there's an interesting (though not
+strikingly original) backstory, and well-designed puzzles, but the two
+are not very integrated with each other--basically, you end up trying to
+get a series of machines working without any good reason why. Overall,
+though, I found this a thoroughly enjoyable game; on a scale of 1-10,
+I'd give it a 7.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Francesco Bova <fbova SP@G mts.net>
+
+TITLE: Shadowgate
+AUTHOR: David Griffith (originally published by Icom for the Nintendo
+        Entertainment System as well as many other platforms)
+EMAIL: dgriffi SP@G cs.csubak.edu
+PARSER: Inform standard
+SUPPORTS: Zcode interpreters
+AVAILABILITY: freeware IF-archive
+URL: https://ifarchive.org/if-archive/games/zcode/sgate.z5
+     Source code is also available at:
+     https://ifarchive.org/if-archive/games/source/sgate.tar.gz
+
+This game is a reimplementation of Shadowgate Classic as it appeared on
+the Nintendo Entertainment System (NES) presented by ICOM in 1989. It's
+an interesting experiment and follows somewhat in the recent IF Arcade
+tradition that converts graphical games to text. I played Shadowgate in
+'89 and always felt it would transfer well to a text adventure setting,
+so I was pleasantly surprised to see this game released in late '03.
+
+In its exactness, the Inform version stays very true to the NES version
+(from what I can remember of the NES version). Even the little bits of
+background noise and red herrings from the original were completely
+implemented, and I have a lot of respect for the painstaking amount of
+replaying of the original version that must have happened to get this
+done correctly. All of the NES version's written responses were intact
+although thankfully the IF version cleans up some grammatical and
+spelling errors. For nostalgia's sake then, this was a great walk down
+memory lane. Unfortunately, once you look past that, it also highlighted
+many of the design errors inherent in many of the early NES games. 
+
+There are unfortunately many things to gripe about here so let's start
+with one of my least favorite foibles: author telepathy. Specifically,
+there was major death without warning. Seemingly innocuous actions like
+picking up items freely available in the scenery, or entering apparently
+non-threatening directions often lead to death with no discernible
+justification. It was also fairly easy to break certain structures which
+always left me wondering whether or not I had permanently made the game
+unwinnable or not. I think the game can't actually be made unwinnable,
+unless you don't budget your light resources properly (which is another
+issue, but I'll get to that later), however death-without-warning
+abounds and waits in every corner, which is something we just don't
+accept in IF games anymore.
+
+Another issue is a concern that always crops up in my reviews, and
+that's the combinatorial explosion of having too many items in your
+inventory. Throughout the game, you collect well over 80 items and when
+you begin the endgame, it's difficult to remember what each piece does
+or the exact details of each item. This leads to a lot of put X in Y,
+hit X with Y experimentation, which gets pretty tedious the third or
+fourth time around. It also makes the game more difficult than it
+probably should be, as your light resources dwindle very quickly -- the
+net effect of all this is that every time I somehow made the plot
+progress I would have to save, explore, make the plot progress again,
+restore to a previous saved game armed with my new knowledge, and
+proceed forward. Ultimately, that type of forced gaming experience is a
+recipe for disaster.
+
+It's unfortunate, too, because many of the game's structure problems
+could have been easily alleviated by loosening its light restrictions a
+little. The light issue I keep referencing actually has to do with the
+limited life cycle of the torches you find lying around. As I played
+through the game a second time with walkthrough in hand, I completed it
+with a reserve of only 5 usable torches (having picked up every
+available torch I could find). Essentially, I won without wasting a
+move. Unfortunately, the game is so cavernous and the amount of author
+telepathy need to win the game so great, that winning without wasting a
+move is next to impossible, as is completing the game with any usable
+torches. There is a spell of sorts that you can find that might help you
+with this issue, but it has to be invoked in every new room you enter,
+which leads to further tedium. And, considering the tight restrictions
+on your time, I'm not entirely sure you'll find the spell before you run
+out of torches, so the benefit might be moot regardless.
+
+Still, the torch issue remained faithful to the NES original, as did a
+number of other conventions, which have to be commended. For example,
+the original Shadowgate loved to bury clues in the scenery --
+specifically, the game's walls. The regular Inform parser has a wall
+object parsed for each of the cardinal directions, and the author here
+did a great job of subtly clueing the player into examining a wall
+without blatantly telling us which one. I believe this involved a nice
+hack in the Inform source code's wall objects. That is to say: a general
+query of X WALL, would still generate a disambiguation request, listing
+all the cardinal directions, but if you examine the right wall there
+wasn't a simple default response [I am impressed here because I believe
+I attempted to parse something similar a while back and made a mess of
+it]. Before I started playing the game, I was curious to see how the
+author was going to implement the puzzles buried in the room's
+constructs and for the most part, I was really happy with the way he did
+it. There was only one glaring omission, where a clue of vital
+importance was buried in the scenery with no hint as to where or even
+why a player should look. I knew it was there from the NES version, but
+were I a first-time player, there is absolutely no way I would have
+found it.
+
+So, overall the game is effectively parsed, diligently researched and
+implemented (the attention to the original game's detail is impressive
+and the consistent representation in the face of the original's poor
+design choices -- i.e., torch issue -- was commendable), but ultimately,
+due principally to the original's shortcomings, it doesn't live up to
+the standards we expect in IF nowadays. Despite this, however, I was
+surprised by how much I really enjoyed the nostalgia. As a result, you
+may want to check this out if you've actually played the NES version,
+but probably skip it otherwise.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From:	Emily Short <emshort SP@G mindspring.com>
+
+TITLE: Solitary
+AUTHOR: Kahlan
+EMAIL: kahlan SP@G kahlan.org
+DATE: April 18, 2004
+PARSER: Inform
+SUPPORTS: Z-Code Interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/solitary.z5
+VERSION: Version 1
+
+"Solitary" is a short, puzzleless game set in the player-character's
+dorm room. The basic point of this piece, as with a number of other
+plot-driven/puzzleless games I can think of ("Photograph", "Shade", and
+even to some extent "Photopia") is to put together the background that
+led to the current situation.
+
+As far as I can tell, this is the author's first game, and it shows in
+certain ways. There are some odd glitches in the world model: as, for
+instance, when you put on a piece of clothing, but can't afterwards
+remove it, and are told that you're not wearing it. Apparently the
+author circumvented the normal operation of "wear". Similarly, some
+default responses have been replaced with answers that don't really make
+sense in all contexts. For instance:
+
+   >DIE
+   You jump on the spot, fruitlessly.
+
+   >KILL ME
+   You can't snap that in two.
+
+For the most part, though, the implementation is fine: there aren't a
+lot of glaring omissions, or scenery that seems important that you can't
+examine. Moreover, I had the sense that the author cared about the game
+and about doing a good job -- and that's always a good sign.
+
+Most of the problems I had with "Solitary" had to do with storytelling
+technique rather than with implementation. One major challenge of
+writing a learn-backstory-through-exploration game is to keep the player
+from discovering information out of order -- especially when, as here,
+everything is in a single room and almost every object is accessible
+more or less at the same time. In this case, there are all sorts of
+items in the room that *should* let you discover a critical background
+fact, but the player character refuses to acknowledge them until you hit
+on exactly the right trigger. It's annoying and manipulative (in my
+opinion) to prevent the player from reading some useful document with a
+line like "You can't bear to read that.". I certainly *can* bear to read
+it, and telling me otherwise does not heighten my feeling of
+identification with the player character.
+
+What's more, finding out what has happened is the only goal I-the-player
+have in the game. There are no other goals provided. The only way for me
+to move forward is to investigate things, so it is irritating to come
+across what seems like a juicy piece of evidence only to have the game
+refuse to let me look at/read/think about it.
+
+Even so, by the time the Horrible Truth was revealed, I had pretty much
+already guessed it. Foreshadowing is a useful technique, but only if it
+doesn't completely give away what's coming. Best of all if it leads you
+to expect something close to the truth, but wrong, so that the real
+revelation still takes you by surprise even though you thought you were
+prepared.
+
+The handling of PC emotion also needs some work. At a number of points
+in the game, I'm handed emotions that I have no reason to feel. Being
+told that I'm weeping intensely is weird when I-the-player have so
+little cause to do so. In that respect, this would work (a little)
+better as a story in the first or third person, I suppose -- but I think
+it would still seem a bit maudlin and self-indulgent.
+
+My other fundamental problem with "Solitary" is that the background
+story is not very interesting. I'm sure the events would be horrible to
+live through. But there aren't enough particulars here to make me feel
+much of anything about the protagonist or about any of the implicit
+NPCs. The player is told that the PC is hurting, that things are bad,
+that her love used to be strong, etc., but so what? I need more than
+that before I can generate much empathy. Instead of the vaguely-worded
+memories, I need specific flashbacks that make me actually feel
+something about the PC and the people she interacts with. I need more
+examples of what was so great about her relationship with her love. I
+need to feel as though they're people I know and would actually care
+about, rather than place-holders. This is not easy, but without it, a
+story like this falls flat.
+
+Finally, the last line of the game reads as funny in a way that
+undercuts what good effects the game has achieved elsewhere.
+
+I should mention a few positives, though. "Solitary" is set in a dorm
+room, which is something of a clich&#233;, but I've certainly seen duller
+dorm-room implementations. The items here did help to paint an image of
+the player character. (She came off as somewhat immature, but I suppose
+that's not out of place.) Some of the descriptions showed a nice
+attention to senses other than sight: tangibles such as how well a
+drawer slides open, for instance. This is a good sign.
+
+"Solitary" also comes with a hint system, which got me through a few
+points where I was stuck. That was useful as well. It's not a long game
+to play, but there are a few moments where you may need guidance. I
+would have liked this system even better if it had adapted itself to
+what I'd already tried and suggested only new directions, but it worked
+well enough as it was.
+
+I'd encourage the author to write more IF, but also to look into
+improving traditional story-telling techniques, particularly
+characterization and plot structure. There's promise in the care that
+went into "Solitary", but it would be better put in service of a richer
+story and more accomplished writing.
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers, with the exception of reviews submitted to SPAG Specifics,
+where spoilers are allowed in the service of in-depth discussion. In
+addition, reviewers should play a game to completion before submitting a
+review. There are some exceptions to this clause -- competition games
+reviewed after 2 hours, unfinishable games, games with hundreds of
+endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+
+</pre>
+</div>
+<p><a href="SPAG37">Click here for a printable, plain text version of this issue.</a></p>
+
+	
+
+<div id="oldfooter">
+  <p>SPAG is maintained as a historical archive by the
+  <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+  Pages are no longer updated and links may no longer work.
+  </p>
+</div>
+
+
+</body>
+</html>

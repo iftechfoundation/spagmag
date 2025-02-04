@@ -1,0 +1,1786 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                            ISSUE # 11
+
+             Edited by Magnus Olsson (zebulon SP@G pobox.com)
+                        September 16, 1997.
+
+         SPAG Website: http://www.afn.org/~afn55673/spag.html
+        Contest Website: http://www.afn.org/~afn55673/contest/
+
+SPAG #11 is copyright (c) 1997 by G. Kevin Wilson and Magnus Olsson.
+Authors of reviews retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+EDITORIALS-----------------------------------------------------------------
+
+Magnus Olsson is the new editor of SPAG.  It's been real.  Be nice to
+him.  Take it away, Magnus.
+
+                                G. Kevin Wilson
+                                "Whizzard"
+
+Thanks, Whizzard. You've done a great job so far for re-vitalizing
+text adventures. Let's hope I can contribute a little to the cause as
+well. 
+
+This issue was mostly prepared by Whizzard; I've just finished the
+formatting and added a few comments of my own. Readers will not notice
+any big differences in this issue. If you have any comments or
+suggestions, please email them to me at zebulon SP@G pobox.com.
+
+Oh, and it's time to start thinking about reviews for the next
+issue. If you run out of new games to review, there's a whole bunch of
+golden oldies that have been given a new lease of life - see the
+"new games" section below.
+
+Finally, let's give Whizzard a big hand for his work.
+
+                               Magnus Olsson
+
+SUBMISSION POLICY ----------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred. At the moment, we are _not_
+accepting any more reviews of Infocom games.
+
+LETTERS --------------------------------------------------------------------
+
+Hey!
+
+Great to see that people are still writing magazines with the IF
+audience in mind!  Brings back memories of the New Zork Times and the
+Status Line.  I just happened upon SPAG in the if-archive at ftp.gmd.de,
+and was really impressed with what you're doing.  Keep up the good
+work!!
+
+I have a question for you, a couple actually.  First, have you ever
+reviewed a game called "Crisis in Dersenia", by Tech-12 Software?  I've
+got it off of ftp, and I've prowled that site, and rec.arts.int-fiction,
+for someone who knows the solution to it.  I was wondering if you
+happened to know someone who has solved it, or if you have reviewed it
+yourself (I haven't had time to go through all the issues of SPAG, yet).
+
+My second question is more technical.  Do you know which drawing program
+was used by Magnetic Scrolls to produce to beautiful graphics in The
+Pawn, and in Guild of Thieves?  I'm thinking of writing my own IF (one
+to my credit already, using STAC - ST Adventure Creator), and I thought
+it would be neat if I could work towards producing graphics of a similar
+quality.
+
+Anyhow, I just thought I'd drop you a line, to say that there are some
+of us in Ottawa who love IF, and want to see more!!!
+
+Geoff Gander <GANDERG SP@G tc.gc.ca>
+
+{ "Crisis in Dersenia" has not been reviewed yet. Does anybody
+   feel like reviewing it?  -- MO }
+   
+=-=-=-=-=-=-=-=-=-=-=-=
+
+Thank you for your review of Awechasm which featured in issue 8 of
+SPAG.  Notwithstanding the justified comments regarding the weakness
+of the parser, I would like to suggest that the critique was (in my
+albeit biased opinion!), rather harsh.
+
+When I wrote the Awechasm, I was trying to create a game that would
+appeal to a certain sense of humour - probably best described as
+"British Saucy Seaside Postcard humour" (30's style cartoons with
+saucy images and/or crude speech/thought bubbles) with occasional
+drifts of very obvious toilet humour. The sense of humour that sees
+Awechasm, reads Orgasm, and sniggers!
+
+This style of humour is obviously not compatible with everyone,
+including the reviewer, and (in more recent times,) myself. However,
+over the years, I have received a great many letters from grateful
+adventurers who appreciated both the sense of humour and the bizarre
+tendencies displayed in Awechasm.  Amongst these: a staff army officer
+posted in Split, Croatia during the troubled times - asking for any
+more adventures I had written because his staff were constantly
+occupied with Awechasm, and an elderly blind gentlemen (a speech
+synthesiser communicates the text output from the adventure) who made
+a second request for help with Awechasm after I initially put him off
+by telling him that it might be too rude.
+
+Snatch and Crunch (Awechasm part 1) was an ST only adventure -
+authored in STAC. It wasn't necessarily a masterpiece, but I
+thoroughly enjoyed creating it AND some people enjoyed playing
+it. That is the important thing. It featured in magazine shareware
+advertisements in the UK for a couple of years before it disappeared
+into obscurity, much like Awechasm in fact!
+
+Apart from a lot of more recent work on multi user adventures ( with
+much improved parsers ;) ), The only other adventure I have ever
+created is "Everyday". I was honoured to have this adventure featured
+on the cover disk of "PC Today" magazine in the UK. Although it is a
+clean adventure, it employs the same (dated) game engine as
+Awechasm. If anyone is interested in playing (or reviewing) this
+adventure, it can be obtained from the if-archive on ftp.gmd.de.
+
+Keep up the good work,
+Tony Stiles <asgard SP@G aladdin.co.uk>
+
+{ Let me just add that all reviews published in SPAG reflect the
+   reviewer's opinions, nothing else, and that opinions on the
+   same game can vary rather wildly. -- MO }
+
+KEY TO SCORES AND REVIEWS----------------------------------------------------
+
+Consider the following review header:
+
+NAME: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Infocom ports
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Also, scores are still desired along with the reviews, so send those along.
+The scores will be used in the ratings section.  Authors may not rate or
+review their own games.
+
+More elaborate descriptions of the rating and scoring systems may be found
+in the FAQ and in issue #9 of SPAG, which should be available at:
+
+        https://ifarchive.org/if-archive/magazines/SPAG/
+
+NEW GAMES--------------------------------------------------------------------
+
+A bunch of new games have been released since the last issue. These
+include:
+
+_Aarbron Ascendant_ by S. Osborne, C. McPherson and D. Strand,
+_Lost Anaheim Hills_ by Adam Cadre,
+_Mercy_ by Chris Klimas,
+_Acorn Court_ by Todd S. Murchison, and
+_The Garden_ by Trevor Jay
+
+More information about these games, and other new releases, can be
+found on the SPAG homepage at http://www.afn.org/~afn55673/spag.html.
+
+Another important new development is Niclas Karlsson's _Magnetic_, a
+portable interpreter that lets you play the classic Magnetic Scrolls
+adventures (originally released for the C64 and the Amiga) on a
+variety of platforms. More information can be found in the _Magnetic_
+distribution:
+https://ifarchive.org/if-archive/magnetic-scrolls/interpreters/magnetic/
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Editor's Pick of the Month:
+
+Those of you who haven't already played Adam Cadre's delightful little
+game "Jailbait on Interstate Zero", or "I-0" for short, should take a
+look at https://ifarchive.org/if-archive/games/infocom/I-0.z5. It's a small
+game, but full of amusing detail, and with quite a few alternative
+ways of winning the game. It's perhaps a bit risque in places, but all
+in good humour.
+
+REVIEWS----------------------------------------------------------------------
+
+From: Graeme Cree <72630.304 SP@G CompuServe.COM>
+
+NAME:          2112
+AUTHOR:        Anonymous
+EMAIL:         ?
+DATE:          Some time after Rush released the song of the same name
+PARSER:        Extremely poor
+SUPPORTS:      IBM
+AVAILABILITY:  Freeware
+URL:           https://ifarchive.org/if-archive/games/pc/2112.zip
+
+I should have been warned by Chris Forman's review of Zanfar in Spag #8,
+in which he points out that one author's trick to draw attention
+to a game is to give it a name that places it last in the alphabet, so
+that a person will always see it when doing a dir command.  I
+downloaded 2112 for similar reasons; it is the first one listed in the
+games/pc library at ftp.gmd.de.  I kept seeing it every time I went
+there, had never heard a word about it from anyone, and thought I
+would check it out.  Silly me.
+
+2112 is based on a song by the rock group Rush.  It takes place in the
+typical Orwellian anti-utopian future.  Since criticizing big
+government is not as fashionable now as in Orwell's day, this
+government is run by Priests.  The game begins with you finding a
+guitar by the riverside, and taking this ancient relic of a forgotten
+time to the Priests, who confiscate it since music is outlawed.  To
+retaliate and let off a little steam, you go on a minor killing spree,
+shooting the Priests, blowing up their computer (a la Captain Kirk!),
+and making your getaway before the government is overthrown by space
+aliens who destroy the city (possibly blowing away a few cops along
+the way, although this is not required).  As a rock song, this is the
+sort of thing that could inspire parental protests at the record
+company.  The I-F player however would be better advised to protest
+the quality of the game.
+
+The parser is almost worthless; two words only, and no synonyms.  The
+puzzles are strictly "guess the word" and "struggle with the parser".
+Actions are intended to be taken in a specific order.  Altering the
+order can make the game very confusing.  One example: after you have
+surrended the guitar, you are supposed to go to your home where you
+will have a dream in which you see an old friend at the prison who
+aids you in finding materials you need to win the game.  You will have
+this regardless of whether or not you have already seen him and gotten
+the aid.  People can talk to you (and even kill you) after they are
+already dead, unless you have done everything in the right order.  In
+some areas, you can still hear humming from the computer after you
+have destroyed it; in others you can't.  There is a serious error at
+the end.  Destroying the computer is also supposed to destroy the
+electric fence, opening up a way of escape.  However if you arrive at
+the fence on the turn that it is shorted out, the new passageway you
+need will not be opened up at all, even though you can see the fence
+shorting out.  Only if you are elsewhere on that turn will you be able
+to get through the fence.  At least they can say that no playtesters
+were harmed during the making of this game.
+
+The atmosphere is heavily cliched, with lines like: "...policemen of
+the state lurk in the shadows.  I hope you are conforming!"  I
+personally think that the best treatments of the anti-utopian future
+since Orwell were done by Patrick McGoohan in "The Prisoner" and Terry
+Gilliam in "Brazil."  This one comes across as more laughable than
+sinister, and presumably exists only so that we can shoot up the town
+(the real point of the game) without feeling guilty about it.
+
+There are some things to like about the game, however.  At key points
+the game gives you a few bars of music from the PC speaker which help
+to set the mood.  The game was not written with TADS, AGT, or one of
+the other kits, but programmed from scratch, which is of course much
+harder to do.  I confess that I'm not a Rush fan, and if I were I
+might enjoy the game more.  At a couple of points in the game, stanzas
+from the 2112 song are used in conversations by the characters, making
+the game look like a little like a Musical (which is something I've
+never seen in a text game before).
+
+Still, the negatives far outweighed the positives.  Rush fans might
+want to play the game anyway, but others are advised to give it a
+miss.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Graeme Cree <72630.304 SP@G CompuServe.COM>
+
+NAME:          Betty Carlson's Big Date
+AUTHOR:        Betty Carlson
+EMAIL:         ?
+DATE:          ?
+PARSER:        AGT Standard (originally a LADS adventure)
+SUPPORTS:      All AGT Ports
+AVAILABILITY:  Freeware
+URL:           https://ifarchive.org/if-archive/games/source/agt/bigd-src.zip
+
+Betty Carlson's Big Date is in essence Zork 1 transferred to a
+suburban setting.  The player goes on a scavenger hunt for items which
+much all be brought to a specific location in order to win.
+
+The player is Betty Carlson, the author of the game, who is preparing
+to go on a date.  Unfortunately, her three kids have gone on a rampage
+and have scattered the clothing she needs to wear all over the house.
+Your mission, should you decide to accept it, is to gather up your
+clothes and deposit them in your trophy case...er, bedroom.  One item
+needs a little repair work before it is usable.
+
+At least Ms. Carlson has come up with a reasonable explanation of why
+the treasures...er, clothes are scattered in the first place.  In Zork
+1 I could never understand how all those valuables could still be
+lying around when the Thief and the Troll got there long before you
+did.
+
+If only she had turned it into a full-blown Zork parody, and cast her
+kids in the role of the Thief.  It would have been very funny to drop
+an item, make a move, and then hear something like "My, I wonder who
+left this fine necklace lying here," or something like that coming
+from the next room.  As it happens though, neither the kids nor any
+other characters appear in the game.
+
+The problem with the game is that it just isn't very interesting.
+Grab a few items, wrestle with the parser a little, and that's it.
+There is little story, and very few item descriptions.  Trying to
+examine something will usually respond with nothing more than "You see
+nothing special about the <item>."  Even the clothes are nondescript.
+You can't even wear any of them, they are simply treasures to be
+brought to the designated area.
+
+Part of the problem may be that this was originally a LADS game.  I've
+seen several LADS conversions, but never an original, so I don't know
+what the capabilities of the language are.  The conversions I've seen
+have usually been not much more advanced than this one.  The game may
+very well be a good one taking the LADS limitations into account.
+There are no serious bugs, and everything seems to work the way it is
+supposed to.  The main technical problem seems to be a couple of
+poorly chosen item adjectives, such as the "a glue" and the "some
+earrings" (shades of Detective's "wooden wood").  It's also
+unfortunate that you can take the long ladder into your Chevette.
+
+Bottom line: there's nothing terribly wrong with the game, but not
+enough in the way of either story or puzzles to grab the player's
+interest.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Graeme Cree <72630.304 SP@G CompuServe.COM>
+
+NAME: Deena of Kolini
+AUTHOR: E. L. (Ev) Cheney
+EMAIL: ?
+DATE: c. 1986
+PARSER: GAGS standard
+SUPPORTS: All GAGS and AGT Ports
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/source/gags/deen-src.zip
+
+People who don't like the AGT parser should be made to play a few GAGS
+games some time.  AGT looks like Virtual Reality by comparision.
+
+GAGS was the predecessor to AGT, and AGT is backwardly compatible
+enough to be able to use most GAGS source code.  The big difference
+between the two is that GAGS does not allow any of the meta-commands
+that AGT does.  As a result the parser is almost completely limited to
+Open/Close, Push/Pull, Turn, Touch, and a couple of others.  All
+puzzles must be solved with these, and are pretty much restricted to
+killing monsters and opening locks.
+
+Deena of Kolini, by E.L. (Ev) Cheney looks like it wants to be more
+detailed, but it is held in bondage to the limitations of the GAGS
+system (considering the content of the game, this may be poetic
+justice).
+
+In the game, you play Deena, a warrior-maiden POW captured when your
+people were attacked by the lecherous Gendi.  Tossed in a dark, damp,
+dank dungeon, your mission is to escape both your cell, and what was
+called "a fate worse than death" in Plundered Hearts.  Along the way
+you must find and rescue a handsome but wounded Prince, not for
+romantic reasons, but because you need him to illuminate rooms that
+your torch cannot (don't ask me about this, I haven't got a clue
+either).  Actually, according to the source code, the Prince is not
+only luminous but edible (!), which made me very thankful that GAGS
+doesn't permit any customized descriptions for this.
+
+It appears as though the author tried hard to flesh out the game as
+much as possible within the system.  In the early days of GAGS and
+AGT, many authors did not bother to write item descriptions for many
+things, resulting in repetitious "You see nothing special about the
+<item>" messages whenever you tried to examine something (Even Zork 1
+was guilty in this area).  In this game, Ms. Cheney not only provided
+item descriptions for everything, but also accompanying graphics.  The
+whip, the manacles, the red-hot poker, (no, I am NOT making this up)
+are all rendered in fairly good quality ASCII line drawings.  My
+favourite one was the scrap of parchment, which should show you how
+boring I am.  The author did not just throw this game together, she
+obviously worked hard.  However, the technology of the day just wasn't
+enough to give more than a rudimentary result.
+
+One avoidable problem is in the game's spelling and grammar.  The
+spelling errors can be very distracting at times, and there are
+several places where sentences have single words gouged out of the
+middle (i.e.: "The rawhide whip looks as if it could the skin off a
+dragon" [sic]).
+
+My biggest design complaint about the game is the decision to conclude
+the game with an escape through a maze.  Actually there are two mazes
+side by side.  One goes nowhere, but the author was kind enough to
+include an item that will at least point you towards the right one.
+
+I've always regarded mazes as being the I-F equivalent of
+rock-climbing. If that phrase sounds familiar, you've probably played
+Chris Forman's excellent Mystery Science Theater game where he makes
+the same comment about Detective's seemingly endless hallways.
+
+The reference is to the 1951 movie "Lost Continent", starring Cesar
+Romero and Hugh "Ward Cleaver" Beaumont.  This was an early MST3K
+episode which featured a 12 minute sequence in the middle that showed
+nothing but the main characters rapelling up a rockface (not even on
+location).  Basically, "rock-climbing" means "padding" (although in
+this game "padding" may also be poetic justice).
+
+[SIDE NOTE: For those who were wondering about the "Deep Hurting!!"
+reference immediately after the rock-climbing one in Chris's game,
+this is a reference to another MST3K movie (Hercules Against the Moon
+Men) that was supposed to top "rock-climbing" with a 15 minute
+Sandstorm scene, that was gloatingly guaranteed to cause "Deep
+Hurting!".]
+
+The maze was a legitimate puzzle (even a clever one) when it first
+appeared in Colossal Cave because no one had ever seen it before.
+Since then it has been primarily used like "rock-climbing"; to
+artificially pad the length of a game that would otherwise be a little
+short.  There is no longer any puzzle; since everybody knows HOW to
+get through them.  All that is left is the tedium of actually doing
+it.
+
+There are a few games which really add something new to the idea (For
+example, Arthur: The Quest for Excalibur's Badger Maze presents us
+with a genuinely new puzzle; how do you map a maze when you can't drop
+objects behind you?), but these are the exception rather than the
+rule.
+
+Nothing against the maze in general.  I loved the Babel Fish puzzle in
+Hitchhiker's Guide, but I wouldn't want half the games in circulation
+to have the same identical puzzle in them.  (It could be worse though.
+Suppose everybody tried to imitate the Baseball Diamond maze in Zork
+2!?  Yuck!)
+
+Not to single Ms. Cheney out for criticism, but it's so annoying to
+pick up an ostensibly new game only to find the same old boring
+time-consuming puzzle poke its head up time after time after time.
+You know the old much-lampooned bumper sticker that said "I Brake for
+Animals"?  I'm going to get one that says "I Scream for Mazes."
+
+Well [climbing off the soapbox], back to the game at hand.  It also
+features some of the more common (but avoidable) quirks of the
+GAGS/AGT system, such as having to use one specific weapon to kill
+each creature, but not others.  For example, the dagger will kill one
+(non-magical) person, but the sword will not.  Where's the sense in
+that?
+
+One non-avoidable problem is that in GAGS/AGT, creatures must be
+classified as either friendly or hostile, and all hostile ones will
+block your path and try to kill you.  As a result, the lecherous old
+man who fondles you in the stairwell but does not attack you, must be
+classified as friendly, and therefore if you attack him, you get the
+standard message that asks why you would want to attack such a
+harmless and inoffensive creature, and that it looks hurt and
+betrayed.
+
+There are a few rooms of Instant-Fate-Worse-Than-Death, but there are
+sufficient clues for them to be avoided.
+
+Ms. Cheney obviously put a lot of effort into her game, but the
+technology of 10 years ago just wasn't up to the task, even with the
+recent desire for games with female lead characters.  She could have
+improved the final result with a little more proofreading and
+playtesting, but even so GAGS just doesn't have the proper...verbs for
+her little excursion into S&M to fly.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Christopher Forman <ceforman SP@G postoffice.worldnet.att.net>
+
+NAME: Frozen
+AUTHOR: Jeremy Farnham
+EMAIL: None given
+DATE: June 1996
+PARSER: Inform
+SUPPORTS: ZIP Interpreters
+AVAILABILITY: Freeware, GMD
+URL: https://ifarchive.org/if-archive/games/infocom/frozen.z5
+
+You're working late one night in the university computer lab when you
+notice that everyone around you has suddenly stopped what they were
+doing.  Closer investigation reveals that your fellow students and
+professors have all been immobilized by some mysterious force.
+Perhaps that odd machine in the gradate students' lab could offer an
+explanation...?
+
+My first impression of this game was that it was strongly influenced
+by "The Lurking Horror" -- the setting and early descriptions were
+very reminiscent of Infocom's tribute to Lovecraft.  "Frozen" is
+obviously a first attempt with Inform, containing numerous, albeit
+rather insignificant, bugs (such as being able to find objects by
+searching for them a second time), missing line-feeds in obvious
+places, a score that's always 0 out of 0 (is that good or bad?) and
+other nuances that give the impression of an unpracticed I-F
+programmer.
+
+These will hopefully be fixed as the author makes progress with the
+development system, because I see a lot of promise from his first
+work.  "Frozen" sports three, count 'em, THREE different conclusions
+to the story, a prominent plus in my book ("The Path to Fortune" also
+features a trinity of endings).  Occasional bits of writing are easily
+on par with "Lurking Horror" and the game has a genuinely mysterious
+feel throughout.
+
+Perhaps a bit too mysterious, in fact.  My primary gripe about
+"Frozen" is the complete lack of resolution to the game's bizarre
+circumstances.  Aside from the curious last-minute addition to the
+machine in the lab, no attempt at an explanation is even made.  Why
+exactly did the students freeze up?  Why wasn't I affected?  How did
+my experiences act to reverse it?  What exactly was that sphere on the
+machine, and why was it added?  Whose body was that, burned at the
+stake?  Two of the endings seem to suggest that everything was a
+dream, but all three of them are quite vague.
+
+Don't read this the wrong way -- unanswered questions fit in well with
+this type of story, and I like having to make educated guesses to put
+things together (and I'm a huge fan of "The X-Files", where the
+writers frequently and intentionally leave the loose ends for viewers
+to tie up), but I was hoping the author would give me a little more
+background to work with in this particular case.  Perhaps the dust
+spirit could have offered a few clues, or perhaps there could have
+been more information about the graduate project.
+
+At any rate, I enjoyed "Frozen".  Its size (the object code is only
+about 64K) would have made it a perfect short work for the
+Competition, but perhaps Jeremy Farnham is working on something else
+even as we speak...
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Cthulhu <patrickc SP@G direct.ca>
+
+NAME: Gateway
+AUTHOR: Legend Entertainment
+EMAIL: ???
+DATE: 1992
+PARSER: ALMOST but not quite Infocom
+SUPPORTS: IBM-PC's
+AVAILABILITY: The Lost Adventures. Or download it from their web page.
+URL: http://www.legendent.com/
+
+I have seen the future of IF, and it is Gateway. It seems that just
+yesterday that Legend Entertainment released this masterful game; just
+yesterday that it went off the market before I had a chance to play
+it. Well Legend Entertainment has decided to bring it back. Free.  As
+demoware for their Lost Adventures Collection. I went to their web
+page and downloaded the three lengthy files.
+
+Five hours later I had the privilege to see the future of interactive
+fiction. It's Gateway. Forget everything you've ever heard about text
+games being obsolete. Time has not killed the text adventure; it has
+not fallen victim to progress. Rather, time has finally allowed text
+games to reach their potential. Gateway is an Infocom game for the
+nineties, built with state-of-the art graphics and classic text. And
+that's not all. If you prefer you can remove the graphical elements
+and play the game eighties-style.
+
+Yes, it has a compass rose like all other hybrid games. And yes
+Virginia, it has a window for graphics and a window for text. And yes,
+it combines an Infocom-quality parser with stunning animations,
+incredible graphics, compelling sound, and literate text. The words
+and pictures complement each other perfectly rather than
+conflicting. Add to this mix the beautifully-rendered cut scenes,
+self-contained puzzles, tons-o space travel, an epic storyline and a
+galaxy-affecting plot.
+
+Oh yes, let's talk about the galaxy-affecting plot. But let's not talk
+about it too much, since I don't want to ruin anything for you. It's
+an excellent story. Years ago the universe had been peopled by a
+mysterious race called The Heechee. Mankind had discovered one of
+their artifacts and learned how to use it. Turns out that it was a
+space station containing starships that could cross the universe in an
+eyeblink. We know of destination codes to punch into the starship, but
+not how to read them. Each code can lead to riches beyond your wildest
+dreams... or it can lead to instant death. You are a prospector who
+arrives on Gateway in search of wealth, a young person eager to use
+the mysterious alien starships to chase dreams across the light
+years. Soon you will rise through the ranks, becomming wealthier and
+more powerful until you have an encounter with the Heechee's ancient
+enemy.
+
+The rich setting is one of the most well-developed in the history of
+adventure gaming. Gateway sticks in my mind for this reason. The
+milleau is revealed to you through the introduction, through
+conversations, via a handheld computer and through what amounts to an
+answering machine connected to the Internet(!). Most of this
+information is unnecessary and purely for background; it shows the
+lengths that the designers took to make this one of the best games
+ever written. I daresay that, even before making it to the middle
+game, you will have experienced a world richer even than in most
+Infocom games.
+
+Your starship will take off towards the various worlds that you have
+codes for. Don't worry, the designers have mercifully decided NOT to
+have any of them lead to an arbitrary death! Remember the time-travel
+scenes in Trinity and Jigsaw? Well Gateway's space-travel scenes are
+just as good. They begin and end with beautifully-rendered cut scenes
+put to dramatic music. These scenes are short and to the point, and
+you can skip them if you want to. Then the ship touches down, and you
+will get to explore the planet in search of Heechee artifacts. Of
+course, you'll untangle a lot of mystery and learn a lot about the
+world first.
+
+You wouldn't believe how well done these worlds are. Imagine a planet
+where molecular acid takes the place of water, and the spear- carrying
+humanoid which bathes in this acid. Try to imagine one with
+carnivorous anemones which clear in terror when a giant spider
+approaches.  Try also one where jellyfish-like creatures inside a pond
+beam dreams to placate a primitive proto-human. I hope I haven't said
+too much! Every puzzle you encounter on these worlds, on Gateway, and
+throughout the game, are logical and self-contained. There are very
+few restore puzzles, and there are VERY few chances to put the game
+into an unsolvable state -- most of which are in the opening game.
+
+Does it have disappointments? Yes, but what game doesn't?  The parser
+is not quite up to Infocom standards, althought it comes very close;
+you can't refer to POWER KNOB as POWER, for example. Most of these
+disappointments come in the final world you will explore (you can
+actually explore them in nearly any order, but I say final because its
+code is listed last). The graphics in this world are almost EGA-like
+and certainly not up to the quality in the rest of the game. There's
+also an old man who doesn't react much when you shoot his pet
+dinosaur(!).  And BTW, what does this game have against innocent old
+men? Not only do you have to deprive one of his beloved companion, you
+also have to dupe another one out of his key!
+
+But all will be forgiven when you approach the endgame. You will
+experience Heaven and Hell, and live through the dark designs of an
+Assassin. Prepare to meet a Heechee artificial intelligence.
+Basically, get ready for surprise after surprise. I said "WHAT THE
+HELL?!" at least three times. Get ready for mental communication with
+a long-dead Heechee. You will escape from Heaven and the fires of
+Hell. And once you get back, there's a VERY shocking surprise waiting
+in store for you that I won't dream of giving away. Move on to the
+spectacular and apocalyptic ending sequence which will stay in my mind
+forever.
+
+Is the book this good? I don't know because I gave up on it some time
+ago. But after playing Gateway, I went to the library and picked it
+off the shelf. And they say that computer games are causing
+illiteracy! Oh yeah, and I'm absolutely sure that I've seen at least
+three of the illustrations previously-- in Omni magazine. Whoever
+illustrated this game is a professional artist and a very good one as
+well.
+
+{ Fred Pohl's novel _Gateway_ and its sequels are very good indeed.
+  Highly recommended. -- MO }
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Crispin Boylan <viewtronix SP@G easynet.co.uk>
+
+NAME: Humbug
+AUTHOR: Graham Cluley
+E-MAIL: ???
+DATE: Aug 1991
+PARSER: Above Average
+SUPPORTS: PC
+AVAILABILITY: Public Domain, GMD (v.4.8)
+URL: http://members.aol.com/gcluley (v 5)
+
+This game has been around for years, and is one of the more popular
+interactive fiction titles in Britain, and was, until recently, a
+shareware title which had to be registered (with the registered
+version you got a solution to the maze which was otherwise unsolvable,
+and you could also save and load games to disk).  Times they are a
+changin' however, and now the game has been released into the public
+domain due to the author not having enough time to sell or support the
+game anymore.  Cluley has actually produced this game without the aid
+of any of the text adventure creation languages, a huge feat for a
+game this size!
+
+Anyway that's the history out of the way, now to get to the meat of
+this review, the game itself.  It all opens with you, Sidney
+Widdershins, arriving at your senile old grandads estate for a short
+stay during the Christmas Holidays.  You planned to explore the old
+windmill in the grounds of Attervist Manor, but as you arrive you
+realise that something is amiss, especially when Grandad does not
+appear to be around!  Closer inspection of the house reveals grandad
+sleeping in his armchair, seemingly unwakeable, he has a rather
+interesting document in his possession, a legal document asking for
+grandad to hand over the manor to his new neighbour, Jasper Slake, who
+will take proper care of the manor.  It seems during that the old fool
+is broke, and has let the manor fall into a state of disrepair, and
+his mutterings to Jasper of secret treasure hidden in the grounds of
+the manor, and the 'wild woman of the hills' have done nothing to
+prove his mental stability!  Grandad and Slake are bitter enemies,
+only recently, the letter explains, did Grandad plant a scale model of
+the Champs Elysee in Slakes garden!  So, on discovering this news it
+is still unclear as to your mission, do you have to find the treasure?
+or maybe stop Slake? This is one of the best points of the game, you
+are constantly fed with small snippets of the plot, which is
+consistent, and of good quality. 20
+
+There is one major feature of this game which makes it stick out from
+the rest, it is completely weird and surreal, you only have to look at
+the NPCs to see this, Kevin, a clockwork shark, built by Grandad as
+his contribution to the war effort; Sven, the viking, whose ship has
+been caught in the manors lake as it froze; and Horace the groundsman,
+who travels round the maze collecting any 'litter' in the form of
+objects, that you may have deposited, he also only talks to
+vegetables!  Some of the NPCs are better than others, but all are
+likeable, apart from the villain, Jasper, of course.  The NPCs, on the
+whole are not too talkative, but then again they really don't need to
+be.
+
+This game has a maximum score of 2000 points, so you can expect quite
+a few puzzles in this little gem, most of which are quite logical, but
+there are some very hard puzzles which you really have to think about.
+The game also has a bit of organisation needed, you must do the
+puzzles in a certain order or you won't be able to complete others,
+this is a bit annoying, but it is quite obvious, and easy to get
+around.  To get the final few points you have to do a bit of verb
+searching, for example typing 'PRAY', earns the response 'A voice from
+below shouts, "I don't know how you've got the nerve!" ' and earns you
+10 points, but does little else, my top score is 1920, so I still have
+to get those last few! 20
+
+There are over 200 objects and 100 locations in this game, so it's
+pretty big, and the locations are varied, and when I say that I mean
+Varied with a capital V, there are such bizzare locations as a alien
+bar, a trip back in time, a fairies den, a junk yard, a bus stop, and
+all of this takes place in the manors cellars!! The parser's
+vocabulary is pretty extensive, but does it doesn't stretch to
+multiple commands in the same sentence, still I like it.
+
+This game is very funny, you can't help but laugh at some of the jokes
+that examining some objects brings up, and the whole thing is just so
+surreal!  The atmosphere is very good and you can just imagine being
+there, the writing is on the whole very detailed and descriptive.  As
+a player with a bit of experience (I haven't completed all the Infocom
+games, but I've played through a few) I found this game hard (I
+desparately needed the on-line hints), but very rewarding, just wait
+until you see the ending, its brilliantly funny, and you'll never
+guess it!!!!  This is a great game, download it now, the public domain
+version is at Graham Cluleys own web page (address above), and is
+version 5, there is a version at ftp.gmd.de but it is only a shareware
+version (4.8), without the map solution or save ability.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Graeme Cree <72630.304 SP@G CompuServe.COM>
+
+NAME: The Lady in Green
+AUTHOR: D.F. Stone
+EMAIL: ?
+DATE: ?
+PARSER: AGT standard
+SUPPORTS: AGT ports
+AVAILABILITY: ftp.gmd.de
+URL: https://ifarchive.org/if-archive/games/source/agt/lady.zip
+
+The Lady in Green is another from the Electrabot/Detective school of
+gaming, although it has more in the way of puzzles and story than
+either of those two.  Like them, gameplay consists primarily of
+following a more or less straightforward path through the game area
+until you reach the end, at which point you win.  Detective had no
+puzzles along the way and Electrabot only required you to match random
+weapons with the monsters that they killed.  The Lady in Green goes
+beyond this with some genuine puzzles, but they are still very easy
+and buggy.  A couple even solve themselves (literally).
+
+The story begins with you as a tired, bored businessman, returning
+home from a trip to your wife, kids, and unmowed lawn.  At your hotel,
+you are captivated by a mysterious portrait of a sad-looking woman in
+a green dress that seems to be reaching out towards you.  In true
+Twilight Zone fashion, you end up traveling through the portrait 200
+years into the past into the (empty) bedroom of the lady in green.
+
+At this point, it appeared that the story would be either a
+time-travelling love-at-first-sight story, or some kind of
+reincarnation affair.  It turns out to be neither.  When you find the
+Lady in Green, it turns out that she just wants you to find her
+13-year old son who didn't return home last night.  You search for
+him, and find that he has been press-ganged into the British Navy as a
+galley slave (!).  You must rescue him and return him home.
+
+The game is divided into several sections.  A minor puzzle is usually
+required to get from one section to the next, and it is impossible to
+return to an earlier section until the end of the game.  It is
+possible to get the game into an unwinnable state if you fail to
+obtain a necessary item in one section before leaving it.  The game is
+so short and easy though that this is not a major inconvenience.
+Furthermore, the game comes with both an ASCII walkthrough file and
+the AGT source code, so the chances of getting stuck are zero.
+
+The puzzles are extremely easy, and as I said, there are some that
+solve themselves.  In two instances, I merely entered the appropriate
+area while carrying the necessary item, and was automatically told
+that I had done the right thing with it.
+
+The game is still rather buggy.  For example, the horse is needed
+twice during the game, however you are only allowed to ride it in two
+certain areas.  Elsewhere you are simply told that you can't ride it
+at all.  Unfortunately, the horse CAN be picked up and carried around (!).
+Since the horse is a part of the room description in the stables,
+you can still see it there when it really isn't.  Of course, this
+could be fixed by changing one line in the source code.  You can also
+be blocked from entering an area by a dog that really isn't there when
+you examine it.  At one point there is a barrel that cannot be taken
+by saying TAKE BARREL.  You need to solve a puzzle to get it.  Or you
+could just say TAKE ALL, which will take everything including the
+barrel, obviating the puzzle.
+
+The characters are cyberphantoms; you're never sure whether they're
+really there or not, and not only the dog and the horse.  When you are
+returning with the Lady in Green's son, you get the same descriptions
+you got on the way out.  There is no creature (AGT's programming term
+for all entities other than yourself) accompanying you.  You once or
+twice get a message that indicates that he is with you, but usually
+have no indication of it at all, and can neither see nor interact with
+him.  The Lady in Green is similarly spectral (which may be
+appropriate).  One turn after you enter the room with her, she gives
+you your mission and leaves with no chance for interaction (Know what
+I mean?  Say no more.  Nudge, nudge.)  The game is over the next time
+you find her again.
+
+One interesting thing about the game is the ending, which gives you
+the option of staying in the past with the Lady in Green, or returning
+to your old life.  Providing genuinely different endings is a rarely
+seen touch (Plundered Hearts being the only other example I can think
+of).  However, in Plundered Hearts, one of the endings is described as
+being clearly superior to the others, where here, you are told that
+they are both valid, even though if you choose to stay, you are
+abandoning your wife and children in the present simply to run off and
+live in what the game calls a more exciting time.  It's plain to see
+that D.F. Stone isn't female if he calls this a valid choice.  I would
+have liked it much better if your character had been a bachelor
+returning home to a life of dirty laundry and ravioli eaten straight
+out of the can, who had no real ties to the present.
+
+This game won an honourable mention in the 6th AGT Game Writing
+Contest.
+
+{ As far as I know, _all_ entrants in the AGT Game Writing Contest
+  (that didn't win prizes) got honourable mentions. -- MO }
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Graeme Cree <72630.304 SP@G CompuServe.COM>
+
+NAME:          Love's Fiery Imbroglio
+AUTHOR:        Natasha Mirage
+EMAIL:         ? 
+DATE:          1988
+PARSER:        Multiple Choice
+SUPPORTS:      PC and all AGT Ports
+AVAILABILITY:  Freeware
+URL:           https://ifarchive.org/if-archive/games/pc/bigdate.zip
+               https://ifarchive.org/if-archive/games/source/agt/rapture.zip
+
+Natasha Mirage definitely has the best nom de plume in Interactive
+Fiction, but judging her game, Love's Fiery Imbroglio, by normal
+standards is not entirely fair.  Although it is a "text game", it is
+not interactive fiction as we know it at all.  It is a computerized
+version of a Choose-Your-Own-Adventure book, and as a result, things
+that would be considered to be bad form in a true I-F game (such as
+choices that kill you or end the game without warning), may be
+entirely appropriate here.
+
+If you've played a Choose-Your-Own-Adventure book, you already know
+what this game is.  You get about a screen full story at which point
+you are prompted to choose an action from a multiple choice list in
+order to get to the next screen.  The story is primarily linear, with
+a few side diversions, and has some choices which can end the game
+completely, though you never actually die.
+
+For example, early in the game when you are called for the date and
+asked if 6:00 is okay, you can say that it is, say that it is too
+early, or say that it is too late.  If you say that it is too early,
+then the caller will get distracted, forget about you until it is too
+late, and then spend the rest of his life in a monastary to atone for
+his behavior, thus ending the game.  However, these are not nearly as
+irritating as the "Rooms of Instant Death" in games like Detective and
+Electrabot however because a) they are not entirely without warning;
+common sense and textual clues may help you avoid many of them, and b)
+the game has keys letting you back up any number of screens, meaning
+that you don't need to restart the game or save first to get back to
+where you were.  Just as in a real book, you can simply turn back to
+the page where you were (and unlike a real book, you don't have to
+remember what page number it was!)
+
+The puzzles, such as they are, are primarily diplomatic ones.  For
+example, at the restaurant, your gourmet date mentions being puzzled
+by the secret ingredient of his favourite dish.  Suggesting that it
+may be salt, will hurt his feelings by implying that he couldn't
+identify something so simple.
+
+As for the plot...well, the title tells you all you need to know.  It
+is probably the only romance novel game apart from Plundered
+Hearts. You are a lonely female, sitting around your apartment, trying
+not to think about your accumulating laundry pile when a friend of a
+friend calls and asks you for a date.  The game consists of getting
+ready for the big evening, and handling yourself well during dinner
+(no bad puns, please!)  A lot of the (supposedly) usual Romance novel
+elements are in there; i.e. date has a secret pain which you must find
+out about and help deal with.  Yes, the Schlock Factor does ride quite
+high.
+
+However, the writing is where this game really shines.  The repartee
+between author and player is quite entertaining.  The game's
+atmosphere seems to repeatedly switch between "real" reality, Romance
+Novel reality, and fantasy in a very entertaining way.  The tone
+manages to remain bouncy (ah ah ah, no jokes!  I'm not having things
+getting silly!) and lighthearted at the appropriate times without
+slipping into pure comedy.
+
+Overall, this is a very polished and enjoyable product.  The simple
+multiple-choice interface makes the parser completely trouble-free.
+The writing (the core of any product like this) is first class.
+Though I've never felt moved to read a Romance novel (and still
+don't), I found the writing and interactivity, coupled with the
+games's very reasonable length, to be adequate compensation for any
+schlockiness, and considered the game to be well worth the time spent
+playing it.
+
+It's also not a bad introductory game.  I've always felt that intro
+games should be much more heavily weighted towards story than puzzles
+(as anyone who has played my own Lost in Space game can attest).
+Furthermore, these days a good introductory game should not do things
+merely better than graphics, but do things that graphic games cannot
+do at all.  For example, imagine the climax of Leather Goddesses of
+Phobos (okay, you can make a joke about that).  That isn't an
+introductory game, but you get the idea.  That scene would be flatly
+impossible to reproduce in a graphics game.  The same goes for this
+game.  A person can't play it and say "that was good, but I wish it
+had been graphical rather than textual."  (Superfluous) graphics could
+conceivably be added to this game, but could not possibly substitute
+for the text.
+
+The game was written with a system called Pinntale, which seems to be
+specially designed for Choose-Your-Own-Adventure games, however I
+don't know of any other games written with it.  I uploaded this one to
+GMD myself about a year ago, and GMD has no others, nor does the
+person that I got it from.
+
+Recently the game was ported to AGT by Mike Ryan, where its title was
+changed to "Love's Fiery Rapture" (to which I object, as "Imbroglio"
+is a much cooler word and doesn't mean the same thing as rapture).
+The source code for this version does exist at GMD.  The AGT version
+is inferior to the original in that it does not let you customize the
+character names, and does not seem to permit backwards page flipping
+(although both of these things could be implemented using AGT).  It's
+primary value is as a programming model for others wishing to create
+this same type of adventure.
+
+On the face of it, Love's Fiery Imbroglio is a game written
+specifically for women.  In fact, you have to claim to be a woman at
+the beginning or the game will tell you that you don't really want to
+play it, and that it's all about knitting anyway.  But really it's
+done well enough to be of interest to people of all sexes.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Magnus Olsson (zebulon SP@G pobox.com)
+
+NAME: The Meteor, the Stone and a Long Glass of Sherbet - 
+      The Interactive Memoirs of a Diplomat.
+AUTHOR: Graham Nelson (writing as Angela M. Horns)
+EMAIL: graham SP@G gnelson.demon.co.uk
+DATE: September 28, 1996
+PARSER: Inform Standard
+SUPPORTS: Infocom ports
+AVAILABILITY: Freeware, GMD 
+URL: https://ifarchive.org/if-archive/games/competition96/sherbet
+
+It seems as if any new game by Graham Nelson is destined to be an
+instant classic. This one is no exception; I had barely played past
+the title screen when I realized that this was something quite out of
+the ordinary. The title, to begin with: impossibly long for a computer
+game, with its slightly bizarre combination of subjects; and the
+slow-paced, introduction, with its Victorian atmosphere and hints of
+diplomatic intrigue made it impossible to stop playing.
+
+Unfortunately, the game doesn't quite live up to these promises of
+originality: once one has found the crucial action to upset the
+orderly progression of events and enter the game proper, the pace of
+the narrative slackens, and the plot turns into a traditional
+treasure-hunt.
+
+For traditional it is, following the oldest tradition there is in IF:
+like "Balances" by the same author, "Sherbet" is an Infocom pastiche,
+set in a copy of the "Zork" universe (though all names have been
+changed, probably for copyright reasons). Unlike the minimalist,
+sketchy "Balances", this game is very rich in detail, with some
+detailed background history and other commentary provided in the
+hints.
+
+But any complaints about the lack of originality are compensated by
+the sheer joy of playing the game, and of exploring its rich world
+(which is not at all a copy of "Zork", if my previous comments have
+made that impression, but rather some sort of parallel universe where
+things are hauntingly familiar). The writing is excellent and the
+atmosphere exceptionally vivid - the cedar cave, in particular, has
+etched itself into my memory as if I'd really been there. Above all,
+when playing Sherbet I felt the same sense of wonder as I remember
+from my first contact with "Zork"; a sense of wonder that's often
+missing from newer games, however sophisticated they may be.
+
+The puzzles are good; nothing extraordinary, perhaps, but not trivial
+either. Unfortunately, there are some "guess the verb" situations, and
+one or two cases where the room descriptions are a bit confusing.
+
+But these flaws are all very minor and do not detract from the general
+impression. A very worthy winner, and a game that surely will bear to
+be re-played over the years.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: jbarlow SP@G ipass.net (Joe Barlow)
+
+NAME: Perdition's Flames
+AUTHOR: Michael Roberts
+DATE: 1993
+PARSER: TADS
+SUPPORTS: TADS ports
+AVAILABILITY: Freeware, GMD
+URL: https://ifarchive.org/if-archive/games/tads/flames.zip
+     https://ifarchive.org/if-archive/games/source/tads/flames_src.zip
+
+{ This review was previously published in _Intelligent Gamer_, which
+  explains the slightly different format. It is included here with the
+  author's permission. -- MO }
+
+A couple of things about this review: please remember that it was
+written in 1994, before I knew anything about TADS [the Text Adventure
+Development System], which was used to create the game.  I touted a
+couple of the features in PF as being very unique, such as the ability
+to dump a transcript of the game to a text file.  Of course, that's a
+standard feature of all TADS games, but I didn't know it at the time.
+Also, at the time I reviewed it, the game was still commercial.
+Obviously, the comments about the game's copy-protection and all of
+the game's "included goodies" don't apply to the freeware version.  I
+am leaving them in the review, however, because the final rating the
+game received was due in part to its extensive Infocom-like packaging.
+Even without it, though, this game is well worth a look, especially
+for FREE!
+
+   "I'm too young to die...."        
+        
+It has been said that man's greatest journey is the one he makes at
+death, and with good reason.  People have always been fascinated by
+what lies beyond our "mortal" world, and the book and film market have
+been quick to capitalize on this interest.  Even the computer gaming
+industry has explored the concept, much to the delight and surprise of
+many gamers.  More than one recent game has allowed players to explore
+the afterlife, including Sierra's King's Quest 6: Heir Today Gone
+Tomorrow, which offered would-be adventurers the chance to see the
+Realm of the Dead, complete with eerie background music and
+frightening graphics.  Now, California-based software publisher High
+Energy has taken a look at the afterlife (with tongue firmly
+in-cheek,) and death will never be the same again.  Let's face it: any
+game which opens with the message "*** You have died ***" can't be all
+bad!  Quite the contrary, in fact: Perdition's Flames is a marvelous
+adventure game, and the best way I've yet found to explore Hell
+without leaving the comfort of my own home.
+
+As the game begins, the player's soul is drifting down a river on a
+yacht, along with several other newly deceased people.  The player is
+free to wander around the ship, have a few drinks at the bar, chat
+with the crew, or just enjoy the scenery.  This opening sequence is a
+fantastic way of familiarizing yourself with the "feel" of the game.
+Wander around and enjoy the atmosphere.  Get used to being dead.
+You'll find out that it's not terribly different from the life you're
+used to.  (Hmmmm. I wonder if that's significant.)
+
+After a short while, the ship will arrive at a dock leading to the
+Hell mainland.  Once you leave the ship, you'll find yourself in the
+merry land of Hell, which is quite a bit different than most of us
+have been led to believe.  If the player wishes, he or she may attend
+a welcoming seminar, during which various other new arrivals will ask
+some hilarious "newbie" questions, and receive answers from the Hell
+Welcoming Committee.
+
+From the seminar, the player learns that Hell has decided to update
+its image.  Gone is the "Abandon All Hope, Ye Who Enter" sign that
+used to hang atop the main gate.  Gone is the eternity of damnation
+and suffering that every church preacher in the history of the world
+has shouted and sweated about in his sermons.  Now, Hell is just like
+any other nice place to live, with shopping malls, suburbs, and a
+Department of Motor Vehicles.  (Somehow, we all knew that Hell would
+have one of these, didn't we?)
+
+What if a soul is uncomfortable in Hell?  No problem!  People are able
+to freely go back and forth between Heaven and Hell, staying as long
+as they like in either place.  Transportation to and from Heaven is
+accomplished via an enormous elevator in the middle of town, provided
+one has a ticket.
+             
+   Just think of it as Sim-Hell...
+
+Perdition's Flames (PF) features incredibly detailed descriptions of
+rooms and objects.  Its text-only interface recalls the greatness of
+Infocom (a software publisher from the late 1970s-late 1980s who wrote
+many text- only adventure games), without resorting to some of the
+shortcomings that were typical of even this mighty software giant.
+For starters, PF is "100% Certified Maze-Free!"  For folks like me who
+still occasionally wake up screaming in the middle of the night
+because of Zork III's Royal Puzzle, this is a heaven-sent (no pun
+intended) gift.  True questers will also be relieved to learn that
+it's quite impossible to get yourself in a position from which it's no
+longer possible to win.  This was my only real gripe with Infocom's
+games: all too often, if you didn't do something trivial way back at
+the beginning of the game, you were unable to solve a puzzle much
+later in your quest.  (The cheese sandwich puzzle from Hitchhiker's
+Guide comes to mind.)
+       
+   Hell on Wheels
+       
+Moving around Hell is easy: the player simply types in which way he or
+she wants to go: "Go north," for example.  More complicated sentences
+are also allowed: the player may type something along the lines of "Go
+north.  Open the door then take the shiny gold coin."  Players can
+keep track of the items they are carrying with the standard
+"inventory" command.  One of the more unique features PF has that many
+other games do not is the ability to dump a transcript of the game in
+progress to a text file.  Infocom's classics allowed transcripts to be
+dumped to a printer, so the tradeoff is a fair one.  Even some of
+Infocom's more obscure commands like VERBOSE (turn on long descrip-
+tions) are present (and welcome) in PF.  All in all, this game is
+something I wouldn't be surprised to find on a hypothetical Lost
+Treasures of Infocom Volume 3.
+
+   Is it hot in here, or is it just me?
+
+What makes PF stand out above the countless other text games currently
+on the market is its wonderful sense of humor.  The game makes some
+truly awful puns, pokes fun at everyone's notion of what Hell is
+"supposed" to be, and generally keeps you looking forward to coming
+back to Hell every time you have to leave the computer.  If the player
+should find a pitchfork in a barn, for example, the game mocks: "Now
+if you only had horns and a tail, you'd own this place!"  During your
+welcoming seminar, the player discovers that it is unwise to try and
+sue anyone in Hell because the Hell Judicial System is based on the
+one in the United States, and it will take an eternity (literally) for
+cases to come to trial.  And hearing the woman in front of you answer
+questions in the Celestial Security Office will make you laugh out
+loud, in the style of Douglas Adams' Bureaucracy.
+
+PF was written using TADS (Text Adventure Development System), a
+programming tool also published by High Energy.  TADS allows users to
+write games that are of Infocom quality, and, if PF is any indication,
+they ain't just whistling "Dixie" with this claim.
+
+   "I may be going to Hell in a bucket, baby...
+    but at least I'm enjoying the ride." - Grateful Dead
+
+PF's elaborate packaging is another way in which the folks at High
+Energy software have summoned the ghosts of Infocom.  PF comes with a
+handsome map, a detailed, well-written manual, a hint book, a
+reference card, and "The Official Tourist Guide to Hell," an
+illustrated, side-splitting pamphlet that contains the game's
+copy-protection, in addition to many amusing items of interest.
+
+Let's talk about the quality of the game's prose.  Although
+comparisons with Infocom are unavoidable when reviewing text
+adventures, the prose of PF is elegant, often funny and immensely
+enjoyable, equaling (and in some cases, even surpassing) many of
+Infocom's works.  (It easily beats out the Zork trilogy, for instance,
+and is on par with Deadline or even A Mind Forever Voyaging in terms
+of the quality, if not intensity, of its writing.)
+
+I loved the non-linear nature of the game.  Although by neccessity
+certain puzzles have to be solved before other puzzles can be reached,
+the game is tremendously flexible.  You truly feel like you are
+PLAYING the game, rather than being sent to Location A to get Object B
+to take to Location C to exchange it for Object D, etc. (Indeed, this
+free-style type of play is neccessary, since the game's goal is not
+revealed to you until quite late in the adventure.)
+
+Finally, I enjoyed the difficult *BUT STILL LOGICAL* nature of many of
+the puzzles.  While many Infocom games had brain-twisting challenges,
+the solutions were occasionally not very logical at all (I'm thinking
+particularly of the two Douglas Adams games here).  There are two
+great head-scratchers that particularly stand out in Perdition's
+Flames: the Haunted House/Ring puzzle and the Lion-Headed Statue
+puzzle.  These are two of the best puzzles I have ever seen in ANY
+interactive-fiction game, in both implementation and originality.
+Both of these obstacles were *very* difficult to solve, but in the end
+the solutions made sense, and I felt a sense of accomplishment after
+conquering them.
+
+System requirements for the game are tough to reveal: the review copy
+INTELLIGENT GAMER Gamer received from Michael Roberts (the author of
+the game) didn't list them, but they seem to be just about as minimal
+as you could expect.  The program uses a swap file to run on machines
+with small amounts of memory, and a hard drive is recommended.  The
+program ran equally well on my 286/12 and my 486/50.
+
+RATING: 9.5 out of 10.  Perdition's Flames is an incredibly
+entertaining game with an original premise, and would be a bargain at
+twice the price.  Fans of text adventure games will not want to miss
+this one.  If, however, you don't think you'll be able to see past its
+lack of graphics, you should probably look elsewhere.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Magnus Olsson (zebulon SP@G pobox.com)
+
+NAME: Sir Ramic Hobbs and the Oriental Walk
+AUTHOR: Gil Williamson
+EMAIL: ?
+DATE: October, 1996
+PARSER: AGT
+SUPPORTS: MS-DOS (runtime included), AGiliTy
+AVAILABILITY: Freeware, GMD
+URL: https://ifarchive.org/if-archive/games/competition96/wok
+
+[ Note: There appears to be some confusion about the title of this
+game: is it the "Oriental Walk", as the title screen says, or the
+"Oriental Wok", as it's called in some of the docs? "Walk" probably,
+since there _is_ an "Oriental Walk" in the game, but no wok even in
+the kitchen :-). I suppose the "wok" is intended as a pun... ]
+
+One topic that has been the subject of much heated discussion on
+rec.arts.int-fiction is that of player characterization. How can you
+cast the player as a set character, perhaps totally unlike the
+player's ordinary character, and make him or her feel and act like
+this character? The prevalent view seems to be that most players hate
+when the game tells them what they feel and think, and that few things
+are as irritating as being told that your, perfectly reasonable,
+action is out of character.
+
+It is interesting to see that one of the less sophisticated games of
+the competition not only tries to do this, but succeeds at it. And,
+perhaps surprisingly, it does so by casting you in a far from
+flattering role: that of Sir Ramic Hobbs, an antihero in every sense
+of the word - or, to be frank, a bumbling, drunken buffoon.
+
+Or perhaps this is just why it manages to pull it off. For "Wok" is a
+farce, and you are the butt of the jokes. Not just you, Sir Ramic, but
+you, the player. Much of the humour lies in the player being misled,
+and the game pretending to misunderstand the player's confusion as Sir
+Ramic's stupidity. In some cases (such as the sudden darkness), the
+game leads the player completely up the garden path, thereby forcing
+him to act in character.
+
+As the reader may have guessed, "Wok" is a game that talks back to
+you. It even makes an attempt to explain who is doing the talking by
+giving a name to the "narrator": Prang, a disembodied wizard who takes
+orders from the player and guides him along. As a moderately
+experienced IF player, I found this slightly annoying at first, and
+then I forgot all about it. However, the documentation says that the
+game is aimed at beginners, who maybe will find this a help.
+
+Despite the fact that the game talks back to you, commenting on your
+every action, and making fun of many of the mistakes you're making, it
+is all very good natured (as opposed to a certain other competition
+game, that apparently made some people feel quite insulted). I never
+had the feeling that the author was making fun of me, but rather that
+we were sharing a joke. And Sir Ramic may be a buffoon, but he's quite
+a lovable buffoon.
+
+This is all very skillfully done. Apart from the writing, however, the
+game is quite unsophisticated. To start with, it has a rather
+primitive look-and-feel. To avoid fanning the ongoning religious wars,
+I won't speculate whether this is due to the game being written in
+AGT; it does have, however, the feel of a "typical, mid 80's, AGT
+game" - garish colours, rather minimalistic room descriptions, a
+simple parser, rather underdeveloped atmosphere, NPC's that are just
+animated obstacles.
+
+To be fair, however, these aren't very serious flaws. The parser, for
+example, is quite adequate (there is one glaring "guess the word"
+problem, but a better parser couldn't have remedied a lack of
+synonyms), one of the NPC's (the dog) is at least a bit more
+developed, and this is not the kind of game one plays for the joy of
+exploring a detailed fantasy world.
+
+The puzzles are fairly standard, but there are some interesting twists
+(and the series of transformations at the end is quite clever and
+entertaining). The obligatory maze adds nothing to the game and could
+have been advantageously removed. The eponymous puzzle, the "oriental
+walk", is clever, but far too tedious - and this is aggravated by the
+fact that saving is disallowed while solving the puzzle. Disabling
+saving is probably a way to prevent solutions by trial-and-error, but
+an unfortunate consequence of this is that a single mistake means
+having to start the puzzle all over again, with all the directions
+randomized.
+
+The online hints can be somewhat infuriating, since there is only one
+hint per room, but fortunately a walkthrough is provided.
+Unfortunately, the walkthrough is of no help in the "walk" - you'll
+just have to sweat it through (the endgame is worth it!).
+
+In conclusion, "Wok" is a game that lives by its wit and humour, which
+are more than enough to outweigh its shortcomings in other areas. In
+fact, I found it one of the funniest games I've played.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "C.E. Forman" <ceforman SP@G postoffice.worldnet.att.net>
+
+NAME: Time -- All things come to an end
+AUTHOR: Andy Phillips
+EMAIL: pmyladp SP@G unix.ccc.nottingham.ac.uk
+DATE: October 1996 (Release 4)
+PARSER: Inform
+SUPPORTS: Version 8 ZIP Interpreters
+AVAILABILITY: Freeware, GMD
+URL: https://ifarchive.org/if-archive/games/infocom/tatctae.z8
+
+[This review contains minor spoilers for the beginning of the game.]
+
+It would seem to me that 1995-1996 was the Year of the Time-Travel
+Game.  Over the past 12 months, we've witnessed the appearance of "A
+Night at the Museum Forever", "Jigsaw", and "Lost New York", heard
+rumors of Jon Drukman's not-yet-released "Forward into the Past", and
+are now faced with "Time: All Things Come to an End."
+
+Yes, "Time" is another time-travel game (!), and a more believable one
+than "Museum", but not quite up to the levels of realism attained by
+Graham Nelson and Neil deMause.  It is well-programmed, and for the
+most part well-written (though there are a surprising number of run-on
+sentences, considering the author is from the U.K.).
+
+I personally found the introduction rather hard to swallow.  As the
+game began, a brilliant scientist (me) was in danger of having his
+temporal translocator research project shut down due to lack of
+progress.  Within 20 turns, however, I'd figured out how to power the
+machine, taking advantage of an overhead lightning storm.  Considering
+that the storm is described as "typical English weather", the notion
+of it taking YEARS to get around to considering lightning as a power
+source seems positively ludicrous!  ("Great Scott!" as Dr. Emmitt
+Brown himself might put it.)
+
+To be fair, though, once you get the machine working and are whisked
+into a cyberpunk-like dystopian future (perhaps the direct
+consequences of your meddling with the timestream?), suspension of
+disbelief kicks in, and "Time" becomes an enjoyable and surprisingly
+playable work of I-F.
+
+This came as quite a surprise to me, because the game itself is very
+linear.  It's a single-path story with little room for
+experimentation, puzzles requiring a great deal of note-taking and
+foresight, and plenty of opportunities to become irrevocably stuck.
+Normally I dislike stop-and-start gameplay.  For some reason, though,
+this didn't make me hate it, even after a dozen or so setbacks.  I
+can't quite explain why: The writing is good but not spectacular; The
+settings aren't all that inspired; Most of the individual puzzles are
+no more clever than the average game.
+
+Yet for some reason it was very, very fun for me to play, and
+discussions with other players led to the same conclusion.  There's
+something about the *way* the puzzles are presented -- never
+gratuitous, but as part of the story, giving the sense of plot
+unfolding before the player; layered, interwoven with one another;
+with virtually all reasonable actions accounted for -- that makes one
+want to keep trying, even after dying countless horrible deaths.  Just
+when you think you've finally gotten somewhere, "Time" tells you that
+you don't.  But you're close, you just know it.  Maybe one more try...
+
+Unfortunately, if you're weary of games that make you use information
+gained from past lives, there's nothing I can do to disguise the fact
+that "Time" is one of those games.  But I found it to be so enjoyable
+that this so- called "design flaw" didn't even matter.  I recommend
+that even crusaders for "realistic" I-F give this one a try.  You
+might be pleasantly surprised.
+
+Just save often.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Audrey DeLisle <rad SP@G crl.com>
+ 
+NAME: Treasure
+AUTHOR: James L. Dean
+EMAIL: ?         
+PARSER: none really
+SUPPORTS: IBM PC
+AVAILABILITY: GMD
+
+{ I can't find this game in the IF-archive. If anybody knows a URL
+  for it, please let me know. -- MO }
+ 
+HISTORY: This game was written in 1980 and revised in 1987.  It is
+based on an article in BYTE 7/79 by Roger Chaffee.  The game has
+been compiled to play, but the BASIC file is in the zip.  The BASIC
+file explains the algorithm used and has instructions to change the
+treasures and guardians.
+ 
+PARSER: The reason I say there is not really a parser is that the
+commands are limited to one letter:
+C = carry (get); L = leave (drop); P = points (score); R = repeat;
+I = Inventory; Q = Quit and the directions are N,S,E,W,U,D in the
+simple game, adding F (Forward), B (backward) in the expanded game.
+If you try to type something else, a help screen appears.
+ 
+This would be a good game for a child who can read a little or to be
+played with an adult to read the brief room descriptions and let the
+child input commands.  The object is to find and return all the 15
+treasures and pass through every room (100) in the fewest number of
+moves, but there is no comparison.  You are asked for a game number,
+so perhaps you can get the same game again.  This allows the game to
+be played over and over with different locations and it might generate
+a comparison for future games.  Those who abhor treasure hunts or
+expect to 'save' and 'restore' should avoid it.
+ 
+Each treasure is guarded by a monster and the weapons must be found to
+vanquish each.  The guardians do nothing.  You are safe.  You cannot
+die.  Well, if you do, the game will resurrect you with no loss.  You
+do nothing.  If you have the correct weapon, C will work.
+ 
+There are two hazards: a pirate will steal your treasure if you don't
+return it to the Entrance soon enough and an ill wind will blow you to
+a random location.  Neither is a serious problem.  The treasure will
+be found somewhere and you can get oriented quickly.
+ 
+It is not possible to write a solution since each game is different.
+You can choose variations--limit to 3d, accept another dimension, etc.
+In the simplest version, the directions are N,S,E,W,U,D and there are
+few surprises.  This is the one I played.  I think the more advanced
+versions might be more fun, but might take longer.  I finished the one
+game I played in about four hours.  I decided a chart of directions
+was more useful than a typical map.  I scored 100 points.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Tony Baechler <baechler SP@G primenet.com>
+
+NAME: Tryst of Fate
+AUTHOR: G. M. Zagurski
+AVAILABILITY: freeware gmd
+EMAIL: gmzagur SP@G qnet.com
+DATE: April 1997
+PARSER: Inform
+PLATFORMS: Infocom
+VERSION: 104 970331
+URL: https://ifarchive.org/if-archive/games/infocom/tryst104.z5
+
+For the most part, I really enjoyed this game.  I thought that the
+writing was quite well done and at some points I was really drawn into
+the story.  It would have rated higher but it had no online help, no
+hints, no walkthrough, and all I would get with help is the author's
+email address.  Also, there were some rough edges, one being that I
+had to type single words when mentioning the word to open the door and
+talking to the horse.  But, when answering the riddles, I had to use
+the say command.  It would have been better if the author would have
+stayed consistent.
+
+But, I would not have guessed that the author spent so long creating
+the game based on the fine writing and the fact that the game worked
+as I would expect.  It did feel a little odd in an old west setting
+since I would not expect a text adventure game to have anything to do
+with horses and ghost towns and mines.  But, even so, it was still
+presented very well and I liked it.  Also, a definite plus was that it
+was not that difficult, but there are many things that I would not
+have been able to guess because of the inconsistencies mentioned
+previously.
+
+I thought that the idea of gum ball transformation was neat and I kept
+hoping to find some more gum to take me to other places.  An amazing
+amount of things could have been put into the game if one actually
+would have enough time and willingness to program them.  The only real
+major disappointment I had was at the very end.  It did not abruptly
+come to a stop but more text (and more of an end game in general)
+would have been nice.  It is like I had come all that way and done so
+much and all I got was a gold watch and a thanks for helping out.  I
+was also hoping to find more information about the woman that George
+seemed to like so much that helped to open doors, among other things.
+Too bad there were no new gum balls in his factory and I had to make
+my own.  I could see a little bit of Zork, a small part of Trinity and
+some Colossal Cave in this game.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Cthulhu <patrickc SP@G direct.ca>
+
+NAME: Wormhole: The Beginning
+AUTHOR: Philip Dearmore
+EMAIL: morbeus SP@G eskimo.com
+DATE: 1995
+PARSER: TADS
+SUPPORTS: TADS ports
+AVAILABILITY: Free but "discontinued"
+URL: http://www.eskimo.com/~morbeus/neotext.html
+     https://ifarchive.org/if-archive/games/tads/wormhole.zip
+
+Wormhole: The Beginning is the "introductory" game from
+Neotext. According to its web page, it has been "discontinued." Well,
+what can I say? It's a game that succeeds very well despite its
+massive flaws. It's annoying and frustrating, hobbled by cliches and a
+completely substandard parser. On the other hand the plot is so
+compelling, so interesting, that I simply couldn't stop playing this
+game.
+
+It's the middle of the night. Your friend George Edfry, who lives in
+Virginia, wakes you up with a phone call. The description of the phone
+call, BTW, has got to be THE funniest moments in any game outside of
+the Space Quest series. So you go to his house.
+
+Morning. The game begins. You've left your keys in the ignition of
+your Honda after locking your door and exiting the car. Excuse me, but
+how the heck is that possible? Never mind, since that's the setup for
+one of the game's most interesting puzzle. There are also George's car
+and, for a sinister bit of foreshadowing, an unexplained Lincoln
+parked outside of his house. You can interact with neither of these
+cars in any way whatsoever. The author put in a brilliant surprise
+when I looked under the welcome mat, and.. I won't even dream of
+telling you! You soon get to a puzzle where, to progress any further,
+you have to deal with a hostile guard dog in exactly the same way that
+you dealt with the poodle in Wishbringer.
+
+Well, that was the opening game. Soon you will be discovering the
+fiendishly clever plot and brilliant surprises. It soon becomes
+obvious that one of George's experiments have gone horribly
+wrong. Food stains on carpets are replaced by blood as you
+progress. You will discover a rift into another dimension. And,
+eventually, you will find George himself in a state that came as a
+complete surprise to me.
+
+Fun, eh? Yep. but this game has serious flaws. There's a chimney that
+you can enter, shades of Curses, but you can't do anything in it!
+There's a flashlight in the game that works the same whether it's
+turned on or not. In short, the coding is awful. Nowhere is this more
+evident than in a room with a pool of mercury in it. Try ENTER THE
+POOL, GO IN THE POOL, JUMP IN THE POOL, and JUMP ON THE POOL -- three
+of them give a "you can't do that" message. You cannot put anything in
+the pool. You cannot put anything on the pool. You cannot look in it
+or under it. You can't drink it. And, even though it's specifically
+called a "reflection pool", it's utterly impossible to shine the
+flashlight on it. Towards the end the game has your character say a
+line (about moon-stones, for those who know) when he could not
+possibly know what he's talking about. And the final puzzle, that of
+finding the last moonstone, has got to be the most stupid and
+illogical one I've ever played because it requires George to be a
+moron almost beyond comprehension.
+
+I'm looking forward to playing Neosoft's second game, Urban
+Cleanup. Wormhole has promise. Perhaps Urban Cleanup will realize it.
+
+
+READER'S SCOREBOARD----------------------------------------------------------
+
+{ First, an apology: these ratings aren't quite up-to-date. If you've
+  rated a game, and can't see your rating reflected in the scores
+  below, don't panic: I'll go through the backlog for the next
+  issue. }
+  
+   Notes:
+
+        A   - Runs on Amigas.
+        AP  - Runs on Apple IIs.
+        GS  - Runs on Apple IIGS.
+        AR  - Runs on Acorn Archimedes.
+        C   - Commercial, no fixed price.
+        C30 - Commercial, with a fixed price of $30.
+        F   - Freeware.
+        GMD - Available on ftp.gmd.de
+        I   - Runs on IBM compatibles.
+        M   - Runs on Macs.
+        S20 - Shareware, registration costs $20.
+        64  - Runs on Commodore 64s.
+        ST  - Runs on Atari STs.
+        TAD - Written with TADS.  This means it can run on:
+                AmigaDOS, NeXT and PC, Atari ST/TT/Falcon, DECstation
+                (MIPS) Unix Patchlevel 1 and 2, IBM, IBM RT, Linux, Apple
+                Macintosh, SGI Iris/Indigo running Irix, Sun 4 (Sparc)
+                running SunOS or Solaris 2, Sun 3, OS/2, and even a 386+
+                protected mode version.
+        AGT - Available for IBM, Mac, Amiga, and Atari ST.  This does not
+                include games made with the Master's edition.
+        ADVSYS - Available for PC and Macintosh only, or so my sources tell
+                 me.  (Source code available as well.  So it can be ported
+                 to other computers.)
+        HUG - Written with Hugo.  Runs on MS-DOS, Linux, and Amigas.
+        INF - Infocom or Inform game.  These games will run on:
+                Atari ST, Amiga, Apple Macintosh, IBM, Unix, VMS, Apple II,
+                Apple IIGS, C64, TSR-80, and Acorn Archimedes.  There may be
+                other computers on which it runs as well.
+
+ Name                  Avg Sc  Chr  Puz  # Sc  Rlvt Ish       Notes:
+ ====                  ======  ===  ===  ====  ========       ======
+Adventure               7.7    1.1  0.7    2     8      F_INF_TAD_ETC_GMD
+Adventure 350           6.5    0.0  1.5    1     x      
+Adv. of Eliz. Highe     3.1    0.8  0.3    1     5      F_AGT
+All Quiet...Library     4.5    0.7  0.7    3     7      F_INF_GMD
+Amnesia                 7.7    1.3  1.4    1     9      C_AP_I_64
+Another...No Beer       2.4    0.2  0.8    2     4      S10_IBM_GMD
+Arthur: Excalibur       8.6    1.8  1.7    1     4      C_INF
+Awe-Chasm               2.4    0.3  0.6    1     8      S?_IBM_ST
+Balances                6.4    1.0  1.3    2     6      F_INF_GMD
+Ballyhoo                7.0    1.8  1.5    3     4      C_INF
+Beyond Tesseract        3.7    0.1  0.6    1     6      F_I_GMD
+Beyond Zork             8.1    1.5  2.0    3     5      C_INF
+Border Zone             6.7    1.4  1.4    4     4      C_INF
+Broken String           3.1    0.5  0.6    1     x      F_TADS_GMD
+Bureaucracy             8.3    1.8  1.6    3     5      C_INF
+Busted                  5.2    1.0  1.1    1            F_INF_GMD
+Castaway                1.1    0.0  0.4    1     5      F_IBM_GMD
+Change in the Weather   6.1    0.8  1.1    2     7      F_INF_GMD
+Christminster           8.6    1.8  1.7    3            F_INF_GMD
+Corruption              6.7    1.4  1.4    1     x      C_I
+Cosmoserve              8.7    1.3  1.4    2     5      F_AGT_GMD
+Crypt v2.0              5.0    1.0  1.5    1     3      S12_IBM_GMD
+Curses                  8.3    1.3  1.7    7     2      F_INF_GMD
+Cutthroats              6.4    1.4  1.2    5     1      C_INF
+Deadline                7.0    1.3  1.4    4     x      C_INF
+Deep Space Drifter      5.5         1.4    1     3      S15_TAD_GMD
+Demon's Tomb            7.4    1.2  1.1    2     9      C_I
+Detective               1.1    0.0  0.0    4     4-5    F_AGT_GMD
+Detective-MST3K         6.0    0.6  0.1    3     7-8    F_INF_GMD
+Ditch Day Drifter       7.1    1.2  1.6    1     2      F_TAD_GMD
+Dungeon Adventure       6.8    1.3  1.6    1     4      F_SEE REVIEW Issue #4
+Dungeon of Dunjin       6.2    0.5  1.5    2     3      S20_IBM_MAC_GMD
+Electrabot              0.7    0.0  0.0    1     5      F_AGT_GMD
+Enchanter               7.1    0.9  1.4    5     2      C_INF
+Enhanced                N/A                0     2      S10_TAD_GMD
+Eric the Unready        7.4    1.5  1.4    1     x      C_I
+Fable, A                2.0    0.2  0.1    1     6      F_AGT_GMD
+Fish                    7.1    1.2  1.5    1     x      C_I
+Forbidden Castle        4.8    0.6  0.5    1     x      C_AP
+Gateway                 7.5    1.6  1.5    1     x      C_I
+Great Archaelog. Race   6.5    1.0  1.5    1     3      S20_TAD_GMD
+Guardians of Infinity   8.5    N/A  1.3    1     9      C_I
+Guild of Thieves        6.8    1.1  1.2    1     x      C_I
+Gumshoe                 6.3    1.3  1.1    2     9      F_INF_GMD
+Hitchhiker's Guide      8.0    1.6  1.6    5     5      C_INF
+Hollywood Hijinx        5.7    1.0  1.5    4     x      C_INF
+Horror30.Zip            3.6    0.0  0.9    1     3      S20_IBM_GMD
+Horror of Rylvania      7.7                1     1      C20_TAD_GMD (Demo)
+Humbug                  7.4                1     x      S10_GMD (Uncertain)
+Infidel                 7.0         1.4    7     1-2    C_INF
+Inhumane                3.6    0.2  0.7    1     9      F_INF_GMD
+Jacaranda Jim           7.0                1     x      S10_GMD (Uncertain)
+Jeweled Arena, The      8.0    1.5  1.5    1     x      ?
+Jigsaw                  8.7    1.6  1.6    3     8,9    F_INF_GMD
+Jinxter                 6.7    1.1  1.3    1     x      C_I
+John's Fire Witch       7.2    1.1  1.6    5     4      S6_TADS_GMD
+Journey                 6.9    1.3  0.8    1     5      C_INF
+Jouney Into Xanth       5.0    1.3  1.2    1     8      F_AGT_GMD
+Klaustrophobia          7.3    1.2  1.4    4     1      S15_AGT_GMD
+Leather Goddesses       7.8    1.4  1.7    5     4      C_INF
+The Legend Lives!       8.2    0.8  1.5    1     5      F_TADS_GMD
+Lethe Flow Phoenix      7.5    1.7  1.5    1     9      F_TADS_GMD
+The Light: Shelby's Ad. 8.0    1.6  0.5    1     9      S?_TADS_GMD
+Lurking Horror, The     7.1    1.4  1.3    5     1,3    C_INF
+MacWeslyan(PC Univ.)    5.6    0.7  1.0    1     x      F_TADS_GMD
+Magic.Zip               4.5    0.5  0.5    1     3      S20_IBM_GMD
+Magic Toyshop, The      3.6    0.5  1.0    1            F_INF_GMD
+Mind Electric, The      5.1    0.5  0.8    2     7-8    F_INF_GMD
+Mind Forever Voyaging   8.5    1.4  0.6    4     5      C_INF
+Moonmist                5.9    1.4  1.3    5     1      C_INF
+Mop & Murder            4.9    0.5  1.0    1     4-5    F_AGT_GMD
+Multidimen. Thief       5.6    0.4  1.0    3     2,9    S15_AGT_GMD
+Mystery House           4.1    0.3  0.7    1     x      F_AP_GMD
+Night at Museum Forever 4.1    0.0  1.0    3     7-8    F_TAD_GMD
+Nord and Bert           4.8    0.5  1.0    2     4      C_INF
+Odieus': Flingshot      3.3    0.4  0.7    2     5      F_INF_GMD
+One Hand Clapping       7.1    1.1  1.3    2     5      F_ADVSYS_GMD
+One That Got Away, The  6.4    1.2  0.9    2     7-8    F_TAD_GMD
+Oo-Topos                5.7    0.2  1.0    1     x      C_AP_I_64
+Path to Fortune         6.8    1.4  0.8    1     9      S_INF_GMD
+Pawn, The               6.5    1.0  1.2    1     x      C_I_AP_64
+Perseus & Andromeda     3.4    0.3  1.0    1     x      ?
+Planetfall              7.5    1.7  1.6    6     4      C_INF
+Plundered Hearts        7.8    1.4  1.3    2     4      C_INF
+Quarterstaff            6.1    1.3  0.6    1     9      C_M
+Sanity Claus            9.0                1     1      S10_AGT_GMD
+Save Princeton          5.8    1.2  1.3    2     8      S10_TAD_GMD
+Seastalker              5.5    1.1  1.0    4     4      C_INF
+Shades of Grey          8.0    1.3  1.4    4     1-2    F_AGT_GMD
+Sherlock                8.2    1.5  1.6    2     4      C_INF
+Shogun                  7.1    1.5  0.5    1     4      C_INF
+Sir Ramic Hobbs         5.0    1.0  1.5    1     6      F_AGT_GMD
+Sorceror                7.3    0.6  1.6    5     2      C_INF
+South American Trek     0.9    0.2  0.5    1     5      ?_IBM_GMD
+Space Aliens...Cardigan 1.8    0.5  0.4    4     3      S60_AGT_GMD
+Spellbreaker            8.2    1.2  1.8    4     2      C_INF
+SpellCasting 101        7.0    1.0  1.2    1     x      C_I
+SpellCasting 201        7.8    1.5  1.6    1     x      C_I
+SpellCasting 301        7.5    1.4  1.5    1     x      C_I
+SpiritWrak              6.6    1.0  0.6    1     9      F_INF_GMD
+Spur                    7.2    1.4  1.2    1     9      F_HUG_GMD
+Starcross               7.0    1.1  1.3    5     1      C_INF
+Stationfall             7.6    1.6  1.6    5     5      C_INF
+Suspect                 6.2    1.3  1.2    2     4      C_INF
+Suspended               7.5    1.3  1.2    4     8      C_INF
+Theatre                 6.8    0.9  1.2    3     6      F_INF_GMD
+TimeQuest               8.6    1.5  1.8    1     x      C_I
+TimeSquared             4.3    1.1  1.1    1     x      F_AGT_GMD
+Toonesia                6.3    1.1  1.2    2     7      F_TAD_GMD
+Tossed into Space       3.9    0.2  0.6    1     4      F_AGT_GMD
+Treasure.Zip            N/A                0     3      S20_IBM_GMD
+Trinity                 8.8    1.4  1.7    8     1-2    C_INF
+Tube Trouble            3.3    0.5  0.4    1            F_INF_GMD
+Uncle Zebulon's Will    7.6    0.9  1.3    3     7      F_TAD_GMD
+Undertow                5.2    1.0  0.8    1            F_TAD_GMD
+Undo                    1.9    0.1  0.4    2     7      F_TAD_GMD
+Unnkulian One-Half      7.0    1.3  1.7    4     1      F_TAD_GMD
+Unnkulian Unventure 1   7.1    1.2  1.6    5     1-2    S10_TAD_GMD
+Unnkulian Unventure 2   7.2    1.4  1.5    4     1      S10_TAD_GMD
+Unnkulian Zero          9.0                1     1      C25_TAD_GMD (Demo)
+Waystation              5.7    0.7  0.9    2     9      F_TAD_GMD
+Windhall Chron. 1 - See Path to Fortune.
+Wishbringer             7.6    1.3  1.3    4     5-6    C_INF
+Witness, The            7.2    1.7  1.2    5     1,3,9  C_INF
+Wonderland              7.5    1.3  1.4    1     x      C_I
+World                   6.5    0.6  1.3    2     4      F_SEE REVIEW Issue #4
+Zanfar                  2.6    0.2  0.4    1     8      F_AGT_GMD
+Zork 0                  7.1    1.3  2.0    2     x      C_INF
+Zork 1                  6.0    0.7  1.5    9     1-2    C_INF
+Zork 2                  6.4    0.8  1.5    7     1-2    C_INF
+Zork 3                  6.1    0.6  1.4    5     1-2    C_INF
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Five:
+
+I've decided that we finally have enough competitive entries on the
+scoreboard to have a Top Five instead of a Top Three. A game is not
+eligible for the Top Five unless it has received at least three
+ratings from different readers. This is to ensure a more democratic
+and accurate depiction of the best games.
+
+ 1. Trinity             8.8     8 votes
+ 2. Jigsaw              8.7     3 votes
+ 3. Christminster       8.6     3 votes
+ 4. Mind Fvr Voyaging   8.5     4 votes
+ 5. Curses              8.3     7 votes
+    Bureaucracy         8.3     3 votes
+
+ADVERTISEMENTS---------------------------------------------------------------
+
+                        Feeling a little paranoid?
+
+                                You will be.
+
+
+                           S  C  I  M  I  T  A  R
+
+      A new adventure from the author of "The Light: Shelby's Addendum"
+
+                   You'll never trust your mother again
+
+                                Coming in '96 
+                                    from 
+                            Illusory Mental Images
+                           "We know where you live!"
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Start of a transcript of:
+YE OLDE INFOCOMME SHOPPE SHAMELESS PROMOTIONAL ADVERTISEMENT
+
+Your Own Private I-F Museum
+Each breath you take echoes hollowly off the vaulted marble walls of your
+museum of classic I-F paraphernalia.  A crystal chandelier overhead casts
+refracted glares on the aisles of countless polished display cases.
+
+>EXAMINE THE DISPLAY CASES
+Your I-F collection is beautiful to behold, but woefully incomplete.  Whatever
+will you do?  Where can you possibly find out-of-print I-F games these days?
+
+>INVENTORY
+You are carrying the classified section of today's paper.
+
+>READ CLASSIFIEDS
+One ad catches your eye immediately:
+
+                         YE OLDE INFOCOMME SHOPPE
+                   C.E. Forman, proprietor.  Est. 1996
+             Classic I-F paraphernalia bought, sold, traded.
+   Infocom, Rainbird, Level 9, Broderbund, Sierra, I-F books and more!
+Appraisal, searches, waiting lists.  Platform-specific copies w/ purchase.
+  This month's specials: Buy 3, get 1 free!  Buy 5, get free shipping!
+                 Take the "Ye Olde Infocomme Shoppe" link at
+                     http://netnow.micron.net/~jgoemmer/
+
+CLOSING REMARKS--------------------------------------------------------------
+
+It's been swell folks, but nothing lasts forever.  Good night, Mrs.
+Callabash, wherever you are!  -- GKW
+
+While Whizzard is saying goodbye (as an editor - I hope we'll see more
+contributions from him here in the future), let me add that I'm
+looking forward to editing the next 11 issues! Keep the reviews
+coming!  -- MO
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

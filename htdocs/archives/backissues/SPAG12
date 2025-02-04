@@ -1,0 +1,2622 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                            ISSUE # 12
+
+             Edited by Magnus Olsson (zebulon SP@G pobox.com)
+                        December 13, 1997.
+
+         SPAG Website: http://www.afn.org/~afn55673/spag.html
+        Contest Website: http://www.afn.org/~afn55673/contest/
+
+
+SPAG #12 is copyright (c) 1997 by Magnus Olsson.
+Authors of reviews retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Acorn Court
+Bastow Manor
+Everybody Loves a Parade
+Fish!
+John's Fire Witch
+Mercy
+The Meteor, the Stone, and a Long Glass of Sherbet
+Mystery Island
+The Pawn
+So Far
+The Space Under the Window
+Time: All Things Come To An End
+Unnkulia Zero: The Search for Amanda
+The Wedding
+Zork I
+Zork II
+Zork III
+
+EDITORIAL------------------------------------------------------------------
+
+Finally - a new issue of SPAG. A bit late, I'm afraid; my IF
+activities are in a bit of an Avalonish state at the moment. I can
+only hope that you will find the contents worth the wait.
+
+Christmas is drawing near, but I'll refrain from dubbing this the
+Holiday Issue - if only for the fact that there is nothing
+Christmas-related at all in this issue. I will, however, use the
+season as a pretext to indulge in something not uncommon at this time
+of year: a bit of looking back, perhaps even some nostalgia.
+
+One of the reviews in this issue happens to be of a game called
+"John's Fire Witch". This was one of the first games I reviewed for
+SPAG (in issue #4, March 1995), and I remember being quite
+enthusiastic about it. Why? Because it's a good game, of course, but
+also because back then, in the grey mists of antiquity (almost three
+whole years ago!), we IF fans weren't exactly spoiled with new
+releases. New games were few and far between, and each new release was
+quite an event in the IF community.
+
+Things have changed a lot since then. Today, it's difficult to keep up
+with all the new IF, especially during the contest season, the
+net-wide IF community has grown considerably, and general interest in
+IF seems to be re-emerging - an IF Rennaissance after the Dark Ages
+that followed the decline and fall of Infocom.
+
+Yes, it's been three great years for us IF fans! And just as European
+artists and scientists of the Rennaissance were beginning to realize
+that it was possible to go beyond the achievements of the ancients, so
+we're beginning to see new IF that's in many ways better than the
+Infocom classics.
+
+It is very fitting that this issue of SPAG contains reviews both of
+classics, such as the Magnetic Scrolls games; new works in the classic
+tradition, such as last year's competition winner "Sherbet", and 
+efforts in entirely new directions, such as "Space Under The
+Window". And as a final nostalgic end-of-the-year touch, the review
+section ends with Duncan Steven's reviews of the Zork trilogy (yes, I
+know that we've put up a moratorium on Infocom reviews; but rules are
+made to break).
+
+But on to the reviews. The next issue will probably be dominated by
+this year's competition and have no space for looking back. I'm
+eagerly looking forward to what next year has in store for the IF
+community!
+
+				Magnus Olsson
+
+NEW GAMES--------------------------------------------------------------------
+
+For obvious reasons, there aren't many new releases this time - apart
+from the competition entries, of course.
+
+Two hardy souls have braved the risks of drowning in the competition
+deluge, however, and released new Inform games:
+
+The Zuni Doll, An Interactive Horror Story, by Jesse Burnenko
+(https://ifarchive.org/games/infocom/doll.z5)
+
+Kook U, An Interactive Kook Adventure, by sbfaq SP@G genesis.nred.ma.us
+(https://ifarchive.org/games/infocom/kooku.z5)
+
+{ To stay impartial regarding the ongoing competition, I'll refrain
+  from making any "Editor's Pick" this issue }
+  
+SUBMISSION POLICY ----------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred. At the moment, we are
+reluctant to accept any more reviews of Infocom games (though
+exceptions happen).
+
+
+KEY TO SCORES AND REVIEWS----------------------------------------------------
+
+Consider the following review header:
+
+NAME: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Infocom ports
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Also, scores are still desired along with the reviews, so send those along.
+The scores will be used in the ratings section.  Authors may not rate or
+review their own games.
+
+More elaborate descriptions of the rating and scoring systems may be found
+in the FAQ and in issue #9 of SPAG, which should be available at:
+
+        https://ifarchive.org/if-archive/magazines/SPAG/
+
+REVIEWS----------------------------------------------------------------------
+
+From: agt20 SP@G phy.cam.ac.uk (Alistair G. Thomas)
+
+NAME: Acorn Court
+AUTHOR:	Todd S. Murchison
+DATE: September 1997
+PARSER:	Inform Standard
+SUPPORTS: Infocom ports
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/infocom/acorncourt.z5
+
+You start Acorn Court in the courtyard of the title, with no idea what
+you're trying to achieve. This early location shows the effort that's
+been made to imbue the setting with a distinct atmosphere. A bit
+overdone, in my opinion, but I was pleased the effort had been made
+and was looking forward to exploring this world. However, 'twas not to
+be. There's a reason why you have no idea what's going on - nothing
+is. This is a one-location game, containing one relatively
+straightforward puzzle, and no plot. I can't really give examples of
+the text or sub-puzzles without revealing a fair proportion of the
+game. I don't know if this was written as a get-to-grips-with-Inform
+exercise? If so it's fine. The one quite complex object is quite well
+programmed, and while there's the odd quirk (You are carrying: twelve
+tennis balls, six tennis balls and) and the odd misleading response
+when you don't quite get the author's preferred wording, there are no
+major problems.
+
+Have a look if you fancy a five or ten minute puzzle, or better still,
+see if there's larger game by the same author.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Yuzo Takada a.k.a. Dark Fiber <entropy SP@G mpx.com.au>
+
+NAME: Bastow Manor (The Secret of Bastow Manor)
+AUTHOR: Softgold
+EMAIL: ???
+DATE: very early 1980's
+PARSER: Scott Adams Standard
+SUPPORTS: C64 and C64 Emulators (many platforms)
+AVAILABILITY: IF archive
+URL: https://ifarchive.org/if-archive/games/c64/bastow.gz
+
+Bastow Manor is one of those old classic Commodore 64 games. In a fit
+of nostalgia I hunted high and low for this and a bunch of other
+classic games (see the review of Mystery Island as well), some of
+which I managed to find with the help of Andrew Williams.  Bastow
+Manor is one of those C64 text graphic games where the C64 ASCII
+character set is used to its full advantage to draw the graphics.
+This form of textgraphic was basically confined to the C64 genre of
+games.
+
+The graphics in this game (and the other Mountain Valley and Softgold
+games) are some of the best C64 textgraphic ASCII pics you're likely
+to ever come across.  Every location has its own individual picture of
+about half screen height and full screen width (This changed in later
+games to half screen height and half screen width).
+
+ All the Softgold and Mountain Valley games are very reminiscent of
+the Scott Adams games.  They are very small sized games with few
+locations and objects.  Most every location serves a purpose and every
+item has at least one use in the game.  Bastow Manor uses the standard
+verb-noun parser.
+
+The story behind the game is err, I don't really know.  You're not
+told in any introduction at the start of the game.  Maybe there was a
+nice lead-in in the manual or documentation but none of that is
+available, so I shall give you what I assume to be the lead-in.  The
+aim is to get into Bastow Manor and find its secret cache of gold and
+escape!!  Err, yes.  Were you expecting something else?
+
+Text in the game is minimal at best and I suspect the picture is meant
+to explain more about your surroundings than the "You are in a shed"
+"You are outside the manor wall" descriptions.  Objects have no
+description whatsoever.  A knife is a knife is a knife is a knife.  An
+interesting side effect of the game is that it was very poorly
+programmed, so that you must "look" at an object multiple times to
+find out all you can about it.  Take for example the mail box, you
+need to look at it twice or you will miss a valuable clue!  There are
+a few other examples of this through out the game.
+
+Some of the puzzles in Bastow Manor are logical and some are stupid.
+One of the puzzles I'll give away to you here and now, as it's
+impossible to complete it without looking at the source to the game
+(an error on part of the programmer), in that there is a panel above
+the desk in the study.  There is no mention of this panel anywhere in
+the game at all, and thats all I'll give away to you ^_^.  Fortunately
+you don't have to play guess the verb to complete any of the puzzles.
+
+Like Scott Adams' games, Bastow Manor is small and well designed in
+places.  Location exits and the layout of the house are fairly
+logical, i.e. the mad scientist's laboratory is not connected to the
+upstairs ensuite.  Some of the puzzles are a bit frustrating and death
+is quick to follow a wrong move.  If you don't save often before you
+try something you will find yourself back at the start of the game.
+It IS unfortunate that you have to die once or twice before you
+realise that it's a puzzle that needs to be overcome (re: the puzzle
+to do with the suit of armour, the apple puzzle).
+
+With exception of one dodgy puzzle (re: panel in the study) the game
+is fairly easy and can be completed in a few hours.  The nostalgia
+factor is a good reason to play this game, if any, or if you have two
+hours to spare.
+
+ If you already have a copy of this game but you did not get it from
+the IF archive, I strongly suggest you get the one from the archive as
+I have patched and bugfixed it so you can save/load at any point and
+some of the more nasty bugs were removed (the knife/clock bug for
+instance).
+
+Emulator users: PC64 is not a good choice for this game as it gets
+the colours wrong, well not wrong just not... right ^_^.  Frodo or
+C64s get the browns and greens the correct shades.
+
+In scoring this game out of 10, note that I am using Scott Adams as a
+benchmark. I would give this game a 7 out of 10.  The nostalgia factor
+gives the overall score a +1 so its really 6/10.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Everybody Loves a Parade
+AUTHOR: Cody Sandifer
+E-MAIL: Dunno
+DATE: 1996
+PARSER: TADS advanced
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/tads/Parade.gam
+VERSION: Release 2.1
+
+Everybody Loves a Parade manages a difficult feat: it's an enjoyable
+and rewarding game in its own right, whose puzzles take real thought,
+but it also essays an important innovation in IF playing style and
+carries it off brilliantly. That innovation will not be revealed here,
+as the surprise is part of the value of the innovation and giving it
+away would spoil the fun for future players, but I know I was
+thoroughly caught off guard at a certain point late in the game. On
+the face of it, that development is only a small part of the game and
+its effect on gameplay is minimal--but when players who have completed
+the game remember it, I think it is safe to say that one particular
+moment, more than any other, will remain with them. At first, I
+questioned the author's judgment in engineering the moment in the way
+he did--but eventually decided that his approach, more than any other
+(well, aside from similar strategies), grabbed the reader's attention.
+
+The plot is entertaining and reasonably original. You are an engineer
+sent across the country to start a new job, but you bog down in the
+wilds of Arizona with almost no gas, stuck behind a parade for a "rock
+festival"--and no, Janis Joplin is not in town. The events that ensue
+are engagingly cartoony; though most of the parade elements amount to
+amusing but irrelevant sideshows, the silliness adds to the charm. (A
+gravel float? A tank full of jars of pebbles?) The characters are also
+well done, though better developed in some cases than in others; the
+humor value of the New Age bikers is considerable, but it might have
+been nice to see what they do when you ask them about things like
+inner peace, meditation, truth, etc. (Not to nitpick, but the line
+"The bikers toss an unruly customer out of the pub and forgive
+themselves for their trespasses" is a little silly. Since when do New
+Agers care about sin?) The encounter with the bikers does, if the
+randomized movements come out right, produce this exchange...
+
+	As the words pass before your eyes, your spirit energies ebb
+	and flow between hidden layers of conscious awareness, broken
+	judgment, and unspoken truth. Once the trance lifts, your soul
+	speaks of love and respect through haiku verse, the natural
+	language of inner peace.
+
+	The old man turns his pockets inside out to search for spare
+	change.
+
+...which one could take as a commentary on quite a lot of things if so
+inclined. At any rate, though the characters never lose the feel of
+being props or obstacles, they do provide considerable amusement.
+
+Everybody Loves a Parade is not extremely difficult once the first
+puzzle is solved -- but that first puzzle involves searching of
+scenery that just barely gets a mention, and as such might take quite
+a while to solve. Two other puzzles later in the game require a fairly
+large intuitive leap, and a willingness to pursue courses of action
+that don't seem initially helpful (and which are, well, largely
+motivationless), and those moments pose considerable stumbling blocks
+among mostly logical puzzles. (Though one solution in particular is
+rather clever, and rewards careful reading.)  The quality of the
+puzzles can be appreciated once they are solved, but the intuitive
+leaps required can be a bit daunting at times. (I'm not sure what it
+says about me, though, that the final puzzle -- at least, the way to
+get the final 10 points -- seemed like a natural reaction to the
+previous line, and it was the first thing I tried.) There is much
+amusement to be had in the game even when stuck, though, just from
+wandering around and trying things -- it seems safe to say that this
+game has the most particularized responses to SMELL [object] in the
+history of IF.
+
+Mechanically, Everybody Loves a Parade works well; the TADS parser is
+adequate for the job, and there are several synonyms for most
+words. The writing is also quite good, though not exceptionally
+descriptive--few of the scenes actually came alive from the writing,
+though admittedly that would have been difficult given the bizarre
+quality of the situations. The author trades absurdity for realism,
+mostly, and does quite well with it--but creating absurd scenes is a
+different task from creating real ones, and it is therefore hard to
+compare the writing to a game that seeks to bring a place or event to
+life. Cody Sandifer creates a carnival atmosphere, but a carnival
+atmosphere is hard to sustain on repetition--a bouncy or silly room
+description fades on the tenth reading in a way that a menacing or
+dreary mood does not. All this is not, obviously, to say that
+Everybody Loves a Parade is not written effectively, merely that the
+intent is more to amuse and entertain than to create lasting
+images. Well, actually, as noted above, that isn't true -- there is
+one image that does last, and quite well -- but the circumstances for
+that are unusual.
+
+Mr. Sandifer clearly spent quite a while writing Everybody Loves a
+Parade: it's full of humor that indicates real thoroughness. There are
+several irrelevant objects -- "objects", perhaps -- that cannot quite
+be considered red herrings because it would be difficult to consider
+most of them potential solutions to problems, and which reduce the
+feel of "am I done coding yet?" that sometimes plagues IF. (An author
+who takes the trouble to code a "pulsing hunk of supernatural
+hypermatter" is an author who cares about his finished product.) That
+some scenes made me wish for more development is more a testament to
+the amusing ideas at work than any laziness about coding; I certainly
+can't say that there were many logical responses that went unprovided
+for.
+
+Perhaps of my initial objection to the twist alluded to above was that
+it didn't fit the game, but when I thought about it more, I revised
+that assessment. Only in a romp like this could the author pull the
+player up short in the way Mr. Sandifer does -- and there are (at
+least, it seemed so to me) very unfunny (as in, not a laughing matter)
+issues at stake when it does happen, both within and outside the
+game. There is certainly a place for games like "Tapestry," where the
+player has to shut his or her eyes and ears to miss the Important
+Underlying Message, but the IF world should not underrate the power of
+this game's approach in making the player think.
+
+There is, on the whole, much to like about Everybody Loves a Parade,
+and though there are slow points and though the humor slows a bit when
+the player has traipsed through the few locations several times, such
+is the nature of humorous IF; Mr. Sandifer carries off his ideas
+well. It is a testament to the author's skill that the player can look
+back on Everybody Loves a Parade as both entertaining and thoroughly
+thought-provoking.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Yuzo Takada a.k.a. Dark Fiber <entropy SP@G mpx.com.au>
+
+NAME: Fish!
+AUTHOR: Magnetic Scrolls
+DATE: Mid-80's?
+SUPPORTS: See note below
+AVAILABILITY: Commercial (se note)
+
+Fish rocks dammit! Magnetic Scrolls kill Infocom dead! You heard me!
+This game is full to the gills with puns. The game is one big pun.
+Magnetic Scrolls is a Pommy company and all its games have that Pommy
+feel and "English" spelling.
+
+The story concerns you, who are an interdimensional secret agent whose
+job it is to warp into worlds and thwart the terrorists of the Seven
+Deadly Fins.
+
+The start of the game sees you relaxing inside the body of a fish in a
+fishbowl.  Your first task is to solve three mini puzzles of an
+"intermediate" toughness, then its onto the "large" portion of the
+game in the land where everyone is a fish.
+
+The puzzles are very clever and logical and the text is very "Magnetic
+Scrollsish" and makes for a great read.
+
+The parser is probably the best of all the Magnetic Scrolls games and
+is as good, if not better than the Infocom parsers.
+
+I absolutley loved this game.
+
+{ Editor's Note concerning Availability:
+
+  The Magnetic Scrolls games were sold commercially. Second-hand copies
+  occasionally turn up for sale in the games newsgroups. Reliable
+  sources also tell us that they are available from certain well-known
+  FTP sites (though not from the IF-archive). Of course, the illegality
+  of such distribution channels forbids us from mention them here...
+
+  The good news is that you don't need a semi-antique computer to play
+  these games (however you manage to get a copy): Niclas Karlsson has
+  written a portable interpreter called _Magnetic_ which runs on a
+  variety of platforms. See
+  https://ifarchive.org/if-archive/magnetic-scrolls/interpreters/magnetic/
+}
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: John's Fire Witch
+AUTHOR: John Baker
+E-MAIL: baker-j SP@G ix.netcom.com
+DATE: 1995
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Lunchware (buy author lunch to register)
+URL: https://ifarchive.org/if-archive/games/tads/firwitch.gam
+VERSION: Release 1.01
+
+There isn't a lot to John's Fire Witch; it's relatively short (250
+moves or thereabouts required, and much of that is traveling hither
+and yon) and the puzzles and characters are simple. What's there,
+though, is refreshingly well put together, with very few obvious bugs
+or gameplay problems; as first efforts go, this is one of the better
+ones you'll find.
+
+You, the player, have come to visit your friend John Baker -- who, for
+an author included in his own game, takes quite a verbal beating; we
+certainly don't get a very good impression of John's habits and
+tastes.  There is no sign of John in the apartment, though, other than
+junk scattered here and there and a diary left in the bedroom
+suggesting that John has stumbled into a confrontation between a Fire
+Witch and Ice Wixard residing in his basement. (This suggests to you
+about John that "years of heavy drinking have finally destroyed his
+mind.") Nevertheless, you investigate the hole in the basement and,
+sure enough, find all manner of strange things, none of them obviously
+supporting the claim that an Ice Wizard and Fire Witch are in the area
+(until the very end) but intriguing in their own right. The best of
+the puzzles is one involving a devil and the task he assigns you: the
+solution requires an intuitive leap of sorts, but a sensible one, if
+that makes sense; though most are fairly clever and rewarding to
+solve.
+
+There are few moments in John's Fire Witch that break the spell, so to
+speak, by drawing the player's attention to the mechanics of the
+game. One is a painful guess-the-verb moment, coupled with some
+illogicalities on the solution to the relevant puzzle (why one
+particular solution to the ring problem is deemed correct, and another
+incorrect, is less than obvious to me). There is a puzzle that cannot
+be solved until a certain number of turns have passed -- and if you
+move through the earlier part of the game efficiently, you may find
+yourself a bit puzzled about why there's no apparent way to move the
+game forward. (Or simply irritated about having to wait 50 or so turns
+for something to happen.)
+
+The inventory limit is fairly small and requires some step-retracing
+(arguably, this is more rather than less realistic, since the classic
+adventurer seems to have eleven hands, but it does complicate things),
+and there are a few situations that require somewhat exact syntax. But
+most nouns and verbs have several substitutes, though the game
+occasionally fails to fill in logical gaps (for instance, "sleep" with
+a bed in front of you puts you to sleep on the floor). Moreover, the
+game is free from scenery-object confusion, free from disambiguation
+problems, as far as I could tell ("which do you mean..."), and takes
+the trouble to code many specific responses to non-useful actions,
+lending to the polished feel. In short, even if there isn't much
+there, problems that distract from what is there are relatively few.
+
+The writing is mostly good, though it has its rough moments -- the
+death of an adversary is somewhat unnecessarily gruesome, something as
+unusual as a bridge made of ice gets virtually no description, and the
+game takes it upon itself to tell you when you stumble into a crystal
+grotto that "the overall effect is quite beautiful." Let me conclude
+that, John. You just tell me what's there. Still, most of the writing
+is solid, though some of the better descriptions are in the apartment
+rather than in the tunnels, which often feel, well, just a bit
+generic, and occasionally a tad clumsy.  For example:
+
+	 Long Tunnel (1)
+
+	 This is a long tunnel leading north and south.  It has
+	 definitely been purposefully made, being tiled with crafted
+	 stone.  It looks like something that would have been created
+	 centuries ago.  You can see the Red Crystal Grotto to the
+	 north, and a side corridor leads off to the east.
+
+Not awful, certainly, but there are more adept ways to suggest that
+the tunnel didn't just come about than "it looks like something that
+would have been created centuries ago." Like the rest of John's Fire
+Witch, though, the writing is good enough to keep the game enjoyable
+(and focus the player's attention on the puzzles, for that matter;
+more striking prose would give the game an exploratory feel, which
+might mesh oddly with its role as a diversion with some clever
+puzzles. And many moments have a certain deadpan charm, e.g. when
+you're about to be frozen:
+
+       There is a loud and horrible rushing noise in your ears, and
+       the room appears to be filling up with what you would describe
+       as steam if it were not so very very cold.
+
+John's Fire Witch was designed as a short diversion, and it fills that
+purpose -- and more elaborate descriptions or development of the plot
+might distract from that purpose. As it is, the player need only grasp
+the essentials of what's going on (actually, not really even that)
+before plunging in and starting to solve puzzles -- and the
+unobtrusive writing is consistent with the overall feel. The ending
+points to a sequel, which may or may not be more elaborate -- but as s
+short "snack-sized" game, this one works quite well. Its general
+solidity (in comparison to much of what is produced nowadays)
+testifies to the undeniable truth that putting together workable,
+polished IF is not easy. On the whole, John's Fire Witch is not
+especially remarkable for anything in particular it does right, a few
+clever puzzles aside, but especially for a first effort, it deserves
+recognition for the many things it avoided doing wrong.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Steve Bernard <x96bernard1 SP@G wmich.edu>
+
+NAME: Mercy
+AUTHOR: Chris Klimas
+EMAIL: christopher.klimas SP@G washcoll.edu
+DATE: August 1997
+PARSER: Inform
+SUPPORTS: Z-Machine
+AVAILABILITY: GMD
+URL: https://ifarchive.org/if-archive/games/infocom/Mercy.z5
+
+Your name is Dr. Peter Basham.  Your job is Mercy, if you can call it
+that.  There's nothing you or your colleagues can do about the recent
+outbreak of smallpox but help people to die as easily as possible.
+Once you were a pediatrician; now all you do all day is "euthanize"
+(the medical profession's nice term for "kill").
+
+Chris Klimas' "Mercy" is probably my favorite of all the games to be
+released this year, including the competition.  It can hardly be
+called a game, though.  As the author says, it's more of a short
+story.  It's heavily plot oriented, but flexible enough that the
+player can still make many choices along the way and take different
+branches.  The character is predetermined with feelings and background
+supplied by the game, but it avoids the pitfall of simply telling the
+player that they feel a certain way.  Rather, the character
+interjections fit so well with the plot and the atmosphere they never
+seem forced.
+
+The make-it-or-break-it aspect of "Mercy" is its lack of puzzles.
+That's right folks, "puzzle-less I-F"...  That isn't to say that your
+actions don't affect how the story turns out, but it does mean no
+locked doors to open, no odd futuristic machines to operate, and no
+"find the smallpox cure in some obscure location" situations.  But to
+be honest, I hardly noticed the absence of puzzles until after I was
+done.  Seriously, the story and atmosphere are engaging enough that
+the inclusion of puzzles would probably take away from the game as a
+whole.
+
+Flaws?  Well yes, there are a few.  A couple spelling mistakes or
+extra typos occur here or there.  There's a verb or two that could be
+recognized and a couple objects in room descriptions that the player
+might want to refer to but can't.  Honestly, I assume the author has
+noticed or been notified of these things already.  I just hope he'll
+put out a Release 2.
+
+It's weird, if I just described the game quickly (i.e. No puzzles,
+predefined character, clear plot from beginning to end...), it
+wouldn't sound very enticing.  In fact, it sounds like it would be a
+bad game if you boil it down to just that.  "Mercy" proves that these
+descriptions are not bad in and of themselves.  By no means do the
+standard I-F conventions need to be adhered to in order to produce
+quality work.
+
+Chris Klimas says that he hopes "Mercy" is something new in the
+interactive fiction universe.  I don't know if that's true or not, but
+it certainly was a breath of fresh air for me to play and it clearly
+is different.  I love the feelings it stirs in me, the disturbing
+moodiness that hangs over the whole thing, the "love story", as it
+were...  I kinda wish he'd kept it until the competition.  It would
+have grabbed *my* highest rating.
+
+My Rating: I give it an 8.5.  I felt guilty at first for giving it a
+rating comparable to such long, great games as Trinity or Jigsaw.
+Thing is, I really did like it that much.  The comparison really isn't
+fair, though: you don't judge short stories against novels.  I liked
+"Mercy" for different reasons.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: The Meteor, the Stone, and a Long Glass of Sherbet
+AUTHOR: Angela M. Horns, a.k.a. Graham Nelson
+E-MAIL: graham SP@G gnelson.demon.co.uk
+DATE: 1996
+PARSER: Inform standard
+SUPPORTS: Inform ports
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/infocom/sherbet.z5
+VERSION: Release 2
+
+It is virtually a film cliche nowadays: early on, one character tells
+another everything the audience might need to know, sometimes in
+circumstances justifying such a tale but sometimes not. It's a clumsy
+device, but it keeps the audience from having to work too hard, always
+a vital element. Graham Nelson's Meteor... preempts that approach by
+setting out the plot in menu format, distinct from gameplay, a wholly
+laudable move in this particular game -- for the backstory that Nelson
+elects to give us is exhaustive enough that it would clutter gameplay
+considerably were it thrown in Hollywood-style. But it also catches
+the player somewhat off balance to find that the complicated setup is
+only minimally relevant to the game -- at least, to puzzle-solving; no
+puzzles require knowledge found in the backstory.
+
+Rather, Meteor... reduces the "solve puzzles because they're there to
+solve" feel by embedding the motivations for the player's action in
+the story, so that the plot makes sense of your actions while not
+requiring you to consult the setup constantly as a guideline. The game
+gives you an initial plot and set of motivations -- you are an
+ambassador from a small province sent to investigate strange doings
+while keeping relations amicable -- that provides credible reasons for
+your required actions. This is not to say that there are no holes or
+improbabilities, but there are remarkably few, considering how
+complicated the story become. It may not seem like the most notable
+feature of the game, but it's an element rarely seen in IF nowadays: a
+reasonably involved storyline that, suitably understood, makes sense
+of the game, even though the game is quite playable by itself.
+
+Well, mostly. Considering its authorship (*bow* *genuflect*),
+Meteor... is encumbered with a surprising number of gameplay problems,
+as in Stuff An Author Really Shouldn't Do. Among the less flagrant is
+a puzzle that involves waiting around, by my count, 23 turns before a
+solution is possible. Granted, there's nothing to do for those 23
+turns anyway, and yes, a few things of some (but only some) interest
+happen while you're waiting around -- but given that the relevant
+event is not a one-turn happening when it does come along (you notice
+something that is henceforth there for the examining until you figure
+out what to do with it), it seems like the author could have hurried
+things along a tad. Now, yes, the point of the scene in question is to
+establish boredom, and it's certainly effective in that respect -- but
+mightn't effective writing have the same effect? In short, it's a
+questionable decision that risks annoying the player out of the game.
+
+More egregious are guess-the-verb moments -- a few relatively mild,
+one absolutely horrendous. (When you get there -- you'll know -- the
+relevant verb is "give." You're welcome.) It isn't at all clear what
+happened, besides, perhaps, that the author was rushed in putting the
+game together. There are other puzzling glitches -- some unlisted
+exits (one that made a puzzle's solution a complete surprise to me)
+and a description that I found wholly inadequate to convey the
+scene. (It relies on a better understanding of the term "scree" -- a
+Britishism? perhaps -- than I had, anyway.) One puzzle in particular
+toward the end of the game, involving the correct combination for a
+dial, is not blessed with huge whopping amounts of sense, and several
+other actions involve painfully exact wording that slows down the
+game. At one point, you lose some of your possessions unless you take
+steps to safeguard them -- but while it doesn't seem so unreasonable
+to have them appear again beside you if you've taken the right steps,
+the game requires a long circuitous route to retrieve the stuff. None
+of this makes the game unplayable or less than enjoyable, but it's a
+bit disconcerting in an otherwise strong entry.
+
+The puzzles are excellent; many involve a certain large-scale thinking, an
+awareness of how the game environment fits together as a whole, that feels
+genuinely fresh. A few, true, involve semi-suicidal actions, but they're
+so strongly hinted at by the game that they're more or less reasonable to
+try. (And what player really rejects actions on grounds that they're
+semi-suicidal anyway?) A few are a bit obscure, true, but not unguessable;
+the only one that seemed unfair was the result of a poor setup, as
+mentioned above, not the puzzle itself.
+
+The game is a tad inconsistent about what it rewards with points -- I
+was initially convinced I was wasting a needed resource on the wrong
+puzzle because I wasn't given a point for solving it -- but that's a
+minor blip on a set of very good puzzles. The reliance on physics and
+common sense recalls the appeal of the Zork series: the puzzles
+required understanding and using conventional objects to achieve your
+ends, even in fantastic settings, rather than mastering complicated
+systems or foreign concepts. In that way, the Zork games were always
+accessible -- lack of a scientific bent was never a bar -- and here,
+similarly, the puzzles reward logic and logical experimentation.
+(Particularly good is the problem requiring use of the stick, and the
+way you use the hornet is certainly intriguing.) The game manages to
+recapture the magic element of the Enchanter trilogy without making
+your puzzle-solving largely magic-based; a few of the puzzles involve
+magic, but few enough that trying all your spells in a given situation
+is not generally reliable. In short, the puzzles in Meteor... are
+generally good, and even memorable in a few cases. As for the format
+of magic itself, the "learn spell" routine -- well, it never troubled
+me much, but apparently it makes many weep and gnash their teeth. It
+fits the feel here, wherein magic is only being rediscovered, but it
+isn't, strictly, necessary.
+
+A game that purports to return to the Zork universe -- given, that is
+not Meteor's express claim, and its plot is far more involved than
+that, but that is part of its premise -- must understand and recapture
+its feel, and in that Meteor... succeeds admirably. The central
+location -- an inverted cedar -- is vivid and strikingly written:
+
+	This is a slate-littered shelf high up at the northwest eaves
+	of a dark, vaulted cave, from which a meadow-fresh breeze
+	blows. The ledge broadens down a slab "staircase" to the east
+	but wastes away into a tight squeeze southwest. Natural
+	passages extend like tendrils into the rock all around this
+	cavern, but only one is accessible from here, back north under
+	the lintel.
+
+	Hanging down toward the dim, distant cave floor is a
+	flourishing, inverted cedar, its roots grappling the roof, its
+	nearest outflung branch a good 10 feet across the abyss from
+	here.
+
+Moreover, it is fantastic in a way that suits the genre well,
+intriguingly unusual but not so bizarre that the player can't imagine
+it easily. As with the Carousel Room in Zork II (or, even, the living
+room and its various entries in Zork I), mastering the layout means
+getting the hang of traveling through that location, and the geography
+here makes sense once the player accepts the premise. Just as
+successful is the bridge between fantasy and reality, especially since
+that relationship is central to the game -- the real-life element is
+thoroughly (if tediously) established before you, the ordinary fellow,
+are cast into the fantasy side, and the conclusion ties things back
+together nicely. As a result, the player need only suspend disbelief
+in a few elemental ways -- the existence of magic, for instance --
+because the original "ordinary" persona is believable. It may not seem
+like much, but it's an element that the original Zork games certainly
+never tried to capture. And there is even a sense of perspective on
+Zork and its progeny, captured in an encounter with an adventurer's
+ghost that concludes thus:
+
+      The Adventurer, having now acquired the whole nearby wealth of
+      treasure, spreads his arms around the pile of loot. As he does
+      so, he and they vanish like the dawn into the past where,
+      perhaps, they belong.
+
+It might be said, therefore, that Meteor... returns you to the Zork
+universe but does not send you there as an adventurer, as such, merely
+a chance visitor, and even with the variety of Infocom references --
+including the living room from Zork I and several of the original
+treasures -- the plot given, not "exploring the Zork universe," drives
+the story and keeps things moving along.
+
+As noted, the writing is strong, particularly in the way it conveys
+the hanging cedar and the surrounding scene; Nelson, as with the best
+game authors, paints each scene vividly in just a few
+sentences. Particlarly effective is the way the locations that are
+intermediate between ho-hum everyday life and the fantasy Underground
+Empire hint at the latter -- they point to something unusual but avoid
+telegraphing it in overly obvious terms. To wit:
+
+	     Bubbling Pool
+
+	     This is a red-brown earthy bole, a cavity in hardened
+	     soil with but a single crawl leading out to the
+	     southeast. The ground is covered with autumn leaves,
+	     russet and variegated.
+
+	     In the centre is a bubbling pool of spring water,
+	     glinting with shades and flickers of green
+	     phosphoresence.
+
+Intriguing enough on its face -- and why are there autumn leaves
+underground? Why is the pool "bubbling"? Nelson draws the player in
+through a series of increasingly intriguing discoveries, rather than
+throwing the entire Zork universe into one momentous discovery. There
+are a few somewhat overwritten moments...
+
+    ...And suddenly, there is the Power! It crackles through your
+    whole body, sparking at your fingernails and toenails, sending
+    shivers along your limbs. You feel suddenly afraid to imagine,
+    afraid that you can no longer tell imagination from reality.
+
+...but only a few, and they don't distract much from the game. Moreover,
+the humor integral to Infocom's fantasy efforts is here in spades, with a
+wryness that avoids an "I'm being funny now" feel. For example:
+
+	>examine elephant
+
+	The magnificent grey beast is wrinkled and has a wise look
+	(but then, after an entire day of Amilia's conversation, your
+	average potato would have a wise look). His two great ears
+	flap a little up at the front sides of the basket, his trunk
+	curls and pokes at the air.
+
+Equally amusing are the dummy spells you can encounter late in the
+game, including "gloth," referred to in Spellbreaker (fold dough 83
+times), and others to "paint picket fence orange" and "reduce herbs in
+over-spiced stew." As Infocom liked to do in its day, these bits help
+make magic amusing rather than fearful and awe- inspiring. And there
+are the usual Nelson touches -- an Eliot reference here, references to
+obscure science fiction authors there -- and there is a spell to "view
+the past" that allows perspective on every location in the game, givin
+the game a sense of completeness (though the spell is not necessary to
+win the game, nor is it even useful).
+
+As is in the case in the best games, there is much more going on here
+than the bare plot and puzzles; the wealth of extraneous details give
+Meteor considerable explorability and replayability, and allow the
+player to keep discovering more about the game on subsequent
+attempts. There are no alternate paths -- in fact, no puzzles have
+alternate solutions -- but there are many things to ponder along the
+way that the initial gameplay might not necessarily reveal. Just as
+importantly, though, even when the puzzles are simply there to solve
+rather than part of the story, the writing preserves the feel --
+ordinary fellow discovers extraordinary things -- and reminds you now
+and again of who you are. (For example, upon reading a document:
+"Scratchy handwriting adorns this text, and the writing's in a dialect
+almost unrecognisable today. But, like any diplomat worth his salt,
+you've a way with language..." Touches like this diminish the sense of
+puzzles grafted into the game, and help merge plot and gameplay -- not
+entirely successfully, but skillfully enough.
+
+In sum, Meteor is a worthy return to, and comment on, the Zork world,
+and an entertaining game in its own right. While not as polished as
+many of Nelson's works, it certainly stands among the better games out
+there (though it was rather long for a competition entry, with more
+than 300 turns required). Glitches aside, there is enough Graham
+Nelson here to make it well worth any player's while.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Yuzo Takada a.k.a. Dark Fiber <entropy SP@G mpx.com.au>
+
+NAME: Mystery Island
+AUTHOR: Mountain Valley Software
+EMAIL: ???
+DATE: I would guess circa 1985?
+PARSER: Scott Adams Standard
+SUPPORTS: C64 and C64 Emulators (many platforms)
+AVAILABILITY: IF archive
+URL: https://ifarchive.org/if-archive/games/c64/
+
+
+Aaaaah another classic C64 game I remember from my youth.  This game,
+reaaally harks back to the Scott Adams days.  Its a treasure hunt,
+which for a large percentage of IF players means you should hit page
+down to get to the next review.
+
+As with Bastow Manor, this game is by one of two "companies" that
+produced IF on the C64 using the text textgraphic format for a good
+result.  Graphics in this game are good and if not in some places,
+above anything you would expect.  Unlike Bastow Manor and other
+Softgold adventures, Mountain Valley Software uses the half screen
+height, half screen width for pictures.  The top right quarter of the
+screen is used for the room graphic, the top left quarter is used to
+display your exits, visable items, etc whilst the bottom half is your
+text input area.
+
+Like Bastow Manor, there is not lead-in text or "what do I have to do
+to complete the game" type introduction.  I have completed it so I can
+give you a rough synopsis.  You are the lone occupant of this island
+you find yourself on and the aim is to collect the ten treasures
+scattered and hidden throughout the island.
+
+This is a treasure hunting game, the puzzles and items you will come
+across are not logical.  The puzzles you do come across are of the
+push button, say magic word, store magic item variety.  It plays a lot
+easier than Bastow Manor.  There is nothing unique or outstanding in
+this game that comes to mind.  What is obvious when you play the game
+is that it WAS designed.  It's evident that the author did not just
+plonk items willy nilly around the landscape.  Some of the items you
+must retrieve are give-me items and some you must work for.  Where the
+games planning does fall down is that only one treasure you pick up is
+actually used!  The rest of the treasures are just scoring fodder.
+
+Sudden death does not lurk around every corner but every second one.
+There are about 10 or so ways you can die in this game and some of
+them are only if you really do stupid things, other killing methods
+are the standard "do something normal and get killed" type things.
+Fortunatly those types of problems are here in a lesser presence than
+in Bastow Manor, and if you're good you won't actually die in this game
+before you finish it.
+
+Mystery Island does suffer from the same affliction as Bastow Manor in
+that you must look at things mutliple times in order not to miss items
+and clues.  The puzzles in the game are very easy to overcome and if
+you've been taking notes whilst playing, the final "tough" puzzle is
+not very tough.  This game is a lot easier than Bastow Manor, it's
+also not as bugged (i.e. I completed it without having to make any
+fixes to the code).
+
+The island itself is tiny with only about 15 to 20 locations and a few
+red herring items.  The game is winnable inside 20 minutes depending
+on your typing speed, once you know what's what in the game, otherwise
+I'd say it would most likely take an hour or so to complete on your
+first go.
+
+A good beginners game.
+
+I will score this game 6/10, some harder puzzles would have pushed the
+score up to 7.  Recommended for the nostalgia freaks and people of
+limited adventuring knowledge.
+
+Hopefully I will have finished Lost City Adventure and Castle of Mydor
+(which I think is Mountain Valley's version of Bastow Manor) by next
+issue!
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Yuzo Takada a.k.a. Dark Fiber <entropy SP@G mpx.com.au>
+
+NAME:	The Pawn
+AUTHOR: Magnetic Scrolls
+DATE: Mid-80's?
+SUPPORTS: See review of "Fish!" above
+AVAILABILITY: Commercial (see above)
+
+Ahhh, Magnetic Scrolls first illustrated text adventure and, like
+Infocoms first official game Zork, is just about as famous unless you
+lived in America in the the late 1980's of course, which is a pity.
+
+The story: you have been bushwacked on the way home from shopping at
+the supermarket and you wake to find yourself in the land of Kerovnia.
+
+Things aren't all gold and cheese in the land of Kerovnia though, and
+you find out why later.  The game starts off by not telling you what
+you are supposed to do, and you only find this out by talking to
+everyone you meet.  The characters you get to meet are a colourful
+bunch, Jerry Lee Lewis (yes, yes, the one and only), Kronos the
+Wizard, a horse with no legs, Honest John and a bloody irritable
+princess.
+
+The parser is quite good but has its niggles. Especially in reference
+to English and some objects.  The most noticable bug is the "white"
+one: you have in your inventory "you are carriny a white" which turns
+out to be a white light.  Kinda dodgy and should have been picked up
+in bug testing.
+
+The puzzles are very crafty and logical.  Hands up those of you who
+got stuck trying to move the boulder!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: agt20 SP@G phy.cam.ac.uk (Alistair G. Thomas)
+
+NAME: So Far
+AUTHOR:	Andrew Plotkin
+AVAILABILITY: Freeware, gmd
+EMAIL: erkyrath SP@G netcom.com
+DATE: December 1996
+PARSER:	Inform
+SUPPORTS: .z8 compliant Inform interpreters
+URL: Story File: https://ifarchive.org/if-archive/games/infocom/sofar.z8
+     Invisiclues: http://www.bioc.rice.educ/~lpsmith/IF/sofar.html
+
+So Far has been around for a while now, having been released in late
+96, but for some reason it's never been reviewed in SPAG News. Magnus
+reckons we're all too daunted by it. Given that it won the awards for
+Best Game, Best Writing and Best Puzzle in the 1996 interactive
+fiction awards, organised by XYZZY News, I thought it was about time
+it was written up here. It's a noteworthy title, for a whole slew of
+reasons. IF's traditional features have been handled extremely well,
+in that the writing, the puzzles and the coding are as near flawless
+as they come. There are further aspects however, concerning the
+game-world and the player's place within it, that add new and
+thought-provoking elements. I'll go through all of these.
+
+In reviewing any adventure, there's a balance to be struck, between
+describing the game and giving the game away... In this case
+especially, where so much is so inventive, I really don't want to reel
+off the places and events that make up the story. I'll try and
+describe the style and the approach, and I'll quote a little, and
+hopefully you'll get some idea of what's different about So Far.
+
+On beginning, the first thing to strike you is the quality of the
+writing.  Most of the text is in traditional fantasy style,
+i.e. plenty of adjectives, plenty of drama, plenty of verbal
+swoosh. From a writer of limited ability, this can be fairly
+cringe-inducing, but the author here brings it off extremely
+well. There are dramatic moments, exotic settings, and strange,
+half-understood events throughout this game, and the prose never
+flags. I would say this is the best writing, in this style, that I've
+seen in IF.
+
+	West Portico
+
+	More people are relaxing here, perhaps because of the kegman
+	who sells his beer under the theater portico. The main street
+	bakes in sunlight to the south; the front of the theater
+	continues to the north, adorned by some decorative potted
+	shrubs.
+
+	A couple of people nearby are discussing the moons. That's
+	right; tonight is the night that the astronomers have been
+	going on about. You'll have to be sure to watch. Snuggled in a
+	blanket, ideally... if you ever find Aessa.
+
+	You feel the faintest cool breath of air.
+
+	Wait. Wait. What's ever cool in this suffocating summer heat?
+	It comes again, slight, smoky, deep with autumn. Impossible.
+
+	>x sky
+
+	You lean out of the shade and look up. The sun scorches you
+	from one side of a metal-blue sky. The moons are also
+	visible. Warel is already high; Amwal is just rising, but she
+	will soon be catching up, approaching tonight's lunar event.
+
+Early in the game, the settings are pretty much fantasy staples, but
+they're varied and well realised. The player has no particular idea of
+their role, or even their identity, but without giving too much away,
+the game is a journey, an exploration of worlds weird and
+wonderful. While some of the places to be found are standard
+adventure-fare, frozen wastes, castle moats and the like, others are
+fresh and fascinating. These tend to be the inhabited stretches. The
+author creates the impression of some rich and living cultures, by
+virtue of things happening in the background, with virtually nothing
+in the way of Ask XXX About YYY. Coming across these people, observing
+their strange activities, it's eerily reminiscent of the early Star
+Treks, when Kirk was always beaming down to strange new civilisations,
+picking his way cautiously amongst the 'aliens'.
+
+These people are a good example, in fact, of the style the author has
+adopted throughout the game. The world is not there for the player's
+benefit. It does not revolve around him. On seeing a building, a
+street, a door, an object, there's no guarantee that you'll be able to
+do anything useful with it. It may well be there for some reason which
+doesn't concern you. This is not to say these things can't be referred
+to, or looked at or under or manipulated, just that they won't
+progress the story, or at least, not the story of the
+player. Conversely, as you find yourself in strange places, with
+strange items to be had, some of these things most definitely are
+useful, if only you can work out how to do whatever it is they do.
+
+	>x box
+
+	The box is strange, even stranger for being so simple. Just
+	polished wooden sides, trapezoidal, no two faces parallel. But
+	the joinings are precise; no seams show. The craftwork is
+	exact. No mark shows on the rich reddish wood, except for the
+	natural grain; and also a row of paler circles on each
+	side. These seem to be inlaid discs of a blond wood, flush
+	with the surface, each incised with a deep star-shaped mark.
+
+	>x discs
+
+	The discs are each about as long as the last joint of your
+	thumb. They are arranged in precise rows of three discs each,
+	one row on each face of the box. Each disc is incised with a
+	mark in the shape of a three-pointed star.
+
+
+Often you'll have no idea why or how things do what they do, you just
+have to figure out how to make them do it
+
+Moving through things and places, that you know nothing about, but
+that you have to make some sense of to move on, gives the story an
+eerie, other-worldly feel. In the early stages this feeling, of things
+going on that no-one is telling you about, is evoked by impassable
+locked doors, streets the locals won't let you enter, arcane power
+sources for derelict machinery.
+
+You're reminded of Europe, in the later 19th century, where one of the
+influences that produced the Impressionists was the new availability
+of prints from Japan. These, shockingly, included pictures of objects
+half-in/half-out of the frame, cutting people or scenery in half, with
+seeming disregard for the careful composition of scenes characteristic
+of Western art until that time. In the real world, whatever you choose
+to look at, you catch unconnected things in shot. The author has
+achieved that effect here. It's a subtle, quite brave thing to do,
+pretty much new in IF.
+
+Later on, things become less conventional yet, and the familiar
+traipse round the map, looking for objects, becomes a fond memory.
+
+Read this example. In this dark place, seeing nothing, you're battered
+by sound, different sounds as you move around, some so loud that they
+block your progress, some deadly. The solutions to these problems
+depend on sound as well, but you never know just why or how they work,
+or exactly what you've done, or why this place is like this.
+
+	Darkness
+
+   	It is too dark to see.
+
+   	You are nearly deafened by unseen clangor. A thousand bells
+   	might be roiling a foot above your head. The noise is dampened
+   	to the east, where you can hear an occasional sharp rap, and
+   	to the north, where an echoing plipping noise gives the
+   	impression of dripping water.
+
+	>listen to the bells
+
+	The noise is a thousand incessant bells, from an ice-sweet
+	chime to a fierce, deep gongen. Not one of them pauses, for
+	one moment.
+
+	Somewhere behind the noise, there is an indistinct voice,
+	chanting: "Hear the tolling of the bells... iron bells..."
+
+	>listen to the bells
+
+	Somewhere behind the noise, there is an indistinct voice,
+	chanting: "What a world of solemn thought their monody
+	compels..."
+
+	>listen to the bells
+
+	Somewhere behind the noise, there is an indistinct voice,
+	chanting: "To the tintinnabulation that so musically wells..."
+
+	>listen to the bells
+
+	Somewhere behind the noise, there is an indistinct voice,
+	chanting: "From the jingling and the tingling of the bells."
+
+Metaphysical moments come thick and fast towards the end. You find
+yourself drifting among clouds, with vague feelings of attraction and
+resistance interfering with your progress. You see shapes acting out
+scenes you don't understand; you don't know where you have to be. When
+they ask you questions, you don't know what they mean. In most games,
+this would mean you'd missed out the bit where you found out the
+answers. In So Far, the author has pushed the idea that in a strange
+world, the player might well face strange incomprehensible things, and
+to pass through that world, he might well have to figure out what they
+can do for him. He is not the focus of this world; it has its own
+history, its own concerns. The player will not get his hand held here.
+
+The idea that things need not be explained, as long as they exhibit an
+internal logic, is probably the defining characteristic of So Far.
+Metaphysical choices, vital and incomprehensible objects, whole worlds
+which aren't north-south-east-west-strolls: these really require a new
+view of the player's place in his world. It asks what IF does, what it
+can do, and so what it should do. And this, is Modernism. In IF. If
+this carry-on doesn't stop, we'll be a proper grown-up medium before
+you know it. Lordy.
+
+But moving quickly on now, um... puzzles.
+
+The puzzles are generally very good. There are only a few problems
+which come down to find & use, and even these tend to be unusual
+objects and uses. There are also some excellent, more complex
+problems, which are imaginative and very satisfying to solve. (XYZZY
+News voted the immense gate the best problem of 1996, although I
+preferred the bizarre animals. I had to consult the invisiclues for
+the light source...) These problems (and there are a few) involve
+several stages, and are thankfully well coded, with the possibilities
+arising from each step dealt with intelligently.  There's very seldom
+a single action which the player has to find. More likely, a range of
+choices will be apparent, most of which will end with the player
+feeling rather sheepish, with the actual solution requiring quite some
+thought. Indeed, the range of things the player can do at each stage
+of one of these problems is part of what makes them difficult.
+
+And this is a difficult title. The puzzles are not re-hashes of things
+we've seen before, and the stranger ones will definitely have you
+scratching your head. The significant freedom the player has can let
+him screw things up completely. There is apparently a walkthrough
+available, although I haven't seen it, and in fact Lucian Smith has
+gone to the effort of producing some online invisiclues, which I had
+to use for the later sections, and would recommend above a
+walkthrough. Screwing up is generally worth doing a few times however,
+just to read what's gone wrong this time.  Black humour, metaphysical
+angst... you'll be on the end of it all.
+
+On the technical side, coding is robust enough to deal with even the
+complex, multi-stage problems encountered. Basics like spelling and
+grammar are just about perfect, and guess the word problems are almost
+non-existent, although in some weird situations, you may find yourself
+producing weirder suggestions than the parser is expecting.
+
+In conclusion, I'd recommend So Far to anyone. Some of its new ideas
+won't be to everyone's taste, but they're certainly worth looking
+at. The more traditional parts are imaginative and involving and make
+a cracking game in their own right. Go get it.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Space Under the Window
+AUTHOR:	Andrew Plotkin
+E-MAIL:	erkyrath SP@G netcom.com
+DATE: 1996
+PARSER:	Inform, thoroughly hacked
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/infocom/sutwin.z5
+VERSION: 2
+
+Not sure if it's reviewable, but I'll try. Andrew Plotkin's Space
+Under the Window is a work of "experimental" interactive fiction, as
+part of a project that produced a variety of creative works under that
+title -- and it's hard to imagine how the others could have pushed the
+boundaries as much as this one does. The point of Space... is to let
+the player interact with the environment without conventional IF
+commands -- and what, exactly, is the player doing? It's hard to say,
+but it's certainly worth trying.
+
+The mechanics are simple: given a block of text, ranging from a
+sentence to several paragraphs, you type a word appearing somewhere
+within the text, which may or may not affect the narrative. If it
+does, the screen clears and you are given a new block of text --
+sometimes changed only by a word or two, sometimes with a new
+paragraph, sometimes entirely different, and you start once again
+trying words. The effect is not quite EXAMINE [object], as the
+following shows:
+
+	  The window is open, so you climb down inside. The table is
+	  set for two.
+
+	  >two
+
+	  The window is open, so you climb down inside. The table is
+	  set for two -- a surprise; you didn't think you were
+	  expected.
+
+No one would type "examine two", but the change manages to elaborate
+on the concept, somehow, and suggest that you have learned more about
+the idea. The closest analogue in real life might be a storyteller
+whom you are invited to interrupt constantly to explain something more
+fully, though the storyteller apparently declines sometimes to
+elucidate whatever it is. (Sometimes, a word that led to development
+may not later, even if that word is still on the screen.) The progress
+is thoroughly nonlinear -- most words, if typed a second time, will
+reverse the effect of the first input, though that isn't always
+true. As a result, there is minimal need to restart even if you've
+sent the narrative somewhere you'd rather not, since you can undo the
+effects of any command (either with a well-placed word or "undo"), and
+a few commands can send the story back to the beginning.
+
+This could be mechanical and fairly dull without some imagination --
+it could become conventional IF with only EXAMINE available -- but
+Plotkin is up to the task. Many words yield unexpected results, and
+trying to manipulate the story to do something in particular is almost
+invariably a failure -- it is more accurate to say that you discover
+the story as you go along. In that sense, this is closer to
+conventional fiction than traditional interactive fiction, since you
+only affect what particular story you see -- you are not, really,
+writing the story yourself. The levels on which you change the story,
+though, are several; there is a wide variety of input by which you can
+affect what you "see". One of the more intriguing involves light, and
+its effect -- this is one transition:
+
+	   The window is open, so you climb down into dimness. The
+	   table is set for two -- a surprise; you didn't think you
+	   were expected. The cold shadow lifts a little. Yes. An
+	   empty vase, white glass, stands beside a single lit
+	   candle. A smile touches you; it feels like the first one in
+	   some time.
+
+	   You are arranging your flowers when the door opens.
+
+	   >dimness
+
+	   The window is open, so you climb down into dimness. The
+	   table is set. An empty vase glows, white glass catching the
+	   light of a single candle. The rest of the room shades into
+	   obscurity.
+
+	   You are arranging your flowers when the door opens. (You
+	   slip back into the shadow of a corner.) A figure climbs
+	   out, and lowers the door closed.
+
+Primary among the adjustments for the seasoned IF player is losing the
+"goal" feeling -- the need to type in the right combination of
+commands that will produce a "You have won" or some equivalent. That,
+to say the least, is not the point of Space Under the Window, and
+insisting on it leads to frustration; there are certainly many endings
+to the story, but not many of them resolve much, such as who you are
+and what you're trying to do.  Moreover, many of them are frustrating
+in some respect: they seem to represent failures of one sort or
+another. A lost connection here, an ignominious flight from an
+encounter there, distrustful silence that never gets broken. Those
+that aren't expressly negative are at best neutral, and the player
+learns to appreciate intriguing twists as developments in the story
+rather than goals achieved.
+
+Space... is superior in that respect to other "experimental" works of
+IF, such as "In the End", that never quite lose the feel of
+"accomplish something." The mechanics are part of it -- though you
+occasionally say things, the player has no control over the words, nor
+when they are said, and the effect is sometimes like a novel centered
+around a main character who is not always sympathetic. Not being able
+to exercise control over the character -- yet playing in the second
+person nonetheless -- is a strange and disconcerting feeling, and the
+haphazard ways that your input affects events reinforce the sense that
+you are witnessing rather than participating in the narrative. The
+result is subversive in its way -- it questions the assumption that
+you are sent to an interactive-fiction environment to do something
+concrete, make an effect, rather than experience what's there. In
+effect, it makes the scene itself, and what happens there, more
+important than you, the player (though you as the player are distinct
+from "you", the character), since your importance is mostly to enter
+commands that allow you to see more. In that the setting is almost
+entirely fixed in one location, Space... also forces the player to
+appreciate the minute details that Plotkin brings out.
+
+There are a few red herrings that I found somewhat distracting. One of
+the few choices you can make sends some signals suggesting it will
+affect the plot, but in fact it doesn't -- it merely affects a certain
+room description. There are plotlines that simply can't be followed --
+it looks like they might lead to several-paragraph narratives, but
+they simply stop, and all input either reduces the text or sends the
+player down a different line. And it is best not to try to understand
+the cryptic bits of conversation by cross-referencing between
+different storylines, since the comparison yields little insight; it's
+ultimately more rewarding simply to regard the exchanges as cryptic
+and appreciate the way they change with your commands.
+
+At one point, a certain input will add to a fairly innocuous account
+of a woman's movements the following: "(Always careful, and always
+quiet. It took months before you saw past that.)" You never discover
+what the "months" reference meant, nor enough to say what you "saw",
+which certainly intensifies the air of intrigue; it's difficult to say
+whether Space... would be more or less satisfying with fewer
+unanswered questions. There is certainly intrigue aplenty in the
+movements you observe, all the more because they reflect a history
+unavailable to you. The above addition also provides a moment of
+insight into your own character -- the scorn in the tone of that
+statement reminds the player that he or she is not, despite the second
+person, dealing with a blank slate.
+
+The writing is skillful: Plotkin makes the scene changes reflect your
+input while limiting your ultimate control over what you see. (The
+experience is sometimes like throwing a rubber ball in the general
+direction of an object -- we know it will change things around, but we
+can't reliably predict how.) Sentences and phrases are added to
+existing text, with considerable effect:
+
+	 The window is open, so you climb down inside. The table is
+	 set for two -- a surprise; you didn't think you were
+	 expected. Yes. An empty vase, white glass, stands beside a
+	 single lit candle.
+
+	 >surprise
+
+	 The window is open, so you climb down inside. The table is
+	 set for two -- a surprise; you didn't think you were
+	 expected. The cold shadow lifts a little. Yes. An empty vase,
+	 white glass, stands beside a single lit candle. A smile
+	 touches you; it feels like the first one in some time.
+
+Again, the change is more psychological than perceptual; your
+character begins to perceive something differently, and the change
+affects later interactions. In the hands of a less effective writer,
+this sort of thing could feel clumsy, as if our attention were
+deliberately drawn to whatever it is that's affected -- but, here, an
+inattentive player might miss the significance of the change and how
+it influences later developments. An equally effective example is the
+difference between the following two descriptions, depending on a
+certain input earlier on:
+
+	"I never dreamed it would." She tosses her head back
+	suddenly. "It seemed appropriate, that's all. Here. Finally."
+	The flame of the candle flickers uncertainly, but her voice is
+	still steady. "...Shall we go?"
+
+	"I never dreamed it would." She tosses her head back suddenly,
+	her lips falling one more time into that wry smile. "It seemed
+	appropriate, that's all. Here. Finally." The flame of the
+	candle flickers uncertainly, but her voice is still
+	light. "...Shall we go?"
+
+Not so remarkable when examined side by side, but it takes a good
+writer to know when to make changes minor rather than waving flags at
+the player that might disrupt the feel of the narrative. Plotkin's
+writing almost never intrudes on the structure of the story (the
+sequence with the flowers is one of the few exceptions), and it
+rewards close attention to the various paths. Perhaps the best thing
+about Space... is the spareness of it: the reader is left to infer
+details from the way various pieces of the setting flicker in and out
+with light changes. And there, as well, the writing is well-calculated
+to tell the player just as much as needed to paint the picture.
+
+It's hard to categorize this one, obviously; some will quickly grow
+bored with it on ground that not much happens, and some will be
+frustrated with how limited the player's control is, as if different
+commands opened pages of a novel at random. And the feeling of not
+having anything as such to do requires some attitude adjustment,
+true. But there is much to appreciate in Space Under the Window,
+notably some of the more satisfying or upbeat endings, and even
+without a "right" way to play it, finding a previously undiscovered
+narrative trail is just as intriguing as any new discovery in
+conventional IF. If you can set aside your assumptions for a little
+while, give this one a shot.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Time: All Things Come To An End
+AUTHOR:	Andy Phillips
+E-MAIL:	pmyladp SP@G unix.ccc.nottingham.ac.uk
+DATE: 1996
+PARSER:	Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/infocom/tatctae.z8
+VERSION: Release 6
+
+As a reviewer should, I took it upon myself to replay Andy Phillips'
+Time: All Things Come to an End before reviewing it, thereby to
+produce a transcript. The exercise, such as it was, afforded some
+insight: when the solutions to puzzles are so illogical or obscure
+that they stump me completely -- even when I've _already_ finished the
+game once -- something is gravely amiss. When getting through the
+first half of the thing, even after I remember the solutions to the
+puzzles, takes many, many tries because I forget stupid little items
+that prove essential much later on, it says nothing positive about a
+game. And when I am unable to keep a coherent transcript because of
+all the saving and restoring required to get through the
+every-move-accounted-for sections, well, the resulting review will be
+less than glowing.
+
+Trashing Andy Phillips has, admittedly, become a trend of late, so I
+will try to be as positive as possible in reviewing Time... To wit:
+somehow, for some reason, I plowed through this thing to begin with;
+it kept me interested enough to forgive its faults and push on to the
+end. I can't explain what it was now, and I certainly don't feel
+compelled to slog through games I genuinely dislike. But on some
+level, for me at least, Mr.  Phillips did manage to craft a game that
+held my attention, and he deserves recognition for that.
+
+On, then, to the game. As has been pointed out, Time... is an example
+of a heavily linear game, meaning that fairly narrow sections of the
+thing are available at any given time -- and, moreover, past sections
+become unavailable once apparently disposed with. Handled well, this
+sort of game can tell an interesting story and keep the plot moving
+along with the game; handled poorly, it can be both frustrating and
+dull -- because the confines of the plot can keep the player in a
+small section of the game for a long time, with nothing to do but
+examine the same objects over and over and beat his head against the
+wall. More importantly, if not designed well, the player can lock
+himself out of winning the game without realizing it.
+
+And Time..., I'm sorry to say, is linear in just about the worst way a
+game can be. Things like manipulating the scenery, holding onto
+objects that seem fundamentally single-use, and obtaining objects with
+no apparent use -- all are required actions for unforeseeable later
+events. Players are advised never, NEVER, to assume an object has
+exhausted its usefulness, or to leave a game area -- for the first
+quarter or so of the game, you'll be doing that every few moves --
+without taking absolutely everything that isn't nailed down. Except,
+of course, for those objects that get you killed if you keep carrying
+them past a certain point. And then there's the object that you break
+in one scene but pick up and use later, and the murder weapon that you
+are expected to take with you and use in an unforeseeable way, and, of
+course, the many puzzles that you must solve for no other reason than
+that there are some strange objects sitting around... I trust the
+problems are becoming apparent.
+
+There are many and various puzzles in Time... that require knowledge
+obtained by death. The most egregious of them involves an apartment
+where, let's see, failing to hide your means of getting into the
+apartment (since they are noticed by a search that begins only after
+you enter the apartment) and otherwise cover your tracks before anyone
+actually starts looking for you, failing to realize that the police
+are outside watching the apartment and will charge at the least sign
+you are there, failing to realize that the police will kill you if you
+are holding certain items when they get there, failing to realize that
+another person will kill you if you are holding certain different
+items when the police get there, and failing to disable an bomb that
+will kill the police when they get there, all result in death -- plus,
+of course, there are items to obtain while you're there, and the whole
+thing is time-sensitive. If this one section of the game didn't screen
+out quite a few would-be players, the IF world is more persistent than
+I realized.
+
+The problem with learning by death, quite aside from the realism issue
+("I'd better drop the gun because I remember from the last time that
+the police will kill me if I'm holding it when they get here"), is
+that it makes a game less enjoyable; there's nothing like playing
+through a scene 50 times to make it unspeakably boring. The advantage
+of linearity is that the author can control the story he tells, but
+Mr. Phillips largely sacrifices that advantage by making the puzzles
+so obscure that the story does not exactly move along.
+
+How unfair are the puzzles in Time?... There are sections where the
+plot resembles an action movie and the puzzles require action-movie
+suspensions of disbelief, like, say, that no one notices you stealing
+a helicopter, that you can learn to pilot the helicopter instantly
+(well, that a reasonably with-it first grader can pilot a helicopter,
+I guess), that you can get into a second-floor apartment using the
+materials that come to hand -- and these, while a bit annoying, are
+part of the genre. But there are far worse moments -- for example, the
+instructions at one point are that you should "use the stasis field,"
+which I found less than helpful. You miraculously sense that a statue
+is actually something completely different in disguise, with no hints
+to that effect. You wait seven turns in a location for the means of
+solving a puzzle to appear -- though it was there all along; you just
+hadn't "noticed" it. Other things are likewise hidden until you type
+certain sensory commands, and so on.
+
+The game is largely devoid of helpful hints, requires absurdly exact
+syntax in many cases -- notably, getting out of the map room, which
+required both a huge intuitive leap regarding the procedure and a game
+of guess-the-verb for the final action. Another puzzle involving a
+crate is looking for a certain verb that is, in truth, used fairly
+frequently in IF these days -- but not in the context you find it
+here.  Magical/technologically advanced objects (the line between them
+is fairly blurry here) do things that could not possibly be foreseen
+-- the same object, even, will have several uses that have little in
+common. There is a time-paradox puzzle that, well, seems frankly
+absurd -- not only for the objects that cannot logically exist, but
+for the reactions to you by someone who, even accepting the paradoz,
+could not have encountered you before. (It also serves no real purpose
+in the game -- it provides information that could easily have been
+provided another way.) One puzzle requires such a ludicrous disregard
+of scale that when I saw it in the walkthrough, I assumed I had missed
+something important earlier on. And whenever you are under duress --
+meaning that someone is about to kill you, which is the case virtually
+every moment -- objects in your backpack are unavailable on grounds
+that you have more important things to do than "fiddling with"
+whatever -- and inventory management before the scenes (requiring
+amazing foreknowledge of what you'll need) is, of course, necessary.
+
+And then, of course, there's the writing. There are worse sins than
+the occasional comma splice, but the writing here is littered with
+them -- e.g. "A fire burns in one corner of the room, its red glow is
+highly appropriate to the surroundings." The syntax of many room
+descriptions is so tortured that the idea doesn't come across, as in:
+"To the north of you is the vast expanse of the park's solitary lake,
+looking dull, a reflection of the dark sky and equally dark feeling
+about this whole place." Er, what? There is a genuine attempt here to
+provide atmosphere, but too often it produces results like these:
+
+	A well-worn road running from west to east, with the park
+	gates to the north. Some distance to the east, the street ends
+	in a bricked up wall, while it opens up into some kind of
+	large square to the west. The area is deserted, almost as if
+	the inhabitants have given up on this terrible world.
+
+	You are in what appears to be the central area of the town,
+	market stalls lie abandoned and a few people hurriedly walk
+	from one area to another, as if in a hopeless attempt to avoid
+	this apparent centre of the evil. Most areas have been
+	cordoned off, except for the seemingly important stone
+	building to the south.
+
+Good writing usually tries to show the reader the scene and let him
+infer from there, rather than telling him outright what to feel or
+think; the scenes above might have been quite effective if they had
+included, say, descriptions of passers-by who walk by with their heads
+down without speaking to each other, or if the player had encountered
+someone who was clearly afraid of a certain building and nervous about
+speaking too loud.  As it is, the atmosphere here becomes
+self-parodying, since evil and menace are so obvious and ubiquitous
+that they become unremarkable. ("And our weather report: partly
+cloudy, with an undercurrent of evil throughout the afternoon.") At
+times, the author lays off the brooding menace and dread, and the
+results are effective...
+
+	The moonlight casts eerie shadows onto the buildings that
+	surround the central courtyard. The western edge is dominated
+	by a building seemingly still in use, but the Schloss is
+	otherwise deserted.
+
+...but those moments are, alas, all too few. In one region, you are
+given the message "Somewhere nearby someone screams with pain, you
+don't even want to imagine the horrors taking place in these depths"
+so often, with no variation, that it loses whatever power it had to
+shock. Ho-hum, more screams of pain. Now and again, the prose turns
+deep purple:
+
+	The shocking handiwork of your murderous psychotic enemy is
+	evident again, notably from the red marks left by the
+	murderous tool on the man's neck.  From the depths of the
+	lifeless eyes seems to come a pleading for mercy which was
+	coldly rejected by the smiling sadist responsible for this
+	barbaric slaughter.
+
+The point of all this is not simply to make fun of the writing,
+tempting though that might be after slogging through a game worth of
+it, but to show that bad writing can reduce enjoyment of a game by
+wrecking the scene it tries to set.
+
+True, many readers will forgive excess -- but when you force a player
+to inhabit a small section of the game for a while, and hence
+encounter the same descriptions again and again, it behooves you as a
+writer to make those descriptions effective -- or, at least, not
+ridiculous. The "enemy" is an obvious example here; she is everywhere,
+her motivations are wildly unclear, and upon your every encounter with
+her, she spouts bad-guy lines from action movies that break whatever
+tension had been achieved. ("You fools, did you really think you could
+oppose the ultimate race?" "You know, I'm going to have to put a stop
+to your interferences.") Said by someone like John Malkovich, things
+like this are forgivable; as written text, no. So often did I stop to
+chuckle at this or that in Time...that the plot became rather
+uninvolving after a while. And a game this big needs to be involving
+-- the writing needs to be passable -- to keep the player's attention.
+
+It should be reiterated that there are enjoyable moments in Time... --
+one scene involving assumption of another's identity does build up
+tension well (even if the situation is a bit oversimplified), and
+there is a genuinely clever, if not wholly logical, puzzle involving
+the repair and use of a strange machine. And the author is quite good
+at the principle of providing payoff for puzzles solved -- virtually
+every discovery rewards you with a good bit of text and more things to
+explore -- which helps in a game with lots of puzzles. The climax is
+suitably climactic (though unfairly difficult -- very time-sensitive
+and involving a thoroughly obscure riddle), and even the overwritten
+scenes have their interesting moments, notably the segment in
+London. On the whole, though, there is more to learn here about what
+can go wrong in a game than about what can go right.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Lars Jodal <joedal SP@G inet.uni2.dk>
+
+NAME: Unnkulia Zero: The Search for Amanda
+AUTHOR: Dave Leary
+EMAIL: dleary SP@G umabnet.ab.umd.edu
+DATE: 1993
+PARSER: TADS
+SUPPORTS: TADS Ports
+AVAILABILITY: Freeware(!), GMD anytime
+VERSION: Version 1.2
+
+Adventions has decided to make their games freeware. Since this should
+spur well-deserved interest in Unnkulia Zero (and since I just
+finished said game a few hours ago) a review seems due.
+
+The game once more brings us to the landscape known from Unnkulian
+Underworld, but this time back in the days of yore when the Valley
+King ruled. The king's betrothed Amanda has been kidnapped by the evil
+unnkulians, and you, the king's most trusted warrior, is given the
+task of finding her.
+
+Unnkulia Zero adds immensely to the universe set up in Unnkuliuan
+Underworld I and II, clarifying and expanding on old myths as well as
+providing new ones. Compared to most other adventure games Unnkulia
+Zero is very rich in text and has detailed descriptions of almost
+everything mentioned in the game. The plot may be a bit linear at
+points, but not more than should be expected when one wants a coherent
+plot. The puzzles in the game are generally tough but in most cases
+fair. A few of the puzzles cannot be said to be logical, though. At
+least they require the special unnkulian logic that in many cases
+turns things upside down. The player is adviced to read carefully,
+since the text contains many clues and subtleties.
+
+The weakest point of the game is that even the careful player can end
+up in a no-win situation without knowing it. Some objects may simply
+be overlooked until it is too late, others can too easily be lost
+during the game. In at least one situation you have to give up some
+objects at a time when you cannot be 100% sure of what will be needed
+later in the game.
+
+All in all Unnkulia Zero is a remarkable game that was fully worth the
+money when it was commercial and which is a must now that it is free!
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: The Wedding
+AUTHOR: Neil Brown
+E-MAIL:	Not available
+DATE: 1996
+PARSER:	Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/infocom/wedding.z5
+VERSION: Release 4
+
+Genuinely character-driven IF, as in stories whose plot and puzzles
+revolve around interacting with people rather than manipulating
+objects, is extraordinarily difficult to realize. Infocom's mysteries
+are some of the best attempts at this, but many of the characters even
+in those feel mechanical; it is all too obvious that there is a short
+list of keywords with appropriate responses. Neil Brown's The Wedding
+is not, admittedly, a fully character-driven game, but it does have
+that element -- and it illustrates just how difficult a goal it is to
+accomplish, even on a limited scale. On the whole, there are many good
+things about The Wedding -- but the moments that require interaction
+with the various NPCs simply fall flat.
+
+This is not to say that they are bad NPCs; they manage to be
+relatively realistic, to respond to an adequate variety of prompts,
+and even supply a modicum of humor. But, as so often happens, the
+puzzles involving them, though well-imagined, feel painfully
+artificial; they reduce the people to robots who will wait 100 turns
+for the next line of dialogue, say, or who don't notice notable events
+going on around them because they're not told to. One puzzle in The
+Wedding, in fact, requires that a character ask you a randomized
+question, you wander away surreptitiously and find out the answer, and
+then wander back and answer the question as if it were one
+conversation. Now, there is an attempt at realism here, in that the
+game mocks you if you try to find out the answer on the spot -- but it
+trades one silliness for another, in effect, in reducing character
+interactions to videotapes that can be stopped and returned to at
+will.
+
+The above is a minor absurdity, but there are more significant ones as
+well -- for instance, a certain character will (and must) follow you
+at a certain point, but not before then, and there is no logical
+explanation to the change. Another character's responses to you depend
+on your having discovered a certain fact about that character,
+regardless of what you do.  The security guard positioned by the front
+door is so remarkably dense that it troubles him not a bit that you
+come out of that door repeatedly; he simply refuses to allow you back
+in. Again, it should be said that these and other flaws in "The
+Wedding" illustrate the difficulty of coding realistic people more
+than any inadequacy on the part of the author; simple move-the-objects
+games are far less taxing. But when it comes to realism (and let's
+face it, the major charm of character-driven games is that they can
+approximate real life in some measure), there are snags aplenty. It
+may be a side effect of building a game around characters rather than
+objects that there are quite a few plot holes, some of them
+acknowledged by the author in the end credits; one of the main things
+that puzzled me was why someone buried something obviously worthless.
+
+The plot of The Wedding is apparently simple: your school chum
+Malcolm, due to be married, has disappeared, and you have been called
+in to help out -- but, because of family tensions, your mission is
+secret, so secret that you have to figure out alternative ways of
+getting into the house because the guard hasn't been authorized to let
+you in. (My question: if you're such a good friend of this Malcolm
+fellow and you're invited to the wedding, why do you have to sneak
+into the house?)
+
+After a few elementary clues about what's going on, you commence
+solving puzzles in classic "here's a nail, so I'll go look for a
+hammer" style; you have a series of puzzles to solve because they're
+there, and some are not obviously puzzles at all. (A surly teenager
+won't say anything to you? Isn't that just a fact of life, not
+something to worry about?) Some of the puzzles are rather clever and
+involve use of household gadgetry that, while not wildly inventive in
+terms of common sense, requires some steps that few works of IF bother
+with. (Put another way: The Wedding is situated so firmly in the realm
+of everyday life that it takes some mental adjustment to solve such
+down-to earth puzzles.) One hidden item requires an annoyingly exact
+command to find, though, and it's possible to bog down and not realize
+what's holding you back, and another mechanical puzzle requires
+something of an intuitive leap for the proper verb -- but, by and
+large, the puzzles are fairly good. Trouble is, as noted, they use the
+NPCs in ways that make them little better than props.
+
+The gameplay is likewise a bit uneven -- lots and lots of useless
+scenery, for instance (for which you get "that's not something you
+need to refer to..." messages, mostly), and some illogicalities, like
+a supermarket bag that can hold anything and everything, including a
+spade. (There is one character who wants a certain food item -- but
+once you bring the food, you can drop it on the floor and he'll never
+pick it up, or you can eat it yourself without any protest from him.)
+
+The Wedding has the usual Inform benefits, along with a very limited
+hint menu (plus other limited sources of hints worked into the game),
+and there are plenty of synonyms for most words -- and the game itself
+is wide enough that there are at least a few puzzles to work on at any
+given moment. (One puzzle (the dungeon problem) that seems to cry out
+"I have more than one solution!" does not, though -- maybe in a later
+release?) Dialogue is a bit clumsy as well -- "yes" in response to a
+direct question doesn't work; you must type "answer yes" or "say yes
+to" whoever, somewhat grating in a game where you learn many things
+from the various characters.
+
+The writing is mostly good, though it has rough spots -- there are
+some things in room descriptions that perhaps shouldn't be. For
+instance, when you first reach the front hall, you get this:
+
+	The great entrance hall of D'Arcy manor evokes a twinge of
+        jealousy within you -- the grand wooden polished floors and
+        staircase, the expensive chandelier hanging from the high
+        ceiling, the priceless Compton painting hanging on a wall. Why
+        can't you inherit something like this? Leaving aside feelings
+        of bitterness...
+
+Fine. Well-written, realistic. Except that you probably shouldn't feel
+it the tenth or eleventh time you enter the room -- I mean, you've
+probably seen hardwood floors before. Most of the room descriptions
+are well done -- descriptive, but controlled -- though I wasn't sure
+whether this one was supposed to be straightforward or sarcastic:
+
+	This room offers refuge from the tastelessness that seems to
+	prevail around the rest of the house. Framed pictures of
+	famous film actresses, Garland, Dietrich, Midler and Streisand
+	in particular, hang proudly on the sky-blue walls, alongside
+	two extra-large pink and red ribbons. The abundance of style
+	extends to the curtains, the most attractive you have ever
+	seen. If only the rest of the house, to the south, had been
+	decorated as well as this.
+
+Me, I never saw Bette Midler and Barbra Streisand posters as the
+epitome of good taste -- nor, for that matter, huge pink and red
+ribbons -- but perhaps it's just me. (If this is supposed to be
+ironic, it's not well done.) These are quibbles, though, because the
+writing here is generally solid and effective -- reasonably
+atmospheric and genuinely funny. When you confront one character late
+in the game, you get this:
+
+	"Okay, muggins," you say, "spill the beans, squeak, start
+	talking, loosen your tongue..." Then you realise that you are
+	getting carried away, and drop the tough cop act.
+
+Not laugh-out-loud hilarious, but amusing nonetheless. There are many
+such moments -- the game is littered with Easter eggs, some of which
+are pointed out in a "fun stuff" file available when the gane is done
+-- that illustrate real interest in making the game enjoyable. (A
+television has 8 different channels, all with 10-15 randomized funny
+scenes depending on the channel -- the soap opera channel is one of
+the best, I think.) Brown has a feel for compact but effective room
+descriptions, as in the following:
+
+	Considering the high technology that has gone into guarding
+	this area, the cellar is surprisingly lo-tech. One very dull
+	fluorescent tube casts gloomy light over the brick walls. The
+	air is damp; cobwebs line the ceiling. A tunnel disappears off
+	into the darkness to the northeast, and a set of stone steps
+	lead east up to the passageway.
+
+For a concept like The Wedding to work, it needs good writing -- there
+are few things duller than trying to interact with badly written
+characters, or inhabiting a small game environment where the author
+hasn't bothered to make the locations interesting or believable. And
+the writing here is easily good enough to keep the player involved and
+prevent the game from becoming tedious even when nothing is going on,
+puzzle-wise, though a few too many of the rooms break the description
+by inserting your thoughts or reactions. There are many genuinely
+funny moments, as noted, and the whole thing is mercifully free from
+signs of taking itself seriously.
+
+There is much to like about The Wedding, in short, and its
+shortcomings are more due to the difficulty of its undertaking than to
+poor writing or programming; there are enough clever puzzles and
+humorous asides for the game to be involving despite the shortcomings
+in the plot and setup.  Despite its flaws, The Wedding is a solid
+entry in the IF library.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Zork I
+AUTHORS: Marc Blank and David Lebling
+E-MAIL: WHO WANTS TO KNOW?!
+DATE: 1981
+PARSER:	Early Infocom
+SUPPORTS: Infocom ports
+AVAILABILITY: Commercial (GMD)
+URL: N/A
+VERSION: Release 88
+
+Consideration of the relative merits of Zork I, in 1997, is difficult
+to undertake fairly. Infocom's achievement in publishing such a game
+in 1981 -- to fit the limitations of tiny microcomputers, in a
+language that they had written themselves -- was considerable, and
+flaws in the game cannot be considered in the same critical light as
+those of games written today. Numerous bugs have been corrected since
+the original release, but the game is still essentially the same --
+none of the bugs addressed design flaws that affected the plot or
+structure of the game; its limitations were not serious enough to
+warrant fundamental changes.
+
+Nor was the popularity of Zork I a fluke. Novelty was part of its
+appeal, certainly, and the game suffers in comparison to later, more
+polished efforts, but the attempt to create a plausible game
+environment with only text was sufficiently successful that many, many
+people were genuinely absorbed -- by the challenge of the puzzles and
+by the story, such as it is.  The versatility of the parser was
+doubtless part of it -- to get the true experience of playing
+Infocom's games in the early '80s, struggle through some Scott Adams
+or the like and its volume of "go tree" and "look rock" commands. The
+primitiveness of the game environment of Adams and the like is not an
+indictment, given cost and size limitations, but the wizardry of
+Infocom in overcoming those limitations should be recognized through
+the comparison as near genius.
+
+Graeme Cree's bug list inventories some of the design flaws of Zork I,
+some of which have been corrected, some not. My personal favorite,
+from the first release, involves "give troll to troll," whereupon the
+troll eats himself and disappears. There are some problems that live
+on, though -- for example, the player is given an extensive
+description of the jewel-encrusted egg upon first encountering it, but
+that description can never be reached again once the egg is moved --
+it began with "In the bird's nest...", but the rest of the description
+relates only to the egg and would be relevant in any setting. Some of
+the synonyms are a bit off -- "examine passage" yields "there's
+nothing special about the way."
+
+Among the stranger red herrings are the tool chests at the dam, which
+"are so rusty and corroded that they crumble when you try to touch
+them," and they certainly do crumble -- after that response, the
+chests are gone, apparently melting into dust and blowing away. There
+are numerous small illogicalities -- how does one raise and lower a
+basket up and down a mine shaft from the bottom of that shaft? Remote
+control? How does it happen to be that one inevitably happens upon a
+small object when digging in a room, without prior guidance? Is the
+thief really so clever -- or are you really so dumb -- that he can
+steal your light source? Why is it that a room filling up with water
+obligingly stops filling and waits for you to return if you leave?
+
+Many of the rules that IF players have come to expect designers to
+follow came about as a result of bad experiences with the early games,
+and Zork I is no exception. Though the inclusion of alternate
+solutions to problems is welcome, some of the alternate paths are a
+bit strange -- it is handy to know the shortcut to the thief's
+hideaway, but there is no way of guessing that shortcut without taking
+the long, arduous route, and players might well feel they have been
+put through needless aggravation. There are quite a few save-restore
+puzzles -- the "squeaky sounds" are hardly adequate warning for the
+bat puzzle, nor is it obvious that you, the player, will be so dumb as
+to puncture the boat by boarding it with a sword or other sharp
+object. The maze is large and irritating -- and the addition of the
+thief to the mix, while an amusing innovation on Colossal Cave, makes
+things worse. And most frustrating of all, of course, is the
+randomized combat, with no way to improve your chances -- an element
+that Infocom largely set aside after Zork I, thankfully.
+
+The writing is somewhat uneven, frankly. There are many rooms whose
+descriptions are cursory -- whereas Colossal Cave had clearly drawn on
+explorers' accounts of Mammoth Cave in Kentucky in its attention to
+geological detail, providing a measure of realism, there are many Zork
+I descriptions like this: "This is a circular stone room with passages
+in all directions. Several of them have unfortunately been blocked by
+cave-ins." Such a variety of settings comes in such a short space --
+chasm, canyon, lake -- and with so little description that the reality
+of the environment suffers at time. Most room descriptions begin with
+something like "You are in a small room," which says little. Like, how
+small, man?  Bread-box? Closet? There are moments of fairly thorough
+description in largely irrelevant locales, notably the canyon outside,
+and there are places where the descriptions are so terse that one
+wonders whether the intent was humor:
+
+	Land of the Dead
+
+	You have entered the Land of the Living Dead. Thousands of
+	lost souls can be heard weeping and moaning. In the corner are
+	stacked the remains of dozens of previous adventurers less
+	fortunate than yourself. A passage exits to the north.
+
+Here I am in Hades. *yawn* Wonder if there's a gift shop around. Well,
+back to the adventure. Examining the remains elicits the response "You
+see nothing special about the pile of bodies." But though Zork I had
+little of the atmosphere that would mark later Infocom efforts, the
+very spareness of its prose was sometimes effective, as in the Troll
+Room:
+
+	This is a small room with passages to the east and south and a
+	forbidding hole leading west. Bloodstains and deep scratches
+	(perhaps made by an axe) mar the walls.
+
+	A nasty-looking troll, brandishing a bloody axe, blocks all
+	passages out of the room.
+
+	Your sword has begun to glow very brightly.
+
+Where a more thorough description of blood and gore might have seemed
+excessive, the brief reference to "bloodstains and deep scratches"
+allows the imagination to conjure up the scene -- and the description
+followed by the mention of the troll, while provided to separate out
+objects from scenery, heightens the effect of first impression -- the
+ominous decor -- and sudden realization of the source of that decor,
+as if the player were peering around the room and saw the troll
+last. Equally effective is the experience of dying once past a certain
+point in the game and wandering around as a ghost -- being told that
+your hand passes through objects, finding exits from the dungeon
+barred; the feel is reminiscent of Sartre's "Les jeux sont faits."
+Though the lack of an endgame seems strange to experienced IF players,
+the final reference to the sequel is genuinely tantalizing.
+
+Zork I does work, in the end, though it's hard to pinpoint just why.
+Collect-the-treasures as a plot is a weary old device, and it doesn't
+only seem that way to IF players -- it had, after all, been the
+subject of innumerable fantasy novels and games before IF hit the
+scene. But its recurring presence points to some appeal that Zork I
+managed to tap into -- the allure of getting rich, and of obtaining
+things as diverse as the coffin of Ramses II, a songbird's bauble, and
+a dead adventurer's bag of coins, keeps the intrigue of finding the
+next treasure alive, somehow.  Vital to the enterprise is, of course,
+the humor, even if the barrage of self-reference becomes wearying;
+responses like "Only Santa Claus climbs down chimneys" make the game
+feel more intelligent than a "You can't do that" response would have,
+and moments like the description of the vampire bat and the behavior
+of the thief break up the traipsing-from-room-to-room feel that
+sometimes plagued Colossal Cave. For my part, I still enjoy this
+response:
+
+	>zork
+
+	At your service!
+
+The variety of responses to "jump" -- a command with, of course, no
+practical value in the game -- and the provision for other
+nonessential verbs points to the pains that Infocom took from the very
+beginning to make the environment genuinely interactive, rather than
+the minimum of nouns and commands needed to get the player through the
+game. The value of that is hard to measure, but Zork I, with its many
+Easter eggs, is a good exxample of a game that felt worth the price
+because of its breadth -- much to do, many responses to try.
+
+Playing Zork I now is indeed worthwhile, both to see how far IF has
+come and to appreciate its origins, despite the annoyances. It is a
+credit to its design that it remains an enjoyable game, well worth its
+popularity.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Zork II
+AUTHORS: Marc Blank, David Lebling
+E-MAIL:	No, 'e don't
+DATE: 1982
+PARSER:	Early Infocom
+SUPPORTS: Infocom ports
+AVAILABILITY: Commercial (Masterpieces)
+URL: N/A
+VERSION: Release 48
+
+Zork II picks up where its predecessor left off in many ways -- the
+beginning deposits you inside the barrow that had marked the end of
+Zork I, your trusty lamp and sword are by your side, and your mission
+seems at the outset to be more treasure-gathering. But Zork II parts
+company with the first of the series in a variety of important ways as
+the game progresses -- that sword is useful, but in a way far more
+interesting than hack-and-slash -- and the changes suggest that the
+folks at Infocom were interested less in putting out more of the same
+than in refining their product and heightening ths challenge.
+
+One way in particular that the designers of Zork II chose to raise the
+difficulty level bears mention because it seems to have been deemed a
+failure as a game device, and rightly so: the reliance on random
+events.  Two major elements of Zork II are random -- the role of the
+Wizard and the function of the Carousel Room -- and while each can be
+disabled over the course of the game, each makes the normal course of
+gameplay rather tiresome while active. An ill-timed Wizard appearance
+can actually render the game unwinnable at several points, making Zork
+II the only Infocom game I can think of (well, Zork I had randomized
+combat, true, but unforeseeable random events -- meaning save-restore
+cannot be relied upon in the same way as with combat -- are different)
+where one can lose the chance to finish a game through no fault of
+one's own. Usually, this happens because his spells disrupt a
+time-dependent sequence that only happens once (actually, I just
+discovered that becoming the object of a "float" spell in the volcano
+spells death, though an amusing death), but there is one spell which,
+if cast, instantly cuts off the possibility of winning, in a way that
+the player could not possibly be expected to guess. This is a cruel
+trick indeed, and later Infocom games eschew unfairness of this sort
+-- but first-time players of Zork II should be warned that frequent
+saves are in order.
+
+While the plot, as noted, seems at first to be an extension of the
+scavenger theme, it turns out to be something quite different; the
+treasures have a use that marks a change in emphasis of sorts for your
+character, from gathering booty to exploring the deeper recesses of
+the cave -- and in that, perhaps, one might say that the plot thickens
+slightly over the course of the game. The paragraph at the end of the
+game suggests a larger mission, one that will come as a surprise to
+the merry treasure-hunter -- and yet it makes some sense, in that it
+suggests that the valor tha player has demonstrated in getting that
+far points to a more important goal.
+
+Magic is prevalent in Zork II, more so than in the original,
+appropriately so since it is a wizard's domain that you are exploring
+-- and the progress of the game moves you from object and victim of
+the magic to its controller, to some extent at least, in that you
+outwit a variety of magical traps and learn to use some magic items to
+your own ends. The magic is haphazard -- no hint of the more organized
+system of the Enchanter trilogy -- but there is a real sense by the
+end that you, the unskilled but savvy adventurer, have beaten the
+wizard at his own game, and it helps deepen the admittedly thin sense
+of a plot. Magic is also played up for humor value, including the
+wizard's failed spells ("There is a loud crackling sound, and blue
+smoke rises from the wizard's sleeve. He sighs and disappears.") and
+such sidelights as the "fudge" spell. (Though I was hoping that there
+would be amusing applications of the power you gain toward the end of
+the game, and I didn't find many.)
+
+Several of the puzzles are lifted from the original "Dungeon"
+mainframe game, though most of that had ended up in Zork I. (Though,
+at one point, you see, from a distance, a location that had existed in
+Dungeon but had dropped out of Zork I -- slightly confusing to the
+uninitated.) One of the puzzles has a drastically different -- and
+much more creative -- solution than in the original "Dungeon" game,
+though it's more a "wonder what happens if I do this" solution than an
+"oh, I know, I should do this" solution. The quality of the puzzles is
+uneven: one requires some trial and error, amusing in its effects when
+you get it wrong but trial and error all the same. The Bank of Zork
+puzzle has drawn some criticism for being possible to solve without
+fully understanding, though the rationale behind it is elegant enough
+that it seems a minor problem -- and another puzzle requires that one
+largely set aside one's knowledge of how liquids work (meaning that
+what I suspect was supposed to be among the easier puzzles stumped me
+completely when I first played the game).
+
+There is, of course, one notoriously bad puzzle toward the end -- bad
+for its "guess-what-I'm-thinking" aspect and for its inaccessibility
+to the non-American -- and for pretending to be a maze when not
+one. And the final puzzle is, I think, ridiculously hard -- the
+required action is motivationless and the game gives not the slightest
+nudge in the right direction. Infocom rated Zork II "advanced," but
+their sense of how to make a game hard without making it unfair was as
+yet not fully developed.
+
+Zork II feels much more polished than Zork I; the geography of the
+game is somewhat more coherent, there are fewer illogicalities, and
+the layout is less a series of puzzles than a set of locations that
+revolve -- literally -- around a central area. The writing --
+substantially better than that of Zork I -- confirms that impression;
+there are virtually no rooms without a complete description, and at
+times the writer manages to paint quite a vivid picture. The tunnel at
+the beginning, while otherwise irrelevant, draws the reader in
+effectively and provides atmosphere and attention to detail that had
+been absent in the first game; it's as if the player has become less
+intent on treasure and more apt to notice the surroundings now and
+again. There are many locations worth picturing in one's own mind in
+the course of Zork II, this among them:
+
+	North End of Garden
+
+	This is the northern end of a formal garden. Hedges hide the
+	cavern walls, and if you don't look up, the illusion is of a
+	cloudy day outside. The light comes from a large growth of
+	glowing mosses on the roof of the cave.  A break in the hedge
+	is almost overgrown to the north. A carefully manicured path
+	leads south. In the center of a rosebed is a small open
+	structure, painted white. It appears to be a gazebo.
+
+And this:
+
+        Menhir Room
+
+	This is a large room which was evidently used once as a
+	quarry. Many large limestone chunks lie helter-skelter around
+	the room. Some are rough-hewn and unworked, others smooth and
+	well-finished. One side of the room appears to have been used
+	to quarry building blocks, the other to produce menhirs
+	(standing stones). Obvious passages lead north and south.
+
+	One particularly large menhir, at least twenty feet tall and
+	eight feet thick, is leaning against the wall blocking a dark
+	opening leading southwest. On this side of the menhir is
+	carved an ornate letter "F".
+
+Providing the salient details as the player looks around the room
+makes the experience more real and adds to the illusion of stumbling
+on a world rather than a series of puzzles; many of the most memorable
+images or scenes in the trilogy are in Zork II simply because the game
+authors gave the settings so much attention. (When I first played this
+-- I was 7 -- I had dreams about the Bank of Zork.) Even the
+after-death sequence was intriguing, and points to mysteries that
+unravel as the game progresses.  Part of the appeal of the writing in
+Zork II is that it genuinely felt like a series of caves, with
+geological detail noted and occasional references to a natural light
+source.
+
+In summary, the appeal of playing Zork II lies less in the puzzles
+than in the game environment, and this installment is best enjoyed at
+a measured pace, with time to read room descriptions and visualize the
+scene. Notable for the way it changes the feel of the series, Zork II,
+despite its flaws, points to Infocom's developing skills.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens a.k.a. Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Zork III
+E-MAIL:	One of the world's great mysteries
+DATE: 1983
+PARSER:	Early Infocom
+SUPPORTS: Infocom ports
+AVAILABILITY: Commercial (Masterpieces)
+URL: N/A
+VERSION: Release 17
+
+To say merely that Zork III represents a departure from the first two
+entries in the series is to understate the case. Though much in this
+game will be familiar to the experienced Infocom gamer, and though it
+resolves the series reasonably coherently, Zork III works on a
+thoroughly different premise from the first two -- and to the extent
+that it succeeds, it does because the player is willing to set aside
+expectations built up by Zorks I and II.
+
+This is not, of course, to say that Zork III is a letdown, or not an
+enjoyable game, but it is hardly enjoyable on the same terms as the
+other parts of the series. The humor, to take an obvious example, is
+subordinate to the story in Zork III and appears at odd moments,
+Easter eggs typical of Infocom's writing (listening to the guards in
+the museum is a good example, or reading the plaque in the Jewel Room
+after you solve the puzzle). But there is little humor in the
+storyline itself -- nothing, for example, along the lines of cakes
+that cause you to evaporate, or wizards casting spells like "Fudge,"
+or thieves making sardonic remarks, or a room that mocks mocks your
+your syntax syntax until until solved solved. There is one slightly
+jokey puzzle, true, but the game doesn't really play up the humorous
+aspect as it might; it is the resolution to a problem that is, like
+most of the game, thoroughly solemn. The main NPC of the game, when
+you encounter him toward the end, offers minimal interaction -- and it
+seems that, considering his identity, something amusing could have
+been coded in (I certainly never found anything). (No, the bugs
+involving what happens when he follows you around don't count.)
+
+Again, this is not to say that Zork III is humorless -- but the plot
+feels deadly serious and there is little of the comic in any vital
+element to the game. (Compare, for instance, the rainbow and bat
+puzzles in Zork I, or the lizard or Cerberus in Zork II.) The reasons
+for that are debatable, but my own feeling was that it was a product
+of the structure of the game; more on that in a moment.
+
+The writing reinforces the feel; most of the locations you visit are
+either on barren landscape or in abandoned rooms evocative of the
+decayed empire. Though the quality of writing is similar to that of
+Zork II, the mood created is different: where Zork II's images
+depicted a mysterious and slightly dangerous cave, with breathtaking
+views juxtaposed with cramped caverns, Zork III gives us gloom and
+emptiness. In a sense, though there are a few NPC interactions, no one
+is there; you are wandering around a region where no one is or has
+been for a while, and no one wants to be. For example:
+
+        Land of Shadow
+
+	You are standing atop a steep cliff, looking west over a vast
+	ocean. Far below, the surf pounds at a sandy beach. To the
+	south and east are rolling hills filled with eerie shadows. A
+	path cut into the face of the cliff descends toward the
+	beach. To the north is a tall stone wall, which ends at the
+	cliff edge. It was obviously built long ago, and directly
+	north is a spot where you could climb over the rubble of the
+	decaying wall.
+
+Or:
+
+	Scenic Vista
+
+	You are in a small chamber carved in the rock, with the sole
+	exit to the north. Mounted on one wall is a table labelled
+	"Scenic Vista," whose featureless surface is angled toward
+	you. One might believe that the table was used to indicate
+	points of interest in the view from this spot, like those
+	found in many parks. On the other hand, your surroundings are
+	far from spacious and by no stretch of the imagination could
+	this spot be considered scenic. An indicator above the table
+	reads "IV".
+
+	Mounted on one wall is a flaming torch, which fills the room
+	with a flickering light.
+
+It is hard to put a label on the mood of Zork III -- "brooding,"
+perhaps, but that would make it more ominous than it is. If anything,
+it seems like a T.S. Eliot scene, with its barren landscapes and wisps
+of mist and enigmatic encounters with unidentified characters. (As I
+spent last winter in Scotland -- on the North Sea coast, even -- the
+Land of Shadow description above feels familiar indeed.) The adjective
+"gray" never appears, as far as I can tell, in any of the room
+descriptions in Zork III, and yet there is a grayness about the game
+environment that makes the feel of the game far more real, more
+coherent, than the other two, even if the scenes themselves are less
+picturesque than those of Zork II. The description of the clifftop
+captures the study in contrasts:
+
+	 Cliff
+
+	 This is a remarkable spot in the dungeon. Perhaps two hundred
+	 feet above you is a gaping hole in the earth's surface
+	 through which pours bright sunshine! A few seedlings from the
+	 world above, nurtured by the sunlight and occasional rains,
+	 have grown into giant trees, making this a virtual oasis in
+	 the desert of the Underground Empire. To the west is a sheer
+	 precipice, dropping nearly fifty feet to jagged rocks
+	 below. The way south is barred by a forbidding stone wall,
+	 crumbling from age. There is a jagged opening in the wall to
+	 the southwest, through which leaks a fine mist. The land to
+	 the east looks lifeless and barren.
+
+A vivid scene, indeed -- a glimpse of the life above ground in full
+awareness of the bleakness of the setting, and, implicitly, color
+contrasting with drabness, the look up toward the hole in the cavern
+balanced against the look down, over the cliff. There is much to
+appreciate in the writer's ability to accent the pertinent visual
+details.
+
+The plot -- well, thereby hangs a tale. Though, as in the first two
+entries, you discover what the plot is as you progress, you are given
+a sense in the prologue of what you are looking for, and it quickly
+becomes clear that no crystal tridents or golden statuettes are at
+issue this time around. The scoring system -- you have seven major
+tasks to perform and are given a point for each, though the game will
+be far from over when the seven tasks are done -- reflects the new
+approach. "Seek me when you feel yourself worthy!" proclaims the
+figure of the prologue, and prowess is not established by a propensity
+for gathering loot. It can be argued that the substitute makes little
+more sense, but my own reaction was that I was on the trail of
+something more interesting than another chunk of gold -- and Zork III
+does try as well, though not very successfully, to put a different
+face on the skillful adventurer. (Suffice it to say that your final
+encounter gives a touch of Matthew 25:31-46 to the rest of the game.)
+
+There is a tension here between the two sides of what you are
+accomplishing over the course of the game, and my own feeling was that
+it would have been a more interesting tension with more development of
+the second, more subjective angle, the element not measured by items
+acquired.  (As it is, there are still shades of the more
+tried-and-true scavenger-hunt approach, though the objects sought are
+different.) The outcomes in the museum and at the top of the cliff
+particularly play up how the player's assumptions must change -- in a
+sense, the central puzzles are those of a child presented with a
+cookie jar. It is certainly worth pondering how the nature of your
+escapade with the ring fits into the character-development angle --
+and it seems like the sword-in-the-stone angle might have been
+reworked to fit that idea better. To discuss the plot any more
+specifically would give away too much of the game, but whatever the
+failings of the storyline in Zork III, it does offer food for thought,
+and brings the would-be looter, fresh from amassing two games' worth
+of bounty, up short. (And the ultimate ending offers, in a sense, the
+ultimate twist.)
+
+The puzzles vary widely -- some are memorable, some are nothing
+special, and some are just irritating -- and there aren't many. There
+is one that there seems little possibility of guessing -- the player
+hits on it by chance if at all. One required series of actions is
+time-sensitive in a thoroughly nonobvious way; it is easy to lock
+yourself out of victory simply by waiting too long to settle a certain
+matter. The infamous Royal Puzzle is not the hardest puzzle in the
+game; once the player grasps the mechanics, it is a matter of careful
+planning more than anything else. But small slips can, again, lock one
+out of completing it (and there is disappointingly little payoff to
+solving it, other than survival).  Others -- the museum and viewing
+room puzzles, in particular -- are rather rewarding, though, and the
+latter even explains one of the odder red herrings from Zork II. And
+the mirror box, while it takes considerable mental aerobics to picture
+and use properly, is one of the more intriguing Infocom contraptions;
+mastering its more complicated purpose without help is no small
+feat. I found the last puzzle a bit unfair -- I learned later that a
+clue to it appeared where no clue had been before, but, silly me, I
+didn't think to check. But the novice should be warned that a few of
+Zork III's puzzles are difficult indeed, and require some trial and
+error -- considerable, actually -- to solve.
+
+There are many small things to enjoy along the course of Zork III,
+including the obligatory bits of self-reference; like Infocom or hate
+it, it certainly did come up with novel ways to plug upcoming games,
+and the advertisement for Enchanter in Zork III is no exception
+(though it's something of a bitter taste). Some of the problems
+involve Zork in-jokes of sorts, humor appreciable mainly for its
+cumulative effects through the first two games -- at the ocean and
+south of the lake, in particular, and upon examining the plaque in the
+Jewel Room. And there are genuinely riveting moments, in particular
+your last glimpse of the hooded figure from the Land of Shadow and
+your encounter, successful or not, with the Guardians of Zork. A game
+as skillfully written as Zork III need not describe every room
+elaborately, simply because the more lengthy descriptions are more
+than adequate to set the scene in the player's mind; I know I could
+picture the hallway of the Guardians of Zork vividly, though the room
+descriptions were fairly cursory. Though the gameplay is sometimes
+clumsy -- at one point, "enter the flaming pit" elicits "You hit your
+head against the flaming pit as you attempt this feat", and "climb
+wall" yields "There's no tree here suitable for climbing" -- the
+parser is usually strong enough to smooth things over.
+
+To appreciate Zork III, I think, the player needs to appreciate what
+the game authors were setting out to do -- and it was not simply to
+end the series, because a final spectacular treasure hunt would have
+done that perfectly well. To have solved Zork III is to have looked
+critically at some of the cliches of the fantasy genre, some obvious
+-- the treasure element -- but some less so, such as the expectation
+of spectacular or striking locations. By setting much of the game on
+what could be an English moor or heath -- the Crystal Grotto is a
+somewhat jarring exception -- or an American plain and mountainside,
+the designers subvert those expectations and make your quest, if
+anything, prosaic -- at least, prosaic relative to the expectations of
+the genre. The many locations that are not significant for any puzzle
+reinforce the same effect, as do details like "The ground here is
+quite hard, but a few sickly reeds manage to grow near the water's
+edge." There are few mighty deeds in Zork III -- no dragon to slay or
+gates of Hades to enter; instead, the puzzles involve cleverness or
+survival, and using fairly conventional tools to achieve your
+ends. Perhaps most interestingly, there is minimal magic in Zork III,
+and you have minimal control over anything magical; logic and
+mechanics are at issue in the puzzles.
+
+Certainly, not everything about the game is fresh -- the overarching
+plot is not, after all, especially original -- but the experience of
+playing the game yields something unfamiliar to the fantasy
+enthusiast. In a sense, the nature of the world of Zork III brings the
+person sitting at the keyboard into the game in a way that the Zork II
+player was not likely to feel, unless he or she was used to
+encountering wizards and unicorns.
+
+In the end, the success of Zork III depends on how open the player is to
+the game's peculiarities. The game is less fun in the most obvious sense
+than its two predecessors; it indulges in fewer amusing antics and has
+fewer rewarding things to do. But it ties up the series in a way that more
+of the same would not have; it marks the end of a process that had been
+hinted at in Zork II, a process whereby the player's interests and
+priorities change, and there is more impetus to see and understand than
+simply to secure what is valuable and bolt. The ending provides a certain
+perspective on the adventurer that was, particularly in light of the
+ending of Zork Zero, and the endgame -- centered around prison cells -- is
+appropriately down-to-earth for the feel of Zork III. There are many good
+things about Zork III, in the end, and perhaps the best of them is that,
+in most respective, it goes against the fantasy-game grain.
+
+
+
+READER'S SCOREBOARD----------------------------------------------------------
+
+An apology is in order here: I have _still_ not updated the
+Scoreboard. Rest assured, however, that I'm archiving all ratings and
+will do my best to update the scores before the next issue.
+   
+   Notes:
+
+        A   - Runs on Amigas.
+        AP  - Runs on Apple IIs.
+        GS  - Runs on Apple IIGS.
+        AR  - Runs on Acorn Archimedes.
+        C   - Commercial, no fixed price.
+        C30 - Commercial, with a fixed price of $30.
+        F   - Freeware.
+        GMD - Available on ftp.gmd.de
+        I   - Runs on IBM compatibles.
+        M   - Runs on Macs.
+        S20 - Shareware, registration costs $20.
+        64  - Runs on Commodore 64s.
+        ST  - Runs on Atari STs.
+        TAD - Written with TADS.  This means it can run on:
+                AmigaDOS, NeXT and PC, Atari ST/TT/Falcon, DECstation
+                (MIPS) Unix Patchlevel 1 and 2, IBM, IBM RT, Linux, Apple
+                Macintosh, SGI Iris/Indigo running Irix, Sun 4 (Sparc)
+                running SunOS or Solaris 2, Sun 3, OS/2, and even a 386+
+                protected mode version.
+        AGT - Available for IBM, Mac, Amiga, and Atari ST.  This does not
+                include games made with the Master's edition.
+        ADVSYS - Available for PC and Macintosh only, or so my sources tell
+                 me.  (Source code available as well.  So it can be ported
+                 to other computers.)
+        HUG - Written with Hugo.  Runs on MS-DOS, Linux, and Amigas.
+        INF - Infocom or Inform game.  These games will run on:
+                Atari ST, Amiga, Apple Macintosh, IBM, Unix, VMS, Apple II,
+                Apple IIGS, C64, TSR-80, and Acorn Archimedes.  There may be
+                other computers on which it runs as well.
+
+ Name                  Avg Sc  Chr  Puz  # Sc  Rlvt Ish       Notes:
+ ====                  ======  ===  ===  ====  ========       ======
+Adventure               7.7    1.1  0.7    2     8      F_INF_TAD_ETC_GMD
+Adventure 350           6.5    0.0  1.5    1     x      
+Adv. of Eliz. Highe     3.1    0.8  0.3    1     5      F_AGT
+All Quiet...Library     4.5    0.7  0.7    3     7      F_INF_GMD
+Amnesia                 7.7    1.3  1.4    1     9      C_AP_I_64
+Another...No Beer       2.4    0.2  0.8    2     4      S10_IBM_GMD
+Arthur: Excalibur       8.6    1.8  1.7    1     4      C_INF
+Awe-Chasm               2.4    0.3  0.6    1     8      S?_IBM_ST
+Balances                6.4    1.0  1.3    2     6      F_INF_GMD
+Ballyhoo                7.0    1.8  1.5    3     4      C_INF
+Beyond Tesseract        3.7    0.1  0.6    1     6      F_I_GMD
+Beyond Zork             8.1    1.5  2.0    3     5      C_INF
+Border Zone             6.7    1.4  1.4    4     4      C_INF
+Broken String           3.1    0.5  0.6    1     x      F_TADS_GMD
+Bureaucracy             8.3    1.8  1.6    3     5      C_INF
+Busted                  5.2    1.0  1.1    1            F_INF_GMD
+Castaway                1.1    0.0  0.4    1     5      F_IBM_GMD
+Change in the Weather   6.1    0.8  1.1    2     7      F_INF_GMD
+Christminster           8.6    1.8  1.7    3            F_INF_GMD
+Corruption              6.7    1.4  1.4    1     x      C_I
+Cosmoserve              8.7    1.3  1.4    2     5      F_AGT_GMD
+Crypt v2.0              5.0    1.0  1.5    1     3      S12_IBM_GMD
+Curses                  8.3    1.3  1.7    7     2      F_INF_GMD
+Cutthroats              6.4    1.4  1.2    5     1      C_INF
+Deadline                7.0    1.3  1.4    4     x      C_INF
+Deep Space Drifter      5.5         1.4    1     3      S15_TAD_GMD
+Demon's Tomb            7.4    1.2  1.1    2     9      C_I
+Detective               1.1    0.0  0.0    4     4-5    F_AGT_GMD
+Detective-MST3K         6.0    0.6  0.1    3     7-8    F_INF_GMD
+Ditch Day Drifter       7.1    1.2  1.6    1     2      F_TAD_GMD
+Dungeon Adventure       6.8    1.3  1.6    1     4      F_SEE REVIEW Issue #4
+Dungeon of Dunjin       6.2    0.5  1.5    2     3      S20_IBM_MAC_GMD
+Electrabot              0.7    0.0  0.0    1     5      F_AGT_GMD
+Enchanter               7.1    0.9  1.4    5     2      C_INF
+Enhanced                N/A                0     2      S10_TAD_GMD
+Eric the Unready        7.4    1.5  1.4    1     x      C_I
+Fable, A                2.0    0.2  0.1    1     6      F_AGT_GMD
+Fish                    7.1    1.2  1.5    1     x      C_I
+Forbidden Castle        4.8    0.6  0.5    1     x      C_AP
+Gateway                 7.5    1.6  1.5    1     x      C_I
+Great Archaelog. Race   6.5    1.0  1.5    1     3      S20_TAD_GMD
+Guardians of Infinity   8.5    N/A  1.3    1     9      C_I
+Guild of Thieves        6.8    1.1  1.2    1     x      C_I
+Gumshoe                 6.3    1.3  1.1    2     9      F_INF_GMD
+Hitchhiker's Guide      8.0    1.6  1.6    5     5      C_INF
+Hollywood Hijinx        5.7    1.0  1.5    4     x      C_INF
+Horror30.Zip            3.6    0.0  0.9    1     3      S20_IBM_GMD
+Horror of Rylvania      7.7                1     1      C20_TAD_GMD (Demo)
+Humbug                  7.4                1     x      S10_GMD (Uncertain)
+Infidel                 7.0         1.4    7     1-2    C_INF
+Inhumane                3.6    0.2  0.7    1     9      F_INF_GMD
+Jacaranda Jim           7.0                1     x      S10_GMD (Uncertain)
+Jeweled Arena, The      8.0    1.5  1.5    1     x      ?
+Jigsaw                  8.7    1.6  1.6    3     8,9    F_INF_GMD
+Jinxter                 6.7    1.1  1.3    1     x      C_I
+John's Fire Witch       7.2    1.1  1.6    5     4      S6_TADS_GMD
+Journey                 6.9    1.3  0.8    1     5      C_INF
+Jouney Into Xanth       5.0    1.3  1.2    1     8      F_AGT_GMD
+Klaustrophobia          7.3    1.2  1.4    4     1      S15_AGT_GMD
+Leather Goddesses       7.8    1.4  1.7    5     4      C_INF
+The Legend Lives!       8.2    0.8  1.5    1     5      F_TADS_GMD
+Lethe Flow Phoenix      7.5    1.7  1.5    1     9      F_TADS_GMD
+The Light: Shelby's Ad. 8.0    1.6  0.5    1     9      S?_TADS_GMD
+Lurking Horror, The     7.1    1.4  1.3    5     1,3    C_INF
+MacWeslyan(PC Univ.)    5.6    0.7  1.0    1     x      F_TADS_GMD
+Magic.Zip               4.5    0.5  0.5    1     3      S20_IBM_GMD
+Magic Toyshop, The      3.6    0.5  1.0    1            F_INF_GMD
+Mind Electric, The      5.1    0.5  0.8    2     7-8    F_INF_GMD
+Mind Forever Voyaging   8.5    1.4  0.6    4     5      C_INF
+Moonmist                5.9    1.4  1.3    5     1      C_INF
+Mop & Murder            4.9    0.5  1.0    1     4-5    F_AGT_GMD
+Multidimen. Thief       5.6    0.4  1.0    3     2,9    S15_AGT_GMD
+Mystery House           4.1    0.3  0.7    1     x      F_AP_GMD
+Night at Museum Forever 4.1    0.0  1.0    3     7-8    F_TAD_GMD
+Nord and Bert           4.8    0.5  1.0    2     4      C_INF
+Odieus': Flingshot      3.3    0.4  0.7    2     5      F_INF_GMD
+One Hand Clapping       7.1    1.1  1.3    2     5      F_ADVSYS_GMD
+One That Got Away, The  6.4    1.2  0.9    2     7-8    F_TAD_GMD
+Oo-Topos                5.7    0.2  1.0    1     x      C_AP_I_64
+Path to Fortune         6.8    1.4  0.8    1     9      S_INF_GMD
+Pawn, The               6.5    1.0  1.2    1     x      C_I_AP_64
+Perseus & Andromeda     3.4    0.3  1.0    1     x      ?
+Planetfall              7.5    1.7  1.6    6     4      C_INF
+Plundered Hearts        7.8    1.4  1.3    2     4      C_INF
+Quarterstaff            6.1    1.3  0.6    1     9      C_M
+Sanity Claus            9.0                1     1      S10_AGT_GMD
+Save Princeton          5.8    1.2  1.3    2     8      S10_TAD_GMD
+Seastalker              5.5    1.1  1.0    4     4      C_INF
+Shades of Grey          8.0    1.3  1.4    4     1-2    F_AGT_GMD
+Sherlock                8.2    1.5  1.6    2     4      C_INF
+Shogun                  7.1    1.5  0.5    1     4      C_INF
+Sir Ramic Hobbs         5.0    1.0  1.5    1     6      F_AGT_GMD
+Sorceror                7.3    0.6  1.6    5     2      C_INF
+South American Trek     0.9    0.2  0.5    1     5      ?_IBM_GMD
+Space Aliens...Cardigan 1.8    0.5  0.4    4     3      S60_AGT_GMD
+Spellbreaker            8.2    1.2  1.8    4     2      C_INF
+SpellCasting 101        7.0    1.0  1.2    1     x      C_I
+SpellCasting 201        7.8    1.5  1.6    1     x      C_I
+SpellCasting 301        7.5    1.4  1.5    1     x      C_I
+SpiritWrak              6.6    1.0  0.6    1     9      F_INF_GMD
+Spur                    7.2    1.4  1.2    1     9      F_HUG_GMD
+Starcross               7.0    1.1  1.3    5     1      C_INF
+Stationfall             7.6    1.6  1.6    5     5      C_INF
+Suspect                 6.2    1.3  1.2    2     4      C_INF
+Suspended               7.5    1.3  1.2    4     8      C_INF
+Theatre                 6.8    0.9  1.2    3     6      F_INF_GMD
+TimeQuest               8.6    1.5  1.8    1     x      C_I
+TimeSquared             4.3    1.1  1.1    1     x      F_AGT_GMD
+Toonesia                6.3    1.1  1.2    2     7      F_TAD_GMD
+Tossed into Space       3.9    0.2  0.6    1     4      F_AGT_GMD
+Treasure.Zip            N/A                0     3      S20_IBM_GMD
+Trinity                 8.8    1.4  1.7    8     1-2    C_INF
+Tube Trouble            3.3    0.5  0.4    1            F_INF_GMD
+Uncle Zebulon's Will    7.6    0.9  1.3    3     7      F_TAD_GMD
+Undertow                5.2    1.0  0.8    1            F_TAD_GMD
+Undo                    1.9    0.1  0.4    2     7      F_TAD_GMD
+Unnkulian One-Half      7.0    1.3  1.7    4     1      F_TAD_GMD
+Unnkulian Unventure 1   7.1    1.2  1.6    5     1-2    S10_TAD_GMD
+Unnkulian Unventure 2   7.2    1.4  1.5    4     1      S10_TAD_GMD
+Unnkulian Zero          9.0                1     1      C25_TAD_GMD (Demo)
+Waystation              5.7    0.7  0.9    2     9      F_TAD_GMD
+Windhall Chron. 1 - See Path to Fortune.
+Wishbringer             7.6    1.3  1.3    4     5-6    C_INF
+Witness, The            7.2    1.7  1.2    5     1,3,9  C_INF
+Wonderland              7.5    1.3  1.4    1     x      C_I
+World                   6.5    0.6  1.3    2     4      F_SEE REVIEW Issue #4
+Zanfar                  2.6    0.2  0.4    1     8      F_AGT_GMD
+Zork 0                  7.1    1.3  2.0    2     x      C_INF
+Zork 1                  6.0    0.7  1.5    9     1-2    C_INF
+Zork 2                  6.4    0.8  1.5    7     1-2    C_INF
+Zork 3                  6.1    0.6  1.4    5     1-2    C_INF
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Five:
+
+A game is not eligible for the Top Five unless it has received at
+least three ratings from different readers. This is to ensure a more
+democratic and accurate depiction of the best games.
+
+ 1. Trinity             8.8     8 votes
+ 2. Jigsaw              8.7     3 votes
+ 3. Christminster       8.6     3 votes
+ 4. Mind Fvr Voyaging   8.5     4 votes
+ 5. Curses              8.3     7 votes
+    Bureaucracy         8.3     3 votes
+
+CLOSING REMARKS--------------------------------------------------------------
+
+That wraps it up for this time. I'm aiming to make the next issue the
+Competition Special - provided, of course, that I receive enough
+competition game reviews to fill an issue. Keep 'em coming.
+
+And, last but certainly not least:
+
+A Merry Christmas to all SPAG subscribers!
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

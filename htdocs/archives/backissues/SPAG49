@@ -1,0 +1,3025 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #49
+
+        Edited by Jimmy Maher (maher SP@G grandecom.net)
+                       August 18, 2007
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #49 is copyright (c) 2007 by Jimmy Maher.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign.
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+Editorial
+IF News
+A History of Spanish IF
+
+INTERVIEWS IN THIS ISSUE --------------------------------------------------
+
+Sebastian Argañaraz ("Sarganar")
+Juan Sebastián Armas ("Incanus")
+Javier Carrascosa ("Grendel Khan")
+Javier San José ("JSJ")
+"Lenko"
+Andrés Viedma Peláez ("Akbarr")
+Luis David Arranz Pérez ("Jarel")
+Kent Tessman
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Amnesia
+La Cara Oculta de la Luna
+Fate
+Final Selection
+Getfeldt's Treasure
+Goteras
+It's Easter, Peeps
+Suprematism
+When in Rome 1: Accounting for Taste
+When in Rome 2: Far from Home
+
+SPECIFICS
+=========
+Floatpoint
+
+
+EDITORIAL------------------------------------------------------------------
+
+As I too often do, I have to begin this issue with an apology for its tardiness. 
+Lots of people have contributed lots of great content this time around, and I 
+have sat on it far too long.  I could give a rundown of the personal 
+circumstances that led to that, but I will spare you the excuses and just offer 
+my apologies.  I do think this is a pretty good issue, one that is hopefully 
+worth the wait.
+
+As most SPAG readers are probably aware, longtime community stalwart David 
+Cornelson recently launched a new company called Textfyre with the intention of 
+publishing commercial IF titles.  Commercial IF has not been a completely dead 
+idea during the 2000s, of course, as both Peter Nepstad and Kent Tessman have 
+had at least modest successful in selling their respective games 1893 and Future 
+Boy!  (In fact, see this this very issue for a thoughtful interview with Mr. 
+Tessman which was conducted on behalf of SPAG by Greg Boettcher.)  Mr. 
+Cornelson, though, proposes to take things to an entirely different level in 
+publishing a steady stream of new IF titles produced by creative teams that do 
+not necessarily include Mr. Cornelson himself.  He certainly appears, at least 
+from this uninformed observer's standpoint, to be doing everything right, and 
+while I'm not sure I would invest my last dollar in Textfyre at this point, I 
+would give him the best odds for success of any commercial IF venture since, oh, 
+the founding of Legend Entertainment.
+
+It's worth asking, though, what a fullblown revival of commercial IF via 
+Textfyre would really mean to those of us who have stuck with the form through 
+all these years.  The first instinct for me, and perhaps most of you, is to 
+envision a return to glory and get stars in the eyes.  Who among those of us who 
+remember doesn't pine for the days when one could walk into one's local 
+bookstore or game store and see IF from Infocom and others on the shelf?  For 
+many of us the glory days of commercial IF carry a huge dollop of nostalgia, of 
+lost childhood and the magic of discovery and all the rest.  (The Golden Age of 
+IF is twelve?)  That at least is the way that I suspect most of the 
+30-somethings among us feel.  I don't have a clue about the rest of you lot, 
+except to believe that we all also feel that IF IS a valid, exciting, even 
+important form of expression that we have hardly begun to explore, and that it 
+deserves the critical standing that, for better or for worse, is generally 
+reserved in our culture for things that are packaged and sold.  And yes, we'd 
+really just like to hold shiny boxes with Mike Gentry or Jon Ingold's name on 
+them in our hands too.
+
+And yet many of us believe that the end of the commercial era was not entirely a 
+negative for the long-term artistic development of the form.  The fact that our 
+games are free has allowed us to innovate and to take risks that the companies 
+of the 1980s would never have dared.  We don't have to suffer through reams of 
+bad puzzles thrown in just so their host games could be padded out enough to 
+seem to justify their $30 price tags anymore, and I'm certainly thankful for it. 
+And honestly, would anyone, even those of us inside the community, pay money for 
+some of the admittedly fascinating experiments with the form of the last ten 
+years?
+
+Understandably then, Mr. Cornelson seems to plan to stick to fairly traditional 
+text adventure tropes, at least initially.  I'm thankful, though, to see that he 
+is not explictedly targeting the nostalgia market.  Anyone who has watched VH-1 
+in the last ten years knows, of course, that nostalgia is a powerful commercial 
+force, but using it to sell IF only reinforces a lot of painful stereotypes 
+about the form that I think most of us would really like to get away from.  
+Textfyre will try to sell IF to a new generation of younger readers, the 
+burgeoning Young Adult bookseller market at which Harry Potter was targeted. 
+While one might wish to see Textfyre release more adult-oriented games at some 
+point in its hopefully long existence, it isn't hard to get excited by the idea 
+of a whole new generation of wide-eyed youngsters discovering the magic of IF.
+
+The upshot of all this, though, is that a venture such as Textfyre -- and, if it 
+is successful, the others that will inevitably follow -- NEEDS this community to 
+experiment and probe the margins.  Mr. Cornelson obviously understands this, and 
+intends to create a symbiotic relationship between this community and his 
+company.  And commercial IF written under Cornelson's model will be produced by 
+teams, which opens up the possibility for more IF novels to complement the short 
+stories this community generally produces.
+
+Textfyre is exciting stuff, my friends, as exciting in its way as were TADS 3 
+and Inform 7 last year.  IF is in a great position right now, with next 
+generation development platforms that make the previously difficult or 
+impossible almost trivial; a surprising number of new faces to complement the 
+old guard; a steady stream of new games; and now the possibility for a 
+commercial face for the form to augment our community's free efforts.  It's 
+quite a change from the somewhat moribund community that existed when I took the 
+reins of SPAG a couple of years ago.  (Don't worry, I claim no causal connection 
+whatsoever here.)
+
+It's all going to be great fun to cover.  I hope to explore the potentials and 
+pitfalls of commercial IF in more depth in the next issue to complement this 
+editorial and the Kent Tessman interview you'll find below.  You'll also find in 
+this issue the next installment of our ongoing series on the non-English IF 
+communities, this time covering Spanish IF in considerable depth; a lot of 
+thoughful reviews from regulars and newcomers, including a couple addressing 
+prominent Spanish games of the last few years as a complement to the feature 
+article and interviews; and a great SPAG Specifics piece from Jim Aikin on 
+Floatpoint.
+
+And one more commercial IF factoid before I leave you: 1893 is currently sitting 
+at number 5 on the independent game portal Manifesto Games 
+(http://www.manifestogames.com) list of top sellers.  Wow!
+
+
+IF NEWS -------------------------------------------------------------------
+
+IF ART SHOW 2007
+After a hiatus of several years, Marnie Parker ran the IF Art Show -- a gallery 
+of experimental, puzzleless works of IF which has in the past produced such 
+significant works as Galatea -- again this year.  There were three entrants.  To 
+wit:
+Symbolic Engine by Evan Schull 
+Varronis Museum by David Garcia 
+Rendition by nespresso 
+http://members.aol.com/iffyart
+
+IntroComp 2007
+Jacqueline Lott is running the IntroComp again this year, a competition for 
+introductions to proposed longer games.  The voting deadline is August 24, so 
+you still have time to play the intros and vote on which ones you would most 
+like to see fleshed out into full-fledged games.  There are just 7 entrants, and 
+they are all presumably fairly short, so go for it!
+http://www.xyzzynews.com/introcomp
+
+One Room Game Competition 2007
+Francisco Cordella is running a competition for games that, you guessed it, take 
+place entirely in one room.  Games must be submitted by November 18.
+http://www.avventuretestuali.com/orgc/orgc-2007-eng
+
+The Lovecraft Commonplace Book Project
+Peter Nepstad recently hosted a gallery of both textual IF and graphical 
+adventure games based upon story ideas collected by H.P. Lovecraft in his 
+Commonplace Book.  Seven games were included, written in three different 
+(human) languages.  Jon Ingold's Inform 7 entry Dead Cities was selected as Best 
+of Show.  Peter now hopes to turn the project into a physical exhibition 
+playable at several galleries around the world.
+http://www.illuminatedlantern.com/if/games/lovecraft
+
+Digital Archaeology on the Original Adventure
+IF scholar Dennis C. Jerz has just published a major paper on the original work 
+of IF, Crowther and Woods' Adventure.  He has located from a backup of Don 
+Woods' student account at Stanford University Will Crowther's original Fortran 
+source code for the game from before Woods began to modify it.  This version was 
+previously believed lost, and this can only be described as a major historical 
+find.  Jerz also traveled to Mammoth Cave in Kentucky to explore the scenery 
+that formed the basis for Adventure.  Graham Nelson has already described this 
+as the most important single paper ever published on the history of IF, and I am 
+not inclined to argue.
+http://brain.lis.uiuc.edu:2323/opencms/export/sites/default/dhq/vol/001/2/000009
+.html
+
+Filfre 0.97
+I've released a new version of my Windows Z-Machine interpreter.  The big news 
+for this release is that it now supports Glulx -- including full multimedia 
+support -- and is thus no longer just a Z-Machine interpreter.  Hey, surely your 
+editor is entitled to the occasional bit of self-promotion!  Right?  Right?  I 
+didn't even mention my IntroComp entry!  Isn't that worth a little slack?
+http://home.grandecom.net/~maher/filfre
+
+Flashonate
+Peter Rogers has created a Z-Code interpreter that runs in... Flash!  It's a bit 
+slow at the moment, but consider it a proof of concept.
+http://home.cogeco.ca/~peter_rogers
+
+Gamasutra on Zork
+The well-known professional game development website Gamesutra recently 
+published a nice, if hardly groundbreaking, article on the history of Zork, 
+including new interviews with some figures we all know pretty well.
+http://www.gamasutra.com/view/feature/1499/the_history_of_zork.php?print=1
+
+SPAG NEEDS YOU!
+The good news: I received a lot more reviews from you folks for this issue, and 
+the review count is reasonable again.  The also good news that could be 
+construed as bad by the sick and twisted: A LOT of games have appeared in the 
+last few months, and that means the Most Wanted list continues to be packed 
+full to bursting.
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  IF Art Show 2007 games (any, some, or all)
+2.  Adventurer's Consumer Guide
+3.  1893: A World's Fair Mystery
+4.  IntroComp 2007 games (any, some, or all)
+5.  Lovecraft Commonplace Book Project games (any, some, or all)
+6.  Blighted Isle
+7.  Ghost Town: The Lost Treasure
+8.  Lydia's Heart
+9.  Crystal and Stone and Beetle and Bone
+10. Remaining Spring Thing 2007 games (any, some, or all)
+
+
+A HISTORY OF SPANISH IF -----------------------------------------------------
+
+The following article was written by Pablo Martinez Merino "(Depresiv"), 
+originally published in Spanish on the Spanish Wikipedia, and then translated 
+into English for the IF Wiki.  I have cleaned up the translation a bit and am 
+republishing it here to provide some context for the interviews and reviews of 
+Spanish IF that appear later in this issue.
+
+Background (1984-1988)
+
+While in England and the United States interactive fiction started to appear in 
+the late 1970s, in Spain we had to wait until 1984 to see the first text 
+adventures.  Dinamic, a software publisher that was destined to become one of 
+the most important in Spain, premiered at that time with two programs: Artist, a 
+drawing application; and Yenght, the first Spanish IF work, written in compiled 
+BASIC and assembler for the Spectrum 48K.  It featured very brief descriptions 
+along with several major bugs and sudden, unfair deaths, but nevertheless 
+managed to amuse quite a few players. 
+
+Some opine, however, that the most important influence on early Spanish IF was 
+Melbourne House's hugely successful adaptation of The Hobbit.  Certainly many 
+Spanish IF writers make special mention of this title.  Perhaps Yenght was no 
+more than another obstacle in the development of Spanish IF, for it was not 
+until 1986 that another stand-alone commercial text adventure appeared. (A game 
+called Alicia en el País de las Maravillas was distributed by the magazine 
+Microhobby in 1985). 
+
+We have now mentioned two of the greatest supports to the genre in its 
+beginnings: the software publisher Dinamic and the magazine publisher Hobby 
+Press with its magazines MicroHobby and MicroMania.  Dinamic founded a specific 
+label (the AD label, "Adventures Dinamic") for publishing interactive fiction, 
+releasing games created by small homegrown companies as well as those created 
+by Adventures AD, a company from Valencia that soon would stand out over the 
+rest. The games published at that time had a wide variety of genres and styles.  
+There were adaptations of classic literature like Don Quijote de la Mancha; 
+contemporary literary adaptations like Los pájaros de Bangkok ("The Birds from 
+Bangkok"), featuring Manuel Vazquez Montalban's popular detective Pepe Carvolho; 
+comedies such as the Star Wars parody La guerra de las vajillas ("The Crockery 
+Wars"); and science fiction games like Megacorp. Interestingly, the other big 
+Spanish game publisher of this era, Topo Soft, never published a single text 
+adventure in its whole existence. 
+
+Adventures AD and the First Golden Age (1988-1992)
+
+Things really took off in 1988 with the publication of La Aventura Original 
+("The Original Adventure"), the first release from a new company called 
+Adventures AD.  As its name suggests, La Adventura Original was a loose 
+adaptation of Crowther and Woods' game.  It was a sales success, and its massive 
+distribution led to a much higher profile for IF in Spain.
+
+Another important development at this time was the release of the IF-authoring 
+tool PAWS (Professional Adventure Writing System).  Quill, PAWS' direct 
+ancestor, was never translated from English, but Adventures AD partnered with 
+PAWS authors Tim Gilberts and Graeme Yeandle to make the successor system 
+available to would-be authors of Spanish IF. 
+
+IF in Spain reached it commercial peak during 1988 and 1989.  The most popular 
+Spectrum magazine in Spain, MicroHobby, conducted a national text adventure 
+writing contest at this time, and included two permanent sections in every issue 
+dedicated to text adventures and written by Andrés Samudio, the founder of 
+Adventures AD.  
+
+Adventures AD might be seen, at least in some some ways, as the Spanish Infocom. 
+Between 1988 and 1992, Adventures AD sold six different titles, each one of them 
+a sale success, until the decline of the 8 bit market and the rising populatiry 
+of graphic adventures brought with them harder times for textual IF.  These 
+works were as follows:
+
+La Aventura Original ("The Original Adventure," 1988). An adaptation of 
+Adventure by Crowther and Woods. It showed pictures in almost every location, 
+and was also unlike the original in that it started outside the cave and forced 
+the player to find a way to open a grate to gain access to the underground
+areas.  These were contained on the B side of the tape on which the game was 
+distributed. Instead of starting with everyday elements and introducing the 
+supernatural little by little, this version had an elf and a dwarf in the first 
+section of the game.
+ 
+Jabato (1989). Based upon a character from a comic book, this game was set 
+during the heyday of the Roman Empire. Its main novelty was that it allowed the 
+player to simutaneously guide several travelers through Europe and Africa.
+ 
+Cozumel (1990). The first title of the Ci-u-Than trilogy, which is set in the 
+Caribbean during the first half of the 20th century, and Adventures AD's best 
+game in the opinion of many. The explorer Doc Monro gets marooned on the coast 
+of Cozumel, where he experiences great adventures.
+ 
+La Aventura Espacial ("Space Adventure," 1990). Written during a hiatus in the 
+production of the Ci-u-Than trilogy. Features a science fiction setting and some 
+experimental touches. It also allows its player to control more than one 
+character. 
+
+Los Templos Sagrados ("The Sacred Temples," 1991). The second part of the 
+Ci-u-Than trilogy is a puzzlefest also set in the Caribbean rainforest.
+ 
+Chichén Itzá (1992). The third part of the Ci-u-Than trilogy is Adventures AD's 
+most ambitious game, featuring lots of NPC and settings. 
+ 
+All Adventures AD games had very similar attributes.  They were written as two 
+separate parts.  At the beginning of the second part it was necessary to enter a 
+password obtained upon finishing the first part.  Pictures were present in 
+almost every location.  Adventures AD's equivalent to the the Z-Machine was 
+called DAAD.  It allowed the company to makes its games available on virtually 
+all viable 8 and 16 bit platforms of the era.  The 16 bit versions were usually 
+longer and had some additional or more complex puzzles. 
+
+For some time it was said that Adventures AD would move to writing graphic 
+adventures, but it never happened.  The company faded away quietly, and Spanish 
+IF activity from then on would be centered around amateurs.  
+
+However, all games published by Adventures AD contained an advertisement 
+promoting an amateur club, which which was a great help in launching the scene.  
+The two most important of these clubs were CAAD, founded in Valencia in 1988, 
+and Year Zero Club, founded in Vigo in 1991.  These clubs each had almost one 
+thousand members, and published lots of interesting articles in their fanzines.  
+As many as 300 amateur and professional works of Spanish IF may have been 
+released between 1986 and 1992.  After 1992, however, hobbyist activity slowed 
+dramatically, and soon the paper fanzines also faded away. 
+
+The Internet and the Second Golden Age (1997-)
+
+Some years later, the arrival of Internet gave birth to a second golden age.  IF 
+aficionados could now discuss their interest through mailing lists, reference 
+web pages such as CAAD, and an IRC channel. The CAAD web page was born in 1997, 
+its initial purpose being the collection and archiving of both the old paper IF 
+fanzines and the text adventures they discussed.  A Usenet newsgroup was 
+created, but it was soon invaded by spam and questions about graphic adventures. 
+A Yahoo! Groups list was eventually settled on in its stead. 
+
+In 1997, the two existing clubs organized a text adventure competition, in which 
+less than a dozen adventures were entered.  In this first competition a severe 
+limit of just one location and three objects was enforced.  In 1998, CAAD 
+repeated the competition with less severe restrictions on game size.  Just nine 
+authors participated.  Spanish IF was obviously still in crisis.  The winner of 
+the 1998 competition was not even selected until three years later. 
+
+At the end of 1999 the second golden age began in earnest with the first 
+competition for fully fleshedout, albeit brief, IF works.  This was very 
+successful, and in May of 2000 the event was conducted again.  The organisation 
+of several other competitions like these helped to reignite the interest of old 
+aficionados.  The IRC channel and the mailing  list were also of course a great 
+help here.  Modern Spanish IF competitions have just as many permutations and 
+themese as do those for Enligh IF.  There have been comps for comedy games, 
+experimental games (called "nanos"), Tolkien-themed games, etc. Since 2001 there 
+has also been a major annual competition like that of the English IF community, 
+known as the Premios Hispanos ("Hispanic Prizes"). 
+
+Authoring Systems
+
+In addition to writing new IF games, the Spanish community has also built some 
+authoring systems just for IF in Spanish. 
+
+Halfway through 1992, the first Spanish IF development system for PC-compatibles 
+was published.  SINTAC was based upon PAWS, and written by Javier San José 
+("JSJ"). Initially distributed with a shareware license, and becoming freeware 
+some time later, it had quite a large user base for a time, but was abandoned in 
+2000. 
+
+During the next few years, many other authoring systems, more or less related to 
+PAWS, appeared for PC or for some of the other common computers of that time. 
+NMP, another "PAWS-like", was also very well known. 
+
+At the end of 1992 the first completely native Spanish authoring system for the 
+PC, CAECHO?, was released by Juan Antonio Paz Salgado ("Mel Hython") and some 
+other contributors. CAECHO? marked a major advance over PAWS and its 
+derivatives, being a complete structured programming language rather than being 
+built around the "condition lists" of PAWS.  
+
+In October of 1998 José Luis Díaz ("Zak McKraken") released InformATE ("Inform 
+Ahora Totalmente en Español" - "Inform Now Completely in Spanish"), a Spanish 
+library for Inform based upon the English Inform 6.30. InformATE has seen huge 
+acceptance in the Spanish community, generating a healthy amount of 
+documentation, utilities, and of course games. 
+
+Some months later, in June of 1999, the author of SINTAC released the first 
+version of a new system called Visual SINTAC.  While only available for Windows 
+machines, it was the first Spanish parser to provide a complete GUI as a help to 
+the programmer.  However, the project is abandoned today. 
+
+In January of 2005, Uto, Yokiyoki and Baltasar released the first usable version 
+of Superglus, a system based upon NMP which generates games for the Glulx VM.  
+It has already seen wide acceptance in the community. 
+
+Present Time: CAAD, SPAC Fanzine, and Forums
+
+In June of 2000 the people in charge of CAAD decide to resume publication of the 
+fanzine, this time in PDF format for web distribution.  Just seven monthly 
+issues in total were publushed, but in October of the same year another ezine 
+called SPAC appeared, inspired by SPAG.  It continues to be published monthly 
+today and is in very good health, thanks to a more and more active community. 
+
+In 2004, forums were created as part of a remodelling of the CAAD webpage.  They 
+have allowed for better classification of IF-related discussions and have made 
+the community much more accessible. The older mailing lists still exist, but are 
+no longer as active as they once were. 
+
+WikiCAAD, the Spanish IF wiki, was rolled out just this year and is quickly 
+becoming a major documentation source on current events, history, works, and 
+resources. 
+
+Another interesting initiative of recent years is a classic text adventures 
+retrieval project called Proyecto Base which has managed to obtain more than a 
+hundred classic ZX Spectrum Spanish adventures in very little time.  Also,  
+Almacén de la Aventura ("The Adventure Warehouse") has an increasing collection 
+of newer interactive fiction -- from the year 2000 on -- each archived with an 
+individual Windows installer for maximum ease of use.
+
+At this moment, more and more Spanish-speaking people all over the world -- in 
+Chile, Argentina, Spain, Venezuela, Mexico, Peru, and other places -- are 
+becoming interested in the form. 
+
+Some Outstanding Works of Modern Spanish IF
+
+La Sombra de la Luna Negra ("The Black Moon's Shadow") by Depresiv.  
+http://www.caad.es/brevecomp2/aventuras/luna.zip
+ 
+Misterio en el Último Hogar ("The Last Home's Mystery") by Kano&Kambre.
+http://www.aliensuavito.com/detalles/elultimohogar.php
+ 
+Resaca ("Hangover") by Voet Cranf. 
+http://www.caad.es/modulos.php?modulo=descarga&id=1287
+
+Ocaso mortal ("Deadly Sunset") by Dhan. 
+http://www.geocities.com/lashojascaidas/juegos/ocaso.htm
+
+Olvido Mortal ("Dead Reckoning") by Andrés Viedma (Akbarr).
+http://www.terra.es/personal/a_viedma/olvido.htm
+English Translation by Nick Montfort:
+http://www.ifwiki.org/index.php/Dead_Reckoning
+ 
+El Extraño Caso de Randolph Dwight ("The Strange Case of Randolph Dwight") by 
+Urbatain. 
+http://www.caad.es/php/detalle_fichero.php?descarga_id=1058
+
+El Archipiélago ("The Archipelago") by Depresiv. 
+http://www.caad.es/modulos.php?modulo=descarga&id=1177
+
+El libro que se aburría ("The Book that Became Bored") by Jenesis.
+http://if.jenesis.presi.org
+ 
+La Sentencia ("The Sentence") by José Luis Díaz (Zak).
+http://www.caad.es/modulos.php?modulo=descarga&id=642 
+
+Spanish IF Links
+
+Wikipedia - Spanish IF Community history and works.
+http://es.wikipedia.org/wiki/Aventura_conversacional
+
+CAAD - Club de Aventuras AD: spanish IF Community webpage. 
+http://www.caad.es
+
+SPAC - Sociedad para la Preservación de las Aventuras Conversacionales. SPAC is 
+similar to and inspired by SPAG. 
+http://usuarios.lycos.es/SPAC
+
+InformATE - InformATE is a spanish Inform Library, to create and code Inform 
+games in spanish. 
+http://www.caad.es/informate
+
+WikiCAAD - The Spanish IFWiki. 
+http://www.wikicaad.net
+
+
+THE SPAG INTERVIEW (DEPARTMENT OF SPANISH STUDIES)-------------------------
+
+
+The following interviews were conducted and translated by the prominent Spanish 
+IF author Pablo Martinez Merino, AKA Depresiv.  I can't thank him enough for the 
+huge amount of time and work that must have gone into preparing all this for us. 
+If you appreciate his efforts, feel free to drop him a line at pablote2es SP@G 
+yahoo.es and tell him so.
+
+=-=-=-=-=-=-=-=-
+Javier Carrascosa ("Grendel Khan")
+Javier San José ("JSJ")
+"Lenko"
+Andrés Viedma Peláez ("Akbarr")
+Luis David Arranz Pérez ("Jarel")
+-=-=-=-=-=-=-=-=
+
+(Translator Note: This is the result of an interview that took place in the 
+Spanish IF IRC channel, with some well-known members of the Spanish community. 
+I've tried to preserve the general "mood" of the interview, so all of the 
+important things that were said in that moment --and many of the unimportant 
+things also-- are here.)
+
+<Depresiv>	Someone has to record this thing, I don’t know how to do it...
+
+<jarel_^>	So, who were supposed to come here today? (recording)
+
+<Depresiv>	JSJ, Dhan, Uto, Mel, Lenko, Baltasar, Grendel, Al-Khwa, Jarel, 
+Mapache, Akbarr.
+
+<Akbarr>	Lenky, Jary and...
+
+<Depresiv>	Et moi.
+
+<Akbarr>	Depresy?... Depresivy...
+
+<Depresiv>  	Depry.
+
+<Akbarr>	Oh, that’s true. Depry.
+
+<Lenko>		I said to my wife I was going to the computer for an interview, 
+and she asked me: "So who’s going to make this interview?" "Depresiv"
+
+<Depresiv>	Come on, lie to her, man, lie to her...
+
+<Lenko>		"That sounds awful", she said... and that was all about it.
+
+<Akbarr>	This thing about the names is so good. Every time I go to a 
+meeting and then tell my girlfriend about it, she splits her sides laughing. I 
+always tell her a quick list of the names and she always ends up saying "How 
+freaky you are!"
+
+<Depresiv>	Do you remember, Jarel, when I introduced you guys to a female 
+friend of mine? "This is JSJ, this is Dhan, this is Yokiyoki, this is Jarel..."
+
+<Akbarr>	Haha.
+
+<jarel_^>	Hmmm, the day of the vegetarian restaurant?
+
+<Depresiv>	That one, that one.
+
+<Akbarr>	I remember the times when a girl came to the meetings. Yoki’s 
+girlfriend, Krac’s one, Dhan’s one... The most amazing girl was Urbatain’s wife. 
+She knows more of interactive fiction than us. LOL
+
+<Lenko>		In another forum I use to write, they organize meetings from 
+time to time, and more than once they met in a square and they were all looking 
+at each other not daring to ask: Are you "octopus"?
+
+<jarel_^>	Looking at each other? hahahaha
+
+<Akbarr>	"Octopus"? What’s the forum about? Seafood? Or flirting? LOL
+
+<jarel_^>	It was just like the first time I met Akbarr. The guy was 
+standing in front of a corner... and although he suspected I could be...
+
+<Akbarr>	How long ago was that... Snifff...
+
+*	Depresiv looks at his watch
+
+<Depresiv>	Man... These people take their time. :)
+
+<Akbarr>	I will have to leave at 11. So the interview is going to be very 
+quick, it seems...
+
+<jarel_^>	Come on, start the interview with Akbarr.
+
+<Depresiv>	Ok, let’s go then.
+
+<Akbarr>	That’s true, let’s start with those who are already here.
+
+----------------------------------------------------
+
+<Depresiv>	I’ll divide the interview in two parts. I’ll dedicate the first 
+part to introduce ourselves a bit. I will name each one of you, and you’ll tell 
+me all the things you’ve done and are currently doing related to Interactive 
+Fiction. AND PLEASE DON’T BE HUMBLE, I’ll just say when I notice something 
+missing. :P Ready?
+
+<Lenko>		Ok.
+
+<Akbarr>	Go.
+
+<Depresiv>	In alphabetical order, it’s your turn, Akbarr. :)
+
+<Akbarr>	Ok, my name’s Akbarr (in Alcoholics Anonymous’ meetings we 
+always begin this way!), my first contact with adventures was, just like many 
+people around here, with the ZX Spectrum, with Don Quijote, and later I played 
+every Spanish text adventure released (and fled from the English ones, just 
+because I was lazy). Later, when PAWS was released, I bought it and wrote an 
+adventure with my name in it, this is, "Akbarr" (in fact it was the opposite 
+way, but that’s not the point). Then I was disconnected with the community for 
+some years and, during the "second golden age", I took up again the hobby. So I 
+wrote a remake of Akbarr for the PC along with my brother, who made the 
+graphics, which are by the way the most remarkable thing in the game (modesty 
+aside I think this is the most "good-looking" adventure I’ve ever seen). I also 
+wrote another one with Inform, Olvido Mortal, which was translated twice into 
+English. The first translation, Shattered Memory, was written by me and some 
+other Spanish people, and the second one, Dead Reckoning, by Nick Montfort. I 
+also have another project in mind called Akbarr 2, which is in eternal vaporware 
+state.
+
+(T.N. PAWS stands for "Professional Adventure Writing System", an authoring 
+system for the ZX Spectrum. It was quite popular in Spain in the 80s-90s)
+
+<Depresiv>	Listen, I’ve always been curious about this. :) How did Nick 
+contact you?
+
+<Akbarr>	Who?
+
+<Depresiv>	Nick Monfort.
+
+<Akbarr>	I entered with Shattered Memory in the IFComp. It was 
+disqualified, something I didn’t really care about, but the reviews also weren’t 
+very good. The reviewers gave me the impression that most of the time that they 
+didn’t go straight to the "real problem". I mean, they didn’t like it, but they 
+didn’t really know why. (At least that was my impression.) For example, it’s 
+just like placing a bad actor in a movie. Suddenly everything’s not working, the 
+script is not being convincing and it’s hard to realize that the problem’s just 
+the appearance of that actor. So I registered my game in an English webpage for 
+people looking for translators. I mean, translators in one side and adventures 
+wanting to be translated in the other side. Nick though the adventure was 
+interesting and so he contacted me (or maybe it was the reverse, I don’t 
+remember it very well). I think I was right thinking the way I did, because the 
+only review of the second translation I’ve seen, written by Emily Short, pointed 
+much better at the real faults of the adventure.
+
+<jarel_^>	Is Nick Monfort bilingual?
+
+<Akbarr>	I wouldn’t say as much as bilingual. But he deals really really 
+well with Spanish. And exceptionally well with English. (Better than the 
+average, I mean)
+
+<Depresiv>	He seems quite a nice guy. Well, at least the last time I wrote 
+him
+
+<Akbarr>	Yes, he’s a really nice guy. He spent almost a year without 
+starting the translation, and later he sent me an apology. (And I said nothing 
+about that)
+
+<Depresiv>	Yes, well, he answered me "no" from the beginning. But he did it 
+in a very polite way. :D
+
+<Lenko>		I once read an article he wrote about how he did that 
+translation, and I really liked it, but I can’t find it anymore.
+
+----------------------------------------------------
+
+<Depresiv>	Grendel, introduce yourself. The things you’ve done for the 
+community. The things you’ve done and are still doing around Interactive 
+Fiction.
+
+<grendelkhan>	Well, I am Grendel Khan and I have been active in CAAD since 
+2003, although I was a regular reader of the CAAD mail list before that. 
+Previously I started playing adventures with the ZX Spectrum, but I never was a 
+good player. I discovered text adventures quite late, and couldn’t enjoy them 
+completely until I discovered CAAD in 1997, through a PCManía magazine. It had a 
+CD with several parsers (T.N.: IF authoring systems), one of them was NMP by 
+Carlos Sánchez. I wrote an adventure with it that went almost completely 
+unnoticed, called Orfeo en los Infiernos ("Orpheus in Hell"), which entered in 
+the Concurso Nacional de Aventuras ("National Adventures Competition"). After 
+this, in 2003, I re-entered the community, and wrote some other adventures with 
+very different themes. (Must I mention them?)
+
+(T.N.: CAAD was one of the most popular paper fanzines in the 80s-90s about text 
+adventures. Later, when Internet was popular, the CAAD webpage became the 
+central hub of the Spanish IF community. That’s why many people refer to the 
+Spanish IF Community simply as CAAD.)
+
+<Depresiv>	Well, at least mention the ones you want to emphasize. :)
+
+<grendelkhan>	Ok. When I decided to participate actively in CAAD, I realized 
+the best way to introduce myself was to write a new adventure. I re-appeared in 
+CAAD with La casa del Olvido ("The House of Forgiveness"), which included 
+graphics as the main novelty. Some time later I wrote La aventura rural ("The 
+Rural Adventure") which earned the best NPCs prize in the Premios Hispanos 2004. 
+From my IF production, I would emphasize La Musa ("The Muse") and Wiz Lair as my 
+most accomplished projects, although the late one didn’t have a tremendous 
+popularity.
+
+----------------------------------------------------
+
+<Depresiv>	Jarel, your turn.
+
+<jarel_^>	I started getting in touch with text adventures in the early 
+90s, when I had an Amstrad CPC. I played AD adventures and some (one) English, 
+but they were just some games between other games. In 1997 I made contact with 
+the community through the advertisement in the magazine PcManía about the 
+adventures competition in CAAD, and I realized with this advertisement that 
+there was a webpage and some new adventures to download. Also in the CD from the 
+PCmanía I found several parsers, one of them was SINTAC. But I found it too 
+complicated for me, so I decided to write my own parser from scratch (and also 
+to have fun writing it). Cárdenas was the first person I contacted, and he 
+persuaded me to go to a meeting where I didn’t know anyone nor did anyone know 
+me. Once I went through that, when I already had an Internet connection at home, 
+I became part of the community through the mail list and IRC, and I realized how 
+many messages appeared in the mail list, and how much involvement in the many 
+competitions there was. (I mean, considering the amount of active people.) I 
+wrote several adventures with my own parser (DISAC) with whom I was able to 
+program really fast, since the commands were only one character long. And 
+finally I started programming in Inform. And... well, I think these are all the 
+historical facts.
+
+(T.N.: Aventuras AD was the most popular Spanish IF company in the commercial 
+era.)
+
+<Depresiv>	You still have to mention that you wrote 19 adventures with 
+DISAC. :P Which is not a mere trifle.
+
+<Akbarr>	You have skipped that small detail, yeah.
+
+<jarel_^>	I’m going to count them while you ask the next question LOL
+
+<Akbarr>	If the title of each adventure is also one character long, you 
+can enumerate them.
+
+----------------------------------------------------
+
+<Depresiv>	Lenko. There you go! :D
+
+<Lenko>		hahaha.
+<Lenko>		Well, when I was a kid I purchased a ZX Spectrum +3, and I was 
+completely hooked with the Microhobby magazine and the Viejo Archivero. By 
+chance, one of the very few programs I had on disk (it loaded 100.000 times 
+quicker than the ones on tape) was Don Quijote, a text adventure that was 
+completely embittering to me, but it also hardened me, so to say. So when 
+Aventuras AD released the PAWS I bought it immediately and then programmed a lot 
+with it. The problem was that I was quite young at that time, and although 
+Microhobby mentioned the CAAD fanzine, I never dared to enter.
+
+(T.N.: Microhobby was the most popular ZX Spectrum magazine in Spain in the 
+80s-90s. El Viejo Archivero ("The Old Archivist") was an IF-related section in 
+that magazine. It was written by Andres Samudio, the owner of Aventuras AD.)
+
+<Lenko>		So finally my adventures were lost amongst old tapes. Some years 
+ago I was looking for information about MUDs, because I wanted to write a new 
+one, although not the typical "kill everything that moves" one. And I ended up 
+discovering CAADs webpage (the old one). I started to read the FAQs and I 
+realized what I had been missing all of these years. I played Cacahuetes, Sal y 
+Aceite online ("Peanuts, Salt and Oil") and I ended up being convinced that that 
+was "my thing." Programming and writing, my two greatest passions, together. 
+Genius.
+
+<Depresiv>	:)
+
+<Lenko>		Then I joined the mail list, then the forum, and then I decided 
+to write my only adventure so far (Una pequeña historia de Navidad, "A Small 
+Christmas Story"), with which I was quite happy with the reception. Some time 
+later I was completely amazed when I discovered the IfWiki. I thought that we 
+needed something like that, but more oriented towards the promotion of 
+adventures. I installed everything in my local computer and started making the 
+basic work, but everything was stopped because of some personal problems, until 
+a few months ago, when I mustered up, not wanting the idea to stay forever as 
+vaporware. And that’s more or less all.
+
+----------------------------------------------------
+
+*	JSJ has entered #interviewcaad
+
+<Depresiv>	And now, skipping the alphabetical order, the turn is for JSJ. 
+:P
+
+<jarel_^>	The turn for the "J" has finished, this thing goes in 
+alphabetical order.
+
+<JSJ>		What’s my turn for?... Ah! Right! I Call!!
+
+<Depresiv>	JSJ, you have to tell us a brief introduction of who you are, 
+what things have you done around Interactive Fiction, from your beginnings until 
+now.
+
+<JSJ>		Let’s see... Who am I... Well. I’m this guy who joined this 
+thing as a matter of pure coincidence, when another guy gave him a tape with 
+something called The Hobbit recorded on the B side. And soon after getting tired 
+of killing those aliens from the A side, decided to give an opportunity to the B 
+side.
+
+<Akbarr>	Hey, guys, this is not to interrupt JSJ (well, maybe a bit also 
+because of that), but I must go.
+
+<Depresiv>	Ummmm, Akbarr, I’ll finish your interview later in Madrid. Ok?
+
+<Akbarr>	I won’t be able to meet you on Saturday night, sorry.  :/  I 
+have to go to the theatre.
+
+<Depresiv>	Sigh. By mail then.
+
+<Akbarr>	By mail. Ok. I promise to answer fast.
+
+<jarel_^>	Bye, Akbarr.
+
+<Akbarr>	Ok, enjoy yourselves. And don’t believe a word from JSJ. Bye!
+
+<Depresiv>	See you.
+
+<JSJ>		Now that he’s leaving, I can say bad things about him.
+
+*	Akbarr has left.
+
+<Depresiv>	You were talking about the B side. :)
+
+<JSJ>		I’ll continue then. ;) After spending some time with the B side, 
+I started enjoying those strange games where you had to type a lot. Anyway, most 
+of them were in English at that time. So I think I had that metacarpian syndrome 
+before it was even known, as I had to play with one hand on the keyboard and the 
+other one...
+
+<JSJ>		... (don’t be sick minded) ...
+
+<JSJ>		...and the other one occupied consulting a Spanish-English 
+dictionary. :D And, man, did it weigh. Some time after that the Microhobby 
+competition started... I already had the English version of PAWS. (The eMule of 
+those years... I had some contacts that sent me some tapes full of strange 
+things.) I decided to participate, and you already know the story: We were seven 
+finalists and the prize was just a copy of the DAAD for each of us.
+
+(T.N.: The first IF competition in Spain was organized by Aventuras AD and the 
+magazine Microhobby. When the time came for them to choose a winner, Aventuras 
+AD was having such great financial problems, that they couldn’t afford paying 
+the promised prize. So they choose seven winners instead of one, and gave them a 
+copy of DAAD, the in-house version of PAWS for Aventuras AD. It turned to be 
+quite a disappointing prize, as it was more or less PAWS with a few add-ons)
+
+<Depresiv>	Wow, learning PAWS without instructions...
+
+<JSJ>		Yeah, well... at that time I used to make freaky things like 
+hand-made disassembling of games and so on... so learning PAWS was a child’s 
+play for me. If only I had half of the freakism of those times... oh well... In 
+any case I also started being an active member of the CAAD fanzine. Active means 
+that I wrote articles regularly: PAWS programming articles, some gamebook or 
+other (by the way... I want to find a copy of that gamebook, even a scanned one, 
+to keep it in my memory chest) :D
+
+<Depresiv>	I have it all at my parent’s house.
+
+<grendelkhan>	(Gamebook? Where, where?)
+
+<JSJ>		I wrote one. Nothing too unusual. By chapters, in the CAAD 
+fanzines. I don’t remember the number of the issues. I still keep a lot of 
+gamebooks from my period of fondness, though.
+
+<grendelkhan>	Upload it to CAAD.
+
+<Lenko>		And to WikiCAAD. (T.N. Spanish version of IfWiki)
+
+<Depresiv>	C’mon, let JSJ talk :)
+
+<JSJ>		The thing is I decided to write a parser... I woke up one day 
+and said: I’m going to write SINTAC! (Well, it was not exactly like that, but 
+the mental process could be summed up to that.)
+
+<jarel_^>	It’s obvious he’s a momio, since the roll of the speech goes 
+down to the floor. (T.N.: "Momio" is untranslatable slang. It’s used to refer to 
+really old members of the community.  It could be translated as something like 
+"male mummy.")
+
+<JSJ>		Basically SINTAC was born from my disenchantment with DAAD. (My 
+"prize" as a finalist in Microhobby’s competition). It was one of those things 
+you see and say: I can do that myself. No sooner said than done. My big surprise 
+was after writing to JAPS (That was Mel’s old name :)) to tell him that I 
+already had the first version of a parser called SINTAC T1 (the T meant that it 
+only supported text, and not graphics). In any case, JAPS’ answer surprised me: 
+I am also working in a new parser! And I said: YOU DID WHAT?
+
+(N.T.: Untranslatable pun. Mel Hython -- previously known as JAPS -- was the 
+author of  CAECHO?, a procedural IF authoring system in the early 90s. CAECHO 
+QUE?”, JSJ’s exclamation, could also be translated as "YOU DID WHAT?")
+
+<jarel_^>	How did you meet Mel?
+
+<JSJ>		How did I meet him? The reality is... I don’t remember. What’s 
+the use of lying. :D (Or else later Akbarr will throw it in my face.) Most 
+probably we started mailing each other when we were two of the seven finalists. 
+I don’t have the feeling that we knew each other before that, but I do have it 
+after that. Maybe he’s not as affected by Alzheimer as me and can answer this 
+question much better. LOL
+
+<Depresiv>	Ok, we were in YOU DID WHAT?
+
+<JSJ>		Well yes... There we go. That was, for me, the "Golden Age". 
+Parsers were written, people used them. Lots of homegrown adventures were 
+released. People even played them! And paid for them! Anyway... I kept 
+collaborating with CAAD, updating SINTAC (and selling it) some more time, until 
+my disconnection. I left the community coinciding with the disappearance of 
+Microhobby and the decline of CAAD, this is, when issues started spacing out 3 
+or 4 months. It was at that time when Juanjo Muñoz (T.N.: the first editor of 
+the CAAD fanzine) was a little bit burnt-out. (Digression: with Internet, people 
+are getting used to have everything free and in tons.)
+
+<Depresiv>	(Digression: I remember how scared I was during the times JSJ 
+has told about. "This is the End!")
+
+<JSJ>		I just disappeared "... I was absent 2 or 3 years. That was the 
+"Dark Age". :D Then I started getting involved in a different kind of games: 
+role playing games. I remember I played every RPG released at that time.
+
+<jarel_^>	What years were they? 199...
+
+<JSJ>		1997-1999 or something like that.
+
+<jarel_^>	Hmmm... No, you came to the meeting in 1999.
+
+<JSJ>		You’re right...
+
+<Depresiv>	Just a second, I’ll take a look in Wikipedia, and we will finish 
+sooner.
+
+<jarel_^>	And then the mail list began...
+
+<Depresiv>	1992
+
+<JSJ>		In 1998 I started to write Visual SINTAC, so my absence could 
+have been somewhere in between 1995 and 1998 or so. That was the next milestone 
+I wanted to talk about. I don’t know why, between 1997 and 1998 I decided to 
+write another parser. At that time I had a permanent Internet connection at 
+home, so I contacted Juanjo again, and he directed me towards the #caad IRC 
+channel and the mail list. I didn’t show up in the chat at the beginning as I 
+thought at that time that the chat was something for kids. I just thought that 
+chat channels where places where teens spent their time doing teeny things. But 
+I did enroll to the mail list. The fact is that I enrolled just to announce I 
+was developing Visual SINTAC!
+
+*	jarel_^ looks at his watch.
+
+*	Depresiv puts aside the watch.
+
+<Depresiv>	Hang on, this is getting interesting. :P
+
+<JSJ>		In 14/10/1998 it was my first presentation message in CAAD’s 
+mail list. The following day I announced I had half-developed Visual SINTAC. I 
+just asked, basically, for help, and then published the source code, as it was 
+one of those projects I had started but had no intention of finishing. In any 
+case, since no one decided to help, I resumed the project. In 12/06/1999 the 
+first alpha of VS was out, and the first beta soon after that. And a bit later a 
+final version.
+
+<grendelkhan>	(In 30/02/2046 Visual Sintac reached consciousness and dominated 
+CAAD)
+
+<JSJ>		Hehe.
+<JSJ>		The reception was quite different. Some people liked it, some 
+people didn’t. It happened that Zak had already released InformATE, and many 
+people were concentrating on it. That doesn’t mean that some users didn’t find 
+something in VS and even wrote some things with it. Anyway, I was completely 
+disappointed on one side, and unable to compete with Inform on the other, so I 
+decided to cancel the project. I thought there was no use in keeping up with it 
+when there was another system which was destined to be the standard. So I have 
+done very little (or nothing) in this community since then.
+
+<jarel_^>	That sounds awful. Inform finished you!!!!
+
+<Depresiv>	In my opinion, the only thing that VS lacks is a multiplatform 
+interpreter.
+
+<jarel_^>	Most probably.
+
+<Depresiv>	On the other hand I don’t think it’s true that everything ended 
+after that. :) You’ve done many things for the community since then. E.g. CAAD’s 
+webpage, the Premios Hispanos webpage...
+
+<JSJ>		My next contributions to the community were more on the 
+organizational side, yes.
+
+<Lenko>		The webpage has been essential.
+
+<JSJ>		The webpage, the Hispanos, going to meetings... :D
+
+----------------------------------------------------
+
+<Depresiv>	Now the second part of the interview. I’m going to ask some 
+questions, though they will necessarily be very few and a bit generic, so you’ll 
+have to add some debate. :) It would be great to see all your different points 
+of view. I think this will allow seeing the different trends in the community. 
+Are you in?
+
+<JSJ>		ok :D
+
+<Lenko>		ok
+
+<Depresiv>	First of all... What kind of things you look after in 
+adventures? What makes them different from conventional literature? What do you 
+think is there still to be told and experimented as a medium?
+
+<JSJ>		Buf... That’s a trick question. I’ve never seen this medium as 
+something comparable with conventional literature. They have always been games 
+for me.
+
+<jarel_^>	From my point of view, literature is one thing and adventure is 
+another, and I don’t like adventures mimetizing with literature.
+
+<Lenko>		Adventure doesn’t have much to do with traditional literature, 
+but maybe things like hypertext have more to do with it.
+
+<grendelkhan>	I see two trends here: the literary one and the recreational 
+one.
+
+<jarel_^>	There, we both agree with that.
+
+<JSJ>		But yeah, recently (recently for me means the last 5 or 6 years) 
+the literary trend has appeared, just like Grendel says, though I still prefer 
+adventures as games, instead of adventures as literature.
+
+<Lenko>		The fact is that adventures improve a lot with an attractive 
+literature. Though with the basis of a game, different types of structures must 
+be developed, to retain the interest not only because of the story, but also 
+because of the game, since literature is based on the fact that the story always 
+continues; while in an adventure we spend most of the time blocked.
+
+<grendelkhan>	I think that the medium has the potential to produce good 
+interactive literary works, but the potential readers still cling to the 
+traditional retro-gaming principles.
+
+<jarel_^>	I think that the paragraph that could look interesting in a 
+book, can be counter-productive in an adventure, since you have to read several 
+times the same texts. Because of that, I think that a more agile kind of 
+narration would be much better, similar to tales but different from the one in 
+novels.
+
+<grendelkhan>	Well, I think nowadays texts are much more well-cared for than 
+in the old days, where hardware limitations imposed an austere style.
+
+<Depresiv>	Would you say that the type and form of the adventure’s pause is 
+different from the one in literature just because of that, Lenko?
+
+<Lenko>		That’s right, here you have to dedicate most of your effort 
+looking after those pauses, more than just with the continuity of the story. 
+There are adventures with enormous texts when you succeed and tiny messages when 
+you fail.
+
+<jarel_^>	The continuity is determined more through interaction than with 
+texts, I think.
+
+<JSJ>		See? That’s exactly what I don’t like in adventures nowadays. 
+People care much more about the literary side than the recreational side, and 
+you never obtain a thing or the other.
+
+<Depresiv>	In what sense, JSJ?
+
+<JSJ>		In the sense that it’s neither a decent literary work (and I 
+don’t want to generalize) nor a fun game.
+
+<Lenko>		On the other hand I like variety and I enjoyed Photopia a lot, 
+along with some of the works entered in the XComp. (T.N.: XComp is a Spanish 
+competition for experimental and/or "weird" works.)
+
+<jarel_^>	Photopia would be the exception to the rule.
+
+<JSJ>		I would like to feel again the things I felt back when I played 
+the old text adventures, but I don’t think that’s something that will ever 
+happen for me again, for two main reasons:
+
+<jarel_^>	Maybe you would feel the same things playing any recent 
+adventure back then. I mean it’s not just the adventures the ones who have 
+changed -- it’s us. And our patience above all.
+
+<Depresiv>	Two main reasons, JSJ
+
+<JSJ>		They have already been said. :D
+<JSJ>		- I don’t like the same things I did before...
+<JSJ>		- And people doesn’t make the same things than before.
+
+<Lenko>		Yes, patience is a factor that has changed greatly. Back then, 
+when we had to wait 5 minutes to load a program, we could also dedicate hours to 
+solve an enigma.
+
+<jarel_^>	Last day, rescuing an old arcade game... I realized how much it 
+pissed me off to restart every time from the beginning... Just like the 8 bit 
+games did. We are all used now to recording positions or obtaining passwords for 
+levels.
+
+<Lenko>		Let’s admit that we were a bit masochist.
+
+<JSJ>		Well, yes.
+
+<jarel_^>	Yes. 
+
+<Depresiv>	:D Yes. Let’s go to the next question?
+
+(Akbarr later added some comments by e-mail -- Taking advantage of the open 
+nature of this question, I will make a quick change of subject: I believe that 
+one of the most important things in adventures is how easy it is to write them. 
+You can more or less program an adventure with no serious knowledge of 
+programming or without wonderful graphics, or even without being a good writer! 
+You can make a somewhat good game just with some imagination, some knowledge of 
+the medium and some dedication to test the adventure correctly.
+However, there’s another thing that hurts adventure a lot these days. I think 
+games have divided recently in two trends: the living-room games, those who are 
+thought to spend lots of hours in them, and the bus games, those thought to be 
+played in spare moments.
+Adventures aren’t able to compete with the living-room games at this moment, as 
+adventures are written by people with very little spare time, while the others 
+are developed by companies who spend millions of dollars or yens to make them 
+really spectacular, and to give them a studied playability in order to avoid 
+blockages.
+They could maybe compete with the bus games, since they don’t need as much 
+dedication, and a small blockage is not very important in them. But if I call 
+them this way it’s because they are games who can be played very well with 
+portable consoles, PDAs or mobile phones and the truth is that playing 
+adventures with these machines is, at least for me, a pain in the neck. It’s 
+complicated for me to think about playing comfortably an adventure with a 
+classical interface but without a good keyboard. Anyway, I also get the 
+impression that books already have found a good space for people in subways, on 
+the beach or in a bed right before going to sleep, just to give some examples 
+where playing adventures could also fit very well.
+As a resume, from my very personal point of view, these things make it really 
+difficult to find a suitable place to play adventures, and that’s what makes the 
+people play adventures less and less these days.)
+
+----------------------------------------------------
+
+<Depresiv>	One question specifically written for the momios around here :) 
+What changes have you noticed in the community in these times and in yourselves? 
+What meant the text adventures for you from the times of the cheese sandwiches 
+and the Microhobby, passing through the paper fanzines, to the current Hispanic 
+World nowadays?
+
+<Depresiv>	Ummm...
+
+<Depresiv>	I think this one is more or less answered.
+
+<Depresiv>	We skip this one, right?
+
+<JSJ>		I think so.
+
+<jarel_^>	It can be inferred from the other questions.
+
+----------------------------------------------------
+
+<Depresiv>	This one’s for everyone: I’m going to ask for a little effort of 
+imagination. :) Do you believe there’s a Hispanic feel that distinguishes 
+adventures made in Spain and South America from the ones produced in 
+English-spoken countries? If that’s so... Why?
+
+<JSJ>		Of course! Here we are more imaginative, more creative and 
+warmer, less tidy, less methodical...
+
+*	jarel_^ agrees with JSJ although he has no objective details to 
+corroborate him.
+
+<JSJ>		It has to do with the weather, Jarel... It has been studied. :D 
+But... since they are more methodical, they tend also to be more innovative. 
+Someone said this some time ago: we are somewhat trailed behind by them.
+
+<jarel_^>	Trailed behind??? Explain yourself.
+
+<JSJ>		They were the first ones to give the literary approach to common 
+text adventures. In fact, they have a whole trend around that, and even changed 
+the terminology, from "text adventure" to "interactive-fiction".
+
+<Lenko>		Yeah, but the approach is not needed if it’s not made right. El 
+Archipielago ("The Archipelago") is a good example of mixing both aspects.
+
+<jarel_^>	So, do you think the future goes in that direction? To end up 
+writing "interactive novels"?
+
+<JSJ>		Nooooooooo. That’s exactly the way I don’t like it to be 
+(personal and minority opinion, as Grendel would have said ;))
+
+<grendelkhan>	I like both trends, the classical one and the literary one.
+
+<jarel_^>	But then... When you say we are trailed behind by them... Does 
+it mean that the Hispanic scene will end up following the foreigner scene?
+
+<JSJ>		When I say we are trailed behind by them I mean, exactly, that 
+we are going towards them. Bear in mind that, nevertheless, I don’t follow the 
+current production closely... I’m talking out of "impressions" when I read the 
+forums and the things you guys mention about them. :D
+
+<Lenko>		I think we don’t have too much influence from them, as most of 
+us aren’t regulars of RAIF nor play their adventures. 
+
+<jarel_^>I don’t see it that way.
+
+(Akbarr—I think this is just a matter of numbers, there are more people writing 
+adventures in the English-spoken community than in the Hispanic one, and that 
+makes it much more easier for innovative or revolutionary works to appear there, 
+those who make the medium evolve. What makes me sad is that those influences 
+arrive late here, because most of us don’t play English adventures. But they do 
+arrive after all! The thing is that Photopia has already quite a lot of years!
+I also believe that here, in general, we don’t mind the adventure going 
+"straight to the point", and giving less importance to descriptions and details, 
+just to be centered on "the game". I don’t think that adventures like Van Halen 
+would have had much success there... and those are the kind of games that JSJ 
+likes. ;-) Yet they do have their advantages anyway, as they are written in much 
+less time and still offer a lot of fun.)
+
+(T.N.: Dr. Van Halen is the main character of a series of 5 quite popular recent 
+Spanish IF works, written for the ZX Spectrum between 2004 and 2006: Los 
+Extraordinarios Casos del Doctor Van Halen, "The Extraordinary Cases of Doctor 
+Van Halen")
+
+----------------------------------------------------
+
+<Depresiv>	How do you think is the current situation of adventure in Spain? 
+What things would you improve?
+
+<Lenko>		I’m not as pessimistic as the recent forum messages seem to 
+show. I think we are a bit manic-depressive. For example, the problem of SPAC 
+going wrong may be true, but previously the magazine has had some wonderful 
+issues.
+
+<JSJ>		I’m only saying this: if Mel has returned with that energy we 
+can have adventure scene for another 20 years! :D
+
+<grendelkhan>	I think the scene barely stays and consolidates, and people take 
+their turns.
+
+<Lenko>		But at the same time we should see that new parsers for HTML 
+(new technologies) are being produced, blogs are being written, there is 
+WikiCAAD... And I don’t think that all the adventures are being kept back for 
+the FICOMP this year. (T.N.: FICOMP is an IF competition around science fiction 
+that takes place this year in the Spanish community.)
+
+<grendelkhan>	Yes, but we do those things for ourselves. What we do doesn’t 
+tempt new people.
+
+<jarel_^>	I don’t know what to say. :P Maybe there’s nothing more to talk 
+about. There has been so much theorizing, that there’s very little to add.
+
+<Lenko>		We should be able to sell ourselves much better, that’s obvious.
+
+<JSJ>		I think the community is really really really active these days, 
+and that makes me feel happy, because it means that the "new generation" is 
+taking over.
+
+<Lenko>		I think we should look together for new distribution channels. 
+Just an example: to make contact as the CAAD community with Sotonic to present 
+there any new adventure released. To create something like a press agency.
+
+<jarel_^>	Hahaha. That’s what I was going to say. But we don’t need to be 
+that official. We only have to make the most of the downloading portals to place 
+there the adventures.
+
+<JSJ>		There we go with the "I think we should" syndrome... The thing 
+to say is "tomorrow the latest I will..." :P
+
+(Akbarr--	There, there)
+
+<grendelkhan>	Softonic didn’t accept the last adventures I tried to slip. Only 
+ABCDatos.
+
+<jarel_^>	No??? What excuse did they give to you?
+
+<grendelkhan>	None.
+
+(Akbarr -- I think JSJ has got a point there (involuntarily, I’m sure. :D). We 
+won’t grow as a community with theory, but with practice. I miss new things to 
+appear, something that really revolutionizes text adventures, because I think 
+there’s still a lot to do.  The problem is that writing something that really 
+"breaks the mold" takes time and talent, and that’s really complicated to find 
+when we are so little people in this community. But Mel is one of those who 
+really have the ability to make this thing grow, so I am really happy too to see 
+him eager to do things.)
+
+----------------------------------------------------
+
+<Depresiv>	What do you think could be the future of adventure in Spain?
+
+<jarel_^>	The desirable or the undesirable?
+
+<Depresiv>	Ummm... does "think" gives you any clue? :P
+
+(Akbarr -- No idea, I left my crystal ball in the repair shop LOL)
+
+<grendelkhan>	I’d love a future in which adventures were played and downloaded 
+in mobile phones and PDAs, with SMS, being played by lots of people.
+<grendelkhan>	But, as far as the things go, I think we’ll stay another 20 
+years this way.
+
+<jarel_^>	Just because I’m pessimistic... I guess we’ll end up imitating 
+English IF. Reeeealy easy games, full of hints, and with a walkthrough enclosed 
+in them. And with lots of novel-like text.
+
+<JSJ>		As for me, according to the evolution of things and what it’s 
+currently happening nowadays, I believe we’ll have another productive crisis 
+and, after some years, we’ll have some new authors, or even reenlisted authors 
+wanting to make new productions. Oh! And we’ll continue making annual meetings! 
+The only thing that has stayed unchanged for the last 8 years! :D
+
+(Akbarr -- Yes, I guess it’s normal to have all these ups and downs in interest, 
+as the great JSJ said. If Adventure finds its place between game players (I’ll 
+point to my previous sermon), and I’m optimistic about that, I don’t see any 
+reason why would it disappear in middle term)
+
+<Lenko>		I think the future is in those digital readers where adventures 
+can be really substantial.
+
+<jarel_^>	Authors will force the people to read their novel above all, and 
+so they’ll serve them on a silver platter. And Urbatain will be one of the 
+architects and forerunners of the "silver platter" effect.
+
+(Akbarr -- And Jarel, just to piss everyone off, will write more of those 
+impossible-to-finish games.  ^_^)
+
+<Lenko>		I think the greatest danger was the apparition of graphic 
+adventures, which seemed to leave text adventures obsolete.
+
+<grendelkhan>	Are you sure??? LOL
+
+<Lenko>		Now that this sensation has no longer the need to exist, we only 
+have the same dangers than any other writers’ community. Which is, people not 
+reading.
+
+<JSJ>		What I see is that the medium, which was previously used by game 
+designers to write games, is currently used by men of letters to write 
+literature. And game designers have followed the evolution that the market has 
+followed... In the end, programming a game is a different thing than writing a 
+novel.
+
+<jarel_^>	What I do think is, if people prefer interactive fiction, let 
+them make it, but it would be a pity for them to make it just because it’s the 
+cool thing to do.
+
+<Lenko>		I’m going to tell you an idea I’ve been thinking about lately. I 
+would like to give a conference on interactive literature for kids 14-15 years 
+old. The name of interactive literature is just because it needs to be sold. :-) 
+I would start with Hypertext, in HTML, and then I would continue with one of our 
+IF authoring languages and teach them how to program their own games. That would 
+definitely be a great reserve.
+
+<Depresiv>	Sounds great. :)
+
+(Akbarr -- If you do that, I bet there’ll be more people in those conferences 
+than in the rest of the community. LOL)
+
+<jarel_^>	Lenko, and what language are you thinking of?
+
+<Lenko>		InformATE
+
+<Depresiv>	Buff... Tricky business. But if you manage to do it, then come 
+back and tell us the secret. :)
+
+<Lenko>		It could be sold by saying that the kids would be able to make 
+small webpages and a bit of basic programming while they have fun at the same 
+time. I’m sure they would do that (learn and have fun).
+
+<grendelkhan>	Sell it as a cross between programming, literature and games.
+
+<Lenko>		That’s right. Well, it’s a "super-vaporware" I’ve been thinking 
+about for some time.
+
+<Depresiv>	Do it, man. ;) I really like the idea.
+
+<Depresiv>	Guys, I’d rather finish the interview here.
+
+
+=-=-=-=-=-=-=-=-
+Sebastian Argañaraz ("Sarganar")
+-=-=-=-=-=-=-=-=
+
+(Sarganar is from Cordoba, Argentina. Interactive Fiction is one of his many 
+hobbies -- he also writes tales and poetry, among other things -- but 
+nonetheless he has managed something thought to be impossible: He has managed to 
+develop interactive fiction in spanish with Inform 7, labeled at first as 
+"untranslatable" by its authors.)
+
+  D: How did you get to know interactive fiction, and what attracted your 
+  attention on it? How did you find CAAD?
+
+S: Hello! Thanks to the university's Internet service I was in contact with an 
+article about interactive fiction in spanish. I'm talking about year 1998 more 
+or less. I remember I said to myself (while I was reading it): "This is amazing! 
+And this medium exists!" Before that, I never had a computer, no 8 bits, no 16 
+bits, no nothing, although I went from my house to a cousin's house to receive 
+some classes of Basic, and also I used to meet some friends to play some graphic 
+adventures with them. With my first job, I bought a computer and started to 
+play, not with games, but with some programming languages. I also got to know 
+CAAD while in the library of the university, and started to download and play 
+some adventures. Not having Internet at home (or having limited access after 
+that, with the phone connection) didn't make me a very constant person in the 
+CAAD forum. Only these two last years I've managed to be more active.
+
+  D: How did you decide to start a translation of something like Inform 7? What 
+  difficulties did you find in the way?
+
+S: Let's see, it was because of a sum of several factors. I was collaborating in 
+another really interesting project: Rebot (a bot created by Presi, which allowed 
+to play adventures through IRC), a project that gave me some useful tools in the 
+generation process of INFSP. Since Rebot was written in Perl, I learnt some 
+useful things about text processing.
+
+I think it's necessary to clarify that INFSP is the result of the work of 
+several people, mainly Urbatain.
+
+Inform7 had already been announced, and the Rakontointeraktiva group had opened 
+a debate around the possibility of using I7 in other languages. The spanish 
+problem was the absence of updated base libraries to use with I7.
+
+At that time, an article written by Urbatain appears in SPAC about Inform7, plus 
+some impressions of Urbatain about what he thought a great advance in IF 
+authoring. Then I said "Ok! Let's make Inform7 talk spanish. We'll use some 
+important things of InformATE (the most popular spanish Inform translation) and 
+try to produce first an updated version of Inform6 that speaks spanish and then 
+go one step further an reach I7."
+
+I spoke with Urbatain about this and he liked the project. First I processed the 
+whole InformATE! library with a 'translator' to Inform written in Perl, then I 
+analized the parser, isolated the modifications and sent them to a different 
+file, away from the "hackings". While Urbatain tested the behavior of this 
+version of I6 in Spanish, I concentrated on programming an extension for I7 that 
+accommodated the hispanic grammar and other necessary details. We also got 
+several very useful ideas for hacking from the rakontointeraktiva newsgroup.
+
+Our workload was lighter because of the fact of having solved from the beginning 
+the treatment of game entries in spanish, since we were using what had already 
+been used for InformATE!. We had to cope a bit with some I7 issues, just like 
+the way to include the spanish language archives, but those are details that we 
+think will son be 'officially' solved when I7 is completely mature. There are 
+also some other characteristics of this new way of programming wich are 
+developed for the english language and still don't have their spanish 
+equivalence.
+
+Urbatain's error reports did the rest. Then many other people from the community 
+started to get interested in the project (like Mel Hython or yourself). Today we 
+have good perspectives for the production of spanish adventures in I7.
+
+  D: What kind of things do you think could be "missing" from Interactive 
+  fiction in Spanish? On the other hand, what specific components do you find 
+  more interesting in it?
+
+S: Well, I think this question is "too big" for me. I like very much the 
+community existing behind interactive fiction in spanish, I mean, all the things 
+brought together around the material of 'interactive fiction' (and around the 
+caad.es forum), and the people from different regions you can find there. It 
+comes to my mind that not everyone of us approach this community for the same 
+reason or the same necessity (neither with the same definition of 'interactive 
+fiction' under our arms). But here you can find almost anything for every taste. 
+And that's very good.
+
+Something missing? To increase the amount of people approaching the community 
+(this is only a wish).
+
+About the tone of the works being produced, they gather together the sensitivity 
+of their authors. If the game doesn't fill me, that's why I'm not the public it 
+was aimed at.
+
+  D: How is it that you've started precisely in CAAD with the "hard" side of 
+  programming, instead of just writing stories? :)
+
+S: I think that's because of my character. Look, before having access to 
+computers, I had fun designing card games for my sisters to play. And since I 
+had a computer, it always happen the same with every game I install: I go 
+straight to the editor of missions, characters or maps, or to the mod 
+programming. I have more fun doing those things than playing the game. It's 
+weird, isn't it?
+
+  D: Do you use to read Interactive Fiction? If so, what works did you find
+  remarkable?
+
+S: I use to 'start' reading interactive fiction, heh! Then I give up and try 
+other things. In that sense I'm a bit absent-minded. I found interesting 
+Romanfredo, by Aryekaix, La Musa ("The Muse"), by Grendel and your El 
+Archipielago ("The Archipelago"). (By the way, how many endings does it have?) I 
+also liked "PAEE" (by Presi).
+
+  D: Finally... What could be the way to follow for interactive fiction in the 
+  future?
+
+S: I see a struggle nowadays between different spheres: the adventure players, 
+the authors and the theoreticians. It would be good for the amount of players to 
+be comparatively infinite, compared with the other two. I think that a movement 
+from within the community would be necessary in orther to archieve this (what 
+I'm saying is not new, and it's also generally true for any other community) and 
+I believe there are already some people currently working on it. But also from 
+outside, from people in general, with their life routines, their cultural 
+interests...
+
+=-=-=-=-=-=-=-=-
+Juan Sebastián Armas ("Incanus")
+-=-=-=-=-=-=-=-=
+
+(I'm here now with Incanus, probably the most meridional-westener member of the 
+interactive fiction Spanish community. Incanus was born and lives in Chile and 
+is currently one of his community's most relevant members. Aside from authoring 
+three interactive fiction works, he currently coordinates and maintains 
+InformATE! home page and is among the most active contributors of WikiCAAD, the 
+Spanish interactive fiction wiki.)
+
+  D: Incanus, could you give us some additional information about yourself?
+
+I: I'm a 37 years old male, I'm roughly 6 feet (1.8 meters) tall and my 
+weight... well, that's none of your business :P. I work as a Project Manager on 
+the Systems' Architecture area of a well known Chilean bank. I'm married (10 
+years and still going) and I have two very lovely kids, aged 3 and 1.
+
+Oh, incidentally, I dabble on interactive fiction in Spanish.
+
+  D: How did you get acquainted with interactive fiction, and how it came to be 
+  one of your main hobbies?
+
+I: It all began, back to the very beginning, on an old school's friends project; 
+it was conceived among friends, never really developed, then abandoned for 
+university pursuits, and finally brought back on my own first professional years 
+(computing and such, not quite original, I know).
+
+And so it was that, still way back (July 1998), I coded my first adventure game.
+
+Well... such as it was. I didn't had many resources, back then: no Internet 
+access, hardly a PC to work on... so (knowing zilch about parser languages) I 
+dusted off an old 80's game programming theory book (..!..) and made up a little 
+program on QBasic 1.1 (God, was it all precarious) with the bones of an 
+interactive fiction: parser, places, objects, vocabulary and a few NPCs 
+(actually, objects + vocabulary).
+
+The resulting mongrel of a game was played and criticized by a few close friends 
+and relations... but I never pursued it any further.
+
+Now, 6 years later, on or around 2004, my interest on IF was revived, I met the 
+CAAD... and, as they say, the rest is history.
+
+  D: Comment on your (many and varied) contributions to CAAD, and do please 
+  confess how do you manage to do all that and keep up with your family man 
+  role... :P
+
+I: Well, regarding CAAD, the thing is: I like to write a lot, and people in CAAD 
+still don't get tired of reading my stuff... Seriously, I'm more proficient in 
+authoring interactive fiction, especially on InformATE!, so most of my 
+contributions tend to fall on these categories (not so much on authoring systems 
+and related technologies: I'm just a user, on that account). Being rather bent 
+on badgering, sorry, contributing wherever and whenever I possibly can, I tend 
+to keep a high level of participation in CAAD forums, InformATE! home page (that 
+job was a very welcomed appointment) and WikiCAAD (that job was personally 
+assumed and healthily on discussion now, thank God).
+
+Regarding my family: it's no secret at all. Since I have absolutely no free time 
+whatsoever at home, what with house-keeping, child raising, wife loving, eating, 
+sleeping -you know, being around and trying to be of use- almost all of my 
+interactive fiction work is done on the only available time I have remaining: at 
+work :P. That is: instead of coffee breaks, lunch or co-worker gossip (I'm sure 
+am I being labeled as an obscure cubicle recluse by now..).
+
+  D: Tell us a little about your community experiences. What makes you feel a 
+  part of it? What would you improve?
+
+I: My experiences by an large have been only good and rewarding. I’m a very 
+opinionated person (bordering on dogmatic, I’m unhappy to report) but I do tend 
+to respect other people’s opinion and I have been treated thusly.
+
+I do have a strong feeling of belonging, mostly due to the continued input of 
+the rest of the community on my own participation (yup, there’s more than just 
+echo :P).
+
+On improvement, I’d only like to have more diffusion among Spanish speaking 
+people (no offense, dear English reader). I do believe our Spanish community is 
+rather lacking on the evangelization side.
+
+  D:Give us a brief comment on the adventures you have played. Do you usually 
+  play Spanish adventures?
+
+I: I’ll shamefully admit that, with time constraints already noted, I play very 
+little adventures at all; I do favor Spanish adventures, English ones I almost 
+never play, so I’m not much of a connoisseur to single out specific games (I do 
+play them, though).
+
+In lieu of apology, I’m afraid this is not entirely uncommon among Spanish 
+authors (it’s no excuse).
+
+  D: And now, most important of all. Your adventures :D  Tell us a little bit 
+  about them.  What they have meant to you and their reception. Meeting 
+  expectations or sorely disappointed?
+
+I: All in all, I'd say meeting expectations and very little disappointment.
+
+Chronologically:
+
+(late) 2004: La Mansión (The Manor). It was my first interactive fiction work on 
+InformATE!, being a remake of a MS/DOS QBasic 1.1 work I did back in 90's before 
+I heard a word of any interactive fiction community whatsoever. "La Mansión" was 
+a learning tour-de-force on the many aspects on interactive fiction authoring, 
+not the least among them using InformATE! For an opera prima it was reasonably 
+well received as an amusing game (your classic "mad scientist mystery house") 
+without further pretensions. No disappointments there.
+
+(mid) 2005:"El Protector (The Guardian) . My second interactive fiction work was 
+more fiction than interactive oriented (it had many puzzles, mind you) and as 
+such it had a very good reception: it's literature and short story were highly 
+praised, though it lacked on the interactive side, specially because of exact 
+wording issues that are now solved (mea maxima culpa, despite heavy 
+betatesting). It's (from an author perspective) my favorite interactive fiction 
+work so far, for creative and, well, personal reasons; mostly, its inspiration 
+(play the game and you'll know... it's in Spanish, "ya lo sé", but, c'mon, it 
+even has all the hints needed short of a walkthrough, "un montón de pistas", for 
+God's sakes :P). My only real disappointment came from the fact that, even 
+though it was profusely nominated for the Premios Hispanos that year, it didn't 
+win any medals. This was one of those "Salieri Situations", though: the 
+competition that year was very good, so, what can you do?
+
+(mid) 2006: Goteras (Leaking). My third and so far most successful interactive 
+fiction work, readers/players wise. It's theme (not so the story itself) was 
+inspired on a hard sci-fi novel: Allen M. Steele's Orbital Decay; space 
+blue-collar workers and all that non-romantic view on life in industrialized 
+space (big corporations, hard labor, appalling work conditions). It had lots of 
+humor; some said (well, _someone_ said :P) it had too much or too bad humor, but 
+then again, what can you do? :P It was praised by the whole community at large 
+as my best interactive fiction work to date, it got many nominations at the 
+Premios Hispanos and did won on three categories very dear to me: story 
+("argumento"), literature ("calidad literaria") and best puzzle ("mejor 
+puzzle"). It was a very short story (everyone wanted more: that's a good sign, 
+no?) and with little but very amusing puzzles (everyone wanted more puzzles: a 
+good sign, also). No disappointments whatsoever, not from the readers, and 
+certainly not from me ;-)
+
+  D: Any future projects? Teasers?
+
+I: Right now (late June, 2007) I am currently betatesting mi fourth interactive 
+fiction work, a much longer sequel to "Goteras". It will deal with events that 
+take place after the events on "Goteras" (it’s a sequel... doh! :P), on an 
+asteroid mining base, and... well, you'll see (if you can play the game in 
+Spanish, et caetera.) I sincerely hope it'll please those who wanted "more!", 
+because there certainly is more of everything in this my fourth adventure: 
+longer story, lots of puzzles, many NPCs, and huge amounts of (be warned) my 
+brand of hard sci-fi humor. Incidentally, it'll be my first adventure with NPCs; 
+how I've managed so far to be recognized as a proper interactive fiction author, 
+with works with no NPCs on them, it's a mystery and a wonder (and not only to 
+me, I'm sure :P). Some would argue that "La Mansión" does have NPCs but they 
+were more like talking furniture, really: I'm not proud of that ;-).
+
+I also have a (mostly sleeping) project for an (also long) interactive fiction 
+work based on a Chilean historical colonial character: La Quintrala. The 
+argument is defined (a string of La Quintrala's troubled life episodes), I've 
+done my research (a mandatory item: I'd like to be accurate, even though it's 
+fiction), but, besides the available time issues, I still don’t feel up to the 
+task, specially so on the proper use of language: believe it or not, my XVII 
+century colonial Spanish is rather lacking :P. Thing is, I'm not planning to use 
+colonial Spanish verbs or commands (I mean, c'mon) but I'd want to get the 
+literature and NPC's right, hence my hesitation ("when in doubt, hesitate") and, 
+let's face it, fear induced procrastination.
+
+  D: Incanus, I'm going to put your imagination to the task here. Can we talk 
+  about an "Spanish" soul or flavor to the Spanish interactive fiction works, 
+  compared and setting them apart from the rest of the interactive fiction 
+  communities? Answering that, to cope, more imagination; can we speak of a 
+  Latin-American soul or flavor?
+
+I: We certainly can talk of a soul or flavor on the Spanish interactive fiction 
+works and it would be, with no stretch of imagination, on the narrative 
+elements. Every successful interactive fiction work in Spanish has interesting 
+puzzles, nice interaction... but a good narrative is always a high impact 
+factor. And I do mean critical.
+
+Take one of the most lauded (if not the best) works of our late interactive 
+fiction production, "Archipiélago" (no title translation needed). Game wise, 
+it's fantastic, but the story and the literature are simply superb.
+
+As I far as I can tell, almost every game that scored high or won the majority 
+of the categories in the Premios Hispanos has also won either or both story 
+(argumento) and literature (calidad literaria) categories (this is not a 
+Business Intelligence analysis, but, what can you do? :P).
+
+Let me put this way: we do like and award good games (strong on puzzle or 
+interaction works) but we also place no small importance on the story side 
+(strong on fiction works), so yes, I'd say that's an important difference in the 
+Spanish community.
+
+We don't like just to play interactive fiction, we like to also read interactive 
+fiction. I'm not sure that's always the case elsewhere.
+
+And for the Latin-American soul or flavor... I couldn't tell you. My own works 
+were written with a "castizo" (ISO Spaniard) public audience in mind. I've never 
+to date read or wrote a "Latino" interactive fiction work. Beats me: "no tengo 
+la más p*** idea", I've not the slightest inkling (I'm not translating properly, 
+or am I? "olé" :P) about something like a Latin-American interactive fiction 
+"thing"; never seen it to date.
+
+  D: To wrap it up, is there anything you feel that was unsaid or left out here? 
+  Speak, man, here's your chance :)
+
+I: I'd like to comment on the sorry state of Santiago ill fated public transit 
+system, Transantiago: it's the current government’s shame and a mass humiliation 
+for everybody’s who's forced to use it. Hell hath known no punishment as this 
+and...
+
+Oh! You meant about interactive fiction, right?
+
+:P
+
+I'd like to, heck, I will take this opportunity to give my regards, gratitude 
+and fond appreciation to the Spanish interactive fiction community, that so 
+friendly received and endured (they say "mostly enjoyed", but I know better) my 
+participation this past three years. Interactive fiction is now a very enjoyable 
+part of my life and is all because of you: "chicos, sois lo mejor", guys, you 
+are the best and thanks for all the fish (I just couldn't help it :P).
+
+I'll try to keep up the work.
+
+I’ll stay around for keeps.
+
+You won't get rid of me that easily!
+
+;-)
+
+  D: Thanks for answering these questions, Incanus, my best wishes of success in 
+  any and all your future projects. 
+
+
+THE SPAG INTERVIEW (DEPARTMENT OF ENGLISH STUDIES)-------------------------
+
+Greg Boettcher conducted the following interview with Kent Tessman, creator of 
+the Hugo IF programming language and the 2004 commercial IF game Future Boy!, 
+along with several earlier freeware games.  Greg and Kent discuss Future Boy!'s 
+development and marketing in considerable depth.  Stay tuned to SPAG for future 
+articles and interviews on this once and future idea of actually, gasp, SELLING 
+text adventures.
+
+=-=-=-=-=-=-=-=-
+Kent Tessman
+-=-=-=-=-=-=-=-=
+
+Back in 2004, Kent Tessman completed his ambitious superhero IF game, Future 
+Boy. The game distinguished itself with its humorous story, its artwork, its 
+music, and its inclusion of possibly more animation than any other IF game. When 
+awards time came, Future Boy was nominated for as many as nine XYZZY Awards.
+
+But more than anything else, Future Boy distinguished itself as a successful 
+commercial IF release. It garnered lots of press attention, including several 
+rave reviews. Kent Tessman has shown that, if an author is resourceful and 
+hard-working, his IF game can get significant attention outside the IF 
+community, and, yes, can even sell.
+
+In rec.arts.int-fiction over the past several years, there has been a lot of 
+discussion about the commercial potential of IF. Considering this, I thought it 
+would be worthwhile to interview Kent Tessman, who is now something of an 
+authority on the subject.
+
+And, of course, I also thought this interview would be a great chance to hear 
+about Kent Tessman's game development experiences, his film projects, and other 
+things of interest.
+
+  GB: You originally wrote Future Boy as a screenplay. Please tell us about your 
+  original ideas, the writing process, or whatever else might be interesting 
+  about Future Boy as a film concept.
+
+KT: The original idea for the screenplay was to do a superhero story not 
+starring a superhero.  It was a comedy about a regular someone whose 
+not-so-great roommate just happened to be a superhero.  I think the script was 
+pretty good -- funny, at least -- but in retrospect not perfect.  At the time my 
+agent sent it out, there were a number of other offbeat superhero comedies, 
+which often happens when a lot of writers swim in the same pop-culture ocean.
+
+  GB: What made you decide to develop Future Boy as an IF game, rather than a 
+  film?
+
+KT: Mainly the fact that it wasn't going to get made into a film, but I thought 
+it was still a pretty good and funny idea, and one well-suited to IF.  By having 
+an ordinary hero in extraordinary, superhero-ish circumstances, the premise 
+lends itself well to the puzzle-solving nature of IF.
+
+  GB: How long did it take you to write the game Future Boy?
+
+KT: 3 years, start to finish.
+
+  GB: What was the hardest part about working on Future Boy?
+
+KT: Really just the enormity of the work.  The source code is just under 1.5 
+megabytes, so that's just a lot of typing right there.  The dialogue script 
+ended up being greatly expanded from the original screenplay, naturally, because 
+of the different courses of action the player can take and the great number of 
+things that the player can talk to the other characters about.  And just in 
+terms of the normal metrics used to measure game size, it's simply a big one.  I 
+would say the game was probably done (in that it was playable) for about a year 
+as it was being tested and all the multimedia and finishing touches were being 
+done.
+
+In programming terms there was a lot of development of the in-game subsystems 
+for handling dialogue, animation, music -- even weather.  At the same time there 
+was some back-and-forth development with Hugo itself, since the game tested the 
+limits of anything I'd ever planned for before.
+
+It was also important to me that it ran as flawlessly as possible on every 
+platform, from Palm and Pocket PC to Linux, Mac, and Windows (and a couple 
+others), regardless of input, display, or multimedia capabilities.  So that 
+meant a lot of development and testing.
+
+  GB: I know you did a huge amount of work on Future Boy, but many other people 
+  contributed too. Derek Lo did excellent artwork, a whole bunch of actors did 
+  great voice work, and so on. Did you enjoy the process of working with others? 
+  How did the experience compare with film direction?
+
+KT: Working with others is an interesting and usually very rewarding change from 
+the writing stage of a project, which is almost always spent toiling alone.  
+With Derek we went back and forth from screenplay to discussion to concept 
+sketches to final revised artwork.  Some examples of this are in the Art of 
+Future Boy! PDF book that comes with the game on CD-ROM.
+
+Directing voice work is a lot more relaxed than film directing on-set -- there's 
+not nearly so much of a sense of a large train about to barrel through the wall 
+of the set if you don't get things done faster.  I was really happy with the 
+ability of the actors to capture the essence of the characters.  I think it adds 
+a lot to the playing experience to have them come alive and speak their lines.
+
+  GB: To judge from your web site, it would appear that you were quite 
+  successful at getting press attention for Future Boy. For the benefit of any 
+  IF authors who'd like to follow your example, could you give us a broad 
+  outline of how to successfully publicize an IF game?
+
+KT: It's not that different from publicizing any other creative work:  any 
+success will depend on having good materials to present, knowing who to best 
+spend your time and efforts approaching, and just putting in the work (because 
+it's far from being the fun part of the whole enterprise).
+
+[To see the Future Boy press release, plus a sampling of media contacts who 
+responded favorably to it, visit 
+http://www.generalcoffee.com/futureboy/press.html -- GB]
+
+  GB: Aside from publicity, what other factors do you think contributed to your 
+  sales, and what advice about them would you give to any prospective commercial 
+  IF authors?
+
+KT: Personally, I think an inherent unwillingness to ever say something is "good 
+enough" certainly helps.  People paying good money for a computer game these 
+days expect a high degree of polish, and it can only help to really put in the 
+time and work to get everything as polished as possible.  A lot of thought went 
+into everything from the CD-ROM organization, to the various installers for 
+multiple platforms, to the documentation.  People want to put the game in and 
+start playing; to pull that off is a little harder than you might think.
+
+If someone really, really wants to sell an IF game, they should be realistic and 
+do their homework.  And they should make a really good game.  People doing 
+something for the first time often make the mistake that just by their doing it, 
+other people will be interested in it. That isn't the case, and that probably 
+goes ten or a hundred times for text-based adventure games.
+
+If you end up saying something is good enough too often and too early, you're 
+probably wrong.
+
+  GB: If it's not too bold a question, how many copies of Future Boy have you 
+  sold? (Feel free to be vague, if you like.)
+
+KT: I'll be vague, but I will say this:  I haven't retired yet to an estate in 
+the south of France (really, who has time to pack?), but Future Boy! has been 
+very popular -- both with what seems to be the regular "adventure game" market 
+as well as a surprising (to me) number of handheld players.
+
+  GB: What's new with Hugo?
+
+KT: A really impressive to-do list.  There are some things I would like to look 
+at, fix up, enhance and improve, etc.  It's just a matter of finding the time 
+right now.
+
+  GB: Have you been working on any new games since Future Boy?
+
+KT: There are a couple of ideas that I've been kicking at and talking to other 
+people about.  I'll have to see time- and resource-wise what I'm able to do in 
+the relatively near future.
+
+  GB: I understand you're working on a film, entitled Bull. Feel free to tell us 
+  about this project, or about any other film and television work you're doing.
+
+A: Bull is the feature film that I've been working on for just over two years 
+now.  It's very close to being done.  It's a darkly comic murder-mystery about a 
+hapless stockbroker who gets caught up in a twisty web where no one -- no one at 
+all -- is telling the truth.  It's your basic story about money, murder, 
+intrigue, deception, and very tall buildings.
+
+It has some really talented people involved with it.  We were very fortunate 
+that such impressive actors were interested in the project and willing to be 
+involved, and members of the crew have worked on everything from 300 to Superman 
+Returns to the latest Harry Potter.
+
+Check out more at http://www.bullthemovie.com!
+
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+
+REVIEWS -------------------------------------------------------------------
+
+
+From: Jessica Gorzo (galaxycoff SP@G yahoo.com)
+
+TITLE: Amnesia
+AUTHOR: Toby White
+EMAIL: T.Q.A.White SP@G ncl.ac.uk
+DATE: 1995
+PARSER: Custom
+SUPPORTS: Windows
+AVAILABILITY: was shareware, now presumably abandoned
+URL: https://ifarchive.org/if-archive/games/pc/amnesia.zip
+
+This is a classic surreal text adventure, though it never achieved great fame. 
+Even after its release, it continued to be overshadowed by the text adventure of 
+1986 with the same name. The mysterious settings could intrigue even the most 
+experienced IF fan as the gamer wonders what on earth is going on in the place 
+this character woke up in. The character himself can't help you; he wakes up 
+from an odd outer space dream into an unfamiliar house with no recollection as 
+to how he got there. He can't remember anything about what one can only presume 
+is his house, which has many oddities of its own. Custard in the tub, a crash 
+helmet on the kitchen stove, and rather odd voices on the other end of the 
+telephone would confuse even those who could remember something about their 
+past! The dazed character tries desperately to make sense of everything he 
+encounters, and slowly but surely a few clues unfold. However, on the end of 
+every clue hangs another mystery. Every new site yields another piece of the 
+puzzle, and has intriguing characters to interact with along the way. The rich 
+imagery allows for clear and captivating mental pictures. You can truly immerse 
+yourself in the beautiful-yet-strange world of the character. This game truly 
+keeps you intrigued the whole way through!
+
+As for the commands, the author is not rich on synonyms, though the help file 
+claims otherwise. The most frustrating aspect is trying to figure out the exact 
+word the author was thinking of. Expected phrase structure is also inflexible. 
+When it comes to user interaction, the author is clearly concerned with the 
+"action" instead of the examination. Sometimes the responses don't match up with 
+the known, game-described scenery. Perhaps he thinks this is just steering the 
+user in the right direction, but his vehement "I don't know when you're talking 
+about!" response when you know full well what you typed made perfect sense can 
+be discouraging. This game could use a better range of user response. Be sure to 
+be very specific in command wording when playing.
+
+Overall, though, this game is worth playing because of its intriguing plot. 
+Sci-fiction meets mystery with a hint of comedy makes it more than worthwhile. 
+Though the interaction can be a bit frustrating, its all the more rewarding when 
+you finally get the problem right. This game is worth your while!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Javier Carrascosa ("Grendel Khan"), translated from the Spanish SPAC 
+review by Pablo Martinez Merino "(Depresiv") and DJ Hastings 
+
+TITLE: La Cara Oculta de la Luna ("The Hidden Side of the Moon")
+AUTHOR: Aventurero KRAC
+DATE: 2004
+PARSER: InformATE
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: freeware
+URL: http://www.geocities.com/aventurero_krac/av_juegos_luna.htm
+
+April 14th, 1935, in any city in Spain. There is great political upheaval and 
+social instability. The Spanish people don't know it, but there's only one year 
+left before war will ravage their country. And you have your own problems: 
+you're a university student who, with your ever declining income, can hardly 
+finish your studies. The factory where you were recently working has just closed 
+down, so you have lost your job. Eating a late breakfast for the first time in 
+many years, you have a 
+look at a magazine. Almost by accident, your eyes notice a small advertisement:
+
+"Prestigious psychologist professor of the University of Salamanca needs subject 
+to study. Experiment consists of a series of questions. Every participant will 
+be paid a thousand pesetas. Details: The Hidden Side of the Moon, Old Way, 
+Km.6."
+
+A thousand pesetas! That's a lot of money! You don't think twice before going to 
+the address mentioned in the advertisement. It's an old mansion built many years 
+ago by some rich guy, and thought to be abandoned by everyone around. It now 
+belongs to the psychologist, apparently, and you don't care too much where he 
+does his experiments as long as he pays afterward...
+
+(...)
+
+Thus begins one of the most difficult adventures of the last few years in the 
+Spanish community. In "La Cara Oculta de la Luna" we play the part of a poor 
+Spanish guy who, spurred by his debts, decides to become the guinea pig of a 
+psychologist. But what we imagined to be a boring session of questions and 
+answers turns suddenly into a hard trial to the death. The protagonist is locked 
+in an old mansion with only a madman for company. A madman who has promised to 
+hunt him down and kill him in a few minutes- unless he finds a way to escape.
+
+There are "feelies" included with the game: some annotated images of paintings 
+by "El Greco," and an article on the film "Leave Her to Heaven" by John M. 
+Stahl. This information seems to have nothing to do with the game, because as 
+soon as we play a little we find out that the most important goal is to discover 
+an exit from the house. So the "El Greco" paintings will soon be forgotten... 
+until we find them in the game. And that's when we also find one of the best 
+puzzles I've solved 
+since I started playing adventures, in the painting "El Caballero de la Mano en 
+el Pecho" ("The Nobleman with his Hand on his Chest").
+
+The old mansion is a trap for us. We are unable to escape through any window, as 
+all of them are barred. We can try to exit through the chimney, but with no 
+success, and trying to exit through the attic results in death. Exploring the 
+house can be easier with the help of a map. My advice is to draw one with a 
+pencil and paper and take down all the rooms and their connections. Although the 
+hunter will kill us even before we've managed to get to the second floor, 
+there's a little trick to avoid that: don't follow the hunter in the first scene 
+and take your time investigating the house before talking to him.
+
+The game would make no sense without the figure of the hunter, one of the best 
+characters I have ever seen in an adventure. He possesses all the qualities of 
+the classical psychopath: a well-mannered and educated gentleman who hides a 
+relentless serial killer inside. All kinds of theories can be outlined about the 
+hunter... Who is he? Why is he motivated to act this way? The fact is that he 
+will inevitably manage to kill us when we are first starting to play. Getting 
+rid of him is a very 
+complicated task, although there are five different ways to do it. This gives us 
+the opportunity of replaying the game to find all the possible methods of 
+defeating the hunter.
+
+The difficulty of the adventure is high, although not as high as some other 
+Spanish adventures like "La Torre" ("The Tower") or "La Isla de Tokland" ("The 
+Island of Tokland"). But solving some of the puzzles will amply reward the time 
+you spent on them. Take some time to examine the objects and to find the exits 
+through the floors and ceilings of the mansion. Look for all the "El Greco" 
+paintings. There's a lot to discover. Also, there's a prize: if you manage to 
+finish the adventure, you can access a secret file the author has hidden on his 
+website. That file has the name of a certain object you can see at the end of 
+the adventure. Hurry up before he loses his hosting!
+
+Conclusion: La Cara Oculta de la Luna is an excellent adventure that grips you 
+from the beginning with its well cared for setting and superb programming. The 
+hunter is a believable character with whom we can always interact, something to 
+be grateful for in Spanish adventures. The game can be discouraging at the 
+beginning, but as soon as we start moving and uncovering the many details this 
+adventure holds, we find that we can't stop playing. It is inexplicable that 
+this adventure is one of the most forgotten in the Spanish community.
+
+My theory on the hunter (Warning: don't read this if you haven't finished the 
+game):
+
+The aristocratic figure of the hunter makes me guess that, although the mansion 
+is not his home, it could have been the house of a relative or friend who he had 
+to kill once his secret was discovered. The hunter must have hunted elephants 
+and lions in Africa, and in that continent he must have known other cultures. 
+His passion for hunting probably increased while assimilating the beliefs of 
+some savage African tribe which worshipped a bloodthirsty god to whom they 
+offered their sacrifices. Our man adopted those beliefs and traveled back to 
+Spain to hunt a different kind of animal in its habitat: humans! It wasn't hard 
+for him to find his prey. Famine and misery battered most of Spain and he only 
+needed the lure of an economic profit to attract his victims. The habitat where 
+they would move would be the mansion, appropriately prepared by the hunter: bars 
+on the windows, locked wardrobes, beds without mattresses, tables without 
+drawers... the prey would have no other option but hiding. No other option? No, 
+the hunter always gives a means of escape, and that's where another of his 
+passions comes into play: painting. Our man is a painter; maybe not a very 
+critically acclaimed one, but a good imitator, and an admirer of the work of "El 
+Greco." His house contains many different copies of "El Greco's" paintings, made 
+by himself. His prey need only find one of his most renowned works: "El 
+Caballero de la Mano en el Pecho" ("The Nobleman with his Hand on his Chest"). 
+If they are curious, they will be able to discover the key that will lead them 
+to freedom.
+
+The hunter is a follower of the Fascist movement, judging by the books in his 
+library, and an initiate in the Dark Arts, judging by the other book we can take 
+from it. That's where my theory comes from that he makes sacrifices of his 
+victims in the same way as the tribes he found in Africa.
+
+Even so, the hunter made some mistakes: he didn't consider the possibility of 
+his prey killing him in his own field, did he? The fact is, if we climb to the 
+second floor and look at the lounge from above, we can see whenever he's coming 
+after us. If at that point we are armed with a small table or a stool, we can 
+throw it at his head and get rid of him. We can also finish the game without 
+killing him, though, which is a very advisable option to avoid the remorse of 
+becoming killers ourselves.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Justin Pot (justinpot SP@G gmail.com)
+
+TITLE: Fate
+AUTHOR: Victor Gijsber
+E-MAIL:  victor SP@G lilith.gotdns.org
+DATE: April 2, 2007
+PARSER: Inform 7
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/springthing/2007/Fate.z8
+VERSION: Release 1
+
+To some, changing fate is a contradiction in terms. Victor Gijsber's Spring 
+Thing winner Fate disagrees, as can be surmised before the player so much as 
+presses a key:
+
+"Men at some time are masters of their fates:
+The fault, dear Brutus, is not in our stars,
+But in ourselves, that we are underlings."
+-- Cassius to Brutus in 'Julius Caesar', Act I, Scene 2
+
+Fate is about one woman trying to change an unhappy future. The protagonist and 
+player-character, Catherine, is a young queen hours away from giving birth.
+
+Oh, and she also has a crystal ball that's fortelling her son's untimely demise.
+
+The objective here is to prevent said demise -- and Catherine has an arsenal of 
+spells to do so. Spells are cast by the gathering of components as directed by 
+the grimoire (spell book) found early in the game. It is by using these spells 
+in creative ways that Catherine is able to alter fate, and it is the gathering 
+and using of components that makes up the bulk of the game's puzzles. These 
+puzzles are very fair while remaining fun; for those who do get stuck, however, 
+A well implemented context-sensitive hint system is in place.
+
+Despite the lack of a set time limit, a sense of urgency is created by the 
+impending birth of Catherine's son. The player is periodically reminded that 
+Catherine is very pregnant, often by painful descriptions. This sense of urgency 
+blurs some of the moral and personal decisions Catherine must make in order to 
+change her sons fate. Not wanting to spoil anything, I'll just say that some of 
+these moral dilemmas are quite effective at disturbing a player who feels 
+complicit to the wrongdoing.
+
+There are several possible endings to this game, each depending on how far 
+Catherine is willing to go for her unborn son. When the player is satisfied with 
+the fate the crystal ball presents she can wait in her den and birth the child. 
+The game refrains from explicitly pointing out whether an ending is winning or 
+losing, leaving that to the player to decide and discover which is best. The 
+result makes for a solid game with a number of endings to discover.
+
+For all the game's strengths this piece has, one weakness that stands out is the 
+use of a menu-driven conversation system for NPCs. While there are certainly 
+examples of this system being used successfully (Adam Cadre's Photopia being the 
+most obvious) such games are typically not puzzle driven. Because certain 
+puzzles in Fate require eliciting a given response from a character, Fate 
+occasionally becomes a guess-and-test game of "navigate the conversation menus," 
+detracting from any realism the conversations may have had.
+
+
+This aside, the game is easy to love. The judges of Spring Thing 2007 apparently 
+agree, and gave it First Place amongst the four entrants.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Valentine Kopteltsev (uux SP@G mail.ru)
+
+TITLE: Final Selection
+AUTHOR: Sam Gordon
+E-MAIL:  sam_r_gordon SP@G hotmail.com
+DATE: May 14, 2006
+PARSER: Inform 6
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/indexes/if-archive/games/zcode/selection.z5
+VERSION: Release 3
+
+Sure enough, there are a lot of ways to classify text adventures in general,
+and the puzzle-oriented of them, in particular. One of them is, to subdivide
+puzzlefests into games where the puzzles more or less naturally spring from
+the setting (one good example is Heist by Andy Phillips), and those where the
+puzzles are just forcibly thrown together, without anything in particular
+holding them in place (The Magic Toyshop from the first If-Comp, and
+Labyrinth from the last one).
+
+Somehow, I tend to like the games of the first sub-category a little bit
+more. However, Final Selection represents a lucky exception of this rule:
+while its meta-puzzle certainly is constructed artificially (you play here a
+candidate for the position of the Director of the Museum and Institute for
+Puzzles and Problem Solving, who is only going to get the job if he passes
+the test his predecessor has prepared for him), its structure is thought-out
+so carefully, and the overall implementation level is so deep that immersion
+(or, more precise, the lack of immersion) never was an issue for me during
+playing.
+
+To complete the game, one has to hunt for words. I always feel a little
+suspicious about that kind of puzzles, because the authors pretty often make
+them overcomplicated -- say, by inventing obscure cyphers, and the like.
+Final Selection, however, managed to dispel my apprehensions in this respect,
+as well. While its puzzles are challenging enough, barely any of them require
+tedious trial and error treatment, special knowledge, or confusing
+deductions. On the other hand, there are enough red herrings to make the
+player occasionally think that's exactly what the game expects of him;).
+Thus, Final Selection fooled me into outsmarting myself, so that I tried to
+interpret the hints I got in most perverse ways, and even solved one of the
+puzzles in a tedious semi-brute force manner. To tell you the truth, I think
+this was partly caused by my solving the puzzles "in a wrong order"; it
+happened that I found the solution to one of the key problems that gave
+away what exactly I had to do only towards the very end of the game; like, I
+had all the jigsaw pieces yet had no clue where to put them to form a
+picture.
+
+As I mentioned before, the depth of implementation in Final Selection is
+amazing. The author had to stuff a lot of objects into the only room of the
+game (it was entered in the One Room Comp, after all!), and it must be said
+he found a very elegant way to do this without overwhelming the player by 
+overlong "You see <a list of various things> here" messages. He expanded the
+concept of the room somewhat, dividing it in several areas. It doesn't break
+the competition rules, because the room description doesn't change when you
+move from one area to the other, and *all* objects in the room are reachable
+from any part of it. Still, it makes the object managing task much more
+convenient for the player. Another enhancement that makes the player's life
+easier is a notepad of sorts, where any information you gain while playing
+that could potentially be useful is jotted down automatically for later
+reference.
+
+The only (and pretty small) issue I encountered were some disambiguation
+problems. This is a result of having so many objects in one room; some of
+them inevitably have pretty similar names. For example, there was a box with
+several buttons labeled from 1 to 15 in the game, and a scale with several
+weights, their face values indicated. Somehow, any time I tried to "push 3",
+the game would make me push the "weight 3", and "getting 3" resulted in the
+attempt of taking the "button 3". Always typing in the whole object
+descriptions was a little bit tedious, although I just might have been
+unlucky. Anyway, I think this is more a problem on the part of the
+interpreter than of the game itself.
+
+But enough nitpicking -- this certainly isn't a game that makes one feel like
+looking for faults. It even nourished my self-confidence by being both pretty
+challenging and quite completable without hints. To put it short -- a
+must-play for any puzzle-lover.
+
+SNATS (Score Not Affecting The Scoreboard):
+
+PLOT: Not what this game was written for (1.0)
+ATMOSPHERE: Victorian study (1.4)
+WRITING: Solid as a piece of Victorian furniture (1.4)
+GAMEPLAY: Exciting word-hunting (1.6)
+BONUSES: Deep implementation level, the quality of the puzzles, the approach
+         to object management  (1.6)
+TOTAL: 7.0
+CHARACTERS: There are some, but they don't deserve to be rated (-)
+PUZZLES: Well though-out and balanced (1.6)
+DIFFICULTY: Challenging, but passable (7 out of 10)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Harris (harriswillys SP@G grandecom.net)
+
+TITLE: Getfeldt's Treasure
+AUTHOR: Mike Salisbury
+E-MAIL:  rationalratio SP@G yahoo.com
+DATE: December 17, 2006
+PARSER: Custom
+SUPPORTS: MS-DOS
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/pc/gfeldt.zip
+
+Under ordinary circumstances I would not write a review of a game that I had not 
+completed.  In the case of Getfeldt's Treasure I'll make an exception for 
+reasons which will become clear.
+ 
+In a text file included with the download, Salisbury writes "Getfeldt's Treasure 
+has been brought back to life from an adventure I wrote for the Tandy Color 
+Computer."  While a Quick Basic IF adventure of this complexity may have been 
+hot, cutting edge stuff two decades ago, I sure wish that the author had tried 
+to port it to a more modern and common IF platform.  For one thing, he's 
+restricted his audience to those using PCs with Microsoft operating systems.  
+Mac and Linux users may ultimately consider themselves lucky. 
+ 
+For those accustomed to standard IF commands, many won't work.  Fortunately 
+there is a complete list available by typing "help" at the command prompt, 
+otherwise I would not have been able to progress beyond the first two "rooms." 
+ 
+Furthermore, the parser understands only simple two-word phrases.  "Give 
+(object) to (NPC)" or "open (object) with (object)" simply aren't understood.  
+At one point the PC needs to give an object to a NPC within three turns, else 
+the game is put in an unwinnable state; the NPC leaves, never to return  It's 
+easy to waste those three turns with "guess the syntax" attempts, with no clear 
+indication subsequently that you can not proceed further.  It's anyone's guess 
+how many other flaws of this sort I ran into, leaving the PC no other option but 
+to wander aimlessly until I got tired and gave up.
+ 
+There is no "save" feature, so if one does happen to miss one of these 
+opportunities, there's nothing for it but to restart the game and replay from 
+the beginning.  
+ 
+Few of the objects referenced are actually implemented; the rest seem to be 
+simply "window dressing."  Early on, a room full of interesting and potentially 
+useful articles was described; only one of these could actually be taken into 
+the PCs inventory.  I might add that the object continued to be listed in the 
+room's description even after taking it. 
+ 
+Trying to interact with a half dozen objects in each room hoping to find one 
+that isn't just for "atmosphere" gets tiresome and annoying, when the parser 
+responds with a default "I don't see that here" immediately after listing the 
+object in the room's description.   
+ 
+The story itself is cliched and less than compelling, with several logical 
+flaws.  One must break and enter to obtain access to a house - couldn't the 
+author have simply hidden a key somewhere?  The vicious guard dog within becomes 
+a loyal companion - sorry, dogs simply don't act in that manner. 
+ 
+There were minor spelling, grammar and punctuation errors which normally is 
+something of a peeve of mine, but in this case these small flaws were eclipsed 
+by the larger ones.
+ 
+I did try - honestly - to finish this.  But after about three hours, numerous 
+restarts and a tremendous amount of wandering on the part of the PC character; 
+I'd had enough.  I felt that I'd given the game more than a fair chance but the 
+story was not interesting enough for me to tolerate any more of the kludgy 
+homegrown platform nor to avoid any more of the authors' hidden traps.  
+ 
+Out of 10 I give it a 10 for difficulty and a 3 overall. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Baltasar el Arquero, translated from the Spanish SPAC review by Pablo 
+Martinez Merino "(Depresiv") and DJ Hastings 
+
+TITLE: Goteras
+AUTHOR: Juan Sebastián Armas ("Incanus")
+DATE: 2006
+PARSER: InformATE
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware
+URL: http://www.caad.es/incanus/goteras.html
+
+Synopsis:
+
+Now it's your turn to go to the damn "rock," as it's called in your profession. 
+You left Deimos a couple of days ago in your ship (your OTV wagon, actually- 
+inertial flight), and woke up from a pleasant cryogenical dream (virtual reality 
+included) to find that the ship alarms have been triggered. According to the 
+message panel, the integrity of the hull of the ITV-44 has been compromised. In 
+other words, there's a hole somewhere.
+
+Since you have been awakened from the cryogenical dream early, which means they 
+will have to pay you overtime, you can't expect it to be for something good. 
+It's an emergency, which implies extra-vehicular activity. These things are 
+never simple. The life of a space worker is one of the worst there is. (Well, 
+there are the underwater workers- but they never reach retirement.)
+
+While slowly waking up, you contemplate how life in space in the twenty-first 
+century is similar to life on earth in the nineteenth century, including the 
+industrialization. Everything is full of filth in an environment (space) 
+previously completely clean. That's what we, "the men and women of the outer 
+frontier" as the company likes to call us, do: dirty up everything. Well, ok, we 
+extract minerals too. But we dirty up a lot.
+
+Now it's time to wear that suit and fill those holes with a bit of glue.
+
+Comments:
+
+This time, Incanus has made a tale based upon the book "Orbital Decay," 
+according to the introduction of the game. It's all about a special kind of 
+science fiction, where life is much more like real life (with its ups and downs 
+and its shades of grey) than it is like life in the films.
+
+It's an unusual work, in that it breaks the mold of what could be called "the 
+common current" in a couple of ways. First, it's one of the very few sci-fi 
+tales that have appeared recently in the Spanish community. Second, it's a much 
+more realistic kind of tale than the average: the main character (the player) 
+has quite a dirty mouth, and while we may not feel completely identified with 
+someone living in space, taking care of a space ship that's traveling towards a 
+mining planet, we can identify with his complaints against the company, and his 
+miserable daily life contrasted with the wealth that surrounds him. This is the 
+kind of science fiction that Incanus identifies as "hard."
+
+This perception will be reinforced as we advance through the adventure: although 
+we may be dealing with hatches, screens and other technologically advanced 
+tools, we will soon find out that we need to apply very "mundane" solutions to 
+solve the problems (though with a quite sarcastic style).
+
+The adventure has been well cared for; we can find a lot of detail not only in 
+the game, but in the webpage that comes with it, along with an introduction 
+"novella." The feeling of immersion is great, and the setting is quite well 
+achieved. The biggest fault could be the game's brevity. That is, the story is 
+less deep than it could have been because of the brief moment of the character's 
+story which is depicted. In the end, it only comprises a time of crisis in a 
+journey.
+
+The only weaknesses to complain of are that the included webpage is a bit 
+confusing (emphasizing too much for inexperienced users, and being a bit too 
+complex to find the Z5 of the adventure), and without doubt the brevity of the 
+tale, which leaves us wanting more (getting deeper in the story, getting more 
+involved, and knowing more, as I said before).
+
+Conclusions:
+
+The work is enjoyable, entertaining, and the rhythm of the narrative is agile 
+and dynamic. At least from my personal point of view, it's Incanus' best work, 
+although he only has three interactive tales. (Which is not so bad, now that I 
+think about it, given that the average is one work per writer.) Incanus unveils 
+as a mature IF writer, who only has to take the leap of making a long IF work.
+
+Goteras is definitely a good adventure. It may not revolutionize the world of IF 
+as such, but it doesn't need to. It will offer us a pleasant and enjoyable piece 
+of fiction, which is what it's all about. So why are you waiting to play it?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Valentine Kopteltsev (uux SP@G mail.ru)
+
+TITLE: It's Easter, Peeps
+AUTHOR: Sara Brookside
+E-MAIL:  jsh11a SP@G aol.com
+DATE: May 14, 2006
+PARSER: ADRIFT / Inform 6 (Inform port by David Welbourn)
+SUPPORTS: ADRIFT / Z-Machine interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: http://www.avventuretestuali.com/download/easter.zip
+
+(I played the Inform version of Easter, since starting Adrift games on my
+computer requires some shamanic activities).
+
+This review is going to be about as short as the game it is about -- you can
+easily beat Easter in no longer than fifteen minutes. As expected, this work
+features one room. It also features a bunch of puzzles, most of which are
+trivial. To solve the only one that I found *not* trivial, you need to
+contact the only NPC in the game, who then gives away the pretty obscure move
+that leads to success.
+
+The enclosed feelies were nice, though.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Harris (harriswillys SP@G grandecom.net)
+
+TITLE: Suprematism
+AUTHOR: Andrey Grankin
+DATE: February 3, 2007
+PARSER: TADS 2
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/tads/suprematism.zip
+
+In the non-IF world, Suprematism is a Russian art movement originated in 1915 by 
+Kasimir Malevich during a very turbulent time in Russia's history.  It consists 
+of bold geometric shapes such as squares, circles, rectangles and the like.  
+ 
+Malevich's original Suprematist works were Black Square and Black Circle (1915), 
+both featuring the eponymous shape on a stark white background; the viewer being 
+meant to appreciate the strong contrast - a bold yet simple black vs white being 
+allegorical for despair vs hope, confinement vs freedom, structure vs openness 
+and so forth.
+ 
+Grankin has brought this artistic concept to IF.  The zip file contains two 
+"games," black.gam and white.gam, the player being meant to contrast the two.
+ 
+As far as play goes - well, nothing really happens, as of course they aren't 
+really intended to be games.  By intent, they don't respond to the usual typed 
+control commands (e.g. quit) and must be closed through the interpreter.  One 
+can get a feel for each module with just a few minutes of entering commands. 
+ 
+It can't be easy to translate visual art to IF, but Grankin has done a 
+creditable job.  That said, if one does not "get" Suprematism as an artistic 
+style or has little appreciation for its cousins in the modern art world, one is 
+unlikely to appreciate Grankin's IF creation.
+ 
+Out of 10 I give it a 1 for simplicity and 6 overall.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul Lee (bainespal SP@G yahoo.com)
+
+TITLE: When in Rome 1: Accounting for Taste
+AUTHOR: Emily Short
+E-MAIL: emshort SP@G mindspring.com
+DATE: April 30, 2006
+PARSER: Inform 7
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware
+URL: http://inform-fiction.org/I7Downloads/Examples/wir1
+VERSION: Release 2
+
+The first episode in a stated five, this little game was designed to be playable 
+in approximately fifteen minutes.  Although it isn't the only very short example 
+of interactive fiction out there, it has a more complete feel and takes itself 
+more seriously than the few others of a comparable length that I have played in 
+my very limited experience.  The plot is amazingly detailed for such a short 
+game, moving the player through the scenes rapidly.  The game throws the player 
+into the first of two puzzles as soon as play begins; following are two brief 
+scenes where the player can pass the time in conversation before the end-game 
+puzzle (and then a brief intro to the next episode).  This makes the beginning 
+and ending feel somewhat like bookends even though the plot is left dangling for 
+part two to pick up.
+
+The puzzles are basically well-implemented; they give the player pause but have 
+fairly obvious solutions and are satisfying to solve.  Few, if any, objects are 
+implemented that aren't either NPCs or used in a puzzle, and this is a good 
+thing in the regard that this points the player's attention to the problem at 
+hand, but not in the regard that it doesn't allow for multiple solutions.  This 
+is partially made up for by the fact that both puzzles differ from play to play 
+according to randomized elements, and one of them requires different objects 
+depending on those elements, adding perhaps some replayability.  There are no 
+serious or obvious bugs, but I did run into a few responses that were not 
+implemented correctly (exceptions to rules and the like).  Perhaps surprisingly, 
+both puzzles can end lethally.
+
+The writing is clever but very condensed.  Not many scenery objects can be 
+examined, but the terse room descriptions don't even mention many.  The prose 
+reveals the setting more than the descriptions alone.  Although the plot is 
+serious in nature, the tone is light and humorous.  The writing is probably the 
+aspect of the game that more than anything else makes it seem so full and 
+satisfying with so little, though the game would be empty without the puzzles.
+
+On the whole, I found the gameplay experience to be slightly similar to the 
+experience of reading a prose comedy short story written expertly but 
+whimsically; both are sparing on their writing, getting to the point quickly and 
+concluding abruptly (I'm thinking specifically of "The Notorious Jumping Frog of 
+Calaveras County" by Mark Twain).  All this goes to show that works of humorous 
+interactive fiction can still score on the literature scale, even ones that are 
+very short in length and have puzzles.
+
+From: Molly G. (rosygirl5657 SP@G yahoo.com)
+
+The When in Rome series, by Emily Short, was written, mostly, to show off the 
+new programming language Inform 7. If this game (and the other games written to 
+show off Inform 7, available on the Inform website) is any indication, then 
+Inform 7 should go far.
+
+Writing/Technical A
+The game begins, innocently enough, in Central Park, and only gets better from 
+there. The writing in the game is truly superb, with crisp dialogue and funny 
+situations. The NPCs are also superb, with a lot of nuances to make them seem 
+truly real. My only problem with the technical side as such is that I felt there 
+were places where it seemed sloppilly coded(example from beginning: saying GIRL, 
+SEARCH [SPOILER] worked, but not ASK GIRL TO SEARCH [SPOILER]), but these 
+examples are few and don't detract from the game.
+
+Puzzles B+
+The puzzles in this game can be quite a brain teaser, with a tricky puzzle at 
+the end that is a kissing cousin to those "logic grid" puzzles you sometimes see 
+in magazines. Unfortunately, due to the length of the game (but more on that 
+later), there can be said to be only two (maybe three) puzzles in the entire 
+game. That said, this is a case of quality over quantity, as the game still 
+packs a mean punch of puzzly goodness.
+
+Storyline B
+Although writing and story may sound the same, there are cases when good writing 
+gets attached to a simply gad-awful story, and vice versa (I feel The Apocalypse 
+Clock, from the 2006 IF Comp, proves the former point quite nicely). This is not 
+the case with this game. I won't spoil the plot for you, but let's just say if 
+you like detective fiction, or science fiction, you definitely don't want to 
+miss this game. Doubly so if you like both. Unfortunately, this brings up a 
+problem I mentioned briefly above, namely: it's short. The author advertises as 
+a lunchtime game, and boy does she mean it. Fortunately the sequel to this game 
+has already been released, and hopefully the author will write more. Still, the 
+"To Be Continued" at the end can be a downer for those who were just getting 
+into the odd events depicted.
+
+Overall A-
+The game, if I may mix my scoring metaphors, loses some points for shortness, 
+but makes up for it in sheer quality. The game can be completed in about 15 
+minutes and is worth every nanosecond of your time.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul Lee (bainespal SP@G yahoo.com)
+
+TITLE: When in Rome 2: Far from Home
+AUTHOR: Emily Short
+E-MAIL: emshort SP@G mindspring.com
+DATE: April 30, 2006
+PARSER: Inform 7
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: Freeware
+URL: http://inform-fiction.org/I7Downloads/Examples/wir2
+VERSION: Release 1
+
+The second "When in Rome" episode, "Far from Home," differs from the previous 
+installment in that it is basically one puzzle.  There is no advancement of the 
+story line to speak of, and there are few implemented details not pertaining to 
+the puzzle in the interest of brevity.  A brief prologue and a short epilogue 
+are included before and after this puzzle, but the prologue is little more than 
+a formality (though it does seem to have an Easter-egg off sorts).  The epilogue 
+sets the stage for the next game and hints at plot development.
+
+This one puzzle, then, is what the game should primarily be judged on.  It 
+occurs all in one room, which makes this episode significantly less terse and 
+more condensed than the previous game.  The puzzle is mostly an analysis sort, 
+where you must decide which of several possibilities is correct based on 
+observations of certain characteristics.  Those characteristics and the correct 
+outcome are randomized for each play, making the game playable several times 
+through before it exhausts itself, if one feels inclined to do so.  There are 
+several layers of complexity one must work through, including all the steps 
+required to observe, some basic gadget manipulating, and humorous (or annoying) 
+obstacles thrown in.
+
+I found the puzzle to be rather difficult.  Although I usually enjoy a good 
+puzzle, the categorizing and logical elimination required to solve this one 
+didn't really suite me.  The first time I played through the entire puzzle, I 
+lost at the end, getting the unsatisfactory outcome.  The same thing happened 
+the second time I tried, and in the end, the only way I was able to finish was 
+by resorting to UNDO every time I got the bad ending and guessing again.  This 
+caused even more frustration because I thought that I had reduced the 
+possibilities down to two that might have been right; but it turned out neither 
+were, and the correct solution didn't make sense to me.
+
+Complaints and frustration aside, the short game was enjoyable even to me.  The 
+kind of player best suited for this work would be the serious puzzler who isn't 
+afraid to write things down on paper to help crack the puzzle if necessary.  
+Still, even people preferring plot development to puzzles won't have to rough it 
+out too long; there are hints, and it doesn't take long to get to the final bad 
+outcome.  And if you get there you can always cheat like I did and guess until 
+you get it right.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ___. .___    _    ___.     ___. 
+/  _| |   \  / \  / ._|    /  _| 
+\  \  | o_/ |   | | |_.    \  \  
+.\  \ | |   | o | | | |    .\  \ 
+|___/ |_|   |_|_| \___|    |___/ PECIFICS
+
+SPAG Specifics is a small section of SPAG dedicated to providing in-
+depth critical analysis of IF games, spoilers most emphatically
+included.
+
+
+
+
+
+WARNING! SPOILERS BELOW FOR THE FOLLOWING GAME:
+
+Floatpoint
+
+
+
+
+
+PROCEED NO FURTHER UNLESS YOU HAVE PLAYED THIS GAME!
+
+
+
+
+
+THIS IS NOT A TEST! GENUINE SPOILERS TO FOLLOW!
+
+
+
+
+
+LAST CHANCE TO AVOID SPOILAGE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Jim Aikin (midiguru23 SP@G sbcglobal.net)
+
+TITLE: Floatpoint
+AUTHOR: Emily Short
+E-MAIL:  emshort SP@G mindspring.com
+DATE: October 1, 2006
+PARSER: Inform 7
+SUPPORTS: Glulx interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: http://emshort.wordpress.com/my-work/
+VERSION: Release 1
+
+Floatpoint wasn't one of the games I played while judging the '06 Comp. Some 
+months later, curious because Floatpoint had bested my favorites, I finally got 
+around to downloading and playing it.
+
+It's a short, easy game with some bits of nice scenery and a couple of cute 
+pieces of future technology. It's completely story-driven: the puzzles are so 
+simple as hardly to deserve the term. I played it from end to end in about three 
+hours without touching the walkthrough, and I *always* need to consult a 
+walkthrough. 
+
+What's not quite so easy -- and I'm sure this is by design -- is to figure out 
+exactly what's going on. The back-story is parcelled out to the player in bits 
+and pieces, most of them rather cryptic. In the intro, for instance, we learn 
+that something happened 20 years ago, but we're not told what. Later we hear of 
+a vote without learning who was voting, or what was being voted on. A vaccine is 
+mentioned in passing -- what's up with that? So the player's main task is to 
+gather up information from various sources, not all of them reliable. And it's 
+possible to miss some of the information entirely (as I did on my first 
+run-through) without knowing it, thus closing off some of the multiple endings.
+
+The most interesting source of information is a device that can replay short 
+videos of events that happened before you arrived on the planet where the story 
+takes place. The raw video footage has evidently been interpreted by an AI and 
+then resynthesized in the form of a singing comic book that's projected in the 
+air as a hologram. In one of the video scenes, a character you've met kills 
+himself -- yet he's still alive after you view the video, so clearly the AI has 
+granted itself enormous artistic license.
+
+That seems to be the essence of the literary design of Floatpoint -- that we 
+have to construct a coherent view of past events using sources that are 
+fragmentary, self-serving, or simply erroneous. This is hardly an original 
+concept in literature, but it's both profound and interesting to explore, and 
+the medium of interactive fiction is ideally suited to it.
+
+Having gathered the information, the player has to make a choice. The choice 
+leads to one of half a dozen endings, each of which has its own winners and 
+losers, its own mix of joy and pain. Short's generosity in offering the player 
+so many significant choices is one of Floatpoint's biggest strengths.
+
+That's the good news. Before we get to the bad news, we need to digress briefly 
+to ask a thorny question: To what extent should works of interactive fiction be 
+held to the same standard as other works of fiction? To put it another way, how 
+much slack are we cutting ourselves here? Given that writing IF places somewhat 
+different demands and constraints on the author than conventional fiction, and 
+given also that the IF community is tiny and not well supplied with Stephen 
+Kings or Arthur C. Clarkes, is it reasonable to expect that an IF author will 
+meet readers' expectations in the realm of conventional story values, or would 
+that be asking too much?
+
+There are no black-or-white answers; each of us gets to answer this question for 
+ourselves. And the answer may change from game to game. If you're enjoying a 
+game for whatever reason, you may be more inclined to forgive the author for a 
+few lapses.
+
+The answer may also vary depending on the genre of the game. In whimsical 
+fantasy, pretty much anything goes. If a unicorn is introduced, no well-mannered 
+person would insist on knowing what its dietary or breeding habits are, or 
+whether its pure white coat provides effective camouflage against hungry 
+predators. In contrast, science fiction is a genre in which plausibility makes a 
+difference. Science fiction purports to describe a world that could actually 
+exist, so readers are generally less willing to engage in a broadband suspension 
+of disbelief. The genre allows the use of a few "magical" conventions such as 
+time machines and faster-than-light travel, but discerning SF readers generally 
+demand that even these magical technologies operate in ways that are internally 
+consistent.
+
+Floatpoint is science fiction. Even within that genre, if it were a story whose 
+main point was well-rounded characters, or fabulous settings, or fiendish 
+puzzles, then lapses from technical plausibility would arguably be forgivable, 
+or at least less burdensome. But the point of Floatpoint, as already noted, 
+seems to be for the player to develop an understanding of what's going on. In 
+that situation, my brain kicks into gear.
+
+Considered as "hard" SF, which is the genre to which it belongs, Floatpoint 
+makes no sense whatever. It's a bewildering mishmash of science fiction ideas 
+with not a speck of logical girderwork to tie them together.
+
+A caveat, before we proceed: Those who have participated with me in face-to-face 
+SF writers' workshops will tell you I'm a fiend for plausibility. I probably 
+care too much about it. And it's not only workshopped stories by hobbyists that 
+suffer from glaring plausibility problems. Vernor Vinge's "A Deepness in the 
+Sky" was a train wreck in the plausibility department, and it won a Hugo.
+
+That said, in hard SF, the hard questions have to be asked. If the writer 
+doesn't ask them of herself, somebody like me is bound to come along afterward 
+and raise merry hell.
+
+Floatpoint rolls up half a dozen stock SF ideas in a big ball. We've got 
+faster-than-light interstellar travel and communication, the colonization and 
+terraforming of an alien world, advanced bioscience that produces new types of 
+humans, infanticide of babies who are perceived as defective, a plague that has 
+wiped out much of the infrastructure back on Earth, an impending ice age which 
+threatens the colony world where the story takes place, plus personal 
+anti-gravity and probably one or two details I've forgotten.
+
+You play the part of a diplomat from Earth. You've been dispatched to the planet 
+of Aleheart, which was evidently settled by human colonists at some point in the 
+past. You have a mission. The mission is ... well, that's going to take some 
+explaining.
+
+Twenty years or so prior to the events of the game, a terrible plague swept the 
+Earth. We're told it caused "[b]illions of deaths...; revolutions and crumbling 
+infrastructure; the regress of technology." How technology can regress is rather 
+a mystery, if you think about it. Presumably technological knowledge would still 
+exist. The thing that could plausibly regress would be the resources needed to 
+put the knowledge to effective use. And the extent of Earth's resources is very 
+much an issue, as we'll see. In any event, Earth's technology didn't regress so 
+far that interstellar travel became impractical. And the Earthians were soon 
+able to produce a vaccine that stopped the plague. In the same paragraph, we're 
+told this: "The vaccine exists, of course, and is produced in great quantity 
+still, though it is very expensive to make."
+
+We also learn that some survivors of the plague need to take regular injections. 
+Possibly they need a second medication that is never mentioned elsewhere in the 
+game, or possibly "vaccine" is just a poor choice of terminology.
+
+Meanwhile, on Aleheart, there's an impending ice age due to loss of climate 
+control. (Climate control ... let's see: giant orbiting mirrors might work. But 
+how would giant orbiting mirrors get out of whack, and if you had built them in 
+the first place, why wouldn't you be able to repair them? Dunno. Short doesn't 
+get into how the climate control might have worked.)
+
+We see only one small town in the far north, whose buildings are being gradually 
+crushed by a marauding glacier. Why the folks there don't just relocate to the 
+tropics is not explained -- and if the ice age is so far advanced as to threaten 
+the tropics, wouldn't the town in the north long since have become 
+uninhabitable? One would think so. But that's the setup for the story.
+
+So the idea is, the diplomat (i.e., you) is supposed to work out a deal with the 
+Aleheartians in which they will evacuate their freezing planet and relocate to 
+Africa, which has been conveniently denuded of its population by the plague. On 
+arrival in Africa, in exchange for having been rescued, they will use their 
+advanced bio-engineering skills to produce mass quantities of cheap vaccine, 
+thereby safeguarding Earth against a recurrence of the plague.
+
+Never mind that the plague is not rampaging at the moment, which robs the plot 
+of any urgency. I'm more concerned about how the Earthians are planning to 
+evacuate two hundred thirty-seven MILLION Aleheartians across interstellar 
+space, build new settlements for them in Africa, and feed them during the months 
+after the emigration, until their first crops are ready to harvest.
+
+I didn't pull that number out of a hat. The census count is given by Short 
+herself, in the intro to the game. But now I'm going to pull a number out of a 
+hat. Let's assume that interstellar passenger liners exist, and that the cost of 
+an interstellar ticket is a mere $50,000 per passenger in today's dollars. 
+That's probably low, but let's assume it's a little high. We'll balance the 
+books by allocating no money at all for building new settlements in Africa, 
+feeding the refugees, or any of that. 
+
+So the total cost of the relocation of the Aleheartians will be on the order of 
+ten trillion dollars, if not more. The first question that needs to be asked is, 
+how could it possibly be so expensive to produce the vaccine in the conventional 
+way (whatever that is) that it would be cheaper to spend ten trillion dollars 
+bringing 237,000,000 Aleheartians to Earth instead?
+
+The second question is, why is the Aleheartians' bio-engineering skill not 
+exportable? Wouldn't it be cheaper for the Earthians to hire away a couple of 
+hundred Aleheartian scientists and set them up in a state-of-the-art facility in 
+Schenectady? Sure it would.
+
+On my first run-through, having missed some essential information entirely, my 
+third question was this:
+
+What sort of galactic civilization would have ready access to the number of 
+interstellar liners required to do the evacuation? How many liners would that 
+be? Maybe an interstellar liner can hold 5,000 passengers in cramped quarters 
+for however long the voyage takes. (Short gives us only two bits of information 
+on the interstellar transport system. First, the ships have engine rooms in 
+which crew are on duty. Second, a one-way trip to Earth from Aleheart takes 26 
+days.) So we're going to need about 47,000 round trips in all by these giant 
+spaceships. How big is the fleet? We don't know. Perhaps it's 1,000 ships. So 
+each ship will need to make between 45 and 50 round trips. That's a lot of round 
+trips per ship, but maybe their advanced engineering means less maintenance is 
+required. Let's not worry about that. But we do need to ask, what sort of 
+galactic civilization would have ready access to 1,000 passenger liners, each 
+capable of holding 5,000 passengers, or be able to buil!
+ d them on short notice? And why would a civilization with that level of 
+economic resources bother to resort to such a gargantuan resettlement project 
+when they could simply build a few vaccine factories?
+
+When I used the walk-through, I learned that Earth doesn't currently have a 
+fleet of ships in which the Aleheartians can be evacuated, but is planning to 
+build them once the ambassador concludes his negotiations. This bumps up the 
+price tag for the evacuation rather substantially. In today's dollars, building 
+a ship that could hold 5,000 passengers during a 26-day interstellar trip would 
+cost, oh, maybe a hundred billion dollars per ship, give or take. So now we need 
+not ten trillion dollars to bring the Aleheartians home, but a hundred trillion.
+
+Or we could build only a hundred ships, which would bring the price tag back 
+down to ten trillion dollars, but now the time required for the evacuation bumps 
+up from 7 years to 70 years, and the Aleheartians pretty clearly don't have that 
+long.
+
+But wait -- there's more.
+
+In order to resolve the shortage-of-vaccine crisis, the High Command on Earth 
+has sent exactly ONE diplomat. (That would be you.) The diplomat does not speak 
+the local language. He has no entourage. He has no local staff other than a 
+single uncooperative flunky. He lands not in the largest city on Aleheart, which 
+is described as being as bright from space as New York -- no, he lands in a 
+small, isolated town on the northern frontier. He does this for sentimental 
+reasons (it's the original landing site of the colony, and he has acquired a 
+poster of it somewhere), but strangely enough, the Aleheartian dignitary with 
+whom he is to conclude negotiations is right there in town.
+
+This is the "one-horse planet" fallacy. The SF literature is full of planets 
+that have only one city, simply because the author is waving the word "planet" 
+around without giving a moment's thought to just how complicated a place, 
+geographically and politically, an inhabited planet truly is.
+
+But back to Floatpoint. Why was this particular ambassador chosen for the 
+mission? In a flashback scene, his supervisor says, "We don't send people 
+off-planet if they have living family." Ooh, that sounds ominous. Evidently 
+there's some pressing danger in being sent off-planet (a danger that Short never 
+shows us). Assuming there *is* some danger, the supervisor's speech can only be 
+decoded as follows: "This vaccine shortage is so lacking in urgency that I'd 
+rather send an unmarried orphan and have him screw up the assignment than take a 
+chance on having to apologize personally to a better man's wife and kids for 
+getting him killed."
+
+This is not the way governments work at any time, and especially not in the 
+midst of a crisis. In a crisis, the government sends you in with no flak jacket, 
+and your wife will get a telegram and a bunch of lilies, if she's lucky.
+
+In sum, the story presents us with a crisis that isn't a crisis, which the 
+player is to resolve in an impossible manner.
+
+At the end, the lead character has to make a choice as to how to handle the 
+crisis. Depending on what you choose, millions of innocent people may suffer. In 
+particular, some of the human descendants on Aleheart have been adapted to the 
+impending cold climate by growing body fur. In one of the optional endings, 
+Short gives us to understand that these folks obviously won't fare well in 
+Africa, so they won't be evacuated. They seem to be depressed about this fact.
+
+How about shaving off their body hair? How about depilatories? Or -- hey, here's 
+a thought -- how about using some of that advanced bio-science to get rid of the 
+body hair?
+
+This is not an off-the-wall idea, because the hair is clearly artificial. It 
+isn't the result of evolutionary adaptation, because the impending ice age is a 
+recent development. It can't even be the result of genetic manipulation of eggs 
+and sperm in order to give the next generation of human colonists an edge 
+against the cold weather, because the intro of the story strongly hints that the 
+impending ice age became a problem less than 20 years ago: "It would have been 
+more convenient if they had had this crisis twenty years ago, but Earth can 
+still use it." So the body hair had to have been grown on today's adult 
+Aleheartians after they were born. What was done using bio-technology could be 
+undone the same way.
+
+Plus, now that this subset of the Aleheartian population is well adapted to the 
+cold, why is it a tragedy that they'll have to stay behind? If they're going to 
+go hungry because of crop failures due to the cold weather, why not genetically 
+alter some crops so that they'll grow in a frigid climate? We're left to ponder 
+these questions for ourselves; Short provides no guidance.
+
+Another thing: body hair? Does anybody remember how our own ancestors adapted to 
+life in cold climates? Right the first time -- they invented clothing. Why 
+should the Aleheartians need body hair when they could manufacture parkas? Human 
+body hair has complex social and sexual meanings; it's not the sort of thing an 
+entire population adopts casually or on short notice.
+
+The game's other faults are minor when set beside these. The NPCs are 
+monochromatic ciphers, and most of the room descriptions are so sparse that they 
+read more like sketches than like finished work. When you arrive in your new 
+office at the embassy, for instance, you're in a room that has neither a desk 
+nor a chair. It does have two paintings, which are described in fairly odd 
+terms, but those are just scenery.
+
+Here's what you find when you enter the town square: "At the center of the open 
+space here is a monument shaped like a tusk or tooth." If you examine this tusk, 
+you learn, "It has [the] look of force-grown bone, monolithic and taller than a 
+man." Do you know what force-grown bone looks like? I don't. But that's the 
+whole description -- no texture or color, no indication of the curvature or 
+diameter of the tusk, no long sharp shadow, no grass growing around the base.
+
+One of the rooms is called a "museum," whose exhibit presents the culture 
+(that's right -- culture, singular) of Earth. In the center of the museum -- a 
+one-room museum -- is a display case. In spite of its eminent place in a nearly 
+empty room, it has been given as little physical description as the tusk. The 
+case contains only one object: a pink card. Here is the description of the card: 
+"The pink card appears to say 'cure/serum fatal-sickness primitive borrowed -- 
+research center room 58 -- card-that-grants-access.'"
+
+This is odd in several ways. First, what is something as humdrum as an access 
+card to a local research center doing in a museum devoted to Earth culture? 
+Second, the instructions the diplomat has received from the High Command (which 
+is to say, the instructions the player has received from the author) include the 
+following: "acquire vaccine from the Museum." How the High Command, which is 
+back on Earth, knew the card would be in the museum is never explained -- but 
+yet, the HC got it wrong, because the vaccine isn't in the museum. What's in the 
+museum is only the access card that lets you into the research center (where you 
+will have no trouble at all procuring a vial of vaccine). Maybe the folks in the 
+research center have removed the vial of vaccine from the exhibit for some 
+unknown reason ... but why would they leave an access card in its place, other 
+than to help the bumbling IF player along?
+
+There's more to the story than this -- linguistic difficulties that force you to 
+converse with the locals using symbolic social gestures, a departing Earth 
+ambassador who has had some kind of spat with the local authorities, a meeting 
+with a local dignitary at which an important symbolic gift is to be presented, 
+messages from your boss and girlfriend back on Earth that arrive from time to 
+time in the communications room, a handheld computer and local technologies that 
+fill in the background information, and so on. 
+
+The extent of the lead character's linguistic difficulties is rather difficult 
+to pin down. Initially you can't converse with the locals. Your native flunky, 
+Liam, seems to be mouthing memorized phrases at the beginning of the game, and 
+if you try to ask him anything at all, here's the software's response: "Anything 
+you might say in English -- or any other language you know, for that matter -- 
+would be pretty much incomprehensible here. Unless you found a scholar of 
+ancient languages, but as far as you can tell, they don't go in for that." The 
+implication is clear: Liam doesn't speak English. Yet later the same afternoon, 
+he suddenly starts replying to you with complex sentences (presumably in 
+English, as you haven't had time to learn the local language) that are clearly 
+not rote productions.
+
+You can meet the local dignitary at the end of the game without changing out of 
+your bunny slippers, which are all that remains of the personal possessions you 
+packed in your suitcase before you left Earth. How the suitcase teleported 
+itself from the shuttle landing site to your bedroom at the embassy -- let's not 
+ask. The bunny slippers are significant, by the way, but not if you're wearing 
+them.
+
+I very much like seeing a game in which you can make morally significant choices 
+(with or without bunny slippers) and then learn how your choices affect other 
+people. We could use more games like that. I also like the postmodern idea that 
+you have to assemble a coherent back-story for yourself piecemeal by finding 
+recordings, memos, and whatnot. But this design works best if there *is* a 
+coherent back-story that can be assembled. The author needs to play fair with 
+the reader. Or at least with those 237,000,000 refugees.
+
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure games, 
+a.k.a. Interactive Fiction. This includes the classic Infocom games and similar
+games, but also some graphic adventures where the primary player-game
+communication is text based. Any and all text-based games are eligible for
+review, though if a game has been reviewed three times in SPAG, no further
+reviews of it will be accepted unless they are extraordinarily original and/or
+insightful. SPAG reviews should be free of spoilers, with the exception of
+reviews submitted to SPAG Specifics, where spoilers are allowed in the service
+of in-depth discussion. In addition, reviewers should play a game to completion
+before submitting a review. There are some exceptions to this clause --
+competition games reviewed after 2 hours, unfinishable games, games with
+hundreds of endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We accept
+submissions that have been previously published elsewhere, although original
+reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at http://www.
+sparkynet.com/spag/spag.faq.
+
+---------------------------------------------------------------------------
+
+
+           Thank you for helping to keep text adventures alive!
+

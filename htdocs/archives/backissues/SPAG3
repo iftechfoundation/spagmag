@@ -1,0 +1,1135 @@
+
+       /~~\               /~~~\               /\           /~~~\
+       \ \/               | |> |             //\\         |
+       /\ \               |  _/             ||__||        |  ~~\
+  The  \__/ociety for the |_|reservation of ||  ||dventure \___/ames
+				ISSUE # 3
+        Edited by G. Kevin Wilson (whizzard SP@G uclink.berkeley.edu)
+			      Oct 26, 1994
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+EDITORIAL--------------------------------------------------------------------
+
+	Here's SPAG3, late but present nonetheless.  This issue includes a
+couple of articles from devoted readers that I think you'll enjoy.  One's a
+very informative piece on Level 9, and the other is a nostalgia-ware bit that
+brings to mind Norman Rockwell prints and hot cocoa. :)
+	Since last issue, a couple of exciting events have occurred in the
+world of text adventures.  First and foremost, in my mind, is the release of
+TADS 2.2.  This version adds many of the features IF writers have been
+screaming for.  We've all settled down into a contented purr now, thanks very
+much, Mike.
+	Also, a new IF magazine, called XYZZYnews, after one of the magic
+words from Advent aka Adventure aka Collosal Cave, has been announced.
+The editor can be reached at XYZZYnews SP@G aol.com for more info.  Good luck,
+Eileen!
+
+	And lastly, on to my topic of the day, the future of SPAG.  So far,
+we've gotten along fairly okay just as we have been.  I badger you for
+reviews, you send them in.  No biggie.  Still, things have got to change.  I
+had to scramble for stuff to print this issue, and even then this issue is
+several weeks late.  So, here's the deal:
+
+  1. First off, SPAG is no longer accepting reviews of Infocom games that
+     have already been reviewed.  I would prefer to read about the huge
+     number of other games available.  Other repeat reviews may be accepted
+     if and only if they add something new to the previous review, and in
+     general, voice a different opinion about the game.
+
+  2. If you send me anything using the older forms of reviews and scores, it
+     will have to be returned to you for reformatting.  I don't have time.
+
+  3. I desperately need more scores for the scores section of the magazine.
+     Take 30 minutes, and go down the list, and send me a score for each of
+     the games on it you've played, and send me in scores for some other
+     games.  Why are there over 150 subscribers, and yet an average of 1
+     score per game?  Is it REALLY all that hard to take 30 minutes out of
+     your life in exchange for all the work I do on SPAG?  SPAG has to be
+     worth my while too, you know.  I see a very disturbing tendency here,
+     just as on rec.arts.int-fiction, to lurk.  But those of you who lurk are
+     robbing the rest of us of your experiences and opinions.  It's like
+     shouting into some vast, empty space.  We have no idea how many people
+     read r.a.i-f.  Myself, I'm convinced that there are only 6 people in the
+     world that read it.  Talk about your dead arts.  Participation is my
+     main concern here folks.  I don't want to set up some bizarre
+     distribution method that only goes to contributors, or some other
+     cockeyed scheme like that.  I hate to sound like PBS, but there it is.
+     YOU are SPAG.  If there is no YOU, there is no SPAG.  Molley the Mage
+     and a few other very generous folks have been carrying this magazine.
+     I refuse to believe that anyone is too busy to ever play text adventures
+     or do a review on them.  You have time to read SPAG, don't you?  You
+     have time for e-mail, newsgroups, sleep, and a great deal of other
+     things.  I'm juggling a full college load, a part-time job, SPAG,
+     Avalon, several other writings that I'm working on, Magic:The Gathering,
+     video games, sleep, and a variety of other interests.  If YOU can't take
+     time out of your busy schedule for SPAG, then I SURE AS HELL can't.
+     Darn tootin' I'm upset.  The magazine is going under, and we haven't
+     even hit issue #5 yet.  To those of you who have been contributing, my
+     undying thanks.  To those who don't have time, are you sure you don't?
+
+  4. Finally, there has been some interest in making available a compressed
+     format of SPAG for those who pay for email.  I'll okay this on the
+     condition that someone else deals with it.  Send me email if you are
+     interested in either managing this list or receiving SPAG from it.  I
+     will give a list of those who want it to the person who wants to run it.
+     Then I'll remove those who want it compressed from the normal list and
+     leave the other person to run it.  It'll have to be this way, or a
+     similar no-hassle form, or I won't do it.  Currently SPAG is relatively
+     small, and goes out to a large number of people who may or may not
+     understand and have access to uudecode, etc.  Accessibility of the
+     many is more important to me.  Still, if someone will do it, I have no
+     problem with an alternate distribution method.
+
+				G. Kevin Wilson
+				"Whizzard"
+
+LETTERS TO THE EDITOR--------------------------------------------------------
+
+	[Technically, this is an article.  But what the hey, it goes where I
+say it goes. :) ]
+
+                  THAT OTHER GREAT ADVENTURE COMPANY
+                           by Brendon Wyber
+                     b.wyber SP@G csc.canterbury.ac.nz
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	I have fond memories of the company that introduced me to the art of 
+text adventures. Hundreds of hours perched in front of my keyboard 
+exploring vast underground labyrinths, searching lost planets, 
+delving through the deserts, and learning new spells.
+	Many of you are probably thinking about Infocom. I'm not. To me the 
+company that started it all was a humble little English company 
+called Level 9.
+	Level 9 started in 1982 when three brothers got together and 
+converted the original adventure game into a format that could be 
+used in the little 8 bit computers that dominated the English home 
+market. Those brothers where Nick, Mike, and Pete Austin. Over the 
+next decade they produced over a dozen adventure games until they 
+folded in 1991. They, where a victim of the fall of Robert Maxwell 
+(an English businessman who was a giant in the publishing industry, 
+who died under mysterious circumstances, and who had dubious 
+business practices resulting in a lot of bankruptcies).
+	In many ways Level 9 were the English version of Infocom. While 
+Infocom ruled over the American 16 bit market, Level 9 dominated the 
+English 8 bit market. The English 8 bit computers (the 32K BBC 
+family, and the Sinclair Spectrum 48K) where too small to run the 
+Infocom games, but they where just the right size for sophisticated 
+verb/noun style games that made the Scott Adams style games seem 
+trashy.
+	By using a sophisticated adventure engine, Level 9 managed to 
+compressed the text and the process tables of games in the style of 
+the original adventure to just 32K. A typical level 9 adventure game 
+consisted of 210 locations, and about 70 objects that where 
+manipulable, and oodles of text. The engine seemed to come in five 
+major versions. The description of each is given (note that this is 
+for the spectrum versions).
+
+The first version (Basic Text): Black text displayed rather slowly 
+on a white screen. Had a basic verb/noun parser.
+
+The nicer version (Advanced Text): A much quicker displaying yellow 
+text on a black background.
+
+The first graphics version (Basic Graphics): This had a simple 
+picture for every location. They picture was formed by lines, 
+circles, squares, and fills.
+
+The much nicer graphics version (Advanced Graphics): This is them at 
+their prime. Lots of text, a line picture for each location, and an 
+improved parser that, while it was still basically a verb noun 
+parser, allowed inputs like TAKE ALL EXCEPT THE BOOTS AND GO SOUTH 
+THEN DROP THE ROD AND STAFF. For the spectrum, each game came in 
+three versions; a 48K all text version, a 48K graphics version with 
+reduced text descriptions, and the bigger 128K version for the 
+advanced spectrums that had the verbose text, graphics and extra 
+features like multiple UNDO and RAM SAVE/RESTORE.
+
+The yucky interactive character engine (16 bit Engine): The last 
+engine used by level 9 was very powerful, but it had square grid 
+like maps which detracted from the game play (IMHO). In this one, 
+which was aimed at the immerging 16 bit market at this time, had 
+digitised graphics loaded from disk, and more improved parser 
+allowing adjectives and prepositional clauses. The big feature was 
+that it had characters who you could order about, and who acted 
+independently, in a way much better than Infocom's Suspended. Also 
+it had features like GO TO and FIND so that you could just say GO TO 
+THE FIREHOUSE and you would traverse through the locations to the 
+area. Unfortunately due to the way they did this the maps tended to 
+be giant square grids (which I really hated).
+
+	Another thing about the 16 bit games was that level 9 called them 
+trilogies and broke them up into three bit. Although there were 
+probably valid programming reasons to do this, what you ended up
+with was three little square games instead of one large irregular
+one.
+	For those of you who have a MS-Dos computer you can actually get 
+these little Gems via ftp. The ftp site is ftp.ijs.si and in there 
+are the games and an IBM spectrum emulator. Below is a description 
+of each of the games.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+COLOSSAL ADVENTURE
+
+This is the game that started it all. In fact it is just a version 
+of Crowther and Woods adventure with a slightly different starting 
+location and an expanded end game.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ADVENTURE QUEST 
+
+This is the first level 9 game I ever played. It is slightly linear 
+but it is very large. It just went on and on for me. Basically it is 
+the standard defeat the evil demon lord with the magic item type 
+plot. It is set in the area of colossal adventure hundreds of years 
+later.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+DUNGEON ADVENTURE
+
+This is set immediately after adventure quest. The demon lord it 
+dead. You play a mercenary who then loots its tower. In this game
+they really did pack in the puzzles, making it a very complex game
+to complete.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+MIDDLE EARTH TRILOGY / COLOSSAL TRILOGY
+
+Colossal Adventure, Adventure Quest, and Dungeon Adventure were 
+written as a trilogy and were initially called the Middle Earth 
+trilogy. Later on the trilogy was renamed the Colossal Trilogy, 
+probably for legal reasons.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+THE JEWELS OF DARKNESS 
+
+Colossal Adventure, Adventure Quest, and Dungeon Adventure were 
+rewritten later on and given graphics and a nicer parser and some 
+minor text changes were done and text was added.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+SNOWBALL 
+
+A very atmospheric game set aboard a gigantic star ship. Terrorists 
+have taken over the star ship and set the control to crash it into a 
+star. You have been awoken by the ships computer to stop them. (The 
+rest of the crew and colonists are is suspended animation). This 
+game was hampered by the fact it starts off in a giant maze.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+RETURN TO EDEN 
+
+The follow on to Snowball our unisex hero, called Kim Kimberly (Kim 
+being used as both a boys and girls name in England), finds 
+his/herself stranded the planet Eden. You must basic battle through 
+the very dangerous wildlife to find the Robot-built city which was 
+prepared for the snowball colony.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+A WORM IN PARADISE
+
+Set hundred of years after the first two games you play a citizen in 
+a Orwellian computer controlled city. Very unusual game where you 
+deal with political corruption and defying the system more that 
+killing trolls and the like.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+THE SILICON DREAM TRILOGY
+
+Level 9 later packaged Snowball, Return To Eden, and A Worm in 
+Paradise into a single trilogy.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+EMERALD ISLE
+
+The first graphic adventure this one suffered in that lack of 
+atmospheric text. Basically you play a pilot stranded on a 
+mysterious isle after falling through the Bermuda triangle.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+LORDS OF TIME
+
+Wow, another biggie spanning from prehistoric times to the far 
+future, you play a ordinary person sent on a great quest the 9 
+different time zones to retrieve artefacts to stop the evil Time 
+Lords from corrupt the space/time continuum.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+RED MOON
+
+Sort of Level 9's version of Enchanter. You are sent to recover the 
+moon rock crystal. In this game you cast spells, but before you can 
+cast the spells you must gain a focus for each spell.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+THE PRICE OF MAGIC
+
+The last of the great level 9 games. A Gothic horror in which you 
+are transported into a old mansion to defeat a corrupted sorcerer 
+called Myglar from draining all the magic from the Red moon crystal. 
+This game was the sequel to Red Moon. This game had shades of 
+computer role playing in it as some of the monsters had hit points. 
+In this one you learn more spells as you go but you must keep a 
+careful balance as casting magic aged you and dropped your sanity.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+TIME INTO MAGIC
+
+Lords of Time, Red Moon, and The Price of Magic were combined into a 
+single trilogy and sold as a trilogy.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ERIC THE VIKING & THE SECRET DIARY OF ANDRIAN MOLE
+
+Level 9 in association did two games in conjunction with another 
+company. From my understanding they were a type of pick you own path 
+type games using the Level 9 compression and screen display code. 
+The less said about these the better.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+KNIGHT ORC
+
+The first and hardest of the new 16 bit games. Actually a sequel to 
+both the Silicon Dream Trilogy (the sci-fi) and The Jewels of 
+Darkness (the original fantasy) due to a clever plot. According to 
+Pete Austin, their new distributed at this time (called Rainbow 
+Arts) wanted certain changes to the program before it was released 
+which lessened the game to Level 9's view. As a result they changed 
+their distributor to Manderin and the following games were better as 
+a result.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+GNOME RANGER 
+
+The second of the powerful 16 games was very successful. Based on 
+the adventures of a little female gnome busybody, called Ingrid, 
+which interferes so much in everybody else's life that the trick her 
+into leaving via a magical teleport scroll. You job is to guide 
+Ingrid back. Quite humorous in places.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+LANCELOT
+
+Pete Austin has always been fascinated in the Arthurian Legend and as 
+a result this game came about. This story is closely based on the 
+myths as presented in "The Once and Future King".
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+GNOME RANGER II: INGRID'S BACK
+
+The popular gnome Ingrid returns in another game where she must save 
+the local village hall from being bulldozed over for some sort of 
+shopping mall. Kind of like Hitchhiker's Guide to the Galaxy meets 
+The Hobbit. Actually a third Gnome Ranger game was prepared on paper 
+but sadly they died before it was written.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+SCAPE GHOST
+
+The final game of level, you play the ghost of a police officer 
+killed in the line of duty. You must revenge yourself on you killers 
+as well as rescue another police officer who was captured. I cannot 
+comment much on this game because I really haven't played it.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+	As I said before you can download these games and play them yourself.
+Here is the ftp information on where they are. Fortunately all of the
+good early ones are ftp-able.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+MIDDLE EARTH TRILOGY / COLOSSAL TRILOGY / JEWELS OF DARKNESS
+
+ftp.ijs.si   /pub/zx/snapshots/c/colladv128k.zip
+Colossal Adventure, from The Jewels of Darkness. 
+Spectrum 128K Advanced Graphics Version with Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/c/colladv48k.zip
+Colossal Adventure, from The Jewels of Darkness. 
+Spectrum 48K Advanced Graphics Version with No Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/a/adquest128k.zip
+Adventure Quest, from The Jewels of Darkness. 
+Spectrum 128K Advanced Graphics Version with Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/a/adquest48k.zip
+Adventure Quest, from The Jewels of Darkness. 
+Spectrum 48K Advanced Graphics Version with No Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/a/dunadv128k.zip
+Dungeon Adventure, from The Jewels of Darkness. 
+Spectrum 128K Advanced Graphics Version with Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/a/dunadv48k.zip
+Dungeon Adventure, from The Jewels of Darkness. 
+Spectrum 48K Advanced Graphics Version with No Pictures and Full Text.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+SILICON DREAMS TRILOGY
+
+ftp.ijs.si   /pub/zx/snapshots/s/snowball128k.zip
+Snowball, from The Silicon Dreams Trilogy
+Spectrum 128K Advanced Graphics Version with Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/s/snowball48k.zip
+Snowball, from The Silicon Dreams Trilogy
+Spectrum 48K Advanced Graphics Version with No Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/s/snowball.zip
+Snowball, the original stand alone version.
+Spectrum 32K Basic Text Version.
+
+ftp.ijs.si   /pub/zx/snapshots/r/reteden128k.zip
+Return to Eden, from The Silicon Dreams Trilogy
+Spectrum 128K Advanced Graphics Version with Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/r/reteden48k.zip
+Return to Eden, from The Silicon Dreams Trilogy
+Spectrum 48K Advanced Graphics Version with No Pictures and Full Text.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+TIME INTO MAGIC TRILOGY
+
+ftp.ijs.si   /pub/zx/snapshots/l/lordsti128k.zip
+Lords of Time, from the Time into Magic Trilogy.
+Spectrum 128K Advanced Graphics Version with No Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/l/lordsti48k.zip
+Lords of Time, from the Time into Magic Trilogy.
+Spectrum 48K Advanced Graphics Version with No Pictures and Reduced Text.
+
+ftp.ijs.si   /pub/zx/snapshots/l/lordtime.zip
+Lords of Time, the original stand alone version.
+Spectrum 32K Basic Text Version.
+
+ftp.ijs.si   /pub/zx/snapshots/r/redmoon128k.zip
+Red Moon, from the Time into Magic Trilogy.
+Spectrum 128K Advanced Graphics Version with No Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/r/redmoon48k.zip
+Red Moon, from the Time into Magic Trilogy.
+Spectrum 48K Advanced Graphics Version with No Pictures and Reduced Text.
+
+ftp.ijs.si   /pub/zx/snapshots/r/redmoon.zip
+Red Moon, the original stand alone version.
+Spectrum 48K Basic Graphics Version.
+
+ftp.ijs.si   /pub/zx/snapshots/p/prmagik128k.zip
+The Price of Magic, from the Time into Magic Trilogy.
+Spectrum 128K Advanced Graphics Version with No Pictures and Full Text.
+
+ftp.ijs.si   /pub/zx/snapshots/m/magick.zip
+The Price of Magic, the original stand alone version.
+Spectrum 48K Advanced Graphics Version with Pictures and Reduced Text.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+OTHERS
+
+ftp.ijs.si   /pub/zx/snapshots/e/esmerald.zip
+Emerald Isle, (note press Shift to scroll text).
+Spectrum 48K Basic Graphics Version.
+
+ftp.ijs.si   /pub/zx/snapshots/a/a_mole1.zip
+ftp.ijs.si   /pub/zx/snapshots/a/a_mole2.zip
+The Secret Diary of Adrian Mole, In two parts.
+Uses (and abuses) the Basic Graphics Engine.
+
+ftp.ijs.si   /pub/zx/snapshots/z/z80-201.zip   
+An emulator for the MS-Dos computers.
+
+
+If you are keen for a sample of their work I would recommend that
+you play the 128K version from the Jewels of Darkness. I thoroughly
+enjoyed this trilogy!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+	[Heheh, we seem to have a lot of article-like letters this issue.  Oh
+well.]
+
+-------------------- cut with elven sword here -------------------------
+
+The Joy of IF, or Why I Love Text Adventures
+                   by S.P. Harvey (sharvey SP@G interaccess.com)
+
+Come with me now, gentle SPAG reader, to a time that has vanished into memory. 
+
+The time: the early and mid-1980's, the place: in front of an archaic
+8-bit personal computer.  Ronald Reagan was President, junk bonds were
+everywhere, and Infocom reigned the computer gaming world. 
+
+There are probably few, if any, readers of this magazine who cannot recall
+the first work of Interactive Fiction that captured their imaginations and
+drained untold hours of their free time.  For me, it was Zork II.  Don't
+ask why it wasn't Zork I, I don' t remember.  Eighth grade.  Nathan Hale
+Elementary School, Chicago.  Mrs. Sheehy's class.  I don't know how many
+history and algebra lessons I spent redrawing my careful map of the Great
+Underground Empire.  All I knew was that it was worth every minute. 
+
+There's still a certain nostalgic wave that crashes over me each time I
+start a new IF game.  Something about that blue screen with the white
+status line, and the ubiquitous ">" prompt that has earned an indelible
+place in computer folklore and history.  Unfortunately, some of the
+"features" of early IF have passed into memory, along with the 6502
+microprocessor.  Who out there cannot recall the sweaty-palms impatience
+of waiting for a reply while your 5 1/4" floppy drive whirred and ground
+for the answer?  Or, having reached a new point in the game, only to
+realize you don't have a formatted diskette to save your progress?  I know
+I can never forget the joyous frustration of continually seeing the
+messages "Insert STORY disk into drive 1", followed by "Insert SAVE disk
+into drive 1".  Advances in hard drive technology have eliminated most of
+these unfortunate side effects, but I, for one, miss the solid "clack" of
+my Atari 810 diskette drive. 
+
+Playing an IF game is a uniquely solitary enterprise, but it's never a
+lonely one.  In good interactive fiction, the personality of the
+Implementors is infused into every description, every object, every
+off-handed response.  You can hear them cheering you on towards the
+finish, feel their fingers gently poking you in the ribs, even picture
+them lovingly building their houses of cards in the hope you'll knock them
+down. 
+
+The geniuses who ran Infocom have become our Founding Fathers, our King
+Arthurs, indeed, even our Olympians.  Every work of interactive fiction
+that has been written since Zork I burst onto the scene owes a debt of
+gratitude to Dave Lebling, Marc Blank, Steve Meretzky, and the rest.  If
+it weren't for these giants, the rest of us would still be playing the
+latest Space Invaders variant.  And some of us would have gotten better
+grades in algebra and history. 
+
+	[Very moving.  *sniff*  Still, I probably miss the software a lot
+more than the hardware.  I rather imagine that skeletons were found in
+front of Commodore 64's, still waiting for Ultima 4 to boot....]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+KEY TO SCORES AND REVIEWS----------------------------------------------------
+
+Consider the following review header:
+
+ NAME: Cutthroats                                PARSER: Infocom Standard
+ AUTHOR: Infocom                                 PLOT: Two Seperate Paths
+ EMAIL: ???                                      ATMOSPHERE: Well Done
+ AVAILABILITY: LTOI 2                            WRITING: Good
+ PUZZLES: Good                                   SUPPORTS: Infocom Ports
+ CHARACTERS: Not Bad                             DIFFICULTY: Medium
+
+	First, you'll notice that the score has been removed, and replaced
+by one or two word ratings.  These are pretty arbitrary, and should allow
+more freedom to the reviewers.  The EMAIL section is for the e-mail address
+of the game author, not the reviewer.  AVAILABILITY will usually have either
+Commercial ($price), Shareware ($price), or Freeware.  If the commercial
+price varies in stores, then it will just say Commercial.  If it has been
+released in the LTOI collection, this line should say so.  Lastly, if it is
+available on ftp.gmd.de, the line should add GMD.  (Demo) if it's a demo
+version.  The body of the review hasn't changed.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Also, scores are still desired along with the reviews, so send those along.
+The scores will be used in the ratings section.  Authors may not rate or
+review their own games.
+
+SPAG accepts reviews of any length, letters to the editor, the occasional
+interesting article on text adventures (no reprints please), and even just
+ratings for your favorite game, if you don't have the time to do a full
+review.  Please though, at least send me info for each game you have rated
+equivalent to the review header for Cutthroats, above.  All accepted
+materials will be headed by the submitter's name and e-mail address, unless
+you request that they be withheld, in which case the header will read as
+"Anonymous."
+
+NEW GAMES--------------------------------------------------------------------
+
+	Well, Adventions is still teasing us with _The Legend Lives_, but by
+all accounts, that should be released sometime Really Soon (tm).
+	_Avalon_, my own project, just keeps taking longer and longer.  Maybe
+I can finish by April.  Maybe.  *sigh*  Gee, that's what, only about a year
+late?  Let's see if I can break the record for most overdue game.
+
+	*grumble grumble*  Blasted college....
+
+REVIEWS----------------------------------------------------------------------
+
+From: "Konstantin Yu. Boyandin" <MBO SP@G ccphys.nsu.nsk.su>
+
+Name: Crypt v2.0                             Gameplay: 0.5
+Author: Steve Herring                        Plot: Linear
+Email: N/A                                   Atmosphere: 1
+Availability: GMD S12                        Writing: Good
+Puzzles: Average                             Supports: MSDOS
+Characters: Primitive                        Difficulty: Medium
+
+    Crypt is a small gothic horror story about an adventurer
+discovering the mysteries of the old church and its old history. I can
+only add that I liked the story, but found it a bit straightforward and
+predictable. The main flaw of the game is a poor vocabulary and
+the existence of traps one cannot get out of (for example, if you fall
+into a grave without a ladder). Characters are 'part of the interior' and
+behave like special places rather than intelligent beings.  Nonetheless, the
+story is impressive and the whole game is worth registering.
+    Alas, I have been unable to finish the game yet. Hope to do that after
+registering.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Lars Jodal" <joedal SP@G inet.uni-c.dk>
+
+NAME: Deep Space Drifter             PARSER: TADS standard
+AUTHOR: Michael J. Roberts           PLOT: Mostly linear, rather slow
+EMAIL: mroberts SP@G hinrg.starconn.com   ATMOSPHERE: First good, then shaky
+AVAILABILITY: GMD, shareware ($15)   WRITING: Fair
+PUZZLES: Some good, some tedious     SUPPORTS: TADS ports
+CHARACTERS: Only in the text         DIFFICULTY: Easy (to medium)
+
+     You are a space explorer who are almost out of fuel. With the last 
+reserves you manage to reach a space station. However, the station seems 
+to be under attack and nobody is around. What is going on only gradually 
+becomes clear. To get really rescued you must go down to the planet 
+below and find an escape vessel.
+     The part of the game on the space station is good, with quite a bit 
+of atmospheric details and generally good puzzles. But down at the 
+planet things are less convincing. Everything is deserted, but no real 
+reason for this is given. Several of the puzzles here are also very 
+time-consuming and tedious. Among these puzzles are the game's two 
+infamous mazes. The mazes are novel (no "twisty passages, all alike"), 
+but too large and take a _long_ time to solve.
+     The story contains two characters apart from the player, but they 
+are not actually part of the _game_. This is to mean that they are 
+mentioned in the text, but the player never gets a chance to interact 
+with them. Thus the characters are not really NPCs but part of the 
+story.
+     The game is shareware. Upon registration one gets a very good hint
+book with many hints for each puzzle. The hint book is arranged so that
+you won't read hints by mistake.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Molley the Mage" <mollems SP@G WKUVX1.WKU.EDU>
+
+NAME: The Dungeon of Dunjin            PARSER: Infocom-Like
+AUTHOR: Magnus Olsson                   PLOT: Non-Linear (Treasures)
+EMAIL: ???                              ATMOSPHERE: Fantasy
+AVAILABILITY: GMD                       WRITING: Quite Good
+PUZZLES: Mostly Good                    SUPPORTS: IBM, MAC
+CHARACTERS: Few, Simple                 DIFFICULTY: Above-Average 
+
+	The Dungeon of Dunjin is a shareware game which has been available
+for several years.  It was written by a Swedish national, Magnus Olsson,
+but the game is in English (although you'd never know it wasn't written 
+by an American, to tell you the truth).  The original game was written
+using Turbo Pascal; it has also been ported to the Macintosh, where it
+sports a rather spiffy user interface.  The parser is about as good as the
+older Infocom games, not allowing for any complicated structures but
+sufficient to get the job done with a minimum of "guess the word" problems.
+	The "hook" of the game is simple enough.  You're a tourist of sorts,
+here to visit the famous Dungeon of Dunjin, a series of caverns and
+adventurous areas known far and wide.  Unfortunately for you, the Dungeon
+is closed for renovation (and due to a few nagging problems with visitor
+safety).  Of course, like any good adventurer, you won't let this daunt you
+
+-- especially with all the treasures to be had once you get inside. 
+
+	Collection of these treasures is the primary way you will score
+"points" in the game; however, I would venture to say that the plot of the
+game is only incidentally related to the collection of these items.  In fact,
+you will do much more than run around gathering up trinkets; if you are brave
+and careful, you'll save a princess from an evil wizard's spell and slay a
+terrible dragon, among other things.  In truth, the final scene of the game,
+where you present your treasures for counting (in a very Adventure-like
+fashion), is really an anticlimax; but don't worry, because the other plot
+points have enough text to satisfy and the writing is very solid throughout.
+	The first few puzzles are very easy, a deliberate decision on the
+author's part so that players can experience quick success which hopefully
+will give them enough of a sense of accomplishment not to quit in
+frustration when they hit the harder puzzles later on, and I think it is a
+very good idea, one which other games should emulate.  The game boasts an
+impressive on-line hint facility, which is context-sensitive; it tries to
+give you the hint you need, based on your current situation, and is largely
+successful.  The hints are only provided up to a certain point in the story,
+however, after which you're on your own.  One problem with the game is that
+it features not one, but several mazes (although only one of them is
+strictly required to finish the game).  Luckily, they are small mazes, and
+easily mapped; but many players will still cringe in horror at the
+repetition.  At the time of this writing, the author is working on a new
+version which will feature a way to bypass the mazes without tedium or
+severe penalty, as well as increasing the strength of the parser to include
+more conversation with NPC's.  
+	The game as a whole is very enjoyable.  You'll quickly discover that
+the "Dungeon" is not merely a series of dank chambers beneath the surface,
+but rather a very large and vast world containing everything from dragons to
+dwarves and even computer hackers (I hope you can handle it).  One very
+interesting idea in the game is that magic works within the "fantastic"
+regions, inside the dungeon, but not in the "mundane" regions, and objects
+behave accordingly depending on where you are.  The writing is good, and
+there is a fair amount of humor in the game -- some of it, especially the
+part involving ABBA, is not to be missed.  Upon finishing the game, I was
+very satisfied, because it is challenging.  
+	Although I say the plot is "non-linear" because you are able to solve
+many of the puzzles in no particular order, the truth is that once you
+discover the true plot of the game, certain actions will be imposed on you
+and it is possible to get into a bind where you are trapped with no recourse
+but to restore a saved game.  This is unlikely, however, and should not
+happen unless you are playing through the game a second time and really get
+ahead of yourself. 
+	A possible point of contention for some people might be the
+registration fee -- $20, which is generally considered "a lot" for a
+shareware text adventure game.  I would say that it's worth the money, as
+long as you don't run screaming in terror from mazes.  Give it a look and see
+for yourself; I think you'll find The Dungeon of Dunjin an enjoyable
+experience.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Molley the Mage" <mollems SP@G WKUVX1.WKU.EDU>
+
+NAME: The Great Archeological Race      PARSER: TADS (Good)
+AUTHOR: John LaBonney                   PLOT: Linear, "Sectional"
+EMAIL: ???                              ATMOSPHERE: Indiana Jones-ish
+AVAILABILITY: GMD                       WRITING: Not Bad
+PUZZLES: Wide Variety                   SUPPORTS: TADS ports
+CHARACTERS: Interesting, 1-D            DIFFICULTY: Below Average 
+
+	Well, I must confess that while I had heard of this game from a few
+other people, I resisted playing it primarily because the word "archaeology"
+is so prominently misspelled.  A trivial and petty reason not to play a text
+adventure, I know, but typos ruin games for me faster than anything else.
+I am pleased to report that not only is it easy to ignore this mistake in
+The Great Archeological Race, but the rest of the game makes up for it and
+is quite enjoyable. 
+	TGAR, as I'll refer to it, is a shareware game from Absolute Zero.
+You play an assistant curator at the Evelyn Museum in Boston, whose job is in
+peril because of a lack of new acquisitions.  The game, therefore, becomes a
+series of adventures wherein you are sent to various sites by your boss to
+bring back whatever trinkets (or treasures) you can find.  The atmosphere of
+the ame reminded me somewhat of the "Indiana Jones" movies; quests for
+ancient artifacts liberally sprinkled with humor.
+	I think the game is probably easier than most text adventures, but
+this is not a criticism.  I was able to play almost straight through the
+first few sections in a couple of hours, which enabled me to concentrate on
+the game itself instead of on the usual stop-ponder-start-stop-ponder-start
+method I usually use.  The individual archaeological "digs" are filled with
+interesting items, locations, and characters, although the quality of the
+room descriptions is rather inconsistent.  In many places, the writing is
+plentiful and good; in others, it's extremely terse.  Some of the best
+writing is in the various newspaper articles and reports you'll get on your
+various excursions around the world, as well as religious propaganda you get
+from a guy at the airport (and you can just imagine what *that's* like). 
+	As you return from the various digs, you check in with your boss, and
+the items you have recovered are placed on display in the museum itself.
+This is a nice touch, and provides an obvious measure of progress, as well as
+allowing the player to feel as though his actions have made an impact.  It's
+obvious that the game does not take itself seriously; the first site you'll
+visit was abandoned by the original dig team because the University funding
+the dig used the money for a new swimming pool.  It says to me, "Hey, I know
+the plot is contrived, and you know the plot is contrived, and I know you
+know, so just play the game and shut up, okay?".  I *like* that.  The game
+doesn't try to be anything more than an enjoyable puzzle-solving romp, and
+of course the tricks and traps commonly associated with ancient sites
+provide the ideal excuse for having lots of puzzles. 
+	The registration fee is $20; this gets you the standard maps, hints,
+and eternal love and devotion of the author.  The game is written using TADS,
+and so the parser as good as any; no worries on that score.  There is
+mention in the docs about possible availability of the TADS source code
+to registered users, so aspiring TADS programmers might want to check that
+offer out.  Truthfully, I can't feel too good about saying that the game is
+worth $20; $10 or $15 would have been more appropriate, but considering some
+of the tripe people are paying $60 and up for, TGAR is a bargain.  I highly
+recommend that you download this game and give it a try for yourself. 
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Brian Reilly" <reillyb SP@G gusun.acc.georgetown.edu>
+
+NAME:  Lurking Horror		PARSER:  Infocom Standard
+AUTHOR:  Dave Lebling		Plot:  Gothic Horror at GUE Tech
+EMAIL:  ???      		ATMOSPHERE:  Very Good
+AVAILABILITY: LTOI 1		WRITING: Good
+PUZZLES:  Well Done		SUPPORTS:  Infocom Ports
+CHARACTERS: Somewhat Weak	Difficulty: Medium
+
+	In Lurking Horror, you assume the role of a college student 
+who starts out trying to complete an assignment, and is caught up in an 
+adventure of missing students, demonic Alchemy professors, and a showdown 
+with the ultimate evil.  As you wonder about the tunnels and corridors of 
+GUE Tech, you must deal with everything from sticky-fingered urchins to 
+fierce rats.  The main strength of this game is the sense of atmosphere 
+created.  The writing creates a sense of suspense and terror, and the 
+player is enveloped in a frightening world of the macabre.  The only 
+weakness that I found with Lurking Horror was the NPCs.  I feel that they 
+could have been developed to a greater extent, especially the hacker.  I 
+was also dissapointed with the ending; it was a climactic let-down from 
+what had been built up during the game.
+	Besides this, though, it was a very good game.  The puzzles are 
+interesting and not too difficult, and there is enough humor to keep the
+player interested.  Lurking Horror can be found in LTOI 1.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Molley the Mage" <mollems SP@G WKUVX1.WKU.EDU>
+
+NAME: MAGIC.ZIP (Three games)           PARSER: Mostly 2-Word
+AUTHOR: John Olsen                      PLOT: Simple
+EMAIL: ???                              ATMOSPHERE: Okay
+AVAILABILITY: GMD                       WRITING: Terse
+PUZZLES: Easy                           SUPPORTS: IBM
+CHARACTERS: Few                         DIFFICULTY: Quite Easy 
+
+	MAGIC.ZIP contains three IBM text adventures written by John Olsen.
+The games are all very simple, but they are enjoyable and should provide
+you with a few hours of fun.  The games unzip as MS-DOS executable files,
+using Mr. Olsen's own interpreter.  The parser used in the games is
+simplistic, but the puzzles are generally so easy that you won't have any
+problem telling the game what it is you're trying to do.  The three games in
+the package are: 
+
+Merlin's Magic Forest:
+
+	In this game, you are transported to a magical forest where Merlin
+the magician (of Arthurian legend) has been placed under an evil spell.  You
+must collect the five components needed to mix up a counterspell that will
+free the great wizard from his torpor.  Along the way, you'll get to play
+with Excalibur and face some evil monsters (including some really mean
+trees who really got on my nerves). 
+
+Merlin's Golden Trove
+
+	As a reward for your serivces to him in the first game, Merlin
+transports you to his castle, where you seek to discover all his hidden
+gold.  There are hidden tricks and traps for the unwary, and treasures
+hidden in some surprising places.  The weakest of the three games, but
+still an enjoyable distraction.
+
+Son of Ali Baba
+
+	To win the Caliph's daughter, you must venture to the island of the
+evil wizard Roxor and bring back a piece of the shell of a Roc's egg.  You'll
+face a dragon, among other things, but luckily you have several magical
+talismans to assist you in your quest.  The best of the three games, I
+think, except for a few rather arbitrary puzzles.
+
+	All three of the games are quick plays -- an afternoon apiece at
+most.  They use text very sparingly, but the writing is not bad.  These
+games reminded me very much of the Scott Adams adventures, in fact, although
+they are much easier than some of Adams' puzzlers.  Merlin's Magic Forest is
+arguably the most difficult of the three games, with some non-intuitive
+puzzles to be solved.  Merlin's Golden Trove is strictly an exercise in
+searching for treasures.  Son of Ali Baba is my favorite of the three,
+providing a little bit of the flavor of the Arabian Nights tales. 
+	The author is asking $20 for the three games, which comes out to less
+than $7 apiece.  That's a good deal for a text adventure, but in truth these
+games are so short and simple that they're probably not worth registering.
+However, Mr. Olsen also has three other collections of similar text
+adventures, and all of them can be found on the if-archive.  It would not be
+unreasonable to expect someone to play two of the three-game sets and then
+register one of them.  But you didn't hear that from me.
+	If you're looking for a game or three to kill an afternoon with, or
+if you wax nostalgic about the Scott Adams-type adventure games, give
+MAGIC.ZIP a try; and check out Mr. Olsen's other games, which include more
+fantasy, and even some horror, among other things.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Molley the Mage" <mollems SP@G WKUVX1.WKU.EDU>
+
+NAME: Space Aliens Laughed At My Cardigan  PARSER: AGT
+AUTHOR: Andre M. Boyle                     PLOT: Minimal
+EMAIL: ???                                 ATMOSPHERE: Demented
+AVAILABILITY: GMD                          WRITING: Strange
+PUZZLES: Weak                              SUPPORTS: IBM
+CHARACTERS: Not Much                       DIFFICULTY: Incomprehensible
+
+	"Space Aliens Laughed At My Cardigan" has perhaps the best title of
+any game I've yet seen on the Interactive Fiction Archive.  This alone
+prompted me to download it and give it a play.  I had a moment of fear when I
+discovered that it was written with AGT; I am able to report, however, that
+the game would have been just as bad in TADS, Inform, or any other language
+as far as I can tell. The introduction is promising -- you're sitting in the
+garden when an alien ship lands nearby and two blue beings begin making fun
+of your cardigan.  They then proceed to vaporize it with a ray gun.  You're
+quite dismayed, since your mother gave you that cardigan, and you fear
+physical reprisals if she discovers that it's gone.  Getting a new
+cardigan, therefore, becomes the goal of the game.  Sadly, the game was
+almost totally unplayable, and I was unable to determine if Our Hero
+actually succeeds.  All I can really say about the game is that it had a
+glimmer of potential, but that quickly vanishes under a torrent of
+typographical errors, bad attempts at humor, and bugs.  There are 10,000
+possible points in the game; just by walking around and picking things up, I
+somehow achieved 257 of them without attempting to solve a single puzzle. 
+	The puzzles themselves are nonsensical; sometimes typing HELP will
+get you a hint, other times not.  The atmosphere of the game is badly
+fragmented; items and locations are thrown together without the slightest
+rhyme or reason.  The parser is unresponsive at best and damnably frustrating
+most other times. There are a few funny bits of text -- the chess grandmaster
+in particular is rather humorous -- but most of the attempts fall on their
+face.  I usually prefer Irish/British humor to American humor, so I can
+safely say that cultural differences do not play a role in my failure to
+find the game funny (although people with no experience whatsoever in
+British humor might not even understand why the jokes are *supposed* to be
+funny). The most interesting thing about this game is that while
+registration is not expected by the author, if you do register (for $60.00
+or 30 pounds) the author offers to write an entirely new game to your
+specifications and place you as a character in one or more of his later
+games.  I am mildly curious to know if anyone has taken advantage of this
+offer, although I must say after playing Space Aliens Laughed At My
+Cardigan, I can't see any reason why a sane person would.
+
+	[Let me just say that I encourage both positive and negative reviews.
+SPAG's goal has always been to become something like a Consumer's Guide to
+IF.  I hope to print reviews that will not only steer you towards the
+outstanding games, but away from the bad ones.  I've played "Aliens Laughed
+at My Cardigan".  Trust Molley on this one, folks.  He knows from whence he
+speaks.]
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Brian Reilly" <reillyb SP@G gusun.acc.georgetown.edu>
+
+NAME:  The Witness		PARSER:  Infocom Standard
+AUTHOR:  Stu Galley		PLOT:  Solve a Murder
+EMAIL:  UNKNOWN			ATMOSPHERE:  VERY GOOD
+AVAILABILITY:  LTOI 1		WRITING:  Good
+PUZZLES:  Not Bad		SUPPORTS:  Infocom Ports
+CHARACTERS:  Good		DIFFICULTY:  Rather Easy
+
+	Who killed Freeman Linder?  You came to his house to protect him from
+an unknown threat, but he has been murdered nonetheless.  In Witness, 
+you take the role of a 1930s police detective and must find out what 
+caused Linder's demise.  Question the suspects and search the Linder 
+estate for clues that will bring you closer to the truth.  Witness was 
+Infocom's second mystery game, and is nowhere near as difficult as 
+Deadline.
+	The plot flows quickly, and it is rather easy to stumble upon 
+the guilty party.  However, Witness does a great job at capturing the 
+feel of the 1930s.  This is achieved partly from the writing, but more so 
+by the characters.  The NPCs are interesting and provide the player with 
+entertainment after all the puzzles have been solved.  Witness is easy 
+compared to many of Infocom's other titles, but it is still enjoyable.  
+Witness can be found in LTOI 1, and serves as an excellent introduction 
+to interactive mystery to gamers.
+
+READER'S SCOREBOARD----------------------------------------------------------
+
+	Ok, I'm not gonna waste space in this issue on describing the new
+system of scoring again.  It's outlined in both the SPAG.FAQ and SPAG2, so
+I see no reason to continue to clutter up the magazine.
+
+Here's a revised ratings line for Trinity:
+
+Name       Avg Sco  Chr  Puz    #Votes    Issues     Notes
+=======    =======  ===  ===    ======    ======     ======
+Trinity      8.9    1.7  1.5      21    1-5, 8, 11    C_INF
+
+	A complete and revised version of this rating system appears in
+the SPAG FAQ, which should be up on https://ifarchive.org/if-archive/SPAG/SPAG.FAQ.
+>From now on, only changes to the system and the notes will appear in each
+issue.  For the basics, look at the FAQ.
+
+   Notes:
+
+	A   - Runs on Amigas.
+	AP  - Runs on Apple IIs.
+	GS  - Runs on Apple IIGS.
+	AR  - Runs on Archimedes Acorns.
+	C   - Commercial, no fixed price.
+	C30 - Commercial, with a fixed price of $30.
+	F   - Freeware.
+	GMD - Available on ftp.gmd.de
+	I   - Runs on IBM compatibles.
+	M   - Runs on Macs.
+	S20 - Shareware, registration costs $20.
+	64  - Runs on Commodore 64s.
+	TAD - Written with TADS.  This means it can run on:
+                AmigaDOS, NeXT and PC, Atari ST/TT/Falcon, DECstation
+                (MIPS) Unix Patchlevel 1 and 2, IBM, IBM RT, Linux, Apple
+                Macintosh, SGI Iris/Indigo running Irix, Sun 4 (Sparc)
+                running SunOS or Solaris 2, Sun 3, OS/2, and even a 386+
+                protected mode version.
+        AGT - Available for IBM, Mac, Amiga, and Atari ST.  This does not
+                include games made with the Master's edition.
+        INF - Infocom or Inform game.  These games will run on:
+                Atari ST, Amiga, Apple Macintosh, IBM, Unix, VMS, Apple II,
+                Apple IIGS, C64, TSR-80, and Archimedes Acorn.  There may be
+                other computers on which it runs as well.
+
+NOTES: If there was no rating for Character or Puzzle, it was left blank.
+       Please remember that I do not yet have a large enough sample of
+       scores to accurately compare them.  The grading system has changed
+       and that may further damage the accuracy until I get about 20 more
+       scores for each game.
+
+ Name		       Avg Sc  Chr  Puz  # Sc  Rlvt Ish       Notes:
+ ====                  ======  ===  ===  ====  ========       ======
+Ballyhoo		7.2		   1	 x	C_INF
+Beyond Zork		7.4		   1	 x	C_INF
+Border Zone		5.6		   1	 x	C_INF
+Bureaucracy		7.8		   1	 x	C_INF
+Curses			8.6    1.5  1.7    1     2	F_INF
+Cutthroats		6.4	           2     1	C_INF
+Deadline		6.8		   1	 x	C_INF
+Deep Space Drifter	5.5	    1.4    1     3      S15_TAD_GMD (I think)
+Dungeon of Dunjin       7.0    1.0  1.5    1     3      S20_IBM_MAC_GMD
+Enchanter		6.8    0.8  1.3	   2     x	C_INF
+Great Archaelog. Race	6.5    1.0  1.5    1     3      S20_TAD_GMD
+Hitchhiker's Guide	8.0     	   1     x	C_INF
+Hollywood Hijinx	6.0		   1	 x	C_INF
+Horror of Rylvania	7.7		   1     1	C20_TAD_GMD (Demo)
+Humbug			7.4		   1	 x	S10_GMD (Uncertain)
+Infidel 		6.9		   3     1-2	C_INF
+Jacaranda Jim		7.0		   1	 x	S?_GMD
+Klaustrophobia		9.5		   1     1	S15_AGT_GMD
+Leather Goddesses	7.7		   1	 x	C_INF
+Lurking Horror, The	7.2		   1     1	C_INF
+Magic.zip		4.5    0.5  0.5    1     3      S20_IBM_GMD
+Mind Forever Voyaging	8.1		   1	 x	C_INF
+Moonmist		6.4	           1     1	C_INF
+Multidimen. Thief	6.0    0.5  1.0    1     2      S?_AGT_GMD
+Nord and Bert		6.8		   1	 x	C_INF
+Planetfall		7.3		   1	 x	C_INF
+Sanity Claus		9.0	           1     1	S10_AGT_GMD
+Seastalker		5.0		   1	 x	C_INF
+Shades of Grey		7.9		   1	 1-2	F_AGT_GMD
+Sorceror		6.6    0.6  1.5	   2	 2	C_INF
+Space Aliens...Cardigan 2.0    0.5  0.5    1     3      S60_AGT_GMD
+Spellbreaker		7.9    1.2  1.8	   2	 2	C_INF
+Starcross		7.4	           2     1	C_INF
+Stationfall		6.7		   1	 x	C_INF
+Suspect			5.9		   1	 x	C_INF
+Suspended		7.0		   1	 x	C_INF
+Trinity			9.2    1.4  1.7    3     1	C_INF
+Unnkulian One-Half	8.1                2     1	F_TAD_GMD
+Unnkulian Unventure 1	8.1 	           2     1	S10_TAD_GMD
+Unnkulian Unventure 2	7.1	           2     1	S10_TAD_GMD
+Unnkulian Zero  	9.0 	           1     1	C25_TAD_GMD (Demo)
+Wishbringer		6.3		   1	 x	C_INF
+Witness, The		6.3	           2     1	C_INF
+Zork 0			6.5    1.1  2.0	   1	 x	C_INF
+Zork 1			5.4    0.6  1.6	   2	 1-2	C_INF
+Zork 2			6.4    0.8  1.6	   2	 1-2	C_INF
+Zork 3			5.7    0.6  1.4	   2	 1-2	C_INF
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Three:
+
+ 1. Klaustrophobia	9.5
+ 2. Trinity		9.2
+ 3. Unkuulian Zero	9.0
+    Sanity Claus	9.0
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Editor's Picks of the Month:
+
+	This month I recommend John Olsen's four trilogies of games.  In
+https://ifarchive.org/if-archive/games/pc/ they are: crypt30.zip, magic.zip,
+treasure.zip, and horror30.zip, I believe.  A very good value for your
+money, as you get 3 games for $20 or so.  Very reminiscent of Scott Adams,
+and the solutions for the first three compilations can also be found on
+GMD.  Sadly, as far as I know, these games are available only for IBM PCs and
+compatibles.
+
+ADVERTISEMENTS---------------------------------------------------------------
+
+Notes on last month's Save Princeton Advertisement:
+
+Jacob Weinstein, author of Save Princeton, has a new email address:
+    jacobw SP@G cap.gwu.edu
+
+
+CLOSING REMARKS--------------------------------------------------------------
+
+	EXTRA! EXTRA!  SPAG finds new home inside InfoMenu!
+
+	Some of you may have heard about InfoMenu.  Welp, I tried it out, and
+it's a very elegant little program.  What it is, is essentially a menuing
+system for all your infocom format games.  All you need to use it is one of
+the freely available z-machine interpreters available on ftp.gmd.de, such as
+ZIP.  You tell InfoMenu where the interpreter is, where your games are (it
+will scan up to three directories, counting the one it's in), and Presto!  A
+menu pops up with a list of the titles of your games.  Then you either use
+the mouse or the arrow keys to select and play one.  InfoMenu is only
+available for IBM PCs and compatibles.  Personally, I dumped all my .dat,
+.z3, and .z5 files into my InfoMenu directory, and deleted most of those
+crappy LTOI menu systems.  I did keep zip4.exe from LTOI 1, as well as the
+files from Zork Zero.  After all, you delete those, and no fancy Beyond Zork
+or Zork Zero pictures for you.  I imagine that Shogun, etc from the LTOI 2 CD
+would have to be treated the same way.
+
+	[PS- LTOI=Lost Treasures of Infocom, discussed in issue #1, for you
+new subscribers.]
+
+	Now, on to my favorite part of the program, the help system.  Hit F1,
+and you are presented with a nice little menu, with everything from InfoMenu
+specifics to communicating with text adventures.  Put the cursor over a game
+title on the main menu and hit F2, and you are presented with a very spiffy
+description of it, usually.  Even if there's none there, it's quite easy to
+write your own, or alter the existing one.  I was so pleased with this
+program that I edited all the F2 descriptions to include an SR in it (SPAG
+Rating).  This is just the score that you see in the ratings section of the
+magazine, and only the main score at that.  But still, if you've just bought
+LTOI, and you can't decide which of the games to play first, this could be a
+convenient device for you.  The standard game descriptions appear to have
+been typed in from the backs of old Infocom games.
+	The current release is beta version C.  While it's a beta version, I
+found only one bug in version B, and that's been fixed in version C.  Still,
+the current version doesn't include the SPAG ratings, but the next one
+should.
+
+	https://ifarchive.org/if-archive/infocom/interpreters/infom9c.zip.
+
+	[Remember to use binary mode, just in case.  Also, later editions
+will probably follow the same naming conventions, such as infom9d.zip, etc.]
+
+SPAG is not affiliated with Calvin Culver or Culverware, Inc. in any way.  I
+just added the SPAG ratings to his help menu and sent it to him for use,
+nothing more.
+
+InfoMenu was written by Calvin Culver, and is copyright 1994 by Culverware,
+Inc. All rights are reserved.
+
+InfoMenu  is  donorware.  It  may  be  distributed  and used for
+non-commercial  purposes free of  charge. However, this software represents a
+couple hundred hours' work, so if you find InfoMenu useful and would like to
+make a small donation, you may do so to the following address:
+
+                        Culverware, Inc.
+                         W6999 King Rd.
+                   Poynette, Wisconsin 53955
+
+The author may be contacted either through the above address, or by e-mail at
+any of the following:
+
+                     calvin.richter SP@G sil.org
+                      culver SP@G macc.wisc.edu
+                   ctrichte SP@G students.wisc.edu
+
+-----------------------------------------------------------------------------
+
+	   Thank you for helping to keep text adventures alive!
+

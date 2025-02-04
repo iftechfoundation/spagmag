@@ -1,0 +1,1310 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>ISSUE #45 - July 17, 2006 - SPAG</title>
+  <link rel="stylesheet" type="text/css" href="../style/spag.css"/>
+
+  <link rel="top" type="text/html" href="../index.html"/>
+  <link rel="up" type="text/html" href="../index.html"/>
+  <link rel="prev" type="text/html" href="../howtoplay.html"/>
+  <link rel="next" type="text/html" href="../backissues.html"/>
+ </head>
+
+ <body>
+  <h1 align="center">
+   <a href="../index.html"><span id="title"><img src="../spag.png" alt="SPAG" width="349" height="94" border="0"/></span></a>
+  <br/>
+   <span id="subtitle">ISSUE #45 - July 17, 2006</span>
+  </h1>
+
+<div>
+<pre>
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #45
+
+        Edited by Jimmy Maher (maher SP@G grandecom.net)
+                       July 17, 2006
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #45 is copyright (c) 2006 by Jimmy Maher.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign.
+
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+A Look at IntroComp 200(?5?) by Mordechai Shinefield
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+The Amazing Interactive Turing Machine
+Deadsville (IntroComp version)
+Finding Martin
+Ghost Train
+Glass
+OMNIQuest
+Swineback Ridge
+There's a Snake in the Bathtub
+Voices of Spoon River
+
+
+EDITORIAL------------------------------------------------------------------
+
+When Paul O'Brian passed the reins of SPAG to me a year ago, one of my first 
+goals was to improve the magazine's appearance.  While the website might have 
+been cool in that kitschy time capsule sort of way that leads to cinematic 
+remakes of Starksy and Hutch, this wasn't quite the image I wanted to promote 
+for either SPAG or IF in general.  Unfortunately, my skills with web design are 
+rudimentary at best, and I always seemed to have others projects that were more 
+pressing.
+
+Finally I decided to force myself into action by announcing my plans to the 
+world in my editorial for last January's issue.  I also put out a call in that 
+issue for designers who might be willing to donate some of their expertise 
+toward a sleeker, more modern SPAG, even though I was doubtful what kind of 
+response I would receive.  Enter Felix Plesoianu.
+
+As it turned out, Felix did not just assist me.  I was, as usual, bogged down 
+with other projects, and so Felix basically did everything himself over a period 
+of several months, patiently responding to my many requests for changes and 
+additions.  And now his work is finally on display for everyone.  Personally, I 
+think it looks great, and I hope you will agree.  If you do, feel free to send 
+him an email telling him so.  You can reach him at felixp7 SP@G yahoo.com.
+
+One of the nicest features of the new site is that it makes it much easier to 
+submit reviews.  Simply click the "Submit a review" link on the right side of 
+the home page, and fill the form out as best you can, pasting the body of your 
+review into the appropriate field.  Of course you can also continue to submit 
+reviews by the old method of personal email to me, if you prefer, and I also 
+always welcome feedback, article proposals, and whatever else IF-related you 
+care to send me.
+
+We are not done with modernizing SPAG.  Indeed, this is hopefully just the 
+beginning.  The individual issues are still not HTMLized, and correcting that is 
+the next project on the agenda.  Further down the road, I hope to start sending 
+SPAG out to subscribers in HTML format, and I have vague ideas for plenty more 
+enhancements.  Be patient with us, please.  We will get there.
+
+As excited as I am about SPAG, I am even more excited about the IF community in 
+general.  I think many of us have had a sense over the last couple of years that 
+IF needed something, some spark, to galvanize people again.  The number of new 
+games released each year was not only not growing, but had actually begun to 
+decline, and we often seemed to be coasting on our traditions rather than acting 
+out of passion.  
+
+Inform 7, I am gratified to say, has changed everything in exactly the way I had 
+hoped it might when I first encountered it.  The number of posts to 
+rec.arts.int-fiction has skyrocketed since Inform 7's April 30 release, and, 
+even more gratifyingly, the excitement in the community is palpable.  We have so 
+far seen only a few small efforts created with Inform 7, but I have every reason 
+to believe these are only the first trickles that precede the deluge.  I suspect 
+that Inform 7 will be well-represented in this year's IF Competition.  And, 
+excitingly for a devotee of epics like myself, many people seem to be have been 
+inspired by Inform 7's power and ease of use to begin long works of 
+considerable ambition.  
+
+Many of those who have taken up the new system are non-programmers who had 
+previously found traditional IF authorship closed to them.  This is exactly the 
+path IF must take if it is to grow.  We must attract writers and readers who are 
+not computer geeks at all, who indeed were perhaps never even interested in 
+computers before discovering IF.  This is the path to better, more literary 
+works and acceptance, first by the electronic literature community and then by  
+literary establishments in general.  Pipe dreams?  Perhaps, but stranger 
+things have happened.  I get excited when I think of where IF could go, and 
+cannot express enough gratitude to Graham Nelson and Emily Short and everyone 
+who has helped with Inform 7 for opening up a new path by which we might get 
+there.
+
+Pipe dreams aside, though, I have some very interesting reviews for you today.  
+Mordechai Shinefield has written a very funny overview of (what he thinks is) 
+last year's IntroComp, just in time for this year's event.  Previous SPAG editor 
+Paul O'Brian has contributed two thoughtful reviews, as has IF Renaissance woman 
+Emily Short.  Throw in reviews from longtime SPAG stalwart Valentine Kopeltsev, 
+returning contributor Mike Harris, and a couple of much-appreciated newcomers, 
+and there is much to enjoy.  And so, without further ado, I invite you to read 
+on and do so.
+
+
+IF NEWS -------------------------------------------------------------------
+
+One Room Game Competition 2006
+Francesco Cordella recently hosted a one-room game competition, with games 
+written in either English or Italian being eligible.  A healthy nine entries 
+were submitted, although only two were written in English and are thus 
+accessible to Italian-challenged players like myself.  However, one of those 
+English games, Sam Gordon's Final Selection, actually won the competition.  The 
+other, Sara Brookside's It's Easter, Peeps!, finished sixth.
+http://www.avventuretestuali.com/orgc/orgc-2006-eng
+
+Let's Tell a Story Together
+For my undergraduate Senior Honors Thesis this past semester at the University 
+of Texas at Dallas, I worked up a fairly detailed introduction to and history of 
+IF.  I call it Let's Tell a Story Together, and I have put it online on my 
+personal page.  Response has been gratifyingly positive so far, and I plan to 
+correct, update, and with luck even expand the work over time.
+http://home.grandecom.net/~maher/if-book
+
+IntroComp 2006
+As of this writing, the 2006 edition of the IntroComp is just underway.  For 
+those who haven't participated before, the goal of this competition is to 
+encourage authors to create longer works by allowing them to submit introductory 
+sections of possible longer games to be judged by the community, and thereby to 
+discover whether their concepts are worth expanding into full-length games.  
+This year's competition has seven entries.  Take a few minutes to read Mordechai 
+Shinefield's belated but enjoyable overview of last year's IntroComp in this 
+issue to get a feel for how it all works, then download this year's intros and 
+judge away.  The voting deadline is August 6.
+http://www.xyzzynews.com/introcomp
+
+Spatterlight
+Tor Andersson, who seems to have the energy and interpreter-creating skill of 
+dozens of normal programmers, has announced a new multi-format interpreter for 
+Mac OS-X called Spatterlight.  Spatterlight can play games in AGT, ADRIFT, 
+AdvSys, Alan, Glulx, Hugo, Level 9, Magnetic Scrolls, TADS, Quill, and of course 
+Z-Code formats.  Whew!  It is still in beta, but looks very usable, and receives 
+updates at a rather furious pace.
+http://ccxvii.net/spatterlight/
+
+SPAG NEEDS YOU!
+So many deserving games are still waiting for reviews.  If you have played or 
+plan to play any of these, please think about setting aside an hour or two of 
+your time to write up your impressions.  You'll feel good afterward, I promise.
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Eragon
+2.  A Spot of Bother
+3.  1893: A World's Fair Mystery
+4.  Final Selection
+5.  Provenance
+6.  When in Rome, parts 1 and/or 2
+7.  Bronze
+8.  Dracula: The Arrival
+9.  The Reliques of Tolti-Aph
+10. It's Easter, Peeps!
+
+
+A LOOK AT INTROCOMP 200(?5?) ----------------------------------------------
+
+From: Mordechai Shinefield (lubbarlubab SP@G hotmail.com)
+
+When I decided to write my own IntroComp submission, checking out past 
+contenders seemed natural. It&#8217;s always a good idea to get an idea of the 
+competition before crawling into the ring swinging. Here, though, it was more 
+like watching the video footage from a previous match then scouting out 
+competitors. Fine. It&#8217;s what I had to work with. I read that SPAG was looking 
+for reviews of IntroComp 2005, so I decided to kill two birds with one stone. 
+(First the boxing metaphor, now the birds cliche. I&#8217;m mixing metaphors like a 
+bartender on acid.)
+
+At Wit&#8217;s End Again
+
+This is apparently the sequel to another game, titled (surprisingly) "At Wit&#8217;s 
+End." Perhaps that game sets up what is going on with this one. Because I&#8217;ve 
+only limited myself to IntroComp games, though, I have no idea. Apparently I 
+have a narcolepsy, which is a total bummer, because I also dream nightmares 
+compulsively. I pleaded with the on screen representation of me to lay off the 
+ambien, but to no avail. To be fair, I don&#8217;t know that it was ambien that made 
+him like that. I&#8217;m just extrapolating from my own experience with the drug. 
+Maybe our protagonist just ate bananas before he went to sleep. I hear those 
+things will screw you up. 
+
+Anyway, apparently my name is Jake, because when the parser talks to me, it 
+calls me Jake. Maybe I&#8217;m the Jack Nickolson character from Chinatown (and The 
+Two Jakes). Maybe I&#8217;m having nightmares because of that dame who got the bullet 
+in her head. I&#8217;ve been waking up in cold sweats. I haven&#8217;t taken a case since 
+then. An NPC taps on my shoulder. "C&#8217;mon Jake, it&#8217;s only Chinatown," he says. 
+Well, no. He doesn&#8217;t. Instead I wake up in my bed. I&#8217;m in a cold sweat. I&#8217;m told 
+"Damn! Another freakin' nightmare. Those sleeping pills are doing absolutely 
+nothing for you." This tells me two things; one, that I&#8217;ve had these nightmares 
+before and two, I was right. I totally am on ambien. Score.
+
+Much like being on ambien in real life, I have the experience that no matter 
+what I do, I&#8217;m on a fixed track. I try to mess with the system. I type "wait" 
+until the game forces me to do things. I talk back to the parser. [>stop moving 
+me around / I don't know the word "moving". / >go to hell / I don't know the 
+word "hell".] 
+
+It&#8217;s like talking to Smarterchild, except Smarterchild totally pretends to 
+understand me. I have an idea: Maybe I can make the parser for my IntroComp 
+submission interact like Smarterchild. 
+
+[>stop moving me around / SmarterChild: You think I should do that? / >yes / 
+SmarterChild: I should do that, huh? No way. / >go to hell / SmarterChild: I've 
+heard much better insults than that, Jake.] 
+
+Smarterchild? Total snark. So I finally think I&#8217;m awake when [SPOILER ALERT] the 
+elevator I&#8217;m in goes into total freefall and the game ends. I wish I could say 
+I&#8217;m literally at my wit&#8217;s end, but instead I&#8217;m just slightly nonplused. I turn 
+off my computer and go to sleep. For real.
+
+Except suddenly a giant leper is attacking me!
+
+I go to check out what rating this game got when it was released and notice that 
+I played a game from the first Introcomp, not the last one. This information 
+seriously bugs me. I decide to include the review in the 2005 review package 
+nonetheless and hope no one notices. I realize that announcing this intention 
+out loud is completely sabotaging myself.
+
+Apparently though, it was the Second Runner-Up in the first ever contest. That&#8217;s 
+like &#8211; Bronze medal. I decide to play the winner from the last IntroComp.
+
+Deadsville
+
+First reactions: A village called Deads? Was there a Mr. Deads who founded the 
+village? Are there ghosts here? Does this star Bruce Willis? [SPOILER ALERT] It 
+doesn&#8217;t star Mr. Willis. [ANOTHER SPOILER ALERT] Turns out Bruce was dead during 
+the entire duration of Sixth Sense.
+
+Apparently the conceit is that you&#8217;re a zombie, risen from the dead. Also, the 
+guy who raised you messed up, so you still have free will. Also, you&#8217;re hungry. 
+To see if I could die from hunger, I hit the "wait" button about fifty times. 
+Nothing happened. Apparently waiting to die from hunger as a zombie is like 
+waiting in the grave. A lot of nothing. Anyway, I decide to kill and eat the 
+kid. This secretly pleases me as a player. I try to choke him with my zombie 
+hands, but apparently I&#8217;m not an indestructible as I once thought. My arms come 
+right off.
+
+You know, the kid wants to raise a zombie army to take over his town. Maybe he 
+should have thought about this detachable limbs thing first. I mean, how am I 
+supposed to hunt down townspeople when my bones keep coming off? My entire 
+raison d&#8217;etre is gone. Why do I be? Who am I? In pitiful rage I clobber the kid 
+with his own spellbook and feast upon his brain. The game claims this is because 
+I am hungry. I know the truth. It is because I am man without purpose. The 
+zombie is merely a metaphor for the modern man. I walk through the New York 
+streets. I am in a city of millions of people and yet I feel alone.
+
+I can see why this game won, and yet I am not satisfied. Are we not postmodern 
+men? Am I not a pastiche of influences? My zombie correspondent lumbers into the 
+town and I get a "to be continued." Perhaps the rest of the game will shed light 
+upon these questions. I turn to the second place winner.
+
+Weishaupt Scholars
+
+Weishaupt is the last name of Adam Weishaupt, who supposedly founded the Order 
+of the Illuminati. The game is either a reference to good old Adam, or to the 
+Weishaupt Corporation, a wholesale distributer of gasoline. (WC recently 
+expanded to over 25,000 square feet. Congratulations WC!) The game is either 
+about studying conspiracies or studying gas companies. I secretly hope for the 
+latter.
+
+The game starts by talking about an organization with "secret meetings, a 
+shadowy power structure that stretches throughout the world, and they&#8217;ll even 
+pay your way through college to get there." I&#8217;m thinking that this is definitely 
+about an oil conglomerate. 
+
+Well, even after completing the intro, I&#8217;m still unsure. I like the multiple 
+characters you can play as, though. It&#8217;s like having MPD (which is a serious 
+condition, I mock not), or just being generally fractured. The bulk of the intro 
+involves cultists storming the building, threatening you. I wonder if they 
+intend to eat you. Perhaps they are the zombie army raised in the last game. 
+Hopefully those zombies are all wielding spellbooks, I sigh. I also liked that 
+you can&#8217;t lose. Screwing up in one chapter effects all the other chapters. In 
+the short intro the implications of that are minor, but they may have greater 
+significance in later chapters. If later chapters ever emerge. I am left 
+remembering that most IntroComp games are never finished. I take a moment of 
+silence for those that don&#8217;t make it, then load up the third place winner.
+
+The Fox, The Dragon, and The Stale Loaf of Bread
+
+Awesome. It&#8217;s like a Marie 
+
+de France fairytale. Hopes me
+
+before loading it that he 
+
+wrote the entire game in lai. 
+
+Inspired, I write the review
+
+in form. Free-verse I eschew.
+
+Then I reconsider. Do I really want to write an entire review in eight syllable 
+couplets? No. Instead I start the game, and to my surprise it actually is a 
+fairytale! Not only, but it also starts with five quatrains. The poet-geek in me 
+is very excited. It is subtitled "A Bizarre Fairytale Adventure." My heart beats 
+faster. Apparently you&#8217;re a bard. A good looking bard. With a blemish in an 
+unnameable place. I find myself in love with my protagonist. Hopeful he lives 
+through the adventure. Last time I fell in love with a protagonist was while 
+reading the Bell Jar. That didn&#8217;t end well for either of us.
+
+I&#8217;m confronted with a magic fox who begs me not to eat it. Of course I refuse 
+and eat it. Magic or not, I find the ideal option in any choice to eat whatever 
+is before me. Sadly, I have nothing to cook the carcass with, and I go 
+searching. I find a firepit, but can&#8217;t light it. I find a cliff, but cannot jump 
+off it. (The game assures me I will be able to in the full version). I realize I 
+have a tinderbox on me, and attempt to start a fire. To no avail! &#8216;>light 
+firepit&#8217; doesn&#8217;t work, nor does &#8216;>light tinderbox&#8217; nor does any combination of 
+the two. &#8216;>complain&#8217; doesn&#8217;t work either. It just keeps explaining that "That 
+dangerous act would accomplish nothing." It would accomplish eating! Is it my 
+fault that the IF parser if a machine and can&#8217;t appreciate the needs of a human? 
+Who ever gave the keys to the kingdom to a robot anyway?
+
+I go onto IFMud and ask the writer, David, exactly what the proper syntax is. He 
+isn&#8217;t sure either. A little of me dies inside. I think about writing full 
+reviews for the other entries, but my heart is sad. I decide to express that 
+sadness by describing the last four entries in haiku form.
+
+The Amazing Uncle Griswold
+
+You I want to play
+
+Adrift I don&#8217;t have installed
+
+And I am very lazy
+
+ 
+
+The Hobbit
+
+I keep groping around
+
+Don&#8217;t sue me for harassment
+
+I&#8217;m lost in darkness.
+
+ 
+
+Negotis: Book 1
+
+There is much to read.
+
+The game calls me by my name,
+
+Fear for my sanity.
+
+ 
+
+Somewhen
+
+Much has not been done
+
+It feels empty of purpose,
+
+Much like Wittgenstein.
+
+ 
+
+Postscript: David figures out that the correct syntax is "light the kindling 
+with the tinderbox." It works and I cook the magic fox. I eat it. The game is 
+now unwinnable. David claims I&#8217;m the first player to ever try to eat the fox. 
+Though I&#8217;ve apparently broken the game, I am satiated from eating the fox and 
+don&#8217;t bother restarting. I never find out who the dragon is. Life goes on.
+
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+
+REVIEWS -------------------------------------------------------------------
+
+From: Valentine Kopteltsev (uux SP@G mail.ru)
+
+NAME: The Amazing Interactive Turing Machine
+AUTHOR: D. Clemens
+EMAIL: jdc20 SP@G psu.edu
+DATE: May 2006
+PARSER: Inform
+AVAILABILITY: Freeware
+URL: http://www.math.psu.edu/clemens/IF/Turing/
+
+A Turing machine is an abstract device invented by the British mathematician 
+Alan Turing. It consists of a reading/writing head that moves over an infinite 
+tape in discrete steps (one step at a time), writing zeroes or ones on it as it 
+does so. This movement occurs in accordance with a so-called state table (which 
+effectively represents a program of sorts) containing entries that define, 
+depending on the state of the machine and on the symbol that has just been read 
+by the head, whether a zero or a one has to be written to the tape, which way 
+(left or right) the head has to move next, and to which state the machine should 
+change.
+
+I'm not sure the previous paragraph doesn't automatically put my review in the 
+SPAG Specifics section, because, if we assess The Amazing Interactive Turing 
+Machine basing on canons traditionally applied to IF-games, the "find out how 
+this weird contraption works" type of puzzle is the only thing it can offer the 
+player. Seriously, most players probably wouldn't know what a Turing machine 
+actually is, because it's not a concept taught in every school (well, not even 
+in every college, at least in Russia). On the other hand, I think 90 percent of 
+such "uninitiates" would just resort to the Internet. The only reason why I 
+didn't do so myself is, a couple of months ago I accidentally stumbled upon a 
+popular scientific magazine that contained an article dealing with the subject.
+
+Thus, as you might have already guessed, the reviewed work is nothing more and 
+nothing less than a fully functional emulation of a Turing machine. As such, it 
+probably represents a useful tool for people active in adjacent areas of 
+science, which can spare them lots of routine paperwork. However, a few 
+enhancements could help making this tool even more powerful: first of all, a 
+point-and-click interface for setting up the state table (although it probably 
+would be a pain to implement in Inform) -- the current editing procedure is 
+pretty tedious. The second improvement would be a command allowing to skip the 
+entire computing session of the machine, hiding all intermediate messages, and 
+only displaying the results of the computation. Currently, the game allows you 
+to skip up to 59 turns; while this really is a blessing, it's not enough for 
+more complicated tasks (that can take quite an extended number of steps on a 
+Turing machine), and the monotonous "The machine churns along" messages become 
+more and more annoying with the time.
+
+As almost any computer, the Turing machine has something fascinating about it, 
+so that many people probably will be tempted to fiddle with it. While I'm a 
+dilettante in this field, I couldn't help programming a few semi-trivial 
+problems on it. Thus, this work clearly has a certain entertainment value, at 
+least for a specific category of people; still, it hardly can be considered
+interactive fiction by any means.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Harris (M.Harris SP@G spi-bpo.com)
+
+NAME: Deadsville (Introcomp 2005)
+AUTHOR: William McDuff
+EMAIL: wmcduff SP@G mac.com
+DATE: July 24, 2005
+PARSER: Inform 6
+SUPPORTS: Z-code interpreters
+AVAILABILITY:  Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/Deadsville.zip
+VERSION: Release 3
+
+A short, two-location game, Deadsville is a fun twist on a George Romero 
+premise.  Despite a limited palette of one NPC, two locations and a small number 
+of objects it&#8217;s rich and well written, proving that an enjoyable game does not 
+need complexity.   
+
+Defeating the NPC and winning the game is fairly straightforward.  It can be 
+done in less than twenty moves and took me about 15 minutes the first time.  
+However, that&#8217;s not really the point.  After the first play I spent over an hour 
+repeatedly replaying the game to find all iterations.  A well-implemented hints 
+menu contains a number of amusing suggestions including a command that allows 
+the player to explore all of the losing options without having to restart each 
+time.  Even the &#8220;default&#8221; responses are entertaining and well thought out and 
+there were several times I laughed out loud when I got a response that I wasn&#8217;t 
+expecting.
+
+As for technical details, the game is bug free and well implemented, with no 
+&#8220;guess the verb&#8221; problems.  No &#8220;guess the noun&#8221; problems, either - the game 
+accepts a surprisingly large list of nouns to refer to the NPC and objects.  I 
+only found one flaw - after defeating the NPC character, re-examining an object 
+gives the pre-defeat response &#8211; and my only objection is that a single sentence 
+within the response refers obliquely to the NPC as though still undefeated and 
+in no way affects the playability.   I can only wish that all IF games were this 
+thoroughly debugged.
+
+Deadsville is &#8220;horror&#8221; in much the same way the movie &#8220;Shaun of the Dead&#8221; is 
+horror &#8211; no lurid descriptions of gore to off-put the weak of stomach.  You 
+don&#8217;t have to be a fan of the genre to appreciate Deadsville, but if you&#8217;re the 
+sort of person who laughs when the ditzy teenager gets her gruesome comeuppance 
+you&#8217;ll find it especially entertaining. 
+
+I look forward to the full game.  The atmosphere is dead on and the characters 
+are as fleshed out as they can be (every possible pun intended).  Some tougher 
+puzzles might be enjoyable.  In any case, if the author takes as much time and 
+trouble with the full version as with the intro, Deadsville could well become a 
+classic.
+
+On a scale of 1 to 10 I give Deadsville a 3 for difficulty and 8 overall.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul O'Brian (obrian SP@G colorado.edu)
+
+TITLE: Finding Martin
+AUTHOR: Gayla K. Wennstrom
+EMAIL: gayla SP@G qrivy.net
+DATE: 2005
+PARSER: TADS
+SUPPORTS: TADS interpreters
+AVAILABILITY: freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/tads/fm.gam (Archive)
+     http://www.qrivy.net/~gayla/ (game home page) 
+VERSION: 1.12
+
+In an era of bite-sized IF, Finding Martin is a 12-course meal. Actually, it's 
+more like one of those progressive dinners, where you go from one house to the 
+next, a different course at each house, for a total of 12 courses in the 
+evening. Except it's more like going to one of those every night for two weeks. 
+Seriously, this game is HUGE. This is the kind of game where you might find an 
+item with ten different modes, many of which can be used to adjust the item to 
+one of its 720 different settings (and some of which do other things entirely),
+settings which are split into twelve different themed sections, many of which 
+give hints, some of which give red herrings, and some of which perform game 
+functions. I am not exaggerating. And that's just one item out of dozens and 
+dozens you'll find in this game way way way before you get anywhere near finding 
+Martin himself.
+
+If you love yourself a big, juicy puzzlefest, Finding Martin is cause for 
+celebration. It's several times larger and more complex than anything Infocom 
+ever attempted, and it's generally quite well-implemented. I encountered a 
+number of glitches in my journey through the game, but they were all minor -- 
+typos, missing synonyms, and underimplemented parsing mostly. There are a few 
+logic errors here and there, but nothing game-crashing, and in fact very little 
+that even caused me any trouble with a puzzle. Moreover, these problem areas are 
+a very small percentage of the game itself, and this is a game that implements 
+some highly complex behavior. A few errors here and there are quite forgivable 
+in a game this ambitious in scope.
+
+As for the puzzles themselves, the news is again mostly good. Most of the 
+challenges are logical, and some are quite clever indeed. In particular, there's 
+a puzzle (or maybe it would be more accurate to call it a suite of puzzles) 
+toward the end of the game that is astoundingly intricate and deeply satisfying, 
+the kind of a puzzle that would make up the entirety of another game. It's a 
+time-travel scenario that takes the groundwork laid by Sorcerer and expands it 
+by an order of magnitude, asking you to consider the relations between a number 
+of different time-slices as well as to coordinate the actions of multiple past 
+selves with the actions of your current self in order to bypass certain 
+barriers. However, well before you reach that puzzle you'll have made your way 
+through a large number of obstacles that should scratch any inveterate puzzler's 
+itch.
+
+Not only that, the puzzles frequently build on each other, and most of the goals 
+require several components to achieve. Finding Martin's world can feel 
+astonishingly layered and convoluted. I frequently found that the discovery of a 
+new item or command would add new dimensions to the pieces of the game I'd 
+already uncovered, and that their interactions would open up new avenues for 
+exploration. Of course, the flip side to this is that such a discovery would 
+often compel me to explore the game's giant world yet again, trying the new key 
+to see if it would unlock any heretofore unseen doors. At time, the gameworld 
+feels like an obsessive-compulsive's paradise, but at least most of the 
+interactions seem logical once they've been found.
+
+Unfortunately, not all the puzzles manage to meet the same high standards. There 
+are a number of read-the-author's-mind stumpers spread throughout the game. Some 
+of these just require induction stretched absurdly far, but for several others I 
+still have no idea how I was supposed to come up with the solution. There's 
+another category, too: puzzles whose solution required some kind of cultural 
+referent which I lacked, a la Zork II's baseball puzzle. Finding Martin's 
+pedigree consists mostly of geek lore like Monty Python and Douglas Adams, and
+that stuff I've got covered, but a couple of puzzles require knowledge of Asian 
+customs that I only learned from the walkthrough.
+
+On the flip side of read-the-author's-mind are "puzzles" whose solution is 
+entirely arbitrary but so heavily clued that the game pretty much just tells you 
+what it is. Imagine a dark room with a description along these lines: "It's 
+impossible to see anything in this room -- this must be what a cinnamon roll 
+feels like when it's in the oven!" And lo and behold, you just happen to find a 
+cinnamon roll later in the game, so when you bring it into the dark room and eat 
+it, the cinnamon-oriented olfactory sensors in the walls detect it and turn on 
+the lights, just as they've been programmed to do by the house's exceedingly 
+eccentric and patient owner. That example isn't from the game, but there are 
+several puzzles in there that are cut from the same cloth.
+
+The substandard puzzles are a minority, and they certainly aren't enough to ruin 
+the game, but my advice is: don't be afraid to bust out the walkthrough. Yes, 
+sometimes you may find that a perfectly logical solution was staring you in the 
+face, but other times you'll be relieved to just take the rather farfetched 
+solution and move on with your life. Happily, the author is kind enough to 
+provide a walkthrough on her web page that is broken up into 5-point clusters so 
+as not to give away too much at once. However, if I may offer one more piece of 
+advice: download the full walkthrough from that page and tuck it away somewhere 
+on your hard drive. Otherwise, you may find yourself, as I did, stuck two-thirds
+of the way through the game and panicking because the author's site has gone 
+down. Luckily for me, the page came back up the next day and I found some cached 
+bits on Yahoo in the meantime, but I could have saved a good deal of time and 
+stress if I'd just had the full walkthrough to fall back on. 
+
+Finally, take heed of the author's advice in the intro text: save your game a 
+LOT. There were quite a number of times I found myself returning to an earlier 
+savegame because I was trapped without a necessary item, or I wanted to undo 
+something I'd done a bit improperly a few hundred moves earlier. Actually, that 
+brings me to one of my chief gripes about Finding Martin: it sets a few 
+arbitrary limits, ostensibly in the name of realism but functionally just to 
+irritate the player. Chief among these is an inventory limit. Let's face it: 
+this is not a game that holds realism particularly dear. Many of its puzzles 
+consist of caprice and whimsy, and its entire plot is metaphysical to say the 
+least. However, for some reason it decided that the player should only be able
+to carry a limited number of objects, and it failed to provide any kind of 
+bottomless sack-type object to circumvent this limit. Not only that, there's a 
+puzzle component that steals items when they're dropped on the ground. Even more 
+confoundingly, commands like PUT ALL ON TABLE are met with the response, "One 
+thing at a time, please." And of course, there are many many journeys to pocket 
+worlds whose obstacles require that the player has brought a particular item. 
+Frequent were the times I cursed at this game for the way it forced me into 
+numbingly dull inventory management tasks when I wanted to be having fun 
+instead. Also, there are several instances of the game being pointlessly obtuse, 
+along these lines:
+
+   >READ BIG BOOK
+   First you'd need to open it.
+
+Come on. This is 2006 -- we know by now that READ implies OPEN. Such 
+obstructionist world-modeling benefits nobody. 
+
+I'm not sure if responses like this one and the response to PUT ALL are TADS 
+default behavior. I do know that I sometimes wished this game had been written 
+in Inform, so that I could get certain pieces of the Inform default 
+functionality. Besides the lack of a sack_object, I was jonesing hard for an 
+OBJECTS verb that would let me see all the items in the game I'd found up to 
+that point. Similarly, a FULLSCORE command that told me all the puzzles I'd 
+solved so far would have been most welcome, especially given how many times I 
+had to restore back to an earlier saved game. Finally, having just played 
+Bronze, I really missed conveniences like GO TO that allow me to traverse the 
+game world without rattling off memorized directions to the parser. 
+
+Okay, I've been complaining for a while, which makes it sound like I didn't 
+enjoy the game. That's not true -- overall I had plenty of fun. It's just a 
+similar feeling to what I had when playing Once And Future, another enormous 
+old-school puzzlefest. Like OAF, Finding Martin provides lots of opportunities 
+to feel that satisfying *click* as logical components snap together, but forces 
+a little too much tedium on the player after that click has happened. It's the 
+figuring-out that's the fun part of a puzzle, not the follow-through of putting 
+twenty pieces in just the right place once you know where they're supposed to 
+go. Several of this game's puzzles would have been much more fun if they'd 
+provided some way of automating that follow-through once the player has 
+demonstrated understanding of the basic concept. 
+
+Enough about the puzzles anyway. What about the story? Well, actually, the story 
+is pretty much MIA for the first third or so of the game. We begin with a 
+reasonably compelling premise: your brilliant but peculiar friend Martin has 
+disappeared, and his family has asked you to explore his house in hopes of 
+finding him. Why you and not, say, the police? Well, it seems that you may just 
+be close enough to Martin's highly bizarre mindset to understand how to find him 
+when the police wouldn't even be able to get in the door. Strong echoes of 
+Hollywood Hijinx abound as you poke through rooms laden with fascinating devices 
+and hidden exits, but there's not much more story to be had for a while. 
+Finally, the game begins doling out plot in awkward lumps, but about two-thirds 
+of the way through, these lumps smooth out and the story begins to tie together 
+as more and more interconnections between Martin's family and friends, as well 
+as his past, present, and future, reveal themselves. By the time I was rolling 
+toward the endgame, I had felt genuinely moved several times. In fact, a couple 
+of times Finding Martin hits a real IF sweet spot, where the solution to a 
+puzzle not only advances the story but carries strong emotional content about 
+the PC's role in the other characters' lives. I recall one moment in particular 
+that gave me goosebumps, as I figured out how something I had done in a past 
+time-travel scenario had affected the future, and how someone in that past had 
+sent a message forward in time to me.
+
+Remember how I mentioned the game's geeky pedigree? There are a number of 
+references woven throughout the story that are pulled straight from the geek 
+handbook: Star Trek meets Hitchhiker's meets Tolkien. Some of these made me 
+smile, and some made me squirm. At times I felt like saying, "Yes, yes, I get 
+it. You like Monty Python." Also, the writing around these references can 
+sometimes feel a bit flat and ingratiating, as when the PC encounters a used 
+paperback:
+
+   >x novel
+   It's a book by Douglas Adams, entitled "So Long and Thanks for All
+   the Fish". Apparently this is the fourth book in the "Hitchhiker's
+   Guide to the Galaxy" trilogy. It occurs to you that publishing the
+   fourth book of a trilogy must be the toungue-in-cheek behavior of
+   someone with a fantastic imagination and an audacious taste for the
+   bizarre.
+
+Ho ho ho. Nothing like belaboring that "fourth book in the trilogy" joke. I get 
+it -- you like Douglas Adams. Also, "tongue".
+
+Aside from that, though, the writing worked well. Most of the time it was 
+transparent, but there were some clever twists and turns throughout, as well as 
+a few good jokes. Having finished this game at last, and finally found Martin, I 
+have to express my admiration. It must have been an unbelievable amount of work 
+to put together a game of this size and scope, and for the most part it's done 
+really well. If you're hungry for puzzles, Finding Martin should keep you fed 
+for several weeks. Even if you're not a puzzler, grab a walkthrough and explore 
+this game -- there are pleasures here for many tastes.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Gemma Bristow (gemma SP@G helical-library.net)
+
+TITLE: Ghost Train
+AUTHOR: Paul T. Johnson
+EMAIL: paul SP@G wolfman.co.uk
+DATE: 2003
+PARSER: Inform 6
+SUPPORTS: Z-code (Inform .Z8) interpreters
+AVAILABILITY: Freeware; IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/ghost.z8
+VERSION: Release 6
+
+There's inherent drama in trains, hence their frequent use as a setting for 
+thrillers. Trains move to an insistent rhythm which reminds of the passing of 
+time. They go speeding through dark tunnels and over rickety bridges. They don't 
+stop at the protagonist's convenience. And then there's the romance of the 
+railway in the pre-WW2 era: the trail of steam, the velvet seats and polished 
+fittings of the carriages. This is the world of Ghost Train, a flawed but 
+interesting horror tale that exploits all of these elements.
+
+It's Christmas Eve, 1935. The PC is a young man travelling by train through 
+southern England, accompanied by a female friend, to spend the holiday with his 
+family. The journey is interrupted by a terrible accident that derails the 
+train. The PC, seemingly the only survivor, is left to stagger along the track 
+looking for aid. However, he is soon found by a story involving a mysterious 
+signalman, a hidden station and an ancient curse, and it becomes apparent that 
+his friend has met with a fate stranger than death.
+
+The first half of the gameplay flows smoothly. The player is guided through the 
+actions necessary to advance the plot without feeling figuratively (as well as 
+literally) on rails. Puzzles are fairly straightforward, and one of the game's 
+many atmospheric objects doubles as a hint system during a particularly risky 
+scene. In the second half, things unravel a bit. One scene can trap the PC in a 
+location, unable to move or do anything unless they ask an NPC about a specific 
+topic; hard to intuit when the NPC delivers a stock response to most other 
+subjects. Then there are a couple of puzzles in the endgame that had me 
+scrambling for a walkthrough. One involved manipulating a piece of machinery 
+that, as it turned out, couldn't be manipulated in the manner I tried because it 
+was already at its physical limit. Unfortunately, the resulting message from the 
+game didn't indicate this physical property of the mechanism. Instead, it was a 
+non-committal refusal which suggested, misleadingly, that the mechanism wasn't 
+the solution to the problem. Better playtesting might have caught these trouble 
+spots.
+
+The game's writing would also have benefited from a good beta, since it's marred 
+by punctuation errors and some clunky sentence structure, as well as a sometimes 
+unconvincing tone when narrating action. The opening scene is unfortunately one 
+of the more poorly written. However, the prose overall is suitably atmospheric, 
+and it's in atmosphere that the game succeeds most strongly. The events that 
+first introduce the supernatural, judiciously placed within the storyline, are 
+genuinely eerie. The author makes good use of scenery objects and colours. One 
+sequence in particular, in which the PC walks through a series of railway 
+carriages equipped with graduated, symbolic decor, has a strong visual charge. 
+The non-visual senses are also catered for, with frequent mention of ambient 
+sounds heard by the PC as well as the pervasive cold of the December night. A 
+more subtle effect is the way in which the game employs one potent aspect of the 
+train as an image: that of a journey whose final destination is set and whose 
+course cannot be altered. Where the atmosphere falters, it is due to the game 
+attempting something more graphic. A literal figure of doom that appears in 
+later portions of the game is less dramatically successful than the intangible 
+menace of earlier parts.
+
+Ghost Train is worth a ride for players who are in the mood to be unsettled. 
+Some of its images do linger in the mind. If the opening and closing segments 
+are the weakest parts of the game, at least it can claim with some relevance 
+that the adventure is in the journey.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul O'Brian (obrian SP@G colorado.edu)
+
+TITLE: Glass
+AUTHOR: Emily Short
+EMAIL: emshort SP@G mindspring.com
+DATE: April 30, 2006
+PARSER: Inform 7
+SUPPORTS: Zcode interpreters
+AVAILABILITY: freeware; Inform 7 web page
+URL: http://inform-fiction.org/I7Downloads/Examples/glass/
+VERSION: Release 1
+
+I've barely begun to explore the capabilities of Inform 7 (I7), partly because 
+its appearance has rekindled my interest in actually *playing* IF. In that vein, 
+I continue to explore the games that were released with I7 as "Worked Examples". 
+Having made my way through Bronze, Emily Short's adaptation of Beauty And The 
+Beast, I came next to Glass, in which she similarly adapts Cinderella. Actually, 
+perhaps "similarly" isn't the right word here -- where Bronze was all about 
+landscape and puzzles, Glass resides on the other side of the spectrum, focusing
+entirely on character and conversation. There are other differences, too. 
+Although both works are meant primarily as example I7 code, Bronze feels like a 
+full-fledged game, while Glass plays much more like a demo, or perhaps an 
+experimental comp entry. That isn't to say that there aren't interesting ideas 
+embedded in Glass -- there are, and I plan to discuss them -- but the experience 
+of playing it feels altogether more slight than solving Bronze. Not only is it 
+simply a smaller game, it also demands less interaction from the player;
+"Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z.Z" is a valid walkthrough, though perhaps not to the 
+best ending. 
+
+Those endings are important. Like some other short replay-cycle games, Glass 
+layers on story elements by making less-than-optimal endings the most easily 
+reachable. There aren't a terribly large number of endings (another factor 
+making the game feel a bit thin), but it's unlikely that most players will reach 
+the best ending first. Along the way, they'll learn more about the motivations 
+of each character, and in fact more about some hidden details of the game's main 
+scene. This information in turn adds meaning to the rest of the paths to be 
+found in the game. It's a variation on the "accretive PC" model of knowledge I 
+discussed in my review of Lock & Key on IF-Review. The difference is that the 
+news gained through these sub-optimal endings doesn't so much help the player
+better direct the PC or better solve the game, but it does lend additional drama 
+to the other branches of the story. I suppose this game gives us accretive NPCs 
+more than an accretive PC.
+
+However, there are some tricks at work with PC knowledge, too. The player/PC 
+knowledge divide is one of the thornier fundamental problems of IF -- a player 
+new to the game will almost inevitably know less about the character and 
+game-world than the PC does, and both the game and the player often start out by 
+scrambling to narrow the gap. There are some workarounds for this, amnesia being 
+the more traditional and popular, while accretive PCs are a more recent 
+innovation. Glass has found another: base your game on a story with which the 
+vast majority of your audience is already familiar. Bronze was an imaginative 
+variation on Beauty and The Beast, but it neither shed a great deal of light on 
+the original tale nor did it require much information about that tale from the 
+player. Our familiarity with the base story helps us get up to speed on who the 
+PC is, but it isn't otherwise exploited. However, in Glass, the player *must* 
+bring to bear knowledge from outside the game in order to reach the best ending. 
+For anyone familiar with most any version the fairy tale, this gambit should 
+work well, though perhaps not right away. Still, it's an ingenious way of 
+bridging the information gap between player and PC -- I'm surprised we haven't 
+seen more of this strategy before. I suppose there are only a limited number of 
+stories with which authors can assume widespread audience familiarity, and an 
+even smaller number of those that aren't still under copyright.
+
+With this bridge in place, then, Glass is free to disconcert us a bit as well. 
+For one thing, the player character has some rather surprising qualities (and 
+that's all I'll say...), which are left for players to discover rather than 
+being announced upfront. Not only that, the game's take on the Cinderella tale 
+is less than traditional. In keeping with many modern treatments of fairy tales, 
+its approach to the story's villains is a little more sympathetic, and its 
+portrayal of the heroes is a little more ambivalent. I would have expected Emily 
+Short to bring some subversive ideas to any fairy tale she touched, and she 
+doesn't disappoint here. 
+
+One more note: in the article I wrote for the long-awaited IF Theory book, I 
+mentioned that it was hard for me to imagine how the basic component of 
+landscape could be extracted from interactive fiction, since as soon as the 
+first room description appears, the game introduces a concept of geographical 
+location. Well, Glass is the game that breaks that model -- it has no room 
+descriptions whatsoever. That doesn't mean it's without a landscape, though. 
+It's just that instead of presenting a landscape of Place, Glass instead gives 
+us a landscape of Concept. The NPCs traverse a conversational terrain with 
+particular goals in mind, and at every prompt the PC can try to steer that 
+travel to influence its destination. It's a compact territory, but well worth 
+exploring. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Michael Martin (mcmartin SP@G gmail.com)
+
+TITLE: OMNIQuest
+AUTHOR: Chris Barden and Chris Ethridge
+EMAIL: Unknown
+DATE: March 26, 2006 
+PARSER: Inform 6
+SUPPORTS: Z-Code interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/omniquest.z5
+VERSION: Release 2
+
+This is a port of a 1988 game written in Commodore BASIC, and it shows most of 
+the characteristics of the old school as a result: no real intro, puzzles that 
+need to be solved because they're there, and a sizable, if inconsistent and 
+sparsely implemented map.  This was also a reimplementation, not a direct port, 
+so the parser is full Inform standard.  As such, it really needs to be evaluated 
+at two levels at once; as an old game, and as an Inform game.
+
+As a game, taken on its own terms, it's not that bad.  The map is well-designed, 
+though there's some illogic (most notably a thoroughly modern intrusion into a 
+supposedly ancient cave in an abandoned ruin). Its cruelty rating is "Nasty", 
+and is actually the first game I've seen that operated at that level instead of 
+one of the extremes. Despite this, I actually only ran into a single situation 
+where I wound up actually locking myself out of victory without being able to
+UNDO my way out of mistakes.  Not only is it obvious you've done something 
+irrevocable in OMNIQuest, it's also generally obvious that it was a mistake.
+
+One puzzle that I saw has an alternate solution.  However, I wouldn't have 
+worked the solution out had I not hit the source code (or looked at the object 
+tree, given that debugging verbs were not disabled in the binary release).
+
+As an Inform port, it's sort of interesting in that it is the most deeply 
+implemented sparse game I've seen.  That is to say, almost nothing is actually 
+interactive, and the descriptions that actually are implemented are perfunctory 
+at best.  Nevertheless, every first-level noun is implemented.  It's just that 
+it's implemented as "You see nothing special about the [noun]."  Flipping 
+through the source code, I found that each of these props was given its own
+object, as well, so some effort put into descriptions would put this at the 
+complexity and depth one would usually expect of a competent comp-sized puzzle 
+game.
+
+There's also a lot of excitement and circle-of-personal-friends in-jokes in it 
+which I am guessing were ported directly from the 1988 CBM BASIC version.  These 
+feel a bit jarring when compared to the rest of the IF-Archive, and would 
+probably do well with being removed.
+
+In summary: I rolled my eyes a few times while I was playing it, but I did play 
+it through and enjoyed it.  If you can deal with the excesses and the omissions 
+of late-80s hobby games, this is worth playing.  A hypothetical Release 3 that 
+removes the excited-high-schooler bits and actually expands the scenery to 
+include descriptions (and possibly some additional interactions) would be 
+recommendable with no reservations whatsoever.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Mike Harris (M.Harris SP@G spi-bpo.com)
+
+TITLE: Swineback Ridge
+AUTHOR: Eric Eve
+EMAIL: eric.eve SP@G hmc.ox.ac.uk
+DATE: May 8, 2006
+PARSER: Inform 6
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/zcode/Swineback.z5
+VERSION: Release 1
+
+Eric Eve described Swineback Ridge as &#8220;a fairly easy, slightly tongue-in-cheek 
+game that should provide brief amusement for an occasion when you're looking for 
+an IF-Snack rather than an IF-Meal.&#8221;  It&#8217;s a well put together little game, no 
+more than a diversion really, with no obvious or glaring bugs and fairly well 
+written text.  The puzzles are straightforward and not terribly complicated; 
+objects and functions are well implemented and despite its short length and 
+relatively small number of locations it&#8217;s clear that it was no throwaway.
+
+The PC is a general with a sword and worn battle armor, who must defeat an enemy 
+encampment across the river, and that&#8217;s pretty much all you need to know about a 
+slightly hackneyed backstory.  The writing is well done which saves the game 
+from clich&#233; &#8211; &#8220;As you stoop over him, you recognize General Chorza, your old 
+friend and comrade, who was meant to be commanding the army here until your 
+arrival.&#8221;  
+
+That said, such writing and the game&#8217;s subtitle - &#8220;A Desperate Battle&#8221; - is 
+somewhat over the top for such a short game which somehow manages not to convey 
+any desperation whatsoever.  To be fair, this may be the &#8220;slightly tongue in 
+cheek&#8221; part of the author&#8217;s description.  If it&#8217;s meant to be taken at face 
+value, however, extremely limited opportunity to interact with NPCs doubtless 
+contributes to this lack of a sense of urgency, as does a lack of progression or 
+&#8220;time passing&#8221; based on number of moves, which I half expected based on the 
+premise and subtitle.  Nothing changes in the enemy camp except in reaction to 
+the PCs actions.
+
+I can only speculate at the author&#8217;s intent but the game as it stands gives the 
+impression &#8211; in its writing at least - that it&#8217;s a part of a much larger game 
+yet to be fleshed out.   The simplicity of the puzzles is slightly disappointing 
+and somehow unsatisfying given such florid verbiage.
+
+All in all, Swineback Ridge isn&#8217;t a bad way to kill an hour or so, but 
+ultimately is no more than a simple object-puzzle game with a needlessly complex 
+backstory.  On a scale of 1 to 10 I rate it a 3 in difficulty and a 6 overall.
+
+From: Emily Short (emshort SP@G mindspring.com)
+
+Swineback Ridge is described by its author as snack-sized and light-hearted, and 
+both of those are accurate. The premise isn't that funny -- you've been sent to 
+lead your country's army in a last defense against the invading enemy -- but 
+when you consider that this enemy worships the demon-god Malodor, it's hard to 
+take the whole situation seriously.
+
+The puzzles are of moderate difficulty, and are quite well-designed: objects are 
+reused in inventive ways; physical relationships are described clearly and make 
+sense; there's plentiful feedback on partial solutions; all of the props have 
+some logical in-game reason to be there. There were perhaps one or two points 
+when it wasn't immediately obvious to me what I should try next, and the game is 
+perhaps a little less perfect at articulating your goal at a couple of points 
+than at prompting you through the puzzles once you've identified them -- but 
+then again, I was never stuck for long, so I can't complain too much. Though 
+I've seen the game described as Fantasy, there's nothing all that fantastical 
+about what you have to do; if your enemies worship a strange deity, well, 
+there's no clear evidence that he actually exists. The player's activities are 
+non-magical; the puzzles can be solved through the application of real- 
+world principles.
+
+There are admittedly a few points where, in order to make sure the player 
+doesn't lock himself out of victory, Swineback refuses to allow an action purely 
+on the grounds that the action isn't something you want to do at the moment. 
+This makes the game easier, but diminishes the sense of immersion just a bit.
+
+This is a minor and perhaps unavoidable blemish on a charming piece, though. 
+Swineback Ridge may not be terribly ambitious, but it has a focused story and 
+tightly designed puzzles; it is also highly polished, with an adaptive hint menu 
+and plenty of responses to unlikely actions. If you're looking for a puzzle game 
+that you can play in an hour (or a little less), you'll probably find Swineback  
+Ridge quite satisfying.
+
+From: Valentine Kopteltsev (uux SP@G mail.ru)
+
+(Disclaimer: in this review, I express a few rather daring speculations about 
+the development process for Swineback Ridge, as well as about the motives behind 
+its creation. It goes without saying these speculations are based entirely on my 
+own opinion, and all I do describe is nothing other than my personal thoughts 
+and impressions of the game; I also would like to apologize to Mr. Eve if they 
+have nothing to do with reality.)
+
+By pure coincidence (and it really *was* coincidence -- somehow, I managed to
+remain unaware of Swineback Ridge author's name until I looked at the credits
+after starting the game) I reviewed another game by Eric Eve, All Hope Abandon, 
+not too long ago. This fact undoubtedly left its trace on my impression of 
+Swineback Ridge: it was as if Rolls Royce produced a subcompact. And by 
+subcompact, I don't even mean a puppet doomed to become a cult object (like the 
+new Mini), but a genuine mass consumption product -- pretty much the way 
+Japanese cars used to be in the 1970/80s.
+
+Most of the things a reviewer could say about Swineback Ridge are covered in the 
+game's own ABOUT section. From there, we can learn that this work was intended 
+to a) be an exercise in Inform for its author, and b) provide a few (by my 
+estimation, 30 to 60) minutes' amusement. It seems to succeed in both roles: I'm 
+quite sure IF-authors having the skill and patience to polish their first 
+attempt in an IF development system new to them to such an extent are in vast 
+minority, and the game's entertaining value, albeit relatively modest, can't be 
+denied, either.
+
+However, speaking objectively, the game's adequacy with the aims and goals set 
+by its author doesn't save it from being totally unremarkable. Sure, it'd help 
+you to while away an hour or so -- but after a few weeks, you wouldn't remember 
+it.
+
+At this point, the reader could ask a completely justified question: so, why did 
+I bother writing this review at all? Well, because Swineback Ridge is the 
+perfect mass product, or very close to being it. To explain what I mean, let me 
+refer to that example with Japanese cars again: they were supposed to transport 
+a handful of people together with some luggage from point A to point B -- and 
+they'd never let down their owners in doing so. Of course, things like the 
+satisfaction of the drivers' ambitions, as well as driving fun were out of 
+question -- but they weren't included in the contract, so to speak. 
+
+And that's the case with Swineback Ridge: its author seems to have formulated 
+his goals, and then has done everything necessary to reach them -- but not a jot 
+more than that. This approach threads the whole game: for instance, there hardly 
+is an object in the room descriptions you couldn't examine -- but none of the 
+responses are particularly catchy; the puzzles are logical and make perfect 
+sense -- but not a single one would evoke an "Aha!" feeling after being 
+solved...
+
+In its current state, Swineback Ridge deserves a place in an IF textbook as a
+pearl of pragmatic game design. It embodies all aspects needed for a work to be 
+of a high technical standard -- methodical pre-planning, consequent 
+implementation, and thorough beta-testing -- but nothing beyond. Things that
+hasn't been invested into Swineback Ridge at all, or only injected in 
+homoeopathic doses, are of the kind one can't learn from a textbook, anyway:
+fantasy, spirit, and ambitions (in a good sense). But hey -- they weren't in the 
+contract.
+
+SNATS (Score Not Affecting The Scoreboard):
+
+PLOT: Straightforward (1.1)
+ATMOSPHERE: The absolutely necessary minimum (1.0)
+WRITING: Even and solid (1.2)
+GAMEPLAY: Adequate, but nothing striking (1.2)
+BONUSES: Thorough implementation (1.2)
+TOTAL: 5.7
+CHARACTERS: The closest approximation were two corpses (-)
+PUZZLES: Well-clued and logical (1.2)
+DIFFICULTY: (Intentionally) pretty easy (3 out of 10)
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Emily Short (emshort SP@G mindspring.com)
+
+TITLE: There's a Snake in the Bathtub
+AUTHOR: Edward Griffiths
+EMAIL: ?
+DATE: 2006
+PARSER: Inform 6
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/bathtub.z5
+VERSION: Release 1
+
+I came across this game largely by chance: it was announced in the usual "recent 
+additions to the archive" post, but I don't think it was mentioned on 
+rec.games.int-fiction or otherwise promoted to the community. So it may not have 
+gotten much notice.
+
+Mild spoilers about the structure follow; if you want to avoid all contact, stop 
+reading now, though I think I would have been glad to know these things, myself.
+
+The premise of the game is exactly as given in the title: you get home from a 
+hot sticky day, ready for a nice long soak, only to find that the tub is 
+occupied. From there, everything just gets increasingly surreal and out of hand, 
+eventually requiring visits to alternative dimensions and so on. "Slice of life" 
+this is not.
+
+There are a number of implementation details that add up to make things a bit 
+frustrating. There's very little here by way of implicit action handling; 
+everything has to be explicitly opened and closed for use, for instance. 
+Disambiguation is sometimes inelegant. There is some mild verb guessing, too. 
+You'll want to read the list of understood verbs (type HELP at the outset of the 
+game), but even then, there is one important command where ATTACH FOO TO BAR 
+works, but ATTACH BAR TO FOO gives a generic failure message, and it's not clear 
+what's gone wrong. Moreover, there are inventory limits, and they do get in the 
+way. A hint system is provided, but it doesn't cover nearly everything one might 
+want hints about, and in most cases it only told me the things about the puzzle 
+that I'd already worked out myself: my notes say "More of a taunt system than a 
+hint system." Well, I was feeling cranky.
+
+There are also lots of low-level immersion-breakers (or possibly bugs): for 
+instance, you can fill a bathtub with water, but this doesn't seem to affect the 
+other contents of the bathtub in some of the ways you might expect. Sometimes 
+it's possible to interact with creatures or objects even though they are 
+technically untouchable at the moment. An action that broke an inventory item 
+produced the change only some of the time, and I wasn't able to figure out why  
+(though this turned out not to be game-critical). Likewise, many sensible 
+actions aren't dealt with; you're not allowed to throw things at a certain 
+object, even though that would be my first approach if I were in the same 
+situation.
+
+Worst of all, there is an absolutely fiendish 100-move time limit on the whole 
+game. I replayed and replayed, trying to optimize, but without any luck. I was 
+only able to finish the game when -- quite belatedly -- I realized there was 
+actually a way to disable the limit entirely. It might not hurt to have further 
+hinting in the game about that possibility.
+
+For all that, "There's a Snake in the Bathtub" is not without charm. Much of the 
+game revolves around defeating various malevolent figures, and it is generally 
+quite rewarding when you finally succeed; in this respect the snake reminded me 
+a little of the lobster in "Gourmet". Many of the descriptions and events are 
+fairly entertaining, and there's pleasure in the sheer absurdity of many of the 
+solutions. I have less to say about this than I do about the game's flaws, 
+because enumerating all the funny moments would ruin them -- but I did find 
+enough here to keep me playing despite the detractions listed.
+
+In the end, then, this is an exuberant, slightly old-fashioned puzzle-fest, 
+probably taking several hours to play without outside help. Some of those hours 
+will be spent retracing your steps. Players in the mood for that kind of 
+experience will enjoy this piece. Those looking for a strong story or a deeply 
+implemented setting would be best advised to look elsewhere. "There's a Snake in 
+the Bathtub" is not for the impatient -- though if you find yourself replaying  
+endlessly to make that 100-move deadline, do consider ways to make the deadline 
+go away.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Jimmy Maher (maher SP@G grandecom.net)
+
+TITLE: Voices of Spoon River
+AUTHOR: Creative Learning Environments Lab at Utah State University
+EMAIL: brett.shelton SP@G usu.edu
+DATE: June, 2006
+PARSER: Inform 6
+SUPPORTS: Zcode interpreters
+AVAILABILITY: Freeware
+URL: http://cle.usu.edu/VOSR_r1.22a.zip
+VERSION: Release 1
+
+Voices of Spoon River was developed by a group of graduate students studying 
+instructional game theory at Utah State University.  Its purpose is to 
+illuminate a minor classic of American literature, Edgar Lee Masters' Spoon 
+River Anthology.  Before discussing the IF work, perhaps we should talk briefly 
+about the book on which it is based.
+
+First published in 1915, Spoon River Anthology is a collection of over 200 short 
+poems.  Each is written in the form of a first-person epitaph, describing a 
+citizen of the small Midwestern town of Spoon River.  The stories these citizens 
+tell about their lives are not, with only the occasional exception, uplifting, 
+as Masters digs deep beneath the surface of small-town middle American life 
+to reveal the quiet desperation in which even the upstanding and successful 
+live.  Although each can stand alone, the poems form a web of interrelationships 
+to be puzzled out by the reader.  Thus we see hopelessly dysfunctional marriages 
+from the standpoint of both spouses and sometimes the husband's other woman, and 
+hear from both a criminal and the judge who put him away.  The poetry is frankly 
+not very good, but the stories told are often compelling, and piecing together 
+the various plotlines of the town from fragments of testimony is fascinating.  
+Equally approachable in any order the reader chooses, these poems would make a 
+fertile subject of study for students of non-linear, multi-formal literature 
+even if the Spoon River IF work had never been created.  But what of that work?
+
+Voices of Spoon River begins about where one might expect it to, in the middle 
+of the Spoon River graveyard.  All around are tombstones bearing Masters' poetic 
+epitaphs.  The player soon learns that she has a task to perform.  She must 
+restore peace to these lost souls by performing various actions that will 
+reconcile them to their fates.  To do this, of course, she must first determine 
+just what, or in many cases who, is disturbing their rest.  Here enters the 
+didactic focus of the work in earnest, for in order to solve the game the player 
+must grapple fairly intimately with the literary world Masters has created.
+
+It is quite a clever conceit, actually, and it works quite well.  At its best,  
+Spoon River gives the feeling of actually getting inside a work of literature 
+and exploring in a way I have seldom if ever experienced before.  One could, 
+however, argue that the IF work is not really true thematically to the original 
+work it purports to celebrate.  After all, much of the power of Masters' poems 
+arises from the pathetic futility of all these broken, unsatisfied lives.  The 
+game, though, undermines that by giving the player the opportunity to tack happy 
+endings of sorts on top of Masters' miniature tragedies, even though the very 
+lack of tidy resolutions like these is sort of the point of Masters' work.  For 
+Spoon River to work as a game, though, perhaps this conceit is necessary.
+
+Once she determines what needs to be done to satisfy each lost soul, the player 
+will find some simple puzzles to solve to actually accomplish each good deed.  
+None are particularly creative -- indeed, you will probably not remember the 
+details of a single one five minutes after solving the game -- but, thankfully, 
+none are obscure or unfair.  Working out what needs to be done and then solving 
+the necessary puzzles together give a nice glow of accomplishment that keeps the 
+player moving through the game, and that is more than enough.  Complicated brain 
+twisters are just not what this one is about.
+
+Spoon River's geography is fairly expansive by modern standards.  In addition to 
+the graveyard of lost souls, the player will also explore the deserted town of 
+Spoon River itself, full of locations offering further insight into Masters' 
+characters.  Of course, one could ask just why the town is deserted.  Where are 
+the descendants of those in the graveyard?  Still, the emptiness suits the 
+haunted, dreamlike nature of the work, so we will allow it its artistic license.
+
+Although implemented widely, Spoon River is not implemented very deeply.  
+Scenery is generally non-manipulatible, and character interaction with the 
+ghosts is rudimentary at best.  It does not really matter, though.  The 
+implementation is generally good enough to accomplish the game's goals, and the 
+player is never left at a loss for how to phrase a command or converse with 
+others.  The game's non-Masters derived prose is similarly workmanlike, being 
+competent but uninspired.  On the other hand, Masters' poetic skills are far 
+from his greatest strength, and thus the game's prose and Masters' poetry do not 
+clash horribly at all.  One could even attribute to the whole a certain 
+rough-hewn charm.
+
+More disconcerting is the game's lack of overall polish.  It claims that there 
+are 100 points available to be scored, but I saw no way of reaching even 70.  
+Typos are not overwhelming, but they are there.  Worst of all is the game's 
+ending, which seems hopelessly bugged.  A secret, "bonus" area is apparently 
+supposed to open up once the player has put all of the souls at peace, but this 
+does not happen.  Luckily, another bug means that the player can enter this area 
+at any time, even on the first move of the game, so one need not miss anything.  
+Still, I hope that a cleaned-up, bug-fixed release will be forthcoming at some 
+point, as the game is definitely worth it.
+
+My biggest disappointment with Spoon River is that there is not more of it.  
+Only a dozen or so of Masters' 200-plus stories are told here.  It is not a 
+particularly small game by modern standards, and will probably give the careful 
+player a good two or three hours of enjoyment, but I wanted to spend even more 
+time in its, and Masters', world.  That is perhaps the best compliment I can pay 
+to it.  I hope we will see more IF like it in the future, and encourage 
+educators everywhere to give it a serious look for possible classroom use, 
+particularly if some of its rough edges get a bit of polishing sometime soon.  
+
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure games, a.
+k.a. Interactive Fiction. This includes the classic Infocom games and similar
+games, but also some graphic adventures where the primary player-game
+communication is text based. Any and all text-based games are eligible for
+review, though if a game has been reviewed three times in SPAG, no further
+reviews of it will be accepted unless they are extraordinarily original and/or
+insightful. SPAG reviews should be free of spoilers, with the exception of
+reviews submitted to SPAG Specifics, where spoilers are allowed in the service
+of in-depth discussion. In addition, reviewers should play a game to completion
+before submitting a review. There are some exceptions to this clause --
+competition games reviewed after 2 hours, unfinishable games, games with
+hundreds of endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We accept
+submissions that have been previously published elsewhere, although original
+reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at http://www.
+sparkynet.com/spag/spag.faq.
+
+---------------------------------------------------------------------------
+
+
+           Thank you for helping to keep text adventures alive!
+
+</pre>
+</div>
+<p><a href="SPAG45">Click here for a printable, plain text version of this issue.</a></p>
+
+	
+
+<div id="oldfooter">
+  <p>SPAG is maintained as a historical archive by the
+  <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+  Pages are no longer updated and links may no longer work.
+  </p>
+</div>
+
+
+</body>
+</html>

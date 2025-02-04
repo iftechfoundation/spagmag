@@ -1,0 +1,1021 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #32
+
+           Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                       March 20, 2003
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #32 is copyright (c) 2003 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+The SPAG Interview with Peter Nepstad
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Chateu Le Mont
+Frobozz Magic Support
+Savoir-Faire
+
+###### Comp02 Review Package: Static Story Struggles ######
+   Augustine
+   Eric's Gift
+   Photograph
+
+EDITORIAL------------------------------------------------------------------
+
+Several years ago, about 1996 I guess it was, I decided that I wanted to
+make a strong commitment to writing. So on New Year's Eve of that year,
+I did something I almost never do: I made a New Year's resolution. I
+decided that starting in 1997, I would spend 15 minutes a day writing.
+That meant 15 full minutes, in a block, each and every day, no matter
+what else was going on. I had always heard "write every day" as standard
+writer's advice, and for me it has worked out pretty well, resulting in
+LASH, the Earth and Sky games, these SPAG editorials, dozens of comp
+reviews, and a large passel of fairly crappy short stories. I don't say
+that last part bitterly; I figured out pretty quickly that I shouldn't
+stop myself from writing for fear of turning out stuff that isn't very
+good. "Stuff that isn't very good" is exactly what most inexperienced
+writers create, and why should I be any different? That's how
+inexperienced writers become experienced ones. 
+
+Every year, I've kicked up the commitment by 5 minutes, so that in 2003
+I've resolved to attain the rather intimidating target of 45 minutes a
+day of writing. For quite some time, I've been able to meet these goals
+without too much angst. Of course, I've relaxed some of the rules a bit.
+For one thing, "writing" has become "writing or programming" -- it
+didn't take many days of untangling ugly bugs in LASH for me to decide
+that even if I don't write a word of prose, working on code still counts
+as work on the game, and should count toward that day's goal. Also, I no
+longer force myself to do the work in a block, though I usually do
+anyway. Finally, I've learned to allow a little leeway, deciding that a
+missed day here and there isn't the end of the world as long as I'm
+keeping the spirit of the commitment alive -- in any case, I usually
+tend to exceed my daily "quota" anyway, just to reach a stopping point
+or to maintain momentum. 
+
+Lately, though, I've been running into trouble, and I'm not sure why.
+Certainly, it's quite true that there's a lot going on in my personal
+life, but that's been true many other times during the past seven years,
+and it hasn't stymied me for days at a time the way that I am now. It's
+also true that I recently received Freedom Force, a fantastic superhero
+CRPG, as a late Christmas present, and consequently my compter game
+addiction has been particularly powerful in the last couple of months,
+but there have been other games, and I've been able to keep them enough
+in check to make room for the writing. Is it just that 45 minute figure?
+It's only 5 minutes more than last year, and last year I regularly spent
+an hour a day or more.
+
+I've wondered whether, perversely, winning the competition has had
+anything to do with it. Could it be that achieving something I've been
+aiming at for so long has left me deflated, like a rock star trying to
+record a follow-up to a multiplatinum album? (Hey, now there's a
+self-serving comparison.) Maybe it's partly that I know my design for
+Earth and Sky 3 is my most ambitious yet, and I'm feeling overwhelmed by
+the toil involved in bringing it to fruition by the comp deadline. It
+was always my goal to enter all three games into three successive
+competitions, but now I'm wondering whether I can, and as last year's
+winner, whether I even should. 
+
+I really don't know, and I suspect that it's probably a combination of
+all these factors, and probably a few others besides. The only
+prescription for it, I guess, is to just renew that commitment.
+Strangely, I think writing this editorial about it has helped a little
+bit. If nothing else, at least I know that I've put my time in for
+today. 
+
+NEWS ----------------------------------------------------------------------
+
+AND THE XYZZY GOES TO...
+For the first several years of the XYZZY awards, the "Best Game" prize
+went to a full-length game that had been released outside the IF
+competition. (The fact that the authors of these games always had the
+name "Cadre" or "Plotkin" is probably mere coincidence.) In the past
+couple of years, though, comp games have won the top honors. 2002
+brought the XYZZYs back to their roots, with non-comp games winning
+eight out of the ten awards categories. Since the two remaining were
+Yoon Ha Lee's "The Moonlit Tower" (winning richly-deserved recognition
+for its writing) and, well, my own game, can you blame me for feeling
+like the awards went pretty well? Here are the complete results of this
+year's XYZZY awards:
+   * Best game: Savoir-Faire, by Emily Short
+   * Best writing: The Moonlit Tower, by Yoon Ha Lee
+   * Best story: Savoir-Faire, by Emily Short
+   * Best setting: 1893: A World's Fair Mystery, by Peter Nepstad
+   * Best puzzles: Savoir-Faire, by Emily Short
+   * Best NPCs: Lock & Key, by Adam Cadre
+   * Best individual puzzle: Lock & Key (setting the traps),
+                             by Adam Cadre
+   * Best individual NPC: Boldo, in Lock & Key, by Adam Cadre
+   * Best individual PC: Pierre, from Savoir-Faire, by Emily Short
+   * Best use of medium: Earth and Sky 2: Another Earth, Another Sky,
+                         by Paul O'Brian
+
+NEW GAMES
+The flow of new games continues nicely, including a murder mystery with
+a twist (is there any better kind?) by Jon Ingold.
+   * The Island Of Infinity by Alex Freeman
+   * Red Tag Clearance by Paul Allen Panks
+   * Insight by Jon Ingold
+   * Mountain by Benjamin Penney
+   * Filaments by jibi (this game is in French)
+
+YOU GOTTA HAVE ART
+Marnie Parker's IF Art Show took a year off in 2002, but now it's back,
+with an all-star panel of judges: J.D. Berry, Stephen Granade, Jon
+Ingold, Andrew Pontious, Mike Roberts, and Emily Short. In case you're
+not familiar with the IF Art Show, its emphasis is on the creation of IF
+that's less about narrative than about creating a rich, interactive
+implentation of a particular landscape, object, or character. It's given
+rise to such vibrant works as Kathleen Fischer's "The Cove" and Emily
+Short's "Galatea", and the entries are always worth checking out. More
+information is available at http://members.aol.com/iffyart/. 
+
+EVERYTHING OLD IS NEW AGAIN... OR AT LEAST RE-RELEASED
+The ever-prolific Paul Allen Panks has been dusting out the game attic
+lately, and has released a passel of his old Commodore 64 adventures to
+the IF Archive. Titles include: "Enchanter: West Front to Apse",
+"Mark...of the Vampire!", "Mystic Castle", "Shinan Road", "Dakon River",
+and "Westfront II: The Eight Trials of a Warrior". For those of you
+without a Commodore (which, at this point, is probably most of you),
+these games can be played on an emulator.
+
+I SEE EBB, BUT I'M LOOKING FOR FLOW
+Not that I'm ungrateful for the reviews I've received for this issue,
+but really, six reviews isn't very many, especially when three of those
+are packaged up into one long piece. SPAG depends on its readers to step
+up to the plate and become contributors, so sit yourself down and write
+that IF game review that's been buzzing around your head, or get
+motivated with this list of the reviews I'm really hankering for right
+about now:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Dutch Dapper IV: The Final Voyage
+2.  1893: A World's Fair Mystery
+3.  The Frenetic Five vs. The Seven Deadly Dwarves
+4.  Insight
+5.  The Island Of Infinity
+6.  Katana
+7.  Mountain
+8.  <deleted>
+9.  Unease
+10. Words Of Power
+
+THE SPAG INTERVIEW---------------------------------------------------------
+
+Peter Nepstad's game 1893: A World's Fair Mystery was recently
+recognized with an XYZZY award for Best Setting, and rightly so -- it's
+one of the most expansive and ambitious settings ever attempted in IF, a
+full, detailed recreation of the 1893 Chicago World's Fair. Recently,
+Erik Langskaill spoke to Nepstad about Chicago, 1893, and what
+"illuminated lantern" really means.
+
+From: Erik Langskaill <ejl0007 SP@G hotmail.com>
+
+   SPAG: Peter, thanks for agreeing to answer some questions about your
+   game "1893: A World's Fair Mystery." Let's begin with a bit about
+   yourself. Who are you, what do you do for a living, and what are your
+   passions in life?
+
+PN: For a living? Er...let's just say I formerly worked for an ill-fated
+consulting firm that has been in the news quite a bit in 2002, and am
+now looking for other work, along with all of my co-workers. Which is
+just as well, since working there certainly wasn't one of my passions in
+life. Rather, corny as it sounds, I love learning, especially about
+history and how it has shaped the world as it is exists today. I also
+have a travel bug like you wouldn't believe.
+
+   SPAG: What inspired you to write a game based on The World's Fair?
+
+PN: Hmmm. Well, I was born and raised in and around Chicago, but it
+wasn't until I left the country for a year or so that I began to get
+curious about Chicago history. I would visit London, say, or Kyoto, and
+visit historic sites and read volumes about their rich history, until
+finally I thought, "What about where I grew up?" So, when I moved back
+to Chicago, I began looking into its history. My wife and I would take
+short trips every weekend to different historic sites, different
+neighborhoods. Eventually I started reading about the World's Fairs that
+were held in Chicago (there were two). The first, the 1893 Fair, more
+and more seemed to me to be the defining moment of Chicago's history. At
+the same time, I was picking up TADS again after a long hiatus, looking
+to complete a work of IF. I was inspired to combine my two interests by
+the game LOST NEW YORK. Not only did I enjoy the game, but it made me
+feel frankly irritated that there wasn't a work of IF to represent
+Chicago. Always being the "second city" can be a bit of a drag, you
+know? So 1893: AWFM can give Chicago some bragging rights, too.
+Incidentally, Chicago got the name "The Windy City" not because of wind,
+but because of how much the city bragged about itself in order to win
+the congressional vote to have the 1893 World's Fair held there. So it
+all ties together, somehow.
+
+   SPAG: I believe that this is your first attempt at writing IF, and
+   it's a massive game for a first attempt. Can you explain how you went
+   about learning TADS and any problems you had writing the game?
+
+PN: Actually, the first work of IF I wrote was in 8th Grade. I wrote it
+in BASIC on my APPLE IIe. It was a sort of Lovecraftian horror. It had a
+very limited parser, but I thought it worked pretty well. Only trouble
+was, the game would crash after about ten minutes of playing because it
+couldn't keep all the variables and loops I was trying to run in memory.
+I submitted it to our schools programming fair anyway. The judges didn't
+play it long enough to see it crash, and I won fourth place. The first
+three places went, naturally, to graphic games. Which is just as well, I
+would have felt guilty winning with a game that didn't work.I downloaded
+TADS the first time when I was in college. This was a while ago, when
+TADS was still shareware. I worked on it for a little while, but never
+actually finished a game, and put it aside for many years.So when I
+downloaded TADS again, almost five years ago now, I sort of remembered
+the language, and found it quite easy to learn. But I had no idea of the
+scope of the project I was taking on -- if I knew then that it would
+take four and a half years to complete, I never would have started. You
+would almost have to be a newbie to decide to take on such a project. It
+came out even larger than I expected -- I'm told it's the largest IF
+game ever written.
+
+   SPAG: Where do you get the inspiration for your writing?
+
+PN: I don't read a lot of fiction anymore, I read mainly history books.
+So the writing in the game is the sort I like to read -- none too
+flowery, rather utilitarian I suppose. I have a fair-sized collection of
+books written in 1893, and the prose style in those influenced me as
+well, though a lot of their descriptions were so overloaded with
+adjectives as to bury a casual reader. Finally I decided to include a
+tour guide by the name of Shepp whose entire dialogue is lifted from the
+book "Shepp's Guide to the World's Columbian Exposition." The language
+was so rhapsodic I just had to include it somewhere.
+
+   SPAG: The game is very geographically correct. How much research was
+   needed to get the game looking so much like The World's Fair? Did you
+   visit the site?
+
+PN: I visited the site of the fair many times. In fact, just last year I
+moved into the neighborhood, since by coincidence it is one of the more
+affordable, but still safe, ones in Chicago. I also used maps,
+photographs, and descriptions of the site, published both at the time
+and recently, to flesh out the details. I even used the Microfiche
+archives of the Chicago Tribune to unearth floorplans of every building
+and the location of exhibits in each -- though the game is not THAT
+geographically correct, I did use the floorplans as a general guide.
+Hundreds of hours of research went into making the game, but only a
+small piece of what I learned actually made it to the final product. The
+really fun part of the research has been to do some traveling to try and
+find remnants of the World's Fair wherever they may be. I put this
+information up, with photographs and travel directions, at
+http://www.illuminatedlantern.com/1893/1893now.html. It's the beginning
+of a project that can grow separate from the game itself.
+
+   SPAG: You decided to release your game as shareware. What was your
+   reasoning behind this?
+
+PN: Once I realized the full scope of the game, and the HTML elements, I
+knew I wanted this to be a game which can be purchased, not simply given
+away for free. I want the game to eventually have some shelf space in
+gift shops around Chicago. I want everyone to play it. With around 30
+hours of gameplay, it has a good value. I just simply can't believe
+there is no market for an intelligent, quiet game which requires
+literacy, while millions of copies of Quake 90 fly off the shelves. Even
+for 8th graders -- I loved exploring IF when I was a kid, and kids
+today, given a chance, may do the same. I've hung around the IF boards
+enough to know that no one believes a commercial IF venture can work,
+memories of Cascade Mountain Publishing still fresh in everyone's heads.
+But I have just enough hubris to say, "let me try." On the other hand,
+one thing I never wanted to do was target the IF community itself as my
+main customer. That is, I didn't want to say, "Hey, this is my first
+game, why don't you buy it? And BTW, thanks for writing all those great
+free games I've been playing all these years." It just wouldn't be
+right. I feel privileged that these people are out there to play the
+games, and the fact that they do play the game is payment enough. Which
+is why I created the text-only version. Otherwise, it probably would
+have been straight HTML the whole time. But I wanted to create a copy of
+the game that the IF community could play, from beginning to end, with
+no catch. Then, IFers would have the option to buy the HTML version, if
+they want to, but everyone else can still play it for free. Really, I
+didn't even want to call the text version shareware, I just wanted to
+say, "Here it is, play, enjoy, no strings attached." But eventually I
+did call it shareware if only so I could better control distribution.
+
+   SPAG: The CD version of the game is now available for people to buy
+   from http://www.illuminatedlantern.com/1893 (thought I'd get the plug
+   in there for you.) So have you been inundated with orders?
+
+PN: Not exactly -- at this point, other than posting its availability on
+rec.games.int-fiction, I haven't done any promotion for the game. I am
+working on a press release, and finishing up the look of the CD case so
+I can sell it in stores around Chicago. But between IF players and
+World's Fair collectors (who have been buying the game through e-bay),
+I've sold a couple dozen. I'm quite happy with the response so far.
+
+   SPAG: Another question on the CD version -- as it's written in HTML
+   TADS, did you find you had to rewrite a lot of the code or had you
+   always planned to release an HTML version?
+
+PN: Once I figured out I could do it I was determined to do so. That was
+probably two years into the actual coding. That said, I didn't know for
+sure I could do it until after I had released the text version in July
+and began the actual coding for the HTML! Very little had to be
+re-written, but a lot of code had to be added on.
+
+   SPAG: What's next on the drawing board for you?
+
+PN: I don't know, yet. Right now I'm looking for a fulltime job, which
+is a fulltime job in itself. I also publish a webzine about Asian
+Cinema, which I have fallen way behind on while finishing up 1893 (It's
+the main site, www.illuminatedlantern.com -- in case anyone was
+wondering, Illuminated Lantern actually refers to the Asian Cinema zine,
+not IF. But it does nicely work out for both). Next projects in
+Interactive Fiction, I've got about a dozen all percolating in my head
+(another problem with taking four years to finish a game). I'd like to
+make a sequel to 1893, which I am researching right now. I have a couple
+comp-sized games I'd like to complete. And I've got two other TRILOGIES
+of games which I have outlined in some detail. Good grief. Needless to
+say, 1893: AWFM won't be my last work of IF. Just pray with me that my
+next one won't take as long.
+
+   SPAG: What recommendations would you make to someone who is thinking
+   about writing their first work of IF but does not know where to
+   start?
+
+PN: Probably the most important thing is to pick a topic that interests
+you outside of IF. That is, if you weren't writing a piece of IF right
+now, would you still be interested in your topic? Would you still study
+it? If so, it's a good bet. I stopped working on my game for months at a
+time. But because I was quite interested in Chicago history, I always
+came back to it, and then back to the game. Secondly, don't write a game
+to learn TADS. Learn TADS to write a game. The game comes first, not
+clever coding tricks. Decide what you want to appear in the game, then
+make it happen. When you're starting, you might just nest dozens of
+if/else statements to make it happen -- whatever you are comfortable
+with. Later, you will learn better ways to code and you might go back
+and change it. Then again, if it ain't broke, don't fix it. Let your
+code be ugly. It doesn't matter, as long as the player experience works.
+And finally, if you're not sure where to start, just start. Code the
+first room. Then the next. Put a few objects in it. Puzzles will begin
+to present themselves to you. You don't need to know exactly how the
+story will end. I've never been an advocate of mapping everything out
+first. That's the most certain way I can think of to burn out on a
+project before it even gets started. Once I started 1893: AWFM, it had a
+life of its own. I tried a couple times to make it smaller, but it
+wouldn't let me.
+
+   SPAG: Several people have mentioned that they thought you would wait
+   and release your game in time for this years comp. Was there any
+   reason for not entering the game for the comp (apart for the time
+   restriction in playing)?
+
+PN: The size knocked that out right away. It's practically the length of
+all of the comp games this year combined! I had thought I might be able
+to finish a comp-sized game as well this year, but I underestimated the
+effort required to bring 1893: AWFM to completion, so it never got done.
+There's always next year.
+
+   SPAG: Talking about the comp, what did you think of this years comp?
+   Did you manage to play any of the games?
+
+PN: I didn't have time to play very many, unfortunately. I tried playing
+Augustine, but I have a natural aversion to Florida, so I had to stop.
+The Granite Book was quite good and sort of gave me an Ursula K. LeGuin
+vibe for some reason, but it was a bit confusing. And I played Till
+Death Makes A Monkfish Out Of Me!, which I quite liked. Overall I was a
+bit disappointed at the small amount of TADS games, but overjoyed that
+the 'one-room' game genre seems a thing of the past. But time was just
+not on my side this year, and instead of playing them all, I hope to use
+the post-comp reviews to pick out and spend time with the best-of.
+
+   SPAG: Finally can you give us your thoughts on the current state of
+   the IF community and what you feel will happen in the future?
+
+PN: The community seems pretty strong, these days. One can assume that
+the vocal minority (who actually post in the newsgroups) has behind it a
+lurking majority (who, like me, may only post a couple times a year).
+The amount of comp games every year pretty much indicates interest is
+still going strong. As for the future, who knows. Personally, I'd like
+to see less competitions, and more collaborations: groups of IF authors
+writing variations on a theme, building a shared world, or contributing
+to an anthology. Mini-comps, I think, point the way to this kind of
+collaborative IF. I'd also like to see writers become more aware of
+branding, and ways of differentiating their offerings from the sometimes
+overwhelming mass of individual games in the archive. These are
+definitely not predictions of the future, but rather what I think could
+be interesting possibilities.
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+REVIEWS -------------------------------------------------------------------
+
+From: Jessica Knoch <jessicaknoch SP@G mindspring.com>
+
+TITLE: Chateu Le Mont
+AUTHOR: Paul Panks
+EMAIL: dunric SP@G yahoo.com
+DATE: Fall 2002
+PARSER: DOS (homebrew)
+SUPPORTS: DOS
+AVAILABILITY: https://ifarchive.org/if-archive/games/source/basic/chateu.zip 
+URL: http://www.geocities.com/dunric/westfront.html (with screenshot!)
+VERSION: 5.75
+
+The latest Star Trek movie, Nemesis, is a great movie. But only if you
+like Star Trek movies. If, for one instant, you were to view it
+critically and compare it to a truly great film (an exercise left to the
+reader), you would come away feeling that Nemesis wasn't worth seeing
+even if the theaters paid people to see it and threw the popcorn in too.
+If you *like* Star Trek, on the other hand, and are able to completely
+ignore any technological problems and gaping plot inconsistencies, you
+will like the movie.
+
+Chateu Le Mont by Paul Panks is a text adventure written in BASIC. If
+you like BASIC adventures, with their simplicity of plot, the occasional
+bug, and complete lack of character development, not to mention the
+amazingly simple one-line room "descriptions," then you will like Chateu
+Le Mont. All it takes is the ability to recognize the game for what it
+is, and play it for those qualities. 
+
+For whatever reason, I was able to get into Chateu Le Mont and really
+ended up liking it. Of course, a lot of that is because the feel of the
+gameplay from its "kill everything because it is there" mentality to its
+plug-and-chug combat to its "pick a spell, any spell" magic system is
+quite reminiscent of Dungeons and Dragons, and I really like Dungeons
+and Dragons. You have hit points, an armor class, and a level, and you
+gain experience points for killing anyone or anything. All of the
+"monsters" are regenerated at the start of each new "day," and that
+includes any townspeople you might have killed, so feel free to hack
+away. Hey, that villager has 167 hit points compared to my 100! 
+
+So, your purpose in Chateu Le Mont is to kill a vampire, who lives south
+of town. So far, so good. You spend a good bit of time flailing about
+the town, until you figure out where to get a weapon and some armor, and
+what happens when you die (you are resurrected every time). This is the
+point at which you learn you can die from dehydration, and that drinking
+from the well doesn't help your dehydration, but the fountain does. 
+
+The dehydration death is just one of many "sins" of Chateu Le Mont,
+although at least it doesn't have a maze. There's a light problem, and
+figuring out how to turn on the lantern is a guess-the-verb puzzle all
+on its own (although it shouldn't be -- I'm just not used to trying the
+verb "use" -- and that shouldn't be considered a spoiler, it should be
+called a blessing to modern IFers). Other "sins" include the parser
+pretending to understand things that it doesn't: WEAR (to give a random
+example) SHOES gives "You can't wear that" when what it *really* means
+is "You can't see any such thing" or "You must be holding an item before
+you can wear it." There are a ton of useless locations that are a little
+tricky to map at first. There are actions that make the game unwinnable
+with no logic and no warning. And, last of the major "sins," the player
+has to depend on randomness (in the form of the fighting system) to win
+the game.
+
+There are a few strange bugs which seem not to affect gameplay much. For
+instance, whenever you find some gold, the gold remains wherever it was,
+meaning you can pick it up again, and again, until the limits of your
+patience run out (or some kind of overflow -- I wonder what the integer
+limit is?), racking up all the gold you can stand. Unfortunately, there
+is nothing exciting to buy with the gold except items you brought to the
+store yourself, and the shopkeeper never marks up his prices, so it's
+always a straight exchange.
+
+Another odd bug that does affect gameplay is that when you save your
+game, quit, and restore it, you are knocked back to level 1. I think the
+hit points remain, but upon perusing the source code I found that you
+must be level 7 before you can go after the vampire in his own house, so
+the save/restore bug could be an annoyance. The source code really came
+in handy on this one, by the way, although I was unable to effectively
+change the annoying inventory limit.
+
+Finally, the first time I fought the vampire, the vampire cursed me and
+made the stake disappear. I can't kill the vampire without the stake,
+and it was nowhere to be found. I have no idea why this happened, and
+ended up replaying to finish the game.
+
+All in all, this is a fun little game that may amuse, depending on your
+tastes. The "problems" I've touched on speak for themselves: if you can
+look past them, and like random combat, go ahead and have a good time
+with Chateu Le Mont! However, I would recommend just another shot or two
+of originality from the author the next time around. I mean... a hobbit?
+And did the vampire HAVE to be named Count Dracula?
+
+P.S. I finished with 14932 points. Can you beat that?
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Adam Myrow <myrow SP@G eskimo.com>
+
+TITLE: Frobozz Magic Support
+AUTHOR: Nate Cull
+EMAIL: culln SP@G xtra.co.nz
+DATE: February, 1997
+PARSER: TADS 2
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware, IF archive.
+URL: https://ifarchive.org/if-archive/games/tads/fmsr4.gam
+VERSION: 4
+
+Back in 1996, the Internet IF community was just beginning to take off.
+The second IF competition had been even more successful than the first,
+and experimental works were just starting to appear. Still, the majority
+of the IF produced at this time was either an Infocom tribute or
+followed the style of an Infocom game. Frobozz Magic Support is a case
+in point. If the title doesn't make this obvious, this is one of the
+many games to pay tribute to the Zork/Enchanter games. In fact, it is as
+if the author was thinking "let's see. References to the Flatheads?
+Check. Appearance of the Implementors? Check. Game can be made
+unwinnable by doing actions in the wrong order? Check. Really annoying
+maze? Check." The only things missing were a sleep timer and starvation
+puzzle. Well, perhaps the maze would be regarded as creative by some.
+Let me put it this way, if you enjoyed the maze in the 2002 competition
+entry called Evacuate, you will be thrilled with this one. I didn't care
+for either maze. However, as old-school IF, this really isn't as bad as
+I made it sound. For one thing, the story is original. You are a novice
+support clerk who goes on calls to help people out of the jams they get
+themselves into when magic doesn't quite work like it should. This, plus
+the numerous references to blorple and all the cubes gives me the
+impression that this is supposed to be taking place at the same time as
+Spellbreaker. One of the problems you fix, for example, is an Enchanter
+who has turned himself into a shark with the Snavig spell. The spell
+won't wear off. Similarly, your companion is a burin that got animated
+with a malyon spell. Once again, the spell doesn't want to wear off.
+Perhaps this was the beginnings of the failure of magic which resulted
+in the great conclave in Borphee.
+
+Unfortunately, Frobozz Magic Support doesn't do as much with this plot
+as I thought it should. Like much older IF, the plot is mostly an excuse
+for puzzles. The puzzles vary from creative to annoying. As I mentioned,
+it is easy to silently make the game unwinnable if you don't do things
+in the correct order. On top of this, the hint system in the game is the
+worst I've ever seen. I've never programmed in TADS, but apparently,
+hint systems of any kind are quite difficult to design in that language.
+I say this because I rarely see a good hint system in TADS. This one is
+nothing more than a dump of all the hints, which are rather vague. You
+have no control over what gets shown. You type "hint" and get about two
+screens worth of little clues. I would have preferred that it be
+context-sensitive or at least present a simple menu. The other option is
+to type "walkthrough" which spits out a list of commands which will win
+the game. Neither was very satisfying. I suggest that if you must resort
+to hints, download the solution from the if-archive at
+https://ifarchive.org/if-archive/solutions/frobozz.sol. It explains
+the logic of the puzzles and is divided into sections. I ended up having
+to look at this solution more than I care to admit because after I
+discovered how easy it was to make the game unwinnable, I wanted to make
+sure I wasn't doing anything to ruin the game. These elements really
+surprised me because in Mr. Cull's later Glowgrass, they are largely
+absent. Also, in his interview after the 1997 competition, he talked
+about how much he disliked puzzles of the very type he programmed in
+Frobozz Magic Support. As I said, he seemed to be making a conscious
+effort to emulate Infocom to the point that he ended up exaggerating it
+a bit.
+
+The bottom line is this: if you are a big Enchanter fan, and don't mind
+the type of game which will require a few restarts, give this one a
+shot. If you were introduced to IF with Photopia and don't know Belboz
+from Krill, forget it.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Francesco Bova <fbova SP@G mts.net>
+
+NAME: Savoir-Faire	
+AUTHOR: Emily Short
+EMAIL: emshort SP@G mindspring.com
+DATE: 2002
+PARSER: Inform
+SUPPORTS: Z-code (Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/savoir.z8
+RELEASE: 6
+
+The type of IF I've always preferred has been more puzzle-based than
+story-driven, and as a result, I've always enjoyed the old Infocom games
+because, if anything, they erred on the puzzle side of that spectrum.
+They typically featured mazes, colour-based puzzles, hunger and weight
+restrictions, and a whole host of other implements we just don't see in
+modern IF today (albeit in most of those cases, for very good reasons).
+With the lack of many truly puzzle-oriented games lately, I have been
+longing for a big puzzlefest-type game reminiscent of an Infocom classic
+and I'm happy to say I've found one in Savoir-Faire.
+
+Savoir-Faire comes out and blatantly calls itself a piece of old-school
+IF; a throwback, if you will, to the days of Infocom and perhaps more
+recently to the days of Curses and Delusions. 
+
+When a game comes out and patently calls itself old school, comparisons
+to some of the more popular Infocom classics and early shareware games
+will be drawn. So the question is, does Savoir-Faire succeed in
+replicating the old Infocom standard? As far as I'm concerned, it
+doesn't just succeed in replicating it; it's better in every respect I
+can think of while still maintaining the illusion that the game could
+have been created in Infocom's heyday. 
+
+For example, Savoir-Faire implements many common design strategies used
+in Infocom games that are now considered designing no-no's
+(encumbrance-based carrying systems, hunger restrictions, the opening of
+doors before you go through them), but does so in a much more
+contemporary and less threatening fashion. There are different
+light-based puzzles for example, a maze of sorts, and an abundance of
+locked doors, yet Ms. Short seems to reluctantly (and thankfully) only
+put a half-hearted attempt into creating an authentic old-school system.
+The hunger restriction, for example, is only that in name and serves
+more as a reminder of what goals you should be focusing on as opposed to
+a rigid hurdle that has to be traversed (which is to say you can never
+die of hunger). Unlocked doors open automatically once unlocked, and any
+encumbrance issues are nicely done away with, with a sack that can carry
+pretty much anything. It probably grated on a game designer as strong as
+Ms. Short in the first place to have to implement so many old-school
+faux pas, let alone make them completely unuser friendly. Fortunately
+for the player, it appears that her innate sense of good game design
+prevailed. 
+
+Continuing on with the puzzles, Savoir-Faire again throws up some old
+Infocom tropes without the typical old school constraints (i.e.,
+unwinnable game states). The credits list the game as cruel, which makes
+me typically feel that there are many opportunities to put the game into
+an unwinnable state. Actually, when I see a cruel rating for a game
+followed by the word 'unwinnable' I get that eerie chill down my spine
+that I got so often while playing So Far, where every turn seemed
+destined to limit my possibilities. Although some of the puzzles were on
+the tougher side, none were unachievable without a little lateral
+thinking, and I can't think of one that would be considered truly cruel.
+On the contrary there are plenty of ways to solve the same puzzle unless
+you go about willfully destroying things (and even then you might find
+some possible avenues). At one point, while I was stumped, I attempted
+an action that involved the destruction of an item (an action which I
+was sure would lead me to an unwinnable state). To my surprise, an
+alternate solution that I'd thought of but which I felt unlikely to be
+implemented, turned out to work. To my further surprise, upon reading
+the verbose walkthrough, I discovered many other solutions for that
+particular puzzle and was duly impressed.
+
+Once again in defiance of most classic-IF axioms, there is very little
+linearity in this game. As I mentioned, alternate solutions abound and
+the puzzle-solving process is aided by a whole plethora of parsed verbs
+to choose from. Savoir-Faire is a game that understands the following
+sentences equally:
+
+   >get water from well with teapot.
+   >fill teapot with water from well.
+
+And Savoir-Faire also provides for many rare but useful verbs as well as
+verb synonyms. 
+
+Also remarkable are the impressive bits of programming involved in the
+game. There is a magical set of physics to Short's world that the player
+learns through flashbacks and bits of backdrop, and the macroparsing
+involved in setting up this particular magic system is impressive; all
+the more so as the game was originally released in .z5 format (as
+opposed to the .z8 of later releases.) When things work as smoothly as
+they do in Savoir-Faire, you know there's a lot going on behind the
+scenes that makes the game work as efficiently as it does. For the
+average author this means adding libraries, extra classes, and more
+often than not ugly, redundant bits of programming. But for the true
+artist, efficiency is what's important and nowhere is efficiency more
+apparent in any recent game in memory, than it is with Savoir-Faire.
+Sure, in terms of gameplay I guess it ultimately doesn't matter how big
+or small a game is, but as a hack programmer myself, I really do
+appreciate the elegance and efficiency with which Ms. Short constructed
+her universe, as I know how difficult it is to make it so.
+
+Anyway, all these positives and I haven't even talked about the writing.
+Ms. Short, a former winner of an XYZZY for best writing, has an
+economical and beautifully descriptive way about her prose. It's
+effective and lasting and brings every piece of scenery to life. The
+writing is such a pleasure to read that one could still enjoy the game
+greatly just playing it strictly with a walkthrough and reading the
+responses the game spits back at you. So to sum up, Savoir-Faire is a
+great game, and I don't have many complaints about it. Since this is a
+critique of the work, however, I feel obliged to talk a bit about
+something I wasn't overly fond of in the game, and surprisingly (when I
+think back to Short's other works), what I wasn't overly impressed with
+was the story. Well that's not true exactly. I thought the story and
+background were great up until the ending, after which I felt
+differently about the story as a whole. 
+
+The plot starts off with the PC, a minor noble in financial difficulty,
+returning to the house of his youth where an adoptive family had once
+raised him. Upon finding the manor abandoned, the PC decides to ransack
+it for profit (and so begins a classic treasure hunt, albeit with a lot
+more backstory than the Infocom standard). The story to this point is
+fine, but as bits of background became more and more available
+throughout the game, it seems obvious that the protagonist was treated
+quite fairly by his adoptive parents and their daughter (who it appears
+also had a crush on him) despite his poorer upbringing and what you
+could only assume was a lower status in their household. I therefore
+found it extremely jarring that he would go back and pillage the home of
+the people who showed him so much kindness growing up. Other factors
+contributed to my growing disdain for the protagonist as well. For
+example, the constant reminders of his hunger (as illustrated by his
+constant yearnings for different exotic foods) that I had mentioned
+earlier, while important to the plot as it focuses the player on the
+task at hand, also reinforced, to me at least, the PC's selfishness. I
+mean really, worrying about gourmet cuisine when it was becoming readily
+apparent that a dear friend was in trouble? These are not the thoughts
+of a modern day IF hero. As a result, by the time the ending rolled
+around, I didn't have a great deal of respect for the protagonist and
+hoped all the while that he would receive an 'appropriate' reward for
+his violations and selfishness. 
+
+In this respect, the game's PC reminded me a lot of the protagonist from
+Infidel (an Infocom classic for those who don't know). Infidel featured
+a protagonist who was a self-centered excavator and treasure seeker,
+committed to running through anything and everyone in his pursuit to
+achieve his goals. Fittingly, he receives a 'reward' worthy of his
+self-absorption upon reaching Infidel's conclusion. I was hoping for a
+similar result in Savoir-Faire but found none. No ending that befitted
+the crimes I'd committed, no slap on the wrist, no scolding, no guilt;
+Just some tacked-on sugary sweetness that completed the fairy tale in a
+typical and (at least for me) unsatisfying way. 
+
+Interestingly enough, Infidel's original ending was very similar to
+Savoir-Faire's. I remember reading an interview with Infidel's author
+Mike Berlyn, and he alluded to the fact that the game's original ending
+finished very positively; the way most treasure hunts did at that time.
+But the ending was changed between the initial beta-tests and the game's
+final release because of an outcry from testers who disliked the
+protagonist, and thought he deserved far worse than the ending had
+provided. Faced with such an overwhelming sentiment, Mike and his team
+got to work to fix the ending and thus was born Infocom's first tragedy.
+
+Looking at the credits for Savoir-Faire, I noticed 4 beta testers to its
+credit -- a normal amount for a piece of modern IF. Let me start by
+saying that these four testers did a great job. As I've already
+mentioned in this review, Savoir-Faire is a technical marvel, and so
+much more playable than any Infocom game I can think of that it's
+laughable. But I would hypothesize that one advantage of having tens of
+testers look at a game (which was the case with the Infocom games) is
+that it's easier for an author to notice trends and sentiments with
+respect to storyline and mood. So if an author notices, lets say, 6 out
+of 20 people not feeling at ease with a story's direction it's a lot
+easier to detect a plot concern than if 1 out of 4 people notice a
+similar issue. I'd also hypothesize that having a smaller number of
+testers might mean that those same sentiments may be overlooked and that
+ultimately having a greater number of beta-testers will improve a
+storyline regardless of who writes it. Having said that though, it's
+tough to find dedicated beta-testers in the first place these days, let
+alone tens of them, and again this is not a criticism of Ms. Short's
+work in any way, just a comment on how the IF scene is different today
+as compared to the Infocom heyday. Hmmm... I guess the old Infocom games
+may have actually had an advantage or two in some areas over today's
+games after all. Go figure.
+
+Anyway, my brief quibble with the ending notwithstanding, Savoir-Faire
+is an excellent game penned and programmed from one of today's IF
+masters and well worth playing. Download it today!
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+######################################################
+######  REVIEW PACKAGE: STATIC STORY STRUGGLES  ######
+######################################################
+
+From: Valentine Kopteltsev <uux SP@G mailru.com>
+
+TITLE: Augustine
+AUTHOR: Terrence V. Koch
+EMAIL: teviko SP@G softhome.net
+DATE: September 2002
+PARSER: TADS 2
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware IF-archive
+URL: https://ifarchive.org/if-archive/games/competition2002/tads2/augustin/
+     Directory containing game, hints, walk-through, and release notes
+VERSION: 1.0
+
+TITLE: Eric's Gift
+AUTHOR: Joao Mendes
+EMAIL: joao.mendes SP@G netcabo.pt
+DATE: September 2002
+PARSER: TADS Standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/competition2002/tads3/ericgift/ericgift.t3
+VERSION: IF Comp Release
+
+TITLE: Photograph
+AUTHOR: Steve Evans
+EMAIL: trout SP@G netspace.net.au
+DATE: September 2002
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/competition2002/zcode/photo/photo.z5
+VERSION: Release 1
+
+I've rather often heard the opinion that a direct conversion of static
+fiction to IF is doomed to failure from the very start. The main
+argument: the attempt to apply the rigid structure of a static plot to a
+text adventure inevitably results in the gameplay degenerating into
+either straightforward railroading through the scenario, or random
+casting around for the "hidden button" -- a "magic" command that will
+advance the story. 
+
+It's a strong argument -- but still, I'd rather disagree. In a sense,
+practically *any* work of IF has some sort of framework -- a prescribed
+set of commands the player needs to enter to win the game -- and it
+doesn't seem to make an essential difference whether this framework
+stems from static fiction, or not. As so many things in our life, it's
+all a matter of implementation, of how well the author manages to hide
+the game mechanics, and -- yeah, to cheat the player into believing
+(s)he's free to do just anything. ;) Furthermore, the degenerating
+gameplay isn't necessarily a bad thing -- I'm thinking here, say, of
+Being Andrew Plotkin, the champion in railroading, and of Shade, the
+ultimate in random casting. If gameplay would degenerate like that in
+every work of IF, I wouldn't mind at all. (Of course, the two games
+mentioned above aren't the best examples to demonstrate successful
+static fiction-to-IF conversion -- since none of them is based on a
+static story. Sigh. ;)
+
+Apparently, I'm not the only one who doesn't share the opinion about the
+fundamental faultiness of such an approach to writing IF, because games
+using this very approach keep being released. IF-Comp 2002, for
+instance, had at least three entries of that kind (it's possible there
+were more -- I didn't manage to play all Comp-games this year). Let's
+look how they succeed in overcoming what's considered to be the inherent
+burden of the genre.
+
+Sizewise, our first aspirant, AUGUSTINE by Terrence V. Koch, easily
+outweighs the other two: it's a full-sized saga based on the popular
+Highlander series.
+
+An important note: I'm not acquainted with Highlander well enough; to be
+more precise, I only have got knowledge of its general concept, and have
+seen a few random fragments of the movies. I don't think I'd recognize
+Duncan McLeod if I met him in the street; heck, I even had got to look
+up his last name at the Internet to write it correctly... and probably
+misspelled it, nevertheless! ;) Thus, I can't judge the originality of
+Augustine, and it didn't affect my rating of the game.
+
+The story is about the everlasting fight between Good and Evil,
+represented by Pallidyr Gaelhawk (the PC), and his vile opponent, Kasil,
+respectively. After their first encounter, their destinies become as
+entwined with each other as... as... well, after two hours pondering on
+objects suitable for this metaphor I've decided to drop it altogether,
+but let me assure you -- their destinies become pretty entwined. ;) Both
+enemies hate each other -- but it seems they can't go without each
+other, either; their paths keep crossing, and sometimes they even become
+allies. As a result of their opposition, the city St. Augustine is
+built, the history and development of which both heroes influence over
+centuries. Though the story is rather complex, it's entirely consistent,
+too; I don't remember any stretching points. Again, I can't tell whether
+the author developed it himself, or borrowed it; but if it's original,
+it represents a major plus for the game.
+
+Another important plus is the writing. It'd be a lie if I said it was
+the most vivid I've ever seen, but it's -- well, solid and monumental,
+and thus just the kind of writing required for such an epic work. In
+some way, it's reminiscent of antique Greek statues, and since the
+author seems to be well aware that the perfect beauty of such a statue
+can be destroyed by one single speck of dirt, he's made a serious effort
+to eliminate all misspellings and grammar mistakes (well, very few
+glitches appeared towards the very end -- probably a territory less
+explored by beta-testers).
+
+The gameplay is mostly of the railroading type, which is acceptable (if
+you don't mind being railroaded, that is) -- with the exception of a few
+points where it turns into towing, requiring from you either actions
+that aren't motivated by anything except the game telling you explicitly
+you've got to do it, or long sequences of obvious moves (I'm thinking
+here, say, of the excursion through Augustine). OK, I'm perfectly aware
+how difficult it is to avoid such situations in a game of that kind, and
+have understanding for them, but what can I do? They just annoyed me!
+
+Probably in order to counterbalance the elaborate writing, the author
+kept the setting rather ascetic. Sure, decorations weren't the main
+point of this game -- but still, the expediency of implementing, say, a
+lunch that "doesn't appear appetizing" is questionable at best. (Well,
+and giving such a lunch to his beloved father doesn't seem very kind of
+the PC -- though I'd understand if he gave it to his opponent, Kasil! ;)
+Honestly, I think I'd prefer no scenery at all.
+
+To sum up -- Augustine is a typical representative of the genre, with
+all the faults characteristic of it: it's good as a story, but isn't
+nearly as good as a game.
+
+The other two games fight in a much lighter class -- the class of short
+(or, rather IF Comp-conforming) story. They have a couple of more things
+in common: both of them have got a mystical aspect, and are to a no
+small degree based on reminiscences of the past.
+
+The first of them, ERIC'S GIFT by Joao Mendes, represents a genre I used
+to dislike when I was a teenager: it's mainly about meeting people and
+talking to them. Since talking is so important here, the game brings up
+a splendid conversation system. Yeah, I really liked it, especially the
+way it kept track of topics already discussed. Together with the solid
+implementation, it made sure the technical prerequisites for a
+successful game were fulfilled.
+
+Unfortunately, those weren't the only preconditions to be met. You see,
+this was the kind of story without much superficial action, where
+building up inner emotional tension was of essential importance. The
+problem of Eric's Gift was, the emotions for such tension just weren't
+present. An example: if, one day, they tore the Kremlin down (shudder on
+the thought), and built some of those ugly standard multistory blocks of
+flats in its place (shudder even more), a guided tour through the area
+probably would look like this: a small group of trippers would limply
+follow a tired guide who'd say from time to time in a flat tone, "To
+your left, the Basilicus Cathedral once stood; this nice department
+store replaced it. And if the Spassky Tower still was intact, it'd cast
+its shadow upon that dusty lawn to your right." You can imagine how
+"exciting" such a tour would be; well, it's a pretty accurate picture of
+what I experienced when playing Eric's Gift. That is to say, the
+culmination, which would release the aforementioned (and absent)
+emotional tension, just wasn't there; instead, the game just told me
+where it should be. And though the narrator presumably was involved in
+the events described, his voice rather seemed to belong to a distant
+(and not very interested) observer. 
+
+This lack of emotions affected the gameplay negatively. I mean, if the
+game managed to excite me, I'd probably do the moves it was expecting
+from me instinctively, and would finish the story at one gulp. The way
+it was, however, it turned into -- well, random casting around, as
+described in the opening section of this set of reviews; the cues
+provided by the game appeared rather gawky, and all in all, it wasn't so
+enjoyable. I think that's a good example of the interdependencies
+between single aspects in IF; a more passionate, "intense" writing style
+automatically would fix most of Eric's Gift's gameplay issues. 
+
+While PHOTOGRAPH by Steve Evans has got a number of things in common
+with Eric's Gift, playing it has been an entirely different experience.
+The author gambled on a rich setting (with the story progressing when
+the player examined or manipulated certain objects in various ways) --
+and it paid off; the main effect was that the gameplay didn't differ
+much from your "normal" text adventure. (Well, I think it'd work even
+better for me if the author didn't mention beforehand his game was based
+on a static story; the way it was, a small but importunate and malignant
+voice in my ear kept whispering after each move, "Aha! Another
+plot-advancing trigger!"). In its first stage, the game went on at a
+measured, pleasantly unhurried pace, like a river flowing through a flat
+country, and splitting up into many arms (represented by arising plot
+branches).
+
+Unfortunately, as it came to linking all the arms back to a common
+channel, Photograph didn't succeed nearly as well. At some point in the
+game (to be more precise, just after the dream where the player was the
+pharaoh Akhnaten), the decorations suddenly shrank to the "bare
+essentials", the barely noticeable guiding nudges of the first half of
+the game turned into rather off-hand pushes and pokes, and the amount of
+static descriptive text displayed between the player's action started
+increasing continuously, giving me the strange feel of interaction
+thinning out like a forest. I don't know whether it happened due to a
+lack of time on the author's part, or for other reasons (like, say, an
+attempt to express the intensifying action, and growing emotional
+tension of the story), but it represented a rather unpleasant change for
+me; besides, in all the haste, most of the plot branches that had shown
+up at the early stages of the game, remained unresolved, leaving me
+wondering about a number things. A pity it is.
+
+OK, as it seems, none of the games reviewed was fully able to break the
+Dreadful Static Story Imprecation; still, some of their aspects (and
+especially the first half of Photograph) give occasion to hope it will
+be overcome some time. The recipes for that, as I see them, are rather
+simple in principle (though implementing them might be tough): a rich,
+thorough setting that'd give the player a sense of freedom, combined
+with an exciting plot and writing, which would prevent the player from
+even thinking of stepping off the main game path. I know, it sounds
+rather contradictory -- but finding a compromise, a fair balance between
+conflicting demands is an essential part of any development process.
+Also, maybe there are other recipes I'm not aware of, as well. Sooner or
+later, we'll see -- won't we?
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

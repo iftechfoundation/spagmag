@@ -1,0 +1,1419 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #30
+
+           Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                     September 20, 2002
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #30 is copyright (c) 2002 by Paul O'Brian.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Bmissfill
+The Fellowship Of The Ring
+I'll
+Mystery Science Theatre 3000 Presents "A Fable"
+Pick Up The Phone Booth And Aisle
+Pick Up The Phone Booth And Dye
+Planetfall
+Savoir-Faire
+Tinseltown Blues
+WARP!
+
+###### Review Package: An Unnkul Bunch Of Reviews ######
+   GC: A Thrashing Parity Bit of the Mind
+   The Horror of Rylvania
+   The Legend Lives!
+   Unnkulia One-Half: The Salesman Triumphant
+   Unnkulia Zero: The Search for Amanda
+   Unnkulian Underworld: The Unknown Unventure
+   Unnkulian Unventure II: The Secret of Acme
+
+EDITORIAL------------------------------------------------------------------
+
+First, the bad news: There's no interview in this issue of SPAG. A
+contributor offered to do one, I said "Great!", and then that
+contributor flaked. Ordinarily, I'd probably just delay the issue a week
+or so, and do the interview myself, but this is the September issue of
+SPAG, and the September issue must come out before the comp starts,
+because once that day arrives, my IF energies are pretty much all Comp,
+all the time. So no interview -- maybe I'll do two in some future issue
+to make up for it. Sorry.
+
+Now, let's clear that sour taste away with the good news. As you can see
+from the section above, the SPAG review larder is quite well-stocked
+this issue! Even more satisfying, our seventeen reviews come from no
+less than *eight* different contributors. I think it's a remarkable
+showing, especially taking into account that none of those eight
+contributors are named Duncan Stevens. I want to thank everybody who
+came through with a review for this issue -- it's a great expression of
+community spirit, and it really touches my heart.
+
+One batch of reviews in particular caught my imagination: Valentine
+Kopteltsev sent me several reviews in one big document, each review
+building on its predecessors, with an introduction explaining his point
+of view, and a big theme tying all the reviews together. I thought this
+was a really neat idea, and it seemed a crime to separate them all and
+spread them throughout the issue in the way that SPAG reviews are
+normally presented. So instead, with grateful acknowledgement to Mr.
+Kopteltsev, I give you SPAG's newest feature: the Review Package!
+
+I'm a music fan, and I nurture an endless fascination for mixed
+tapes/CDs and themed sets. I love the notion of putting together a group
+of works that all interrelate, that create new levels of meaning by
+their juxtaposition, and that are even more fun together than they are
+separately. My life is littered with such compilations, and if it's good
+enough for my car stereo, I say it's good enough for SPAG! So I hereby
+officially invite any and all interested parties to send me their Review
+Packages, groupings of two or more reviews united by some common theme
+or thread. You can set them up however you like, with connective text,
+introductory ruminations, or what have you. If you like, you can even
+mix them together thoroughly, in the style of those book reviews you
+occasionally see that end up covering all their subjects but in a
+discursive, essay-style manner. It's all up to you. I'll put them in
+their own separate section of the issue, set apart from all the one-off
+reviews. 
+
+Of course, I'm aware that I may be dreaming. It's easy enough to
+announce something, but the real test is whether people are interested
+in actually writing it. Case in point: SPAG Specifics -- since I
+announced this concept, several people have sent in great reviews for
+it, but there have also been a number of issues, such as this one, which
+have no Specifics section at all for lack of entries. Still, the Review
+Package concept got me excited, and maybe that'll be true of somebody
+else as well. Time, and my inbox, will tell. In the meantime, enjoy the
+bounty of reviews that this issue offers you. 
+
+NEWS ----------------------------------------------------------------------
+
+NEW GAMES
+It's been a fairly fallow period for new games, a condition we hope will
+be alleviated by the upcoming competition. However, most of the games
+we've gotten have been important ones: Peter Nepstad has finally
+released his enormous work 1893: A World's Fair Mystery, a mystery
+exploration game extraordinaire, and Simon Baldwin presents us with
+Glulx/Glk Chess, the next logical step from last year's Z-Machine chess
+simulator, Silicon Castles.
+   * 1893: A World's Fair Mystery by Peter Nepstad
+   * Glulx/Glk Chess by Simon Baldwin
+   * Chateu Le Mont by Paul Allen Panks (no, that's not a typo --
+     "chateau" is intentionally misspelled.)
+
+SEE ME, FEELIE ME
+The IF community right now is producing more and better games than
+Infocom did in their heyday, but the Infocommies still beat us in one
+respect: the feelies. For those of you not familiar with this term,
+"feelies" are the nifty little items that Infocom used to package with
+each game -- you know, the peril-sensitive sunglasses with Hitchhiker's,
+the Ebullion tablets with Deadline, the Stellar Patrol ID card with
+Planetfall, and so forth. Now, thanks to a crew of dedicated IFers, the
+Feelie Gap has been narrowed considerably by the arrival of
+http://feelies.org, offering nifty toys and trinkets for several modern
+IF games, and providing feelie fulfillment for interested authors and
+players alike! Now you too can enjoy the Lost New York subway token, or
+the Fallacy Of Dawn rephasia pill, and if you're an author, maybe
+feelies.org can set up some feelies for your very own game...
+
+I'M FREEWARE or SHE WON'T GET FOOLED AGAIN
+Speaking of feelies, Emily Short is offering a pre-order for the feelies
+to her major new game, City Of Secrets. This game was originally
+commissioned to appear on a CD for a San Francisco synthpop band, but
+for various reasons the deal fell through, and Short is releasing it on
+her own. The game is scheduled to be released by the end of this year,
+but you can get an advance look at
+http://emshort.home.mindspring.com/CSUpcoming2.htm.
+
+MEET THE NEW FROTZ, NOT THE SAME AS THE OLD FROTZ
+David Kinder has been working on it for months, and now the dreams of
+PC-owning Frotz enthusiasts have been realized at last with Windows
+Frotz 2002. This spanking new software is the first post-Infocom PC
+interpreter to be able to handle version 6 zcode files, as well as all
+Blorb resource types. (Translation: it plays the music on Moments Out Of
+Time, and can handle future authorial attempts at v6.) In addition, it
+features full Unicode support for games with alphabets different from
+English. Windows Frotz 2002 is available at the IF Archive under
+infocom/interpreters/frotz.
+
+WHERE ARE YOU? WHERE, WHERE? WHERE, WHERE?
+Okay, that may be stretching it a bit, but the fact is I'm going to see
+The Who tomorrow and couldn't break my headline mini-theme once it got
+started. The point here is that I'm very gratified indeed by the review
+turnout for this issue, but one issue doth not a trend make. The
+upcoming issue will be the annual competition special, which is
+traditionally hard-up for reviews, given that most people tend to post
+theirs to the newsgroups. So if you don't manage to get your reviews
+written by the Comp end date, or you want to offer a more comprehensive
+response that includes other reviewers' viewpoints, or you just want to
+make my day, I strongly encourage you to send me your comp reviews for
+the December/January issue. I'll still happily accept reviews for non-
+comp games, too, and put them in SPAG 32. If you're looking for
+inspiration, look no further than the...
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Bad Machine
+2.  Chateu Le Mont
+3.  Doomed Xycanthus
+4.  1893: A World's Fair Mystery
+5.  Frobozz Magic Support
+6.  Heroine's Mantle
+7.  Hollywood Hijinx
+8.  Katana
+9.  The Oracle
+10. Unease
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+REVIEWS -------------------------------------------------------------------
+
+From: Stas Starkov <stas_ SP@G mail.rb.ru>
+
+NAME: Bmissfill
+AUTHOR: Tilli Productions, Santoonie Corporation
+EMAIL: None given
+DATE: 2002
+PARSER: TADS Standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/tads/bmiss.gam
+VERSION: Release 1
+
+Warning: I consider this game extremely short, bad, and stupid. I'm
+writing this review only to warn you to avoid the game.
+
+Premise of the game: you must escape from a prison. The task must be
+accomplished by doing stupid actions, based on a guess-the-verb scheme.
+Further features are: deaths-without-warning, bad writing, and a lot of
+(intentional, I believe) typos. Example:
+
+   Cell Block H
+       The stoned stones of the cell walls are cold and damp, and the
+   grey light coming in from the window is striated by the irony iron
+   bars which prevent your escape.  A small cottish cot is along one
+   wall, and the doorlike door to your south is closed.
+       You see a prison window here.
+
+   >x door
+   You can't see any way of opning it.
+
+   >x cot
+   This is where you sleep.  It's has a worn mattress and a tattered
+   blanket on.
+
+   >take blanket
+   Taken.
+
+   >x it
+   Its age really prevents you from feeling warm, but you put it on at
+   night anyway.  Theirs something about having a blanket on when you
+   sleep that makes you feel more secure.
+
+   >x cot
+   This is where you sleep.  It's has a worn mattress and a tattered
+   blanket on.
+
+Despite the game's size (around 120 Kb), it consists of only five rooms
+(I think), which almost don't have any objects. The main obstacle that
+will stop you from winning in two minutes is the bad implementation of
+the game. And it's not funny!
+
+Verdict: trash.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: J.D. Berry <berryx SP@G earthlink.net>
+
+TITLE:         The Fellowship of the Ring
+AUTHOR:        One of the Bruces (Adam Thornton)
+EMAIL:         bruce SP@G fsf.net
+DATE:          2002 (Originally released as an IntroComp entry)
+PARSER:        None (menu options)
+SUPPORTS:      Atari 2600 emulators
+AVAILABILITY:  IF Archive:
+               https://ifarchive.org/if-archive/games/atari-8bit/fotr2600.tgz
+URL:           http://www.fsf.net/stella/
+
+From the "Fellowship of the Ring" manual:
+
+   For starters, on the face of it, an Atari 2600 text adventure is
+   ridiculous. An Atari 2600 text adventure that attempts to compress
+   several hundred pages of densely-written prose into a 4K ROM image is
+   even more ridiculous. It should be obvious even to the dimmest that
+   the game is not intended as a serious interpretation of one of the
+   most complex works of fiction ever put on paper, although it may in
+   fact be about the best one can do given the limitations of the
+   medium.
+
+   Fellowship of the Ring is intended as a gentle spoof of the
+   retro-gaming community, the mindset that attempts to produce
+   derivative works in woefully inadequate media, fanfic authors in
+   general, and the rec.arts.int-fiction and IFMud communities in
+   particular.
+
+Nothing conveys these sentiments more than the "Fellowship of the Ring"
+(FotR) "cover" artwork. Robb Sherwin's magnificently-drawn battle scene
+between Gandalf and the balrog could lead a player (if he were born
+yesterday, perhaps) to expect an epic of modern cinematography and
+Doom-like gameplay. Such a player would be more than a wee bit
+disappointed.
+
+This deception follows tradition. The Atari cartridge jacket for
+"Baseball" conjured images of America's game that would have made Ken
+Burns envious. The actual game featured two block figures and four tiny
+bases on an all-green background. The jacket for "Combat" made you run
+for cover as jets screamed across the smoky sky and fell tanks overran
+your camp. The actual game featured two block figures and four tiny
+bases on an all-green background. (Kidding. The background was blue.)
+
+But even Atari wouldn't have had the temerity to release FotR in the
+late '70s. Not from any moral qualms, but from a marketability
+standpoint. Sure, reduce a work of epic scope to a few blips and doinks.
+Go ahead, imply that the spectacular action and grand strategy depicted
+on the cover occurs in the game. But, for goodness sake, you gotta have
+replay value.
+
+So, can you play FotR? Yes, you can play it. This isn't just a clever
+joke, is it? No, it's not. But you must clear some hurdles, first. I had
+to download and install an Atari emulator. Then I spent several minutes
+tinkering with flicker rates and color, never really getting them to
+satisfaction and settling for "close enough." This is not the game's
+responsibility, of course, but a prospective player whose system isn't
+already wired for hot Atari-2600 action should plan for a few minor
+aggravations setting up the environment.
+
+With that accomplished, you assume the role of Frodo, the ring-bearer.
+You'll encounter key scenes from Tolkien's "Fellowship of the Ring" with
+none of that boring travel stuff. The top of the screen briefly
+describes the current situation. The bottom displays one of several
+possible actions. You scroll with your joystick (or your keyboard keys
+of choice) and when you reach the action you want to perform, you press
+the fire button (for my money, nothing says "big red button" like
+alt-tilde-F3.)
+
+When your action matches what Frodo did in the book, you advance to the
+next scene. Doing the wrong thing results in a "no, silly, that didn't
+work" type message and an implied invitation to try again. If you've
+read the book, you'll have a fifteen-second head start for each
+encounter. You'll finish the entire game in five or six minutes,
+depending.
+
+Disclaimer: no socks were knocked off in the playing of FotR. But I did
+feel a strange beauty with its competent simplicity. The meta-experience
+implied in the manual wouldn't have worked without a functioning game
+underneath. Adam mixes practical joke with compassion, satire with
+devotion. And unlike "Baseball", FotR has no blocky graphics that remind
+you you're playing a game. Nope, just text and your own imagination.
+Hey...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Stas Starkov <stas_ SP@G mail.rb.ru>
+
+NAME: I'll
+AUTHOR: Sean Barrett
+EMAIL: buzzard SP@G world.std.com
+DATE: 2000
+PARSER: Inform Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/ill.z5
+VERSION: Release 1
+
+There are some IF games that can't be narrowly described without
+completely spoiling the enjoyment of somebody who hasn't played them
+yet. And "I'll" is one of those. So my review will be ultra-short.
+
+"I'll" is very well written from (my) literary point of view, and, while
+being experimental and a bit oddball, the game provides a good heap of
+enjoyment. It is puzzle-less (sort of). And you may finish the game
+in... well, very fast... or you will not.
+
+If you like literature experiments, you should try the game. Absolutely.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Øyvind Thorsby <jthorsby SP@G c2i.net>
+
+TITLE: Mystery Science Theatre 3000, Adventure 102, Reel 1
+       Also known as: Mystery Science Theatre 3000 Presents "A Fable"
+       Possibly also known as: A Fable: An Interactive MiSTing
+AUTHORS: Graeme Cree
+         Ported to Z-Machine by Stuart Moore
+         Based on the game A Fable, by Stan Heller
+EMAIL: Unknown
+DATE: July 2000
+PARSER: AGT/Inform
+SUPPORTS: AGT/Zcode interpreters
+AVAILABILITY: IF-archive
+URL: https://ifarchive.org/if-archive/games/agt/mst3k2.zip (AGT)
+     https://ifarchive.org/if-archive/games/zcode/mst3k2.z5 (Inform)
+VERSION: Release 5
+
+[Note: This review is based on the Inform version.]
+
+Some things you should know:
+
+Mystery Science Theatre 3000 is a TV show where a man and two robots
+watch actual bad movies and make fun of them. It is approximately the
+sixth best TV show ever. C. E. Forman stole the show's concept and
+characters and used it to make fun of the game Detective. The result was
+my all-time favourite computer game, Detective: An Interactive MiSTing.
+Now the concept is re-stolen, this time to make fun of A Fable.
+
+A Fable is a game about a man walking around in surreal places. It has
+already been reviewed for SPAG. It was described as "utter drivel", which
+seems fitting. The concept of MiSTing has also already been discussed in
+SPAG, in several reviews of Detective: An Interactive MiSTing. So all
+that is left for me is to say something about the quality of this game.
+
+It is not as good as Detective: An Interactive MiSTing, partly because A
+Fable has fewer bugs to make fun of. Partly also, I think, because it is
+harder to make fun of surrealism. A Fable is also a bit more difficult
+than Detective, so after I had explored most of the game, I spent a
+short but boring time, with a terrible absence of robot jokes,
+completing it. I still thought it was pretty funny though. I laughed out
+loud a few times.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Adam Myrow <myrow SP@G eskimo.com>
+
+TITLE: Pick Up The Phone Booth And Aisle
+AUTHORS: David Dyte, Steve Bernard, Dan Shiovitz, et al.
+EMAIL: Too many to list
+DATE: June 2001
+PARSER: Inform Standard
+SUPPORTS: Any Zcode interpreter
+AVAILABILITY: Freeware IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/PUTPBAA.z5
+
+When several regulars of rec.arts.int-fiction got together and decided
+to do yet another parody of Pick Up The Phone Booth and Die, they
+decided to also parody Sam Barlow's Aisle while they were at it. The
+result is one of the most side-splitting things to ever be uploaded to
+the IF Archive. Not only do we see the two games mentioned above being
+ripped to shreds, there are more inside jokes than you can shake a stick
+at. This has Sins Against Mimesis beaten hands down.
+
+Basically, you find yourself in the town square with the phone booth
+from the original Pick Up The Phone Booth And Die. However, you quickly
+discover that like Aisle, this is a one-move game. You have exactly one
+move to do something and then it's over. However, unlike Aisle, it
+doesn't loop back to the start. You'll have to restart the game by
+typing restart or undo and try something else. It's too bad that they
+couldn't have done it like Sam Barlow, but that's the only flaw in what
+is supposed to be a big joke. Anyhow, every time you make a move, the
+response is totally off the wall. Nearly all Inform actions are handled,
+and there are few default responses to be had. Most of the responses
+bear no relation to each other, so forget trying to make a story out of
+it. The point is to have fun and I did. However, there is one set of
+responses involving a particular object that are related and I had fun
+trying to get them all. For a starter, try >INVENTORY.
+
+Here are a few of the responses to illustrate what I mean by inside
+jokes. I've cut out the restart/restore/quit prompt and the initial
+description since they never change.
+
+   >kick booth
+   The booth's eyes widen as you draw your foot back. "Terry, no,
+   please, oh God you can't--" Its cries are cut short as your foot
+   slams into it. With the sound of eggshells cracking, the booth
+   fragments into countless pieces which are quickly lost in the mud.
+
+       *** You have quit smoking ***
+
+   >smell
+   You inhale deeply, smelling for the background scent of this
+   particular location. It smells like broth... no, wait, is that
+   tortillas?
+
+
+       *** You have been ruined ***
+
+   >enter booth
+   There are 56 fellow MIT students in there already, but one more and
+   you get the WORLD RECORD. You somehow squeeze between Misty and
+   Muffy, and end up sandwiched beside Mindy. Then the creaking begins.
+   Then the cracking. Then the exploding. Fifty-seven MIT students end
+   up scattered across the town square, many crippled for life, but
+   every single one ends up in the Guinness Book of Records.
+
+
+       *** You have been recognized ***
+
+So, only if you know something about the history of Infocom, a bit about
+Losing Your Grip, and have some familiarity with the Inform Designer's
+Manual will all those responses make sense. There are tons more like
+that. Be sure to try out your spells from the Enchanter series and of
+course, the magic words from Adventure.
+
+The bottom line is that an IF veteran who is looking for something to
+kill some time after a bad day should download this and give it a shot.
+A newcomer to IF might not understand a lot of the jokes, and if you've
+never played Pick Up The Phone Booth And Die or Aisle, you should play
+them before to understand why PUTPBAA works the way it does.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Stas Starkov <stas_ SP@G mail.rb.ru>
+
+NAME: Pick Up the Phone Booth and Dye
+AUTHOR: Eric Schmidt
+EMAIL: None given
+DATE: 2002
+PARSER: Inform Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/boothdye.z5
+VERSION: Release 1
+
+This game is a short one-joke game with a single puzzle. (And the joke
+is not very much in the style of "Pick Up the Phone Booth and Die",
+which I advise you to play first.) What to say about the game? Well, the
+game is quite accurately done. That is, it gives sufficient answers to
+player actions, without visible holes in implementation, or missing
+descriptions. But the wild psychedelic charm of "Pick Up the Phone Booth
+and Die" is not there! The only puzzle of the game is not bad, however
+-- and the game has been written to demonstrate the puzzle, I suppose. 
+
+Completion time? From several seconds, to several minutes.
+
+Resume: If you like short-puzzle-one-idea games -- try "Pick Up the
+Phone Booth and Dye". It's worth the tiny bit of your time you'll spend
+on it.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Alex Freeman <freemanry SP@G aol.com>
+
+TITLE:  Planetfall                       
+AUTHOR:  Steve Meretzky
+EMAIL:  Damned if I know
+PARSER:  Standard Infocom parser
+SUPPORTS:  Practically all
+AVAILABILITY:  Activision
+URL: Not available.
+
+Planetfall is one of the greatest adventure games I have ever played!
+All the puzzles are logical and have, more or less, the correct balance
+of difficulty. It's amazing how the puzzles can be solved once you just
+step back and think about them a bit. However, I think a little
+background is in order before I move on.
+
+You start off as an Ensign Seventh Class, and the scourge of your
+existence is Ensign First Class Blather, who acts like a drill sergeant.
+However, as fate would have it, some terrible disaster happens to the
+station whose floor you are being made to scrub, and you (should) take
+advantage of this opportunity by going into an escape pod. It takes you
+to a deserted planet, and you have to figure just what the heck you're
+supposed to do there. Along the way, you end up meeting the robot Floyd,
+whom every Planetfall player seems to like.
+
+This brings me to the characters. For interactive fiction, the
+characters are very well developed, since IF NPCs have the tendency to
+have little or no personality at all. Because of this, I feel that
+Planetfall's NPCs are big achievements, even though they wouldn't be
+considered well developed characters for non-interactive fiction since
+they are basically flat stereotypes. Floyd is basically like a cheery
+little child whom every player seems to find charming. I have to love it
+when he says how he was able to solve all the puzzles in Zork except how
+to get into the white house. Blather acts like a stereotypical drill
+sergeant, and most of his personality is revealed through your dreams
+since you must sleep during the game. I have to love that one dream
+sequence in which you refuse to scrub the scenery and throw your brush
+at him, only to have him go after "the valuable company property". ^_^
+
+Also, the atmosphere is pretty good. It has humorous touches amongst an
+interesting planet. It has a machine shop, some offices, some mess
+halls, and also a library. The writing is pretty good too. It gives fine
+descriptions of the rooms and is some of the funniest writing I've seen
+this side of the Space Quest series (which is remarkably similar in many
+ways). As for the parser, it's a typical Infocom parser, so it's quite
+good.
+
+Overall, Planetfall is easily one of the best adventure games I've ever
+played because of the balanced and logical puzzles throughout the game,
+the humorous writing, and the amusing characters. My only complaint
+about the game is that the laser wasn't described well enough, making
+two puzzles difficult. I thought that the laser was supposed to be like
+one of those laser pointers, but it's actually more like a laser gun.
+However, Planetfall is definitely one game you should check out!
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Daphne Brinkerhoff <cendare SP@G hotmail.com>
+
+TITLE: Savoir-Faire
+AUTHOR: Emily Short
+EMAIL: emshort SP@G mindspring.com
+DATE: April 2002 (original)
+PARSER: Inform
+SUPPORTS: Zcode interpreters
+AVAILABILITY: IF Archive
+URL: http://emshort.home.mindspring.com/savoirfaire.htm
+https://ifarchive.org/if-archive/games/zcode/Savoir.z8
+VERSION: 6 (most recent)
+
+(Note: I have recently moved, and my computer is still in pieces in
+boxes, so I am not able to replay the game to get exact details. Also, I
+played an older release (not sure which one).)
+
+Savoir-Faire is an excellent game, featuring a strong sense of place, an
+innovative backstory & magic system, and a protagonist whose
+idiosyncrasies are charming in a way that reminds me of Varicella.
+
+Place: The opening "room" is so present and alive that I spent many
+turns there before even going inside. Throughout the house, the
+furniture, doors, molding, and knickknacks all contribute to a feeling
+of really being there. But what would you expect from the author of
+Pytho's Mask and Best Of Three -- both games which focus on conversation
+and still have room for books, costumes, inlaid tiles...? "Place" also
+encompasses the idea of culture. With sausages strung up on the rafters
+and seven planets in a model of the solar system, it's clear that we
+aren't in Kansas any more. So *this* is "old skool"? I don't remember
+Zork and Advent being quite like this.
+
+Backstory: Obviously, I can't say much about this without giving away
+the plot. But even the brief opening text raises a number of questions:
+Where is everyone? What is your relationship to them? To this house? Who
+are you, that you can so blithely gamble away your life savings and
+assume someone else will bail you out? Like so many games, Savoir-Faire
+has a subplot about discovering your true identity, but it's low-key: no
+melodramatic scenes of revelation.
+
+The magic system: Figuring this out is one of those "aha!" moments, so
+again I can't go into great detail.
+
+In some ways, though, I felt frustrated -- the magic seemed to be so
+powerful that the limitations felt arbitrary at times. The thought "If
+action A works, why doesn't action B?" crossed my mind many times.
+
+If I may digress briefly, I think this is a universal problem with
+powerful characters in general. It could be called the Commander Data
+problem (after the Star Trek character). If you have an exceptionally
+able character, plots tend to fall apart. "A heavy bulkhead? Data can
+lift it. An encoded password? Data can decrypt it. A rescue in the
+vacuum of space? No problem!" So the writer ends up inventing more or
+less believable reasons why this power can't be used to solve this
+problem. For me, this *mostly* works in Savoir-Faire, but there are
+occasions when I just rolled my eyes and went to the walkthrough. Of
+course, this can be written off as more of that "old skool" atmosphere.
+
+I should add that another alternative (severely limit your character's
+powers) is the more usual way of handling things -- hence the numerous
+magic systems with equivalents of "fnord: create illusion of blue
+antelope", and similar very specific powers. What Savoir-Faire attempts
+is more interesting, and mostly more intuitive -- if I *had* magic
+powers, this is how I would both prefer and expect them to work.
+
+Protagonist: A bit prissy, a bit amoral (breaking and entering starts
+the game, after all!), a bit noble -- yeah, kinda like Varicella. I
+particularly enjoyed being hungry and eating. This guy is *serious* (and
+seriously vivid) about his food. Fortunately, he does care about
+something other than himself. And there is evidence (especially if you
+play it right) that he has a strong sense of humor and self-mockery.
+Basically, I enjoyed being Pierre.
+
+Other: I especially enjoyed the memories that pop up from time to time
+(they reminded me of an aspect of L. Ross Raszewski's "Moments Out of
+Time." My only quibble is that there weren't quite as many of them as I
+wanted, and they seemed to cluster in the beginning parts of the game.
+
+And now I've gotten through a whole review without mentioning the
+puzzles! Isn't that why people play "old skool" games? I had fun with
+some of them (finding a light source and exploring the cellars,
+particularly). Mostly the puzzles are tied up with the magic system
+described above. If you like the magic system, you'll like the puzzles
+(and mostly, I did).
+
+To sum up, while this game may claim to be "old skool", that doesn't
+mean Yet Another Dungeon Crawl. There's atmosphere & polish which bring
+Savoir-Faire to a higher level than that.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Eytan Zweig <eytanzw SP@G yahoo.com>
+
+TITLE: Tinseltown Blues
+AUTHOR: Chip Hayes
+EMAIL: chiphayes SP@G attglobal.net
+DATE: June 2002
+PARSER: Inform
+SUPPORTS: Z-Machine interpreters
+AVAILABILITY: IF Archive
+URL: https://ifarchive.org/if-archive/games/zcode/blues.z5
+VERSION: Release 1.1
+
+Tinseltown Blues is nothing more, and nothing less, than a competent
+puzzle game. It tells no story -- there is a plot, but that plot is
+deliberately paper-thin, and makes sure that it doesn't get in the way
+of the puzzles. The game itself has a simple, and well-tried goal: the
+scavenger hunt, where you must find objects that have been placed in
+totally arbitrary, but always hard to reach, locations. The nice thing
+about Tinseltown Blues is that it has no pretensions of being anything
+more than that -- it's a game, to be played and enjoyed, not anything
+more, and it knows it.
+
+While the game doesn't have a plot to speak of, it does have an
+interesting choice of location: Paramount Studios. The choice of a
+Hollywood studio, while obviously at least partially motivated by the
+fact that the game's author actually works there, is a nice touch --
+where else would you expect to find office buildings side-by-side with
+mechanical reconstructions of Zork I? At times, however, the liberties
+that are taken with Paramount seem so strenuous -- all the NPCs have
+totally cartoonish names, and some geography seems to have been tampered
+with for the sake of the puzzles -- that I'm not sure the game wouldn't
+have worked better in a fictional studio. If there was more in the game
+that actually spoke of the real Paramount Studios I may have felt
+differently, but other than a reference pamphlet and some celebrity
+graves, there really wasn't anything there that had any particular
+resonance for me. 
+
+That, however, is a minor quibble, since the real heart of the game is
+its puzzles. And, as far as puzzles go, it has some good ones. There are
+quite a few of them, most of them in medium difficulty -- not so easy as
+to not require any thought, but not hard enough to make me run to a
+walkthrough at any point (which was fortunate, since the walkthrough was
+written after I won the game, by myself). There are precious few
+guess-the-verb situations, and it is very rare to be in a situation in
+which you don't know what to do next -- it's usually a question of how.
+Some alternate solutions are available, though not to all puzzles. The
+puzzles aren't perfect -- there is one particular puzzle (the parrot),
+for instance, where it was very clear to me what I had to do, but not
+why it would help me -- I had to solve the puzzle in order to discover
+why I needed to solve it. It is also possible to lock yourself into an
+unwinnable state by missing certain events, but the time window given is
+so wide that it's very unlikely that this would happen, as long as you
+remember to wander around.
+
+The interface presented a couple of issues, however. The game features
+an item bulk system, where some items are too large to brought into
+certain places, or to be carried simultaneously. This works quite well
+as a way to narrow down the field of possible solutions to one or two of
+the puzzles. The problem is that there is also an item weight system --
+carrying heavy items tires you, and gives annoying messages and even
+more annoying effects. There is absolutely no reason for this and it
+doesn't contribute anything to the game.
+
+There are some minor bugs -- a few typos, and one or two places where
+items give incorrect descriptions (one locked door has the deadbolt on
+the wrong side in the descriptions, though it functions correctly). None
+of them seriously impaired my enjoyment of the game. Tinseltown Blues is
+not an ambitious game, but what it does it does well, despite a few
+minor nitpicks. If you enjoy puzzles, and want some that won't have you
+pulling out your hair in frustration, I suggest trying it out.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Stas Starkov <stas_ SP@G mail.rb.ru>
+
+NAME: WARP!
+AUTHOR: Dosius Software Co. and Richard Kelly
+EMAIL: None given
+DATE: 2002
+PARSER: Inform Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/warp.z5
+VERSION: Release 2
+
+Beginning of the game:
+
+   You're on a space station.  This is nothing special in itself, but 
+   for some reason, due to your body's genetics, your very presence is
+   causing the station to become unstable.  Stay aboard, and the station
+   will explode.
+
+   ...
+
+   WARP!
+   Usocon interactive fiction - a science fiction story
+   (C)Copyright Dosius Software Co. and Richard Kelly, 2001-2002
+   Release 2 / Serial number 640101 / Inform v6.21 Library 6/10
+   Interpreter claims to support Z-Machine Specification 1.0
+   PC interpreter version F detected.
+
+   Welcome to WARP!
+   Try not to mess up too quickly.
+
+   Bedroom
+   This is a rather sparse bedroom.  About the only thing here is your
+   bed, which folds up into one of the floor tiles.  Exits lead north,
+   west and east.
+
+   What should I do now (dare I ask)?
+   Well? _
+
+Looks like a jokey game, doesn't it? Well, the truth is: the game is
+implemented badly, and no joke can prettify the impression. More
+examples:
+
+   What next? x bed
+   [I don't see that here.]
+
+   What should I do now (dare I ask)?
+   Well? w
+
+   Bathroom
+   This is a modest bathroom with doorways leading east and southeast.
+   You can see a sink and a toilet here.
+
+   What next? x sink
+   In the sink is a ring.
+
+   What next? get ring
+   Taken.
+
+   What next? wear ring
+   You can't wear that!
+
+   What next? x ring
+
+   What next? asdf
+   I know your waist line has a bigger number than your IQ, but even you can do
+   better than that.
+
+   What next? _
+
+I think comments are needless. I mention only one more thing --
+instant-death rooms.
+
+Summary: An amateurish work. The premise is not bad, but not enough for a
+_game_.
+
+
+########################################################
+###### REVIEW PACKAGE: AN UNNKUL BUNCH OF REVIEWS ######
+########################################################
+
+From: Valentine Kopteltsev <uux SP@G mailru.com>
+
+Let me start with a confession: I don't share the dislike of what's
+usually called out-of-date game devices (OGDs), such as puzzles
+involving dark rooms, inventory limits, exhaustible resources, and (no,
+don't lynch me immediately!) even mazes -- most members of the IF
+community seem to have. I see these devices solely as designing tools,
+which can't be "bad" or "good" in themselves -- it's rather a matter of
+the author's talent and skill to use them properly. Sure, a game
+consisting of several dozens "rooms with twisty little passages, all
+alike", all of which you need to visit and to map out in order to find
+one single secret button that opens you the entrance to yet another two
+hundred "little twisty passages" sucks, especially if you've got to
+master such a maze with a lantern that only lasts for thirty or so
+turns. However, to me, it doesn't prove mazes are faulty -- rather, it
+proves that (a) this particular author can't keep within reasonable
+limits, and (b) that *ANY* idea can be over-developed to absurdity.
+
+One illustration of the last thesis, just to make my point clear: people
+have different attitudes towards long, detailed room descriptions; some
+like them, some don't, but no one thinks such descriptions are flawed in
+themselves, and should be banished from IF. Now imagine a game that
+starts with umpteen screens of long description depicting every item
+present in the room, no matter how irrelevant to the game it is, with
+indication of each dust particle's exact position in a Cartesian
+coordinate system. Well, I doubt you'd bother finishing reading this one
+description, much less completing the game.
+
+I'm sorry about such a long preamble, but it had to be. I just don't
+want to confuse anybody by praising games packed with OGDs (and most of
+the games reviewed here are, with little exception) without explaining
+myself.
+
+But now, let's proceed to the reviews.
+
+-=-=-
+
+TITLE: Unnkulian Underworld: The Unknown Unventure (better known as Unnkulia 1)
+AUTHOR: D. A. Leary
+EMAIL: N/A
+DATE: 1990
+PARSER: TADS Standard
+AVAILABILITY: Former shareware, now free
+URL: https://ifarchive.org/if-archive/games/adventions/adventions.zip
+
+Well, considering the aforesaid, we're dealing with a practically
+flawless game here;). Seriously, Unnkulia 1 has everything a text
+adventure needs to be successful: a nice setting, a memorable player
+character, good puzzles... Admitted, it's not as deep as most of its
+successors -- but for what it lacks in depth, it makes up in bright
+humour, and vividness of descriptions, with "all the recurring themes of
+the Unnkulian games established here, from Duhdhism and the obligatory
+fried egg puzzle to the Acme Corporation and its vastly inferior
+products" (sorry for the quotation from Carl Muckenhoupt's review in
+Baf's Guide, but you simply couldn't put it better -- except that funny
+reincarnations of the Bridge Troll from ADVENTURE, the obligatory
+presence of a bar/lounge, and a couple more things probably should be
+added to the list of recurring themes).
+
+One trick David Leary used to make his player character appear more
+realistic was especially amusing for me: you see, the game begins with
+the death of the man whose slave the PC has been. It must be said the
+hero doesn't like his late master, Kuulest, too much. On the other hand,
+Kuulest was the centre of his world for quite a long time. And thus,
+during the course of the game, the former slave keeps recalling his
+master on every appropriate, and sometimes less appropriate, occasion,
+referring to Kuulest with words derivative of "geeze" (as in, "The old
+geezebreath sure won't need it anymore, so it's yours now.") These
+reminiscences form yet another recurring theme -- this time, not for the
+whole series but for the game -- which helps the overall atmosphere a
+lot. Likewise, the NPCs are worthy of praise: they're probably not the
+most advanced ones, in that they don't carry out complex scripts, nor
+are they burdened by an AI; no, they've been implemented under the usage
+of but the basic animation techniques -- which hasn't kept them from
+being vivid, and characterized nicely (the way one of them suddenly
+becomes interested in his fingernails when being asked for help still
+makes me smile when I think of it).
+
+The only thing one could complain about in Unnkulia 1 is, it's somewhat
+straightforward. Somewhere in the beginning of the game, you get your
+task -- to save the world by doing this and that -- then, you go and do
+it, and that's about it. The whole layout of the game, plot- and
+puzzle-wise, seems to insist on the principle formulated by Michael
+Roberts in his TADS Manual: "Filling in the details of the plot can
+proceed by 'working backwards' from the overall goal <of the game> to
+the major sub-goals, then backwards to the smaller goals that must be
+reached for each sub-goal, and so on." OK, that's not a bad thing in
+itself -- I'm aware it's to a very large extent a matter of personal
+taste whether you prefer more or less "goal-oriented" plots/puzzles/
+games; thus, I'm just expressing my own opinion here.
+
+And one final observation: you know, the whole time I've been playing
+Unnkulia 1 I had a funny feeling the game reminded me of something. This
+feeling remained latent until recently, as I was reading a book that was
+part of the Myth series by Robert Lynn Asprin, and came across a
+reference to ACME corporation. At this moment, everything suddenly slid
+into place: I realized that, coincidentally or not, the mood in Unnkulia
+1 was very reminiscent of the Asprin's humorous works' style (not that
+it's a rip-off, mind you). Again, it's entirely a matter of personal
+preferences whether to see it as a 'good' or a 'bad' thing; for me,
+however, it was as wonderful as meeting an old pal somewhere you didn't
+expect to see him.
+
+SUMMARY:
+
+PLOT: Rather straightforward "save the world"
+ATMOSPHERE: Wonderfully Asprinish
+WRITING: Vivid and humorous
+GAMEPLAY: Goal-oriented, a bit linear
+BONUSES: Rich setting with many Easter eggs, references to "old geezer
+Kuulest"
+CHARACTERS: Non-exceptional, but nice
+PUZZLES: Not that hard, but fun to solve
+DIFFICULTY: Claims to be (and probably is) handleable (5 out of 10)
+
+-=-=-
+
+TITLE: Unnkulian Unventure II: The Secret of Acme (or, simply Unnkulia 2)
+AUTHOR: David M. Baggett
+EMAIL: N/A
+DATE: 1991
+PARSER: TADS Standard
+AVAILABILITY: Former shareware, now free
+URL: https://ifarchive.org/if-archive/games/adventions/adventions.zip
+
+When I started playing Unnkulia 2, my first impression was, I was dipped
+into the world of Unnkulia 1 again -- which surely wasn't much of a
+surprise. However, this was the case of the first impression that's
+deceptive: the longer I played it, the more I got the feeling Unnkulia 1
+and 2 were quite different. I admit I had to mull over a lot before I
+could get at the roots of this difference, but I think I found the
+answer.
+
+The thing is, David Leary's goal seemed to be the creation of a *game*
+that'd be fun to play; by contrast, David Baggett seemed to be trying to
+create a *world* that'd be fun to explore. Thus, in Unnkulia 1, you're
+given a goal to work towards practically at the very start; in
+Unnkulia 2, you are set out into your yard without any particular goal.
+Well, closer to the end you'll receive some sort of hint what to do, but
+you still won't know what's *really* going on until you make the final
+move. Hence, your stimulus not to give up and to keep playing here is
+the exploration of the game world. This might appear like a rather
+meagre motivation, but the author put enough effort into the setting to
+make such "exploring for the sake of exploring" an entertaining pastime.
+The game impresses by plentiful, maybe even excessive scenery, lots of
+interesting things to do, and loads of... OK, looks like we're in for
+another diversion. ;)
+
+It's been said Unnkulia 2 contains loads of red herrings; to me,
+however, that doesn't seem true. You see, a red herring is something the
+author puts into his game for the sole purpose of misleading the player.
+For instance, let's think of a game taking place in an underground
+station. Say, a locked trophy case containing a magic wand, that stands
+amidst the platform, and for which no key exists in the game, clearly is
+a red herring. However, a fully functional control gate is not -- it's
+rather a well-implemented scenery object, and remains such one even if
+there is no need for the player to ever pass through it. Similarly, all
+the "red herrings" (maybe with very few exceptions) in Unnkulia 2 turn
+out to be scenery objects, which give the setting even more depth.
+
+And one more difference between the two Unnkulias, which probably also
+results from the dissimilar approaches used by their authors: Unnkulia 1
+can be mapped out much easier than Unnkulia 2. The latter resembles Zork
+a bit, in that it sometimes provides a sudden shortcut between locations
+that seemed to be on the opposite ends of the map. Such a layout makes
+the place appear more "tight" -- the single locations hang together much
+better.
+
+The humorous aspect of the game isn't as obvious as in Unnkulia 1, where
+the jokes virtually are hurled at the player; here, they are hidden in
+object descriptions and responses. Unnkulia 2 presents a more restrained
+style than its predecessor -- which doesn't mean it's any less funny.
+One of my favorite moments: somewhere in the game, you arrive...
+
+   On Top of Dawg Rock, West of the River
+
+   Here you are, on top of Dawg Rock. This would sure impress the
+   climbers, you think to yourself. Too bad no one's around to notice.
+   But no matter. The striking beauty of Dawg Rock and the landscape
+   below make standing up here alone a great joy.
+
+   <SKIPPED> 
+
+   The rocks become trickier here, and consequently the only ways to go
+   are east, back to the bridge, and down, which I would highly advise
+   against.
+
+   > 
+
+(Naturally, the first thing I tried was...)
+
+   > DOWN
+
+   I told you, I advise against it.  Must I always nag?
+
+The puzzles in Unnkulia 2 were very hard for me -- to a large degree
+because the game wouldn't offer a direction to go; even the built-in
+"hint machine" didn't always help. Also, there were three rather
+large mazes. Since, as mentioned above, I've got nothing against
+mazes as such, and because I'm so fond of Unnkulian games, I'd say
+Mr. Baggett was on the verge of overdoing it in Unnkulia 2; someone
+less (or more ;) biased probably would say he passed this verge by
+far. Still, the puzzles were well-designed and satisfying to solve.
+
+But with all these nice features, the game would fall apart because
+of its rather loose construction -- if it wasn't for the plot. At
+first, you probably wouldn't see much of it, for the reasons
+described above. You'd keep playing because of that feeling there's
+something interesting waiting for you around the corner. Gosh, I've
+played enough games (and read enough books, for that matter) that
+used exactly this device -- and many of them turned out to be a
+let-down. But not Unnkulia 2 -- the final twist of the plot nicely
+tied up all the loose ends that cropped up during the game, and
+secured the whole structure, like a keystone of an arch. Great it
+was, just great.
+
+SUMMARY:
+
+PLOT: Probably appears to give more freedom to the player than it does
+      in reality
+ATMOSPHERE: Certainly present
+WRITING: More restrained than in Unnkulia 1, but not less humorous
+GAMEPLAY: Almost totally undirected
+BONUSES: Generous setting with LOTS of Easter eggs
+CHARACTERS: Not as vivid as in Unnkulia 1
+PUZZLES: Well-designed, but a bit illogical sometimes
+DIFFICULTY: Claims to be 7 out of 10 (to me, it seemed more like
+            10 out of 10)
+
+-=-=-
+
+TITLE: Unnkulia Zero: The Search for Amanda
+AUTHOR: D. A. Leary
+EMAIL: N/A
+DATE: 1993
+PARSER: TADS Standard
+AVAILABILITY: Former shareware, now free
+URL: https://ifarchive.org/if-archive/games/adventions/adventions.zip
+
+As I played through more games in the Unnkulian series, I got the
+growing impression both of the major game authors, Mr. Leary and Mr.
+Baggett, influenced each other, so that their approaches to game
+design became closer (if you read the previous review, you'd know
+what I mean).
+
+Unnkulia 0, for instance, is much less "linear" than Unnkulia 1, the
+previous game by Mr. Leary -- although the central goal of the game
+still is defined at the very start, the sub-goals don't stand out as
+clearly.
+
+The plot was much deeper than in Unnkulia 1, though its main idea
+seemed somewhat moot to me. The atmosphere, however, remained as
+light-hearted as in Mr. Leary's previous work, including the
+recurring theme -- this time, those are references to the "powerful
+wizard" Wowsa Willy.
+
+Puzzlewise, the game left me with ambiguous feelings: on one hand, the
+author clearly made a serious effort to make it more challenging for the
+player; on the other hand, this effort partly resulted in a much larger
+possibility to make it unwinnable without warning than in any of the
+previous games of the series. Plus, a couple of puzzles seemed to be
+loaned directly from Unnkulia 2. Since I doubt Mr. Leary hadn't got
+enough fantasy and skill to create good puzzles (as he had proven the
+opposite too often), I considered this to be an in-joke I didn't
+understand. But it wasn't of a benefit to the game, anyway. And a note
+for maze-haters: Unnkulia 0 contains two pseudo-maze puzzles -- mostly
+for the purposes of mocking the universal maze-abhorrence, it seems.
+
+All in all, I'd say this work organically fits into the Unnkulian
+universe, providing lots of background for it, but doesn't introduce
+(m)any groundbreaking ideas. Because of this, it probably would be
+wise to try out one of the previous games first; chances are high
+that, if you don't like them, you won't enjoy Unnkulia 0, either (and
+vice versa).
+
+SUMMARY:
+
+PLOT: Very solid
+ATMOSPHERE: (Sometimes inappropriately) light-hearted
+WRITING: Not very different from Unnkulia 1
+GAMEPLAY: Nothing unusual
+BONUSES: Provides lots of background, funny references to other Unnkulian
+         games, as well as ADVENTURE
+CHARACTERS: See the comment for WRITING
+PUZZLES: Fine for the most part -- the quibbles are listed in the review
+DIFFICULTY: The game's statement to be 7 out of 10 seems to be true
+
+-=-=-
+
+TITLE: Unnkulia One-Half: The Salesman Triumphant
+AUTHOR: D. A. Leary
+EMAIL: N/A
+DATE: 1993
+PARSER: TADS Standard
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/adventions/adventions.zip
+
+This game, in which you play, for a change, on the "bad" side -- an
+Acme salesman -- has been created as sort of an "appetizer" for
+Unnkulia 0; thus, it isn't either hard or deep. It was like in a
+circus -- the spotlights went on, the main comedian entered the lit
+circle in the arena, and the performance began -- now, who wouldn't
+enjoy a clown's show?
+
+Well, *I* didn't.
+
+As the story progressed, and the PC got his prescribed portion of
+kicks and socks, I noticed that, instead of laughing, I started to
+feel pity for the poor guy. Sure, an Acme salesman isn't the most
+pleasant person to deal with, and an intellectual giant he isn't,
+either -- but not giving him even a single chance just seemed unfair
+to me. To put it simply -- few things in IF are more terrible than a
+game author who doesn't like his own PC at all, no matter how bad
+this PC is. (Again, that's entirely my personal point of view --
+regarding both what's worst in IF, and whether the author of this
+game really doesn't like his PC).
+
+Fortunately for Unnkulia 1/2, Mr. Leary's sense of humour (which,
+admittedly, remains up to the mark) finds other outlets than derision
+of the PC, so that the game had its enjoyable moments, after all.
+(For example, try referring to the fabled Bicorn of Radeekal with
+"goat").
+
+And that's pretty much all I can say about the game -- in all other
+respects, it's not outstanding; if you like Unnkulia in general, and
+aren't as over-sensible as myself ;), you're probably going to enjoy
+it. One final warning, though: like in other Unnkulian games, you
+sometimes can get yourself killed without warning; however, *unlike*
+in other Unnkulian games, you can't undo your last action after doing
+that (I don't know the reason why this feature has been removed from
+Unnkulia 1/2, but I remember it being an unpleasant surprise when I
+played it); thus, "save early, save often".
+
+SUMMARY:
+
+PLOT: Boils down to a treasure hunt
+ATMOSPHERE: Clownery
+WRITING: Unnkulian standard
+GAMEPLAY: Doesn't differ much from ADVENTURE
+BONUSES: Clever embedding into the Unnkulian universe
+CHARACTERS: Unnkulian standard
+PUZZLES: Not very challenging, but some are nice
+DIFFICULTY: Modestly describes itself as being trivial (2 out of 10)
+
+-=-=-
+
+TITLE: The Legend Lives!
+AUTHOR: David M. Baggett
+EMAIL: N/A
+DATE: 1994
+PARSER: TADS Worldclass
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/adventions/adventions.zip
+
+In previous reviews, I've been trying -- I know, with varying success
+-- to remain objective, and not to over-praise the reviewed games.
+But now we got to a game that can't be over-praised;). I think it's a
+true gem among other Unnkulian games (that doesn't mean the others
+are bad, mind you), and deserves to be called a classic not less
+than, say, Curses!, or Spider And Web.
+
+...And now, I'm going to try digging up some grounds for this rather
+daring statement. ;)
+
+Let's start with the setting. The game is set in a rather far future,
+with space travelling, and matter moving, and stuff, and it must be
+said that the game world is very convincing. It seemed alive alright
+-- but at the same time, I got the feeling of being inside a somewhat
+buggy program. Well, it must be said that in the last few years, our
+*real* world often gives me the same feeling -- very much because of
+the steadily intensifying rhythm of life, and the growing amount of
+hack-work in all spheres. In this respect, Mr. Baggett's work turned
+out to be prophetical -- in 1994, the year when Legend was released,
+life wasn't quite like that, though the trends certainly were
+present. Let's add that the scenery in Legend is one of the richest
+in the whole IF-history -- one could spend a couple of hours just
+playing with the gadgets in the game, or watching EV (the Unnkulian
+analogue of our TV). The "create a world that'd be fun to explore"
+approach clearly rules here; the player is taken through a number of
+vastly different worlds -- from a computer centre to a rural
+backwater, from a crowded supermarket to jungle -- and yet, all of
+them feel like parts of a whole. Furthermore, the author cleverly
+uses the opportunities provided by the futuristic technologies (in
+particular, matter moving) to consequently continue the war against
+linearity he declared in Unnkulia 2. For instance, Legend can't be
+mapped out in principle -- only the separate areas of it, because you
+travel from one area to another via matter movers. And while the
+gameplay is somewhat more directed than in Unnkulia 2, because the
+goals stand out much better here, the player still has a lot of
+freedom. Yes, there is a prescribed set of puzzles you need to solve
+to win the game -- but you can, to a quite significant extent,
+determine the order for them to be solved.
+
+Which brings us to the puzzles as such.
+
+At the very start, Legend tries to scare players off by declaring its
+difficulty rating is 10 out of 10; but let me assure you -- it isn't
+that difficult. Yes, the puzzles are hard, but they are very logical,
+too. I'm not very good at puzzle-solving, but I managed to get
+through the game using the built-in hints only for three puzzles (of
+those three, one was a riddle, which traditionally represents a
+stumbling-block for me, and one I'd probably solve without help if I
+kept trying for a few more days -- as it turned out, I was working in
+the right direction) -- though it took me a few weeks. Take this as a
+hint -- I'm not the most persistent person, but I was perfectly
+willing to spend so much time on the puzzles. And remember me saying
+that most games reviewed here, with little exception, are packed with
+OGDs? Well, Legend is such an exception.
+
+Legend has been criticized for not having its NPCs developed enough. I'd
+disagree; to me, it rather seemed that Mr. Baggett was experimenting
+with animation techniques -- probably because he had got disappointed in
+the traditional "ASK ABOUT/TELL ABOUT" method. Among other things, he
+used long "cut-scenes" of non-interactive text for those purposes -- but
+since references to such "cut-scenes" in reviews of Legend have become
+commonplace, I won't say anything else about them. I felt the characters
+were quite vivid; one of my favorite moments was asking a visitor at
+Terminal Velocity about something (though people with UNIX knowledge
+probably will appreciate the response much more).
+
+But the coolest thing about Legend is, it makes you THINK. Think
+about... er, well, an enumeration probably would spoil the fun for
+you. So, why not try to find out by yourself?
+
+SUMMARY:
+
+PLOT: "Unprecedentedly deep" isn't an exaggeration
+ATMOSPHERE: Plenty of it
+WRITING: Makes me envious
+GAMEPLAY: Thrilling
+BONUSES: Too many to be listed here
+CHARACTERS: Rather unconventionally designed
+PUZZLES: Great, just great
+DIFFICULTY: approx. 8 out of 10 (though it claims to be 10 out of 10)
+
+-=-=-
+
+And here, a couple more reviews of "Unnkulia-related" games:
+
+TITLE: GC: A Thrashing Parity Bit of the Mind
+AUTHOR: David M. Baggett, Carl de Marcken, and Pearl Tsai
+EMAIL: N/A
+DATE: 1994
+PARSER: TADS Standard
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/tads/gc-gam.zip
+
+This game isn't part of the canonical Unnkulian series, but it's
+reviewed here because it's set in the Unnkulian universe. You, a
+native of a small Unnkulian village, come to the Acme Institute for
+the Less Convincing Sciences to study there. Your goal is...
+
+Well, your *true* goal in this game is to get as much score as
+possible, because it has been written for the MIT Artificial
+Intelligence Laboratory Olympics, "a competition held between four
+teams of about 40 people each, mostly graduate students, professors,
+and secretarial staff" (quotation from the intro to GC). And it's
+been intended to be, well, a *challenge* for those people;
+consequently, the difficulty of the puzzles varies from "very hard"
+to "impossible"; the fact that many of them are optional, and the
+large number of red herrings don't make things easier. Some technical
+background is absolutely needed to at least understand what the
+puzzles are about; I received a technical education (though it got a
+bit rusty with the time), and it was just enough for me to appreciate
+the elegance and the wit of the puzzles -- after I looked up the
+solution in the walkthrough. To make *real* progress you'd need a
+damn good technical background, knowledge of various aspects of
+computer science, and studying/working experience at MIT. The last
+one is required, because many puzzles are totally, hopelessly
+in-jokey.
+
+And so is the whole game. MIT inhabitants probably would split their
+sides laughing when playing it; non-insider surely would find their
+funny moments there (for me, one of those moments was the "suicidal
+robot"), but the overall effect naturally would be much weaker.
+Still, the setting is quite rich (especially for a puzzle-fest),
+though not the deepest one. By the way, the game comes with a number
+of "feelies" -- materials from the original competition distribution,
+and a text file explaining some of the MIT-specific things. It'd be
+advisable to read them, as well.
+
+To sum up, I'd say the game isn't for everyone -- but it isn't to
+ignore completely, either, for it certainly occupies its place in IF
+history. Among other things, it probably holds the unofficial record
+in having the most NPCs in a single room. It's difficult to say
+whether you're going to enjoy playing it, but here's a rule of thumb:
+if you have an idea what an imaginary plane is, you probably should
+try it. Otherwise, stay away from GC!
+
+SUMMARY:
+
+PLOT: Just an "excuse" for a puzzle-fest
+ATMOSPHERE: Humorous, but many jokes got over my head
+WRITING: Wonderfully ironic
+GAMEPLAY: OK, for me it was "Follow the walkthrough"
+BONUSES: Unnkulian references; "suicidal robots"; vampire bunnies;
+         Barbies looking a bit stiff; and many other things
+CHARACTERS: Mostly MIT-specific
+PUZZLES: Very elegant, but many are impossible to solve
+
+-=-=-
+
+TITLE: The Horror of Rylvania
+AUTHOR: D. A. Leary
+EMAIL: N/A
+DATE: 1993
+PARSER: TADS Standard
+AVAILABILITY: Former shareware, now free
+URL: https://ifarchive.org/if-archive/games/adventions/adventions.zip
+
+Rylvania is reviewed here, because it's been (like the Unnkulian
+games) published by Adventions, has been written by the "father" of
+the Unnkulian universe, and contains several references to Unnkulia.
+However, it has little else to do with Unnkulia; it's a horror story.
+And it left me with mixed feelings.
+
+On one hand, the plot and the atmosphere were great (despite the
+Unnkulian references -- they really seemed out of place there). On the
+other hand... But let's begin from the start.
+
+Well, the game starts with you and your friend Carolyn being attacked by
+a pack of wolves during a trip through Rylvania, a small country
+somewhere in the backwoods of Central Europe. Carolyn gets seriously
+wounded, and your first task in the game is to help her. It gripped me
+at once, and I started to follow the plot enthusiastically. This run for
+Carolyn's life went on for twenty or so turns. Then, just as things
+really got rolling, I was resolutely grabbed by the collar, pulled back,
+and told, "Not so fast, my friend. From now on, you've got to do it the
+usual way -- explore, pick up things, and enjoy yourself". This sudden
+change alone was baffling enough; to make things worse, it turned out
+that one had to be pretty careful, if not pedantic, in collecting items
+-- the game is split in two parts, with many rooms in the first part no
+longer accessible when you reach the second stage; however, puzzles at
+stage 2 often require objects from stage 1 to be solved, so that you're
+very likely to lock yourself out of victory, and find out something is
+wrong only several hundred turns later (sometimes without a hint what
+item is needed, exactly). Also, be prepared for a couple or more
+restarts; many decisions in the beginning phase of Rylvania depend on
+knowledge you only acquire later in the game. Combined with the fact
+that the game sometimes requires actions that seem completely
+inappropriate in the given situation, it makes a thorough strategic
+pre-planning practically inevitable.
+
+This degenerating into ADVENTURE is all the more a pity as the
+puzzles don't seem to be the main focus of the game, and as the
+storytelling aspect of the game has got so much potential. I'm not
+saying that the puzzles are bad -- they are very solidly done for the
+most part, but they're... well, unexceptional. I like creative,
+challenging puzzles (though I'm not very good at solving them); here,
+however, I'd rather prefer puzzles that'd be easier, but would fit
+the plot better: as it is, the plot and the puzzles seem to literally
+fight against each other.
+
+Still, the game's plot (which has several interesting twists), and
+the scary atmosphere make it worth playing (I'm deliberately not
+going into detail here in order not to spoil the fun). However, I
+suggest you keep a walkthrough handy for the first stage of the game:
+this might prevent you from many disappointments.
+
+SUMMARY:
+
+PLOT: A high-quality horror story
+ATMOSPHERE: Scary, though Unnkulia references spoil it a bit
+WRITING: Supports the atmosphere
+GAMEPLAY: Requires too much pre-planning
+BONUSES: Nice background
+CHARACTERS: Don't add much
+PUZZLES: Hamper the plot
+DIFFICULTY: The claimed rating of 5 out of 10 seems to be correct
+
+-=-=-
+
+Index of sources used:
+
+1.  Several reviews by Carl Muckenhoupt and Duncan Stevens from Baf's Guide
+    to Interactive Fiction
+
+2.  The Legend Lives! review by M. Sean Molley, from SPAG issue Nr. 5
+
+3.  Interview with David M. Baggett, from SPAG issue Nr. 5
+
+4.  TADS Manual by Michael Roberts
+
+###########################################################
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based. Any and all text-based
+games are eligible for review, though if a game has been reviewed three
+times in SPAG, no further reviews of it will be accepted unless they are
+extraordinarily original and/or insightful. SPAG reviews should be free
+of spoilers.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at
+http://www.sparkynet.com/spag/spag.faq.
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

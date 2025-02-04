@@ -1,0 +1,3597 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                  ISSUE # 13 - COMPETITION SPECIAL
+
+             Edited by Magnus Olsson (zebulon SP@G pobox.com)
+                        February 5, 1998.
+
+         SPAG Website: http://www.afn.org/~afn55673/spag.html
+        Contest Website: http://www.afn.org/~afn55673/contest/
+
+
+SPAG #13 is copyright (c) 1998 by Magnus Olsson.
+Authors of reviews retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+IN THIS ISSUE -------------------------------------------------------------
+
+The results of the 1997 IF Competition
+
+Interviews with Lucian P. Smith, Ian Finley and Nate Cull.
+
+Reviews of: Babel, A Bear's Night Out, The Edifice, The Frenetic Five
+vs. Sturm Und Drang, Friday Afternoon, Glowgrass, The Lost Spellmaker,
+Madame L'Estrange and the Troubled Spirit, A New Day, Phred Phontious
+and the Quest for Pizza, She's Got a Thing for a Spring, Sins Against
+Mimesis, Sunset Over Savannah, Sylenius Mysterium, The Tempest, Unholy
+Grail, Poor Zefron's Almanac, Zero Sum Game, and Zombie!
+
+
+EDITORIAL------------------------------------------------------------------
+
+Well, what can I say? If the first IF Competition was a good start,
+and the second was a resounding success, then the third Competition
+was overwhelming. Not only in the number of entries (though I
+certainly have to admire the energy of the judges who played
+every single game), but in the quality of most entries.
+
+I could go on for some length praising the entries, but I think I'll
+leave that to the reviewers. Let me just give my heartfelt
+congratulations to all the authors, and thanks to all the judges, and
+to the organizers. You've done a great job, all of you!
+
+COMPETITION RESULTS -------------------------------------------------------
+
+  1 - The Edifice, by Lucian P. Smith
+  2 - Babel, by Ian Finley                                 
+  3 - Glowgrass, by Nate Cull                           
+  4 - She's got a Thing for a Spring, by Brent VanFossen         
+  5 - A Bear's Night Out, by David Dyte                     
+  6 - Sunset Over Savannah, by Ivan Cockrum                   
+  7 - Poor Zefron's Almanac, by Carl Klutzke                  
+  8 - The Lost Spellmaker, by Neil Brown                    
+  9 - Sins Against Mimesis, by Adam Thornton                   
+ 10 - A New Day, by Jonathan Fry                              
+ 11 - Zero Sum Game, by Cody Sandifier                          
+ 12 - Zombie!, by Scott W. Starkey                                
+ 13 - The Frenetic Five vs Sturm und Drang, by Neil deMause   
+ 14 - Travels in the Land of Erden, by Laura A. Knauth           
+ 15 - Unholy Grail, by Stuart Allen                          
+ 16 - Friday Afternoon, by Mischa Schweitzer                      
+ 17 - Madame L'estrange and the Troubled Spirit, by Ian Ball and
+      Marcus Young
+ 18 - Sylenius Mysterium, by C.E. Forman                    
+ 19 - Phred Phontious, the Quest for Pizza, by Michael Zey  
+ 20 - Down, by Kent Tessman                                  
+ 21 - VirtuaTech, by David Glasser                           
+ 22 - The Obscene Quest of Dr Aardvarkbarf, by Gary Roggin
+ 23 - A Good Breakfast, by Stuart Adair                      
+ 24 - The Town Dragon, by David A. Cornelson                        
+
+INTERVIEWS --------------------------------------------------------------
+
+Since the first competiton in 1995, SPAG has made it a tradition to
+publish e-mail interviews with the authors. The number of entries this
+year makes it somewhat impractical to interview all the entrants;
+instead, we've settled for somewhat more in-depth interviews with the
+three top places. First the winner of the first prize: Lucian
+P. Smith, auhor of "The Edifice".
+
+Q: To start with, could you tell as a few things about yourself? Who
+are you, what do you do for a living, and so on?
+
+A: Well, in no particular order: I'm a graduate student in
+Biochemistry at Rice University.  I'm in an improv comedy troupe
+called ComedySportz.  I'm married.  I grew up in Seattle and went to
+college at Wheaton College in Illinois.  That enough?
+
+Q: How and when did you first get into contact with IF? And what made
+you decide to write your own game?
+
+A: I remember playing 'Deadline' (and getting nowhere, incidentally)
+on my friend's Apple II ages ago, and getting Zork hints from a friend
+in High School.  I always loved the concept, even though I wasn't able
+to play them that often.  I got back into IF by searching the web in
+early '95 for 'XYZZY' and stumbling upon XYZZYnews.  From there, I got
+to the newsgroups, eventually figured out the concept of an
+'interpreter' so I could *play* the games everyone was talking about,
+and it's just snowballed from there.
+
+I don't remember precisely what motivated me to try to write my own
+games in general, but the driving force behind 'Edifice' was
+definitely the contest.  I was trying to come up with a good idea for
+a short game for the contest when I thought of the basic plot for it.
+
+Q: What made you choose Inform, rather than TADS or some language, for
+writing "Edifice"?
+
+A: Inform games were the first games I figured out how to download and
+play back when I started, so I guess there was an affinity there to
+begin with.  Also, when I first downloaded the files, TADS was still
+shareware.  After that, it's been mostly inertia ;-) Inform is a very
+nice language, and was easy for me to understand and assimilate.
+
+Q: Would you say that your entry is primarily a game or a piece of
+literature? Or perhaps both? Or neither?
+
+A: Ooog.  Perhaps both, I guess.  I'd say maybe that it's a story that
+depends on its game aspects to be fully effective (however effective
+it may be).  The story, even as literature, depends on the interaction
+with the reader/player.  The language puzzle would be boring to read
+about, but (apparantly) was quite fun to experience.
+
+Q: "Edifice" has been described as an allegory about the evolution of
+man. Was it intended as such, or is it "just" a story without deeper
+meaning?
+
+A: Well, I *did* subtitle it 'An Interactive Allegory'.  But I think
+of it as an allegory in the sense that the things you found tended
+toward the archetypal--Others, Enemies, Rock, and so on.  The allegory
+is right there on the surface.  I was kind of thinking of Bunyan's
+"Pilgrim's Progress" in the back of my mind--"Oh, here's Frugality, I
+wonder what he thinks about cash flow?"
+
+So yes, I suppose there's a 'deeper meaning'--but you don't exactly
+need a shovel to find it ;-) Actually, if there's any sort of deeper
+meaning, it would be in your 'contentment' score--but the whole score
+thing was horribly, horribly broken in the competition release, so it
+was virtually impossible to get this.
+
+Q: How much is the Edifice inspired by the Monolith in "2001"? Did you
+have other sources of inspiration?
+
+A: *Laugh* Actually, it's been rather amusing to read all the posts
+assuming I was inspired by 2001.  I was, indeed, inspired by
+something, but it wasn't that.  There was a film I saw at least a
+couple times in grade school (once in fourth, again in fifth, and
+maybe even again in sixth), which was a collection of short snippets,
+designed, I suppose, to stimulate creativity.  There was a bit about a
+ping-pong ball rejected from a factory because it bounced too high, an
+interview between two people that degenerated into just numbers
+("2-0-5-7-9-9-2?" "4-4-2-4-6-6-9."  "2-6-1-1-2-8-4?"
+"6-3-9-0-1-2-9."),...and "The Edifice."  It was a cartoon in which the
+camera panned up a big tower, and you got to look in through the
+windows and see history unfold.  The only specifics I remember are
+someone in the dark ages discovering the '0', and in the end, a guy
+standing on the top of the tower, his head in a radioactive cloud,
+shouting "Help!" as the camera backed away and showed the whole tower
+he was standing on.
+
+In my mind, at least, the Monolith is a different sort of beast than
+my Edifice.  I actually hadn't seen 2001 until last month, but I had
+read the book.  The Monolith is active, causing change in the apes.
+My Edifice is passive, presenting opportunity, but nothing more.
+
+But who knows?  Maybe the film short was inspired by 2001 ;-)
+
+Q: What do you think of the other contest entries this year? Any
+favourites?
+
+A: I have to say that as I was playing through the introductions to
+all the games, just to get a feel for them, there were two games that
+hooked me and made me play the whole thing--Babel and Glowgrass.  I
+particularly liked the way Glowgrass worked on two levels, as the
+protagonist discovered more and more about the land he was searching,
+and as the player discovered more and more about the protagonist.
+Other games that stood out were "A Bear's Night Out" and "The Frenetic
+Five".  I haven't played all of them yet, but most all were at least
+good efforts, and many were outstanding.
+
+Q: What do you think of the future of IF?
+
+A: I have no idea, except that it'll be fun to watch unfold.  My guess
+is that the field will spread, as new avenues are explored, and old
+motifs are re-exploited.  It'll probably stay a hobbyist's pursuit,
+for the most part, but it'll be interesting to see what all it touches
+as it expands.
+
+Q: And, finally, speaking of the future: do you have any plans for
+writing more IF?
+
+A: Oh, of course!  Great grandiose plans, no less.  I do actually have
+a basic idea for a larger work of IF, but it hasn't really gelled yet,
+and I've been busy with other things.  No plans yet for another
+competition game (or, for that matter, an Edifice sequel, which has
+been inquired about by a few), but if inspiration hits, who am I to
+stand in its way?
+
+Thanks again to Whizzard for hosting the competition!
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+Then, the second-prize winner, Ian Finley, author of "Babel":
+
+Q: To start with, could you tell as a few things about yourself? Who
+are you, what do you do for a living, and so on?
+
+A: Ok, my name is Ian Finley, I'm 17 years old and a senior at
+Bountiful High School in Bountiful, Utah; one of the more conservative
+communities this side of Communist China.  My "living" as it were
+consists of writing essays for college and/or scholarship applications
+in a desperate attempt to further my education.
+
+Q: How and when did you first get into contact with IF? And what made
+you decide to write your own game?
+
+A: My first experience with IF was in fifth grade when my fantastic
+teacher Joyce Martinez (who I still claim to be one of the primary
+factors in who I am today) took me and a group of my friends aside
+during recess and showed us Zork, Enchanter, and Deadline.  We never
+got more than 10 points into any of them, but it was something new and
+amazing, and the day after she showed us I was already imagining what
+I could do if I could write a game.  Years past, and nothing occurred,
+though my interest was sparked again off and on by The Lost Treasures
+of Infocom, etc.  Then I found the IF archive and the authoring
+systems.  After a nightmarish attempt with AGT, and tremors of horror
+just looking at the Inform manual, I settled on TADS (which I truly
+adore) and started writing.  "Babel" was meant to be quite small, and
+by the time I realized it's necessary size, I was ready to quit, were
+it not for the Competition and the carrot it dangled.  Mr. Wilson, you
+have my undying thanks for pushing me through.
+
+Q: What made you choose TADS, rather than Inform or some other
+language, for writing "Babel"?
+
+A: Ease of use.  I haven't programmed a thing in my life and TADS was
+the easiest tool.  I found it much easier than even AGT, as well as
+much more powerful.  I started with a very small game requiring very
+little programming knowledge and gradually added more and more complex
+stuff as I went.  The HTML documentation is also wonderful and really
+quite accessible.
+
+Q: Would you say that your entry is primarily a game or a piece of
+literature? Or perhaps both? Or neither?
+
+A: LITERATURE.  I get frustrated easily with puzzles and end up
+looking up hints, so those aren't usually motivating factors when I
+play other people's games.  In fact, the only puzzles I can recall
+actually enjoying were some from Riven, when I got that real "Aha!"
+sense.  But the reason I play a game isn't to work out my brain, it's
+to be part of a story, in a different way than you can experience with
+a movie or a book.  This was my mindset in writing "Babel."
+
+Q: A very important element in "Babel" is the protagonist's way of
+recalling events, in a form of flashbacks. What gave you the idea for
+that?
+
+A: Everything I write is character driven.  Interaction with people is
+the core of any story I think.  But, due to my lack of coding ability,
+I knew I couldn't write decent characters that you could interact
+with.  Also, I knew that the game should be cold and empty.  The
+flashbacks seemed the perfect solution.
+
+Q: Do you see a conflict between the non-interactive "flashbacks" and
+the essentially interactive nature of the medium? Is there a need to
+overcome this conflict, and, in that case, do you have any ideas how
+this could be done?
+
+A: Naturally this is a problem; people have complained since the
+beginning of IF about screenfuls of text scrolling past them.  The
+solution to this, as I see it is to cut things down to a manageable
+size.  Brevity is the soul of wit and all.  The scenes in Babel all
+went through extensive revision (and even MORE extensive revision is
+occurring as we speak for the second release) though many scenes
+(Brett's bedroom, Jonas' bedroom) are still more ungainly that I'd
+like them to be.
+
+Q: What do you think of the other contest entries this year? Any
+favourites?
+
+A: There are some AMAZING games this year.  "Sunset Over Savanna" (or
+however you spell it) is on my list of all time favorite games, and
+one of the greatest gaming experiences I've had.  Also, my hat off to
+Lucian; Edifice is a masterwork, combing the broad with close detail.
+In fact, I take back what I said about puzzles.  Edifice used them
+brilliantly; the moment I figured out what was written on the Edifice
+I nearly crowed with joy.  I was honored to follow this game in the
+rankings.
+
+Q: What do you think of the future of IF?
+
+A: Ok, I'm a 17 year old who still writes and plays IF, so I can at
+least say from personal experience that the art form has a long life
+in front of it.  I also see, with the increase of the internet that,
+with a little more support, the field will have experience renewed
+growth in the years to come.  Look at the increasing size of the
+Competition!
+
+Q: And, finally, speaking of the future: do you have any plans for
+writing more IF?
+
+A: Maybe too many!  I'm currently at work on two projects, both small
+to play but huge to program: "8:00 at Andie's Bar and Grill," an
+entirely menu based game focusing on interpersonal relationships (no
+more stereotypes for me!) and (tentative title) "The Lips of
+Iscariot," a more straightforward game, also heavily focused on NPC
+interaction, set in the jungles and revolutionary camps of Mexico.
+Beta-testers always welcome!
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+And finally the word goes to Nate Cull, author of "Glowgrass":
+
+Q: To start with, could you tell as a few things about yourself? Who
+are you, what do you do for a living, and so on?
+
+A: I'm 26.  I live in New Zealand (that's the little country in the
+South Pacific which isn't a state of Australia).  I'm a computer
+support slash network technician at Christchurch Polytechnic (a small
+university).  At the moment I'm living alone, which is great for
+writing, but not much else.
+
+Despite what you may have heard, the majority of the inhabitants of
+New Zealand don't wear flax skirts and jump up and down waving spears.
+Well, we do, but only when our rugby team wins the World Cup.  We're a
+fairly technically literate country; we've had EFTPOS here in the late
+'80s, though we still don't have cable television.
+
+Q: How and when did you first get into contact with IF? And what made
+you decide to write your own game?
+
+A: Hmmm.  Let's see.  The very first IF game I remember was called
+"Miser", and it ran on a 16k Commodore PET.  It was a ripoff of Scott
+Adams, where you had to pick up treasures around a house.  I was
+majorly impressed. Then I found Colossal Cave and got incredibly
+frustrated because I couldn't solve the dragon puzzle - even now, I
+*still* think that's one of the all-time classics of bad IF design,
+because it relies on a completely unexpected parser trick.
+
+I pretty much started writing adventures as soon as I could program.
+_Island Adventure_ was I think my original masterpiece.  It was
+written in MBASIC, had nine rooms (two of which would kill you
+instantly) and a two word parser.  My second attempt was a bit better,
+it had multiline room descriptions and a vending machine (that gave
+you bullets, for some reason.  Don't ask me why.)
+
+I was intrigued by Scott Adams, but only solved one (Pirate Adventure)
+without cheats.  But when I played my first Infocom (no, not Zork -
+_Seastalker_) I fell in love.  The rest of my teenage years were
+mainly spent trying to design a parser that could accept multiword
+sentences, but I never got it to work.  I had lots of plots for
+Infocom-style games, and was very annoyed that I couldn't ever
+implement them properly.
+
+Oh, yeah, I never solved an Infocom without cheats, either.  
+ 
+Q: What made you choose TADS, rather than Inform or some other
+language, for writing "Glowgrass"?
+
+A: Mainly because TADS was the first "real" IF development package I
+found.  I had been tinkering with AGT, and even wrote one experimental
+game in it just to test its boundaries, but it was an incredibly
+painful experience.  Writing in AGT, at least the version I had, was
+like writing raw assembler code.
+
+Then I came across an obscure little gmd.de game, _Peshach Adventure_,
+which found its way onto a shareware CD.  It was written in TADS, and
+I liked what I saw, so from there I tracked down the gmd archive and
+Michael Roberts.  (IF Authors note: put *lots* of contact details in
+your "help" screens.  You never know where your game might end up.)
+
+When I saw TADS, it was another "wow!" experience.  I was heavily
+blown away - and still am - by its simplicity, and its late-binding
+object-oriented focus.  The fact that you can redefine a property to
+be either a value or a method on the fly makes the implementing of a
+game pretty much trivial, so you can focus on the story.  And its
+syntax is nearly pure C, which made it simple to learn.  Heck, there's
+hardly *any* syntax.  Just object definitions and assignments and a
+few functions.  The rest is the ADV.T library (which I've hacked) and
+your own code.
+
+I haven't yet tried Inform, but from what I've seen of the manual, its
+syntax seems a lot stranger and more needlessly complicated than TADS.
+And I'd seriously miss the "adjective" property - TADS disambiguation
+is so easy it hurts.  However, I am being tempted by the Nelson Side.
+In particular, I'd consider trading my soul for the quote box, online
+help, real-time control and the ability to parse arbitary sentence
+structures (you can do arbitary parsing in TADS, but you'd have to
+reinvent the parser to do it).
+
+Q: Would you say that your entry is primarily a game or a piece of
+literature? Or perhaps both? Or neither?
+
+A: Given the choice, definitely literature.  I was trying to write an
+interactive short story, not set up a conflict of wits between author
+and player.
+
+I don't mind the term "game", because it's a word that has come to
+mean a lot of good things - exploring, having a fun time, and playing
+with things - but IF, for me, is not about strategy and tactics and
+conflict and all the other things that make up good gameplay.  It's
+about storytelling, creating an interesting world and letting the
+player free to discover it.  Conflict may well enter into that as a
+mechanism, but it's not the primary motivator.
+
+I guess it's no surprise that my all-time favourite Infocom is _A Mind
+Forever Voyaging_.  :)
+
+Q: What are your feelings about IF in science fiction settings? Is
+that genre in any danger of becoming overused, in the way that many
+people say that fantasy IF is? Why do you think so much IF belongs to
+the fantasy and science fiction genres?
+
+A: For a start, I think IF attracts a more technologically minded kind
+of author.  You don't even think about writing stories that interact,
+that are very mechanical, unless you're in love with the machine. The
+tools we use to write with - even Inform and TADS - are still fairly
+primitive, and require a lot of technical ability to use.  And because
+it's a very young, offbeat, cultish medium, you're likely to get
+creatively minded people - people who look at the world and see not
+what is, but what might be.  The sort of people who like speculative
+fiction.  So you're already selecting for a certain type of writer
+right there.
+
+Speculative fiction is also a lot easier for amateurs like me to write
+(not write _well_, just to write), and since most IF writers are
+amateurs not professionals, we pick the easy choice.  SF and F worlds
+are easier because they're a lot more flexible than reality, so if you
+need the Golden Widget of Truth to be carryable by the half-gnome
+player, then it is.  IF engines aren't forgiving; science-fiction and
+fantasy worlds are.
+
+Personally, I am a science fiction fan, and I write what I want to
+read.  SF and fantasy (_good_ fantasy, the really weird stuff, not
+just a warmed over Tolkien clone) is like adrenalin for the brain.  It
+stimulates you, makes you think in new directions.  Politics and
+romance haven't changed much for centuries; science has.  Now we're
+living in a generation of massive cultural change.  We didn't have the
+World Wide Web last Thursday, what will we have Friday week?  SF
+writes to that gap, which is why I think it's the most interesting
+form of fictional literature on the market today.
+
+But yes, it can tend to make for easy, cheap writing. (I don't think
+_Glowgrass_ is much of an exception; I cut a lot of corners I couldn't
+have in a "realistic" setting.)  SF and fantasy do get overused and
+abused.  I'd love to see more "reality" IF - good solid spy thrillers,
+murder mysteries, romances, period dramas.  I liked _Border Zone_ and
+I wished the historical part of _Trinity_ had been a game on its own,
+without the fantasy segment.
+
+IF does need to break away from the "it's just spaceships and dragons"
+stereotype that it's evolved.  I'm not sure if that's likely to
+happen, though, until we get tools that give a wider spectrum of
+writers, people who don't necessarily like computers, access to
+painless IF development.  But until then, I'll just keep hoping that
+the science fiction and fantasy we produce will get more serious, with
+as much depth and character as "mainstream" fiction.  Whatever that
+is.
+
+Q: "Glowgrass" isn't really an example of "puzzle-less" IF, but I
+noticed that you take care to make the puzzles simple, sometimes
+almost giving away the solution (I'm thinking about how to open the
+garage door, for example). What's your view on puzzles in IF? Are they
+a necessary evil?
+
+A: They're evil.  No doubt about that.  :)
+
+Seriously, I'm not a puzzle hater, but a puzzle has to be _impossible_
+to not get or it's got no business being in IF at all.  That's my
+view, and it's mainly because I have incredibly dark and icky memories
+of playing IF as a kid and literally screaming in frustration because
+I wanted to finish the _story_ and couldn't because some stupid
+_puzzle_ kept getting in the way.
+
+I like _good_ puzzles -- which means, ones I can get.  But they're
+nasty creatures to control. They're like jokes, only much, much worse.
+In a comedy, say a Terry Pratchett _Discworld_, you can sling off
+thousands of one-liners and several dozen elaborately sprung and
+weighted fall-off-the-couch-and-die-laughing set pieces, and you can
+be reasonably certain that 90% of the readers won't get more than half
+of them.  But that's okay, because they can still read all the way to
+the end of the book.
+
+But in IF, if a player misses _one_ puzzle, just one, she fails to
+read the author's mind or have gone to the same school or watched the
+same movie once, she's gone.  Snap. End of game.  No more story.  Can
+you imagine watching _Seinfield_ and have the screen black out and go
+to static each time you didn't get a joke?
+
+Yeah, in IF you can cheat with a walkthru.  That's a bit like printing
+explanations of all a show's jokes in the TV Guide so you can look
+them up, laugh in the right place and have the TV signal cut in again
+for another 30 seconds.
+
+There's a reason IF isn't popular, folks.
+
+When puzzles work, they're brilliant.  I played _Myst_ all the way
+through without hints, and it was wonderful.  One of my favourite
+Infocoms is _Suspended_, and that was one big puzzle.  I like the
+thrill of challenge and the joy of solving something you thought
+impossible, but all to often, when you meet an impossible problem in
+IF, it stays impossible.  (At least it does to me.  Very, very rarely
+do I read a solution and go "Oh!  I could have thought of that."
+Usually I go "Huh?" or "But, *nobody* could have known that."  Maybe
+I'm bad at problem-solving, but heck, I play IF for entertainment, not
+work.)
+
+In _Glowgrass_ I was mainly using puzzles just as placeholders for
+putting interaction into the story.  They weren't seriously meant to
+slow anyone down, or even necessarily make them think.  In hindsight,
+I think I did make them a bit too obvious; I might fix that in release 2.
+
+Q: What do you think of the other contest entries this year? Any
+favourites?
+
+A: Yes.  Outstandingly, _Babel_.  It had everything I love most in a
+game.  It created mood brilliantly, it seamlessly blended story and
+puzzles, and it had the most professional writing I've ever seen on
+gmd.de.
+
+_Savannah_ and _Edifice_ were pretty good, too.  Savannah because it
+had an original setting and there was just so much detail in the
+environment.  Edifice had puzzles that were a joy to solve - the
+language translation in Level 2 was possibly _the_ single best puzzle
+I've ever seen.  I've always wondered what it must be like to learn a
+foreign language - now I know!
+
+_Thing for a Spring_ with its wilderness environment was another
+real-world setting that worked for me, though I flicked straight to
+the online help for most of the puzzles.  I liked _A Good Breakfast_
+very much - it was like the best of Infocom humour on a good day, and
+I was very unhappy that a bug made it unfinishable.  And _Zombie!_ and
+_Zero Sum Game_ both looked very nice ideed, but I haven't got around
+to finishing them yet.
+
+Q: What do you think of the future of IF?
+
+A: Text-based IF?  Bleak, but hopeful.
+
+Bleak because text is almost a vanishing dialect today - in two
+hundred years, we'll probably all be speaking with icons like in Greg
+Bear's _Eon_.  And because we're working with tools that the rest of
+the computer world pretty much sees as Stone Age - "What?  People are
+still writing text games?  Wow, man, heavy retro trip."  Despite our
+best efforts, there's really no way _So Far_ or _Jigsaw_ can compete
+with the likes of _Wing Commander 4_ or _Riven_ in the popular gaming
+market.
+
+But I'm hopeful because the rebirth of text IF is above all a return
+to the _hobbyist_ roots of computer gaming.  It's an underground
+movement that gives power to the individual, instead of large
+centralised studios, so it's got the potential, if we network
+together, to make large advances in a short time.  We are literally
+pushing the frontiers of storytelling (well, walking up to them and
+waving, anyway).  Because we're small, there's all sorts of
+experimental stuff we can do, both in terms of usable AI and in
+defining the nature of story itself.  Look at what id and Apogee did
+with the Wolfenstein texture mapping engine - did that come from a big
+company?  Heck no.  Do I think hobbyists can do something similar with
+AI?  Heck yes.
+
+But hey, even if we don't accomplish anything of lasting significance,
+we can still have a really fun time reliving the '80s.
+
+As to the wider future of IF in general, the large-studio stuff: well,
+I think it can only grow.  Probably not as fast as the movies did or
+as science fiction stories might make you think, but the seeds are
+there.
+
+I hesitate to say it, because it's already such a cliche, but it's the
+Web that's going to really make IF a public commodity, I think.  The
+Web is going to replace television, we can all see that, and in about
+2015 when it's finally seeped into the popular culture that our
+fundamental data grid, the thing that links our planet, is not
+broadcaster-listener-based and linear but open and _interactive_,
+stories are going to naturally be seen in interactive terms.  It will
+probably take that long for the groundwork to get put in place; even
+the big flashy games out now are still dealing with a very small set
+of rudimentary actions and plots, and we're still having to reinvent
+stuff like graphic engines every time a product is released.
+
+IF's going to get networked.  Ultimately we'll be looking at something
+like Star Trek's Holodeck, that's the high end.  A kind of immersive
+chat room with computers running AI NPCs, simulating the world
+environment, and making dramatic interventions to keep a plot running.
+All rendered in sexy realtime VR with voice recognition and gesture
+analysis.
+
+In the near future, I'd expect to see all sorts of cute stuff like IF
+servers popping up on the Web.  Bot servers that do nothing but run
+NPCs, world servers that act like MOOs for live players and bots to
+mingle, and maybe interesting things like dramatic rulebases that can
+analyse players' behaviours and write customised story scripts for
+their worlds or the bots who accompany them.  But no matter how good
+the tech gets, human Game Masters, like IRC moderators or RPGs GMs are
+likely to take a controlling role.  Interactive pay-per-play soap
+operas are a possibility... maybe with semi-famous guest stars
+dropping in every few episodes.
+
+And at the low end, you'll still have the good old pick-a-choice HTML
+page as your base unit of literacy. _Everything_'s going to be
+interactive eventually.
+
+Q: And, finally, speaking of the future: do you have any plans for
+writing more IF?
+
+You bet.
+
+I'm definitely entering the next Contest.  And there's at least one
+reasonably full-length game I've been wanting to write for about seven
+years.  Maybe some experimental pieces too.
+
+I expect I'll be writing IF of some kind for quite a while.  :)
+
+NEW GAMES--------------------------------------------------------------------
+
+It seems as if the relase of the TADS sources as freeware has
+re-kindled interest in this language. Ten of the competition entries
+were written in TADS, and since the end of the competition three new
+TADS games have been released.
+
+Firstly, there's Stephen Granade's "Losing your Grip". This is a
+full-lenght game in the same league as "So Far", "The Legend Lives"
+and "Jigsaw": story-oriented without sacrificing the puzzle aspect,
+literary but also enjoyable as a game, dealing with deep questions
+without being pretentious or obscure.
+
+We also have two new short games by Kevin "Whizzard" Wilson, the
+founder of SPAG: "The Sea of Night" and "The Lesson of the
+Tortoise". According to the author, the first game is an SF story
+involving a spaceship and a cargo of bananas, while the second one
+builds on elements of Chinese folklore.
+
+All three games are avaialable from the IF-archive, in the directory
+https://ifarchive.org/if-archive/games/tads/.
+
+
+KEY TO SCORES AND REVIEWS----------------------------------------------------
+
+Consider the following review header:
+
+NAME: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Infocom ports
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Also, scores are still desired along with the reviews, so send those along.
+The scores will be used in the ratings section.  Authors may not rate or
+review their own games.
+
+More elaborate descriptions of the rating and scoring systems may be found
+in the FAQ and in issue #9 of SPAG, which should be available at:
+
+        https://ifarchive.org/if-archive/magazines/SPAG/
+
+REVIEWS----------------------------------------------------------------------
+
+From: "Laurel Halbany" <mythago SP@G twisty-little-maze.com>
+
+NAME: Babel
+AUTHOR: Ian Finley
+EMAIL: mordacai SP@G ix.netcom.com
+DATE: Competition '97
+PARSER: TADS
+SUPPORTS: TADS ports
+AVAILABILITY: Freeware (competition game)
+URL: https://ifarchive.org/if-archive/games/comp97/tads/babel.gam
+VERSION: Release 1
+
+Too many I-F games have the irritating habit of being firmly set in a
+single genre, with clichéd rather than inventive trappings (space
+games have their talking computers, fantasy games have their
+dragons). Babel combines science fiction and horror imaginatively, so
+that the separate elements of each genre support and enhance rather
+than fight each other.
+
+The game begins on an apparently abandoned and nonfunctional space
+station; you don't know who you are, or how you got there, you're
+freezing cold, and the lights are off. The mood of vaguely unsettling
+horror and the tension of the character's investigation are very well
+presented.  The author has done an excellent job of making the
+descriptions of rooms different when they are lit and unlit; rather
+than "It is pitch black," a dark room is described in sinister, vague
+terms, turning from threatening to clinical when the lights come
+on. The layout of the space station is straightforward without being
+simplistic, and solving the first problem (getting the lights on)
+doesn't take much wandering. Most items have been described or dealt
+with, rather than allowed to fall under the heading of "I don't
+understand that."
+
+The character learns most of the plot through various set-pieces; you
+find blue glowing fixtures in different areas, and when they are
+touched, there is a flashback (not necessarily in chronological order)
+to something that happened on this station, when it was inhabited.
+These are well-written, and though there are plenty of them, at one
+point you can obtain an item that will automatically "catalog" them
+for you. The set-pieces cleverly manage to add the humanizing element
+of interaction with NPCs, without detracting from the gloomy emptiness
+of Babel station.
+
+The problem with these set-pieces is that the characters, and
+therefore the story, is a bit hackneyed. There is the Bright Young Man
+(clearly headed for trouble); the deeply religious researcher who
+fears human hubris; the older, father-figure head of the team with his
+own agenda; and the brillant, beautiful female scientist who
+unsurprisingly ends up having a romance with the Bright Young Man
+despite the team leader's severe disapproval. (Out of jealousy?
+Concern for unprofessionalism? A little too much paternal concern? We
+don't know.) This also tends to ruin the central mystery of the game;
+by the time you finally solve the puzzle that reveals in fact who the
+character is, you-the-player have probably long since figured it out;
+there's not much shock in the revelation. The memory of what happened
+to the team of scientists is similarly predictable.
+
+Most of the puzzles are not mind-wracking, but do take some
+thought. There are often clues given in how the station reacts to you,
+or in the set- pieces. Most involve finding an item and applying it,
+although this is not mechanical. There are a number of locked-door
+puzzles involving an ID-card slot. It's nice that this is easy to
+solve, but I found it unrealistic: there were only four scientists on
+Babel, all of whom had access to the entire station, so why did they
+need ID cards to open the doors? The final important puzzle of the
+game, involving synthesis of liquids and manipulating machinery, is
+forgiving of mistakes but tedious to do. It seems as though the author
+wanted a difficult final hurdle, but it is mechanical rather than
+exciting, and not particularly difficult. The last set-piece is,
+sadly, not as original as it might have been.
+
+Overall, I found Babel to be a well-crafted, atmospheric horror game
+that, while not a classic, is certainly enjoyable and absorbing.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Babel
+AUTHOR: Ian Finley
+E-MAIL: mordacai SP@G ix.netcom.com
+DATE: 1997
+PARSER: TADS standards
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/tads/babel/babel.gam
+VERSION: Release 1
+
+PLOT: Outstanding (1.           ATMOSPHERE: Very effective (1.7)
+WRITING: Consistently absorbing (1.8)   GAMEPLAY: Fairly good (1.2)
+CHARACTERS: Quite good (1.5)    PUZZLES: Few, nothing special (0.9)
+MISC: Outstanding storytelling, even if the plot's derivative (1.6)
+OVERALL: 8.1
+
+In the realm of science fiction, very trodden ground indeed, Ian
+Finley's Babel does not seem profoundly original; you have an
+experiment in an isolated lab that goes wrong, an unscrupulous
+scientist, dramatic confrontations, even a countdown of sorts. But the
+whole is often greater than the sum of its parts, and there is more to
+Babel than might appear from a thumbnail sketch. The puzzles are few
+and not particularly remarkable, but for simple storytelling power,
+this one ranks among the best in the competition.
+
+That, unfortunately, means that it's difficult to review effectively
+without breaking the spell for future players, so this may be somewhat
+unrevealing. The initial premise is set out before the first room
+description:
+
+    One by one, your senses speak to you.  There is one absolute:
+    cold.  The hard surface you're lying on is cold, the thin gown
+    thrown over your body is cold, the disinfectant-tinged air is
+    cold, the darkness around you is cold. Even your mind is cold
+    and empty.  Where are you?  Who are you?  You feel the warm
+    edge of a memory, but it fades as you approach.  Slowly, your
+    joints bulging with ache, you get to your feet and look
+    around.
+
+Where you are and who you are become clear through a series of
+discoveries that begin as cryptic vignettes and only gradually begin
+to make sense; though the game exercises only limited control over the
+sequence of your discoveries, the control is sufficient to make your
+reconstruction of the storyline reasonably predictable. Moreover, the
+manner of those discoveries amplifies the uneasy feel: relevant facts
+come out first as offhand references and are only explained much
+later. A computer that you discover early on supplies some background
+information, but no more than that; you learn about the course of
+events that led to your awakening alone on the floor through other
+means. Helpful in that respect (and for keeping things straight) is a
+calendar that you find, and in which you note the sequence of events;
+even if it feels like a device to keep the player from being confused,
+it's a welcome one.
+
+One of the best parts of Babel's story is the believability of the
+characters it depicts: though you never interact with them over the
+course of the game, your discoveries about them make them as real as
+NPCs that are actually present. Mr. Finley's writing deserves the
+credit for that; the dialogue is good enough to supplement rather than
+drag down the story (not at all a given these days), and what you see
+of the way the characters interact both fills out the plot and gives
+them some life.  Admittedly, the scenes you encounter are heavily
+steeped in science fiction conventions, and perhaps those who read
+more science fiction than I do will find the whole thing too old to be
+interesting. But for my part, I found a genuine interest in the
+characters, as opposed to nifty gadgetry or wondrous discovery, that
+made the story much more compelling than much of the science fiction
+I've read. If anything, I was hoping for more development, more plot
+to discover, though I recognize that Mr. Finley was limited by the
+two-hour format. The strength and complexity of the story line makes
+Babel feel more like fiction than puzzle-based IF.
+
+As noted, Babel's puzzles are secondary to the story, and what we do
+get is not especially memorable (though neither are they very
+hard). One puzzle involving a cabinet strains belief a bit, as does
+another involving security mechanisms that you defeat, and the
+beginning presents a bottleneck of sorts that requires both close
+reading and something of an intuitive leap -- but once a certain barrier
+is passed, most of the game will come easily to the experienced IF
+player. But that factor works well here: more difficult or
+time-consuming would slow down the plot and take away the realism of
+the premise. As it is, there is almost no need to save and restore:
+there is a time limit, but it is loose enough to afford plenty of room
+for wandering around and making mistakes, and all of the ways to die
+or make the game unwinnable can easily be foreseen. But there is a
+nice puzzle involving a locked door, and many of the puzzles draw on
+the development of the plot -- you need knowledge that you discover
+along the way, for example -- in a way that is all too rare even in good
+IF.
+
+Particularly notable about Babel is that it tells its story in a way
+that conventional fiction could not -- at least, not as well or as
+powerfully.  Though a short story or novel could in theory be written
+in the second person, it couldn't put the reader in command of events,
+and leave the unveiling of the plot to the reader's discretion. A
+storyline in which discovering your own identity is central works well
+in a medium where your persona is rarely fixed; in conventional
+fiction, where using the second person is uncommon, the device just
+wouldn't work. In an odd way, the usual limits of IF work to the
+advantage of this game, as the player's expectation of a series of
+puzzles rather than an identity problem makes the resolution to the
+problem genuinely surprising; the twists in the plot are effective
+precisely because of the questions the player doesn't ask of the
+game. The strength of the writing also helps; to quote much of it
+would give the plot away, but room descriptions like the following
+convey the frigidity of the setting:
+
+    Grey light drips in from an octagonal skylight in the ceiling of
+    this room, making the room look as cold as it feels.  To the
+    north, east, and south, doorways lead into unlit halls.  The metal
+    door frame of the east hall glows faintly with an eerie blue
+    light.
+
+    The dominating element of this small cube is the color white.  The
+    walls are white, the stiff bed by the east wall is covered in
+    white sheets, the counter sticking out of the wall in the corner
+    looks as though it were carved from snow.  Set into the counter is
+    a pale, porcelain sink.  Even the air smells as if it has been
+    scoured bare.
+
+The atmosphere is effective throughout; the countdown messages, when
+they come, heighten the tension, and stray details -- shattered mirrors,
+dead mice -- work to the same effect.
+
+There are some gameplay problems that complicate matters now and
+again.  "Search" is never useful, as far as I can tell, and "examine"
+does what might be expected of "search" in more than one case. One
+sequence involving a radiation chamber, though put together with
+admirable realism, feels rather tedious to work out -- and some related
+actions require rather exact wording. At one point, the game asked me
+if I wanted to open the east door when it meant the west door, and
+there are some events and feelings embedded in room descriptions that
+accordingly recur a bit too often. These are minor glitches, though;
+bugs are relatively few (and the author has promised that those that
+do exist will be cleaned up in future releases).
+
+There are similarities between Babel and C.E. Forman's Delusions -- in
+the premise and in some of the plot devices, notably. But Babel works
+on a much different level; the story is more central to the game here,
+and is hence better developed and more compelling -- and, naturally, the
+puzzles are far fewer and less involving. (For my part, I found that
+the plot of Babel made more sense than that of Delusions, but perhaps
+that's just me.)  There is no reason why playing Delusions should
+spoil the experience of playing Babel (nor vice versa). I enjoyed
+Babel, in short -- I gave it a rating of 9 -- and I consider the
+storytelling equal to that of any recent work of IF.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Babel
+AUTHOR: Ian Finley
+E-MAIL: mordacai SP@G ix.netcom.com
+DATE: 1997
+PARSER: TADS advanced
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/babel/babel.gam
+VERSION: 1997 competition release
+
+Babel is not only one of the best competition games I've ever played,
+it's one of the best pieces of interactive fiction I've ever seen,
+period.
+
+The game starts from a well-worn IF trope: you awaken alone, with no
+memory of your identity. Then, Babel unfolds into a breathtaking,
+emotional story.  The work of exposition and plot development is
+performed through the protagonist's enhanced powers of tellurgy, which
+the game defines as "the ability to experience past events by touching
+objects present when the event occurred." The clarity of these visions
+varies according to the emotional intensity of the event being
+witnessed. This device, reminiscent of that in Stephen King's The Dead
+Zone, is the central convention of the game, and it allows a degree of
+character development very rare in interactive fiction. Certainly
+other games (most notably Zork:Nemesis) have used this device in the
+past, but none have brought it about so convincingly and so
+effectively as does Babel. The tellurgic episodes gradually bring an
+awareness of the character's identity, and how he came to be in his
+amnesiac state, as well as tell a chilling story of scientific
+arrogance and attendant disasters.
+
+Another interesting aspect of Babel is the moral ambiguity of its main
+character. Typical IF heroes (or heroines) have few ethical shades:
+they are either unambiguously on the side of good, working to save the
+universe or some version thereof, or basically self- interested
+seekers of wealth or fame. The hero of Babel falls into neither of
+these convenient categories. Instead, he appears first as a victim,
+then eludes that simple assignation as well, becoming a character of
+depth and complexity very rarely realized in IF. The experience of
+playing such a character was a powerful one, especially as the story
+gradually revealed just how willing a participant he was in his own
+undoing.
+
+Finally, I think it's worth noting that two games in this year's IF
+competition (Unholy Grail and Babel) deal with a metallic research
+station where the player discovers the frightening results of
+unbridled scientific inquiry run amok. What is meaning of this
+thematic fascination in a community devoted to a form of gaming which
+has been bypassed in the marketplace by games which grasp to exploit
+the newest, flashiest technology? It's a speculation for another
+essay, but I feel safe enough asserting this: Babel is an outstanding
+treatment of the theme, the best I have ever seen in IF, and one of
+the best I've ever seen in any medium anywhere.
+
+Prose: Babel's prose was nothing short of outstanding. It unerringly
+conveyed the experience of being stranded in a deserted Arctic
+outpost, addressing all the senses and the emotions as well. Powerful
+turns of phrase abounded, and extreme experiences (such as being out
+in the Arctic winter wearing only a hospital gown) were very vividly
+rendered. The characterization and dialogue in the cut-scenes of the
+tellurgic visions were sharp and effective, outlining strongly defined
+and complex characters. Small touches like tiptoeing across the cold
+floor in bare feet, or the equation of the cold-hearted scientist's
+eyes with the Arctic ice (notice the pun), combined with broader
+strokes for an astonishingly realistic and well-written whole.
+
+Plot: The game's plot unfolds masterfully, revealed in dribs and drabs
+by the tellurgic episodes. The author provides a chronology for all
+these events with the (rather forced) device of giving the character a
+calendar on which he "instinctively" jots down the date of each
+occurrence. As the story develops, the tension becomes greater and
+greater: the unfolding mystery of the character's origin serves to
+heighten the power of the story's eventual climax. Some of the
+Biblical imagery is just a tiny bit heavy-handed, but the whole is
+strong enough to overpower any objection of didacticism or triteness.
+
+Puzzles: The puzzles almost effortlessly achieved the ideal of
+blending seamlessly into the narrative. There were no arbitrary
+puzzles, and the artfully gradual revelation of the plot was served
+elegantly by simple but logical obstacles. There were no puzzles that
+were particularly ingenious or unique, but that wasn't the point of
+this game. The puzzles were there to provide some control over the
+narrative flow, and in this they served their purpose just right.
+
+Technical:
+writing -- The prose mechanics were excellent. I only noticed a couple
+of proofing errors in this very word-heavy game.
+
+coding -- Coding was equally strong. I found a couple of very minor
+bugs, but there were many, many touches that made it clear that a
+great deal of thought, foresight, and effort went into the coding of
+this game.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: A Bear's Night Out
+AUTHOR: David Dyte
+E-MAIL: ddyte SP@G cricket.org
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/competition97/inform/bear/bear.z5
+VERSION: Release 2
+
+PLOT: Not always consistent, but amusing (1.4) ATMOSPHERE: Not bad (1.4)
+WRITING: Very good (1.5)            GAMEPLAY: Excellent (1.7)
+CHARACTERS: Few (1.2)     PUZZLES: Reasonably clever (1.5)
+MISC: Central gimmick well done (1.7)
+OVERALL: 7.7
+
+If 1996's Ralph was a game that managed to be consistently doggy in
+its outlook -- in that it effectively took on the perspective of a
+house mutt -- 1997's Bear's Night Out is quite consistently, well,
+beary; the player is put in the position of a teddy bear that
+mysteriously comes to life one night and pads merrily about its
+owner's house. (Actually, given how comfortable this particular bear
+seems to be with exploring on its own, perhaps this isn't the first
+time -- the game isn't clear on this point.) It's a genuinely charming
+premise that author David Dyte carries off with humor, and as with
+Ralph, that premise shapes both the plot and the puzzles in a way that
+makes Bear's Night Out feel fresh.
+
+Your goal, which you discover on the course of your explorations, is
+to prepare for the annual Teddy Bears' Picnic, slated to happen the
+next day, by finding out what you need to bring and assembling
+it. (The author sprinkles quotes in pop-up format throughout the game,
+but "If you go down in the woods today..." is not one of them,
+curiously.) Why you need to do all this yourself rather than leaving
+it to your owner is not wholly clear, but it hardly matters: the story
+holds together adequately in setting out a series of problems. The
+best of them hinge on the problems associated with inhabiting a teddy
+bear's body -- unlike Ralph, the identity of the central character is
+in several instances an obstacle to overcome.
+
+The writing is quite good, even though spare; most of the settings are
+relentlessly ordinary, and Mr. Dyte does not try to load them down
+with special characteristics when they are, in truth, generic rooms in
+a house.  This is not to say he shirks his writing duty, of course,
+merely that the descriptions of rooms and events are not what makes
+the game compelling.  That said, though, the "bear's eye" view of the
+house is fairly consistent and well done -- take this example, for
+instance, part of a room description:
+
+    Along one wall stands a high bench, featuring a sink full of
+    dirty dishes, next to which you can see a telephone and an
+    answering machine, if you step back and crane your neck a
+    little.
+
+The player is virtually never allowed to forget he is inhabiting a
+teddy bear's body, one of the best things about this game: Mr. Dyte
+evidently didn't simply have some puzzles that he threw together in a
+game and grafted a funny plot on, and he clearly took some time making
+the game environment and gameplay appropriate to the game. As a
+result, the cute and funny factors is considerable, which makes the
+game appealing in its own right even without good puzzles. When you
+climb down from something, for example, you get "You tumble down, but
+being a soft bear, that's ok."  Better still, in response to JUMP:
+"Full marks for cute and furry, but none for achievement." Though not
+everything in the game really fits the mode -- how does this teddy
+bear manage to carry so many items -- the sacrifices are generally in
+the name of facilitating gameplay and as such are wise choices. (For
+example. a teddy bear's paws aren't probably up for much in the way of
+manipulation -- but Mr. Dyte fortunately didn't confine the player's
+actions to things like pushing or pulling. That would go beyond
+realism into annoyance.)
+
+The puzzles themselves are well constructed and not too hard, on the
+whole, and some of them even offer multiple solutions -- though one of
+them, in the bathroom, requires rather exact syntax (and some luck in
+stumbling on the puzzle in the first place, unless I missed
+something). There is a hint system included, Invisiclue-style, which
+provides help for any problem, so difficulty certainly isn't a
+problem, and most of the puzzles are logical. The one event that isn't
+particularly logical is funny enough to make it worthwhile (and is
+also a veiled reference to Sorcerer, better still).
+
+The only problem is that the first real puzzle to be solved requires
+some real exploration, so things can bog down a bit while you try to
+figure that out -- though, after that, things move along more quickly.
+This problem might be alleviated with perhaps a hint or two as to the
+location of a certain object required to solve the first puzzle -- as
+it is, you discover it, but not because you were looking for it as
+such. The other main problem is that there is a side plot that
+separates out from the main plot after a certain point -- and though
+it is fairly obvious that you need to solve the relevant puzzles, it
+isn't clear why until the very end of the game (and the reasons are
+rather thin, I think, as justification for having the side plot). I
+did enjoy the second plot, of course, quite a bit, but it might have
+helped to have the reasoning for pursuing the puzzles better
+incorporated into the story.
+
+One of the perks for the seasoned IF player is the wealth of IF
+references; this one rivals Sins Against Mimesis for sheer IF
+knowledge.  The author claims 32 references to other games, and while
+I certainly didn't find that many, I can believe that they're in
+there. (One puzzle even involves finding a "z-chip" that allows you to
+play interactive fiction.) Excursions into Dungeon, Curses and
+Adventureland are among the game's highlights -- my favorite moment in
+the entire game was luring Holly into Adventureland -- and the IF-full
+environment and barrage of self-reference (the author is present,
+though asleep in bed the entire time) increase the enjoyability and
+replayability factors. Along with finding the IF references, there are
+many funny things to do, quite a few deriving from the limits of your
+character; the "fun stuff" section is ample, much larger than that of
+most games, and affords a wealth of alternatives.
+
+Bear's Night Out doesn't do much wrong, in short, and what it does do
+wrong is easily balanced by what it does right. With consistently
+funny writing, this is one of the best of this year's competition,
+earning a 9 from me: it's a good idea, well implemented.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: The Edifice
+AUTHOR: Lucian Smith
+E-MAIL: 
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/competition97/inform/edifice/edifice.z5
+VERSION: Release 1
+
+PLOT: Involving (1.5)          ATMOSPHERE: Simple but well done (1.3)
+WRITING: Strong (1.4)          GAMEPLAY: Mostly good (1.3)
+CHARACTERS: Few but strong (1.4) PUZZLES: One outstanding (1.6)
+MISC: Innovative and well-thought-out (1.7)
+OVERALL: 7.2
+
+Lucian Smith's "The Edifice" is one of the simplest games in the
+competition -- head games involving puzzling out what's going on are
+few -- but it also tells one of the most effective stories. (Well,
+okay, some of the entries don't have much of a story at all to tell,
+but that's different.) Edifice is an example of IF where desultory
+puzzles don't matter: it's the story, and the concept driving it, that
+counts, and this is one of the best game ideas this year's competition
+produced.
+
+This is an allegory: you represent primitive man, moving through the
+various stages of evolution as represented by levels in a strange
+stone edifice that appears before you suddenly. The puzzles represent
+problems along the way of evolution, problems whose mastery defined
+certain levels of development -- they're mostly straightforward
+(though one is a bit confusing), but there is a real sense of
+accomplishment in solving them, somehow. Certain stages are by
+definition mind-numbingly tedious, which reflects the subject
+accurately -- these are problems that involve tedium -- but also raise
+the question of whether there might have been a better way to design
+those particular puzzles. (For a similar problem, see The Meteor, the
+Stone, and a Long Glass of Sherbet.) It should be added that the
+author isn't trying to convey every single aspect of every phase of
+evolution; rather, you represent an important breakthrough at each
+stage, and when you're done, you move on and reenter the scene much
+later, when Homo sapiens has incorporated your discovery and built on
+it.
+
+That raises the question that I, at least, found most intriguing about
+this: does this really have anything to do with evolution? It's kind
+of a silly approximation, after all, since it's apparent quite soon in
+each stage what the sought-for breakthrough is, and it's just a
+question of putting together the needed materials or figuring out the
+key steps. But it could be argued that Smith has designed this with
+the feeling of discovery in mind: particularly in the last two scenes,
+you have the sense of a specific need that drives the breakthrough,
+not a sudden resolve out of the blue to carve hand tools or
+domesticate animals. The sense of logical connection is less strong in
+the first one; there is very little sense that you tumble to your
+discovery because of circumstances, rather than having a
+twentieth-century computer user push him around to accomplish a
+certain goal. Perhaps that's inevitable, given the problem at hand,
+but I would have liked to have seen at least some sort of conjecture
+as to what sort of circumstances lit up that particular connection for
+Stone Age man. The game does capture the brutality of this particular
+discovery well, in that you have no particular reason other than your
+own satisfaction for doing what you do, and perhaps the apparent
+purposeless of your solution to the problem reflects the arbitrary
+kill-or-be- killed nature of the environment -- but it still felt a
+little unsatisfying.
+
+On the whole, I found the second stage most plausible and interesting;
+it's the only one where you deal with other characters, and though
+your interactions are limited, the characters have a certain charm. (I
+found a certain whimsical appeal in their names -- Wife, Son,
+Grandmother.) The central puzzle took real thought and felt genuinely
+rewarding to solve -- and, even as a microcosm, it felt more than any
+of the problems like what really might have happened. The first stage,
+as suggested, is a little too illogical to really feel like an account
+of the breakthrough, and the third just doesn't quite make enough
+sense; you have the sense of the original motivation for your
+character, but not what inspired him to try this particular
+approach. (And the realism/tedium element that worked reasonably well
+in the first part is simply annoying here, because it doesn't feel
+particularly logical.) Still, all three are worthy concepts, mostly
+well thought out.
+
+The writing is nothing special, though arguably that makes sense here
+-- too much attention to the scenery or aesthetics would distract from
+the goals at hand; you're not in the situations in question to check
+out the sights.  Certainly, the writing is adequate for the purposes;
+it sets the scene and makes clear what you need to do. My main problem
+with the mechanics of Edifice is that it's possible in the first part
+to screw up and require a fairly laborious process of restarting (it's
+probably quicker just to RESTART), which, quite apart from its
+problems for the IF player, doesn't really make much sense in the plot
+of the game. (The nature of the problems was such that the solutions
+developed over time, after all; it took many failures to make the
+discoveries required in each scene.) In several key respects, the
+first scene requires resources that can be easily wasted -- and though
+the urgency of the situation lends a certain logic to the picture (if
+you don't solve the problem, you'll die), it still doesn't really make
+much sense as an evolutionary tableau.
+
+Another clunky element is the hint system, which rests in a mural in
+the edifice -- clever enough, but the problem is that the mural only
+gives you the hint once you've gone out and actually done each step
+and come back and checked the mural, which I found time-consuming and
+annoying. You can't, in short, play to where you get stuck, then come
+back and check the mural, because the mural won't keep up with
+you. Among problems to be fixed for future versions, this one may
+be #1.
+
+The end is a bit confusing. There is a cataclysmic event at the end
+that doesn't seem to fit into the evolutionary frame, as far as I can
+tell, and my guess was that it's the author's device for ending the
+story. If so, it's intriguing -- but the final sentence, even when
+you've finished the game "right" (in accordance with the walkthrough,
+anyway), is a bit of a puzzler. I couldn't decide whether it was a
+comment on the nature of evolution or simply a bug; if it was supposed
+to be the former, it could perhaps have been more skillfully done. (At
+least, it might have a sentence somehow distinguishing it from less
+satisfactory endings.) And while I enjoyed the ending -- it had plenty
+of drama -- it did weaken the allegory a bit; certainly, the
+evolutionary process didn't end where it does in this game, but the
+conclusion of the game suggests some sort of ending.
+
+Quibbles aside, though, The Edifice is one of the most intriguing
+games in the competition, in that it tries something completely new --
+a first-person account of the highlights of a scientific process. In a
+sense, your actions are vital to the continuation of that process --
+if you choose not to go on, progress stops with you -- and one way to
+see your role in the game is that of a guiding force at crucial
+moments in history, an intervention to ensure that the development of
+man stays on track. That, at least, would explain some of the knottier
+problems involving questionable motivations or the difficulty of
+anticipating a particular result without the player's advance
+knowledge. Part of the charm of Edifice is that the story it tells is
+sufficiently ambiguous that it can justify a variety of perspectives,
+including those who don't care for evolution as a self-perpetuating
+force at all. (The game, whether deliberately or not, provides some
+grist for the mill of the argument that mere chance could not been
+sufficient to turn ape into man.)
+
+Though elements of the gameplay are lacking somewhat, anything that
+Edifice lacks in playability is easily made up in sheer concept; the
+idea and the charm of its implementation earn this one an 8 on the
+competition scale.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: The Edifice
+AUTHOR: Lucian Smith
+E-MAIL: lpsmith SP@G rice.edu
+DATE: 1997
+PARSER: Inform standard, significantly extended
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/edifice/edifice.z5
+VERSION: 1997 competition Release 1 
+
+You're an ape, spending your days hunting for Food and fleeing from
+Enemies. You have these little thumbs, too, that set you apart from
+the Others. Suddenly one day, a huge black Edifice appears before you,
+arousing your wonder and suspicion. I can almost hear "Also Sprach
+Zarathustra" in the background: Daaaaaaaa, Daaaaaaaaa,
+Daaaaaaaaaa.....  Da-Dummmmmmm! However, from this highly derivative
+beginning, the Edifice ventures quickly into much more original
+territory. It seems that once you enter the monolith, you find
+yourself able to enter various stages of human development, from the
+discovery of fire to protecting your village against plundering
+marauders. The idea works very nicely, putting the player into
+puzzle-solving situations which blend very naturally into the game's
+environment and using the edifice itself as a sort of frame around the
+smaller narratives as well as a hinting device.
+
+One section of the game in particular I found really remarkable. On
+the second level of the edifice, you find yourself as a very early
+human, living in a family unit in the woods. Your son has a fever, and
+to cure him you must find the Feverleaf, which can be made into a
+healing tea.  However, no Feverleaf seems to be available anywhere,
+until you stumble across a Stranger. Unsurprisingly, however, the
+Stranger does not speak your language, and so you are faced with a
+problem of communication. The game does an incredible job with
+simulating this situation. I was astonished at the level of realism
+which this character was able to achieve, and at the care that must
+clearly have gone into fashioning this interaction. I've rarely seen
+such a thorough and effective establishment of the illusion of
+interactivity. The Stranger did not of course respond to English words
+in understandable ways. However, you could point to objects, or speak
+words in the Stranger's language, and gradually the two of you could
+arrive at an understanding. It was an amazing feeling to be
+experiencing this kind of exchange in IF... I really felt like I *was*
+learning the Stranger's language. It will always remain one of the
+most memorable moments of this 1997 competition for me.
+
+I spent a lot of time on this one encounter, but I spent more time on
+the first level of the edifice, where you learn basic skills like how
+to hunt and build a fire. All of the puzzles in this section were
+logical, and the implementation was characteristically thorough and
+rich. However, this level is also where I ran into the game's one
+major flaw: its scoring system. Upon typing "score", you are told
+something along the lines of "You have visited two levels of the
+Edifice and solved none of them.  You are amazingly discontent."
+However, sometimes "amazingly discontent" changes to "very content."
+for reasons that aren't at all clear. Moreover, I did everything that
+the hints indicate on that level, but the game still insisted I had
+not solved it. I worked on this until I got so frustrated with it that
+I just went up to the next level. I'm not sure whether these
+irregularities in the scoring system were intentional or not, but I
+found that they were the only significant detractions from an
+otherwise excellent game.
+
+Prose: The author did a superb job with the prose. Objects and rooms
+were described carefully and concisely, and in fact their descriptions
+often changed to reflect the character's expanding knowledge. In the
+beginning, words are simple and their meanings often archetypal: Rock,
+Enemies, Others, etc. As the game progresses and the character
+continues to evolve, the diction becomes more complex and the meanings
+more specific. This is the type of prose effect that a graphical game
+could never achieve, since it arises from the nature of the prose
+itself. That the game can achieve this effect shows that it is very
+well written indeed.
+
+Plot: The game's plot is a clever device to put the player into
+various moments in the history of human development. Its central
+device is rather clearly lifted from 2001:A Space Odyssey, but other
+than that it's an excellent frame story around fascinating vignettes.
+
+Puzzles: I think the language puzzle was the best one I've seen in
+interactive fiction this year. Certainly it was the best in the
+competition -- it advanced the narrative, developed the character,
+achieved a new kind of IF character interaction, and packed a powerful
+Sense of Wonder. The other puzzles I encountered were also very good,
+arising quite intuitively out of the game's situation and objects. My
+only frustration was with the elements of the game which suggested I
+had more to solve but never seemed to indicate what those things were.
+
+Technical:
+writing -- The Edifice's prose was quite error-free.
+coding -- Aside from the problems with the scoring system, the coding
+was outstanding. Synonyms abounded, and almost all logical or
+intuitively available actions were accounted for. I have no doubt that
+the problems with the scoring system arose from the complexity of the
+game, and that they will be resolved in the next release. When that
+happens, Edifice will have eradicated its one significant flaw.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: The Frenetic Five vs. Sturm Und Drang
+AUTHOR: Neil deMause
+E-MAIL:  neild SP@G echonyc.com
+DATE: 1997
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/tads/frenfive/frenfive.gam
+VERSION: Release 2 (1997 competition release)
+
+Here's my confession: I love superheroes. Ever since my first Marvel
+comic at age six, I've always been a fan. Even now, well into my
+twenties and possessing a Master's degree in English Lit, I still make
+sure I get my monthly superhero fix. Yes, I know that violent revenge
+power-fantasies do not great works of literature make. Yes, I love
+comics and I know that the comics market is overcrowded, to the
+exclusion of other quality works, with bulging musclemen in tight
+spandex. Yes, I know that the constant deaths and resurrections of the
+superhero set strain plausibility to the breaking point. (Though
+really, who cares about plausibility? We're talking superheroes,
+here!) And yes, I'm disturbed by the almost grotesquely idealized
+bodies (especially women's bodies) relentlessly depicted in superhero
+comics. But what can I say? No matter how guilty it gets, it's still a
+pleasure.
+
+Consequently, I was anxious to start playing The Frenetic Five, and
+gave a small cheer when Comp97's magic shuffler put it towards the
+front of the line. I've always thought that the whole superhero genre
+would make a great one for IF -- if it's a great power fantasy to
+watch some comicbook character shoot fire out of his hands, how much
+greater to actually play the character that does it! I quickly learned
+that FF is in fact a superhero spoof (seems that very few people who
+think of themselves as sophisticated can enter the superhero genre
+without wearing the bulletproof bracelets of satire and ridicule), and
+a very funny one too, in the tradition of Superguy. You play Improv,
+whose power is the ingenious use of household objects, and other
+members of your team include a boy who can see tomorrow's headlines,
+and a woman who can find lost objects by clapping her hands (named, of
+course, The Clapper). The prose maintains a consistently high quality,
+from the characters' dialogue with one another to the snappy responses
+provided for some unlikely actions (">GET HOUSE" brings "You can count
+the number of superheroes you know who can lift an entire house on one
+finger: Forklift Man. (Come to think of it, Forklift Man could lift an
+entire house with one finger.)") It's hilarious.
+
+Sadly, there are some problems as well. First of all, I was disappointed
+that my supposed super-power was not implemented, as it would have been
+one of the most natural (and coolest) hint systems ever devised. Anytime I
+needed help with a puzzle, I could have just drawn on my "super Improv
+power" to help me make the intuitive connections between those ordinary
+household objects. Instead, the game left me to hope that I (as a player)
+developed those MacGyver talents on my own. Not likely, I'm afraid. In
+addition, the game does not meet the challenge of allowing me to use even
+this setup, because it does not allow alternate solutions to puzzles by
+using objects in unconventional ways. Very few alternate solutions were
+implemented, and few are even anticipated with a snarky response. For
+example, when tied up, I tried many unconventional ways to escape my bonds
+(cut them with my shard of glass, put eyeglasses into sunlight to focus
+the light into enough heat to burn the ropes, blow on the eyeglasses to
+put them in the right place, bite the ropes, wrap duct tape on my fingers
+to get more than one object at a time, etc.) Each attempt was met with one
+of two (equally lame) responses: either very clumsy non-recognition of the
+verb ("You can't see any bite here.") or "That's not really possible in
+your current state." The game doesn't really account for all the clever
+things that could be done with the inventory objects provided, just the
+*one* clever thing that will solve each puzzle.
+
+Finally, there are a number of just plain bugs in the game, which
+always decreases the fun factor. The Frenetic Five has an excellent
+premise and, on the level of prose, an excellent execution. However,
+interface design and implementation are too important to be treated
+the way this game treats them, and it suffers for it. I'm still
+waiting for the game that does superheroes just right.
+
+Prose: As mentioned above, the prose is excellent throughout the
+game. The dialogue and characterization for each member of the team is
+sharp and funny, and room descriptions (which adapted somewhat to the
+character's mental state) are both concise and vivid. Even some of the
+most everyday IF responses are considerably enlivened by the superhero
+treatment -- for example, saying "Down" in a locale where that
+direction is not available evokes the response "Sadly, you're not
+equipped with the ability to tunnel through solid ground."
+
+Plot: The plot is basically pretty middle-of-the-road superhero
+cliche.  Since this is a spoof, of course, cliches are a good thing,
+and many of the touches (like having to take the bus to the
+supervillains' hideout) are quite funny. The landscape, the premise
+(SuperTemps, whose logo is a muscled forearm holding a timesheet), and
+the spoofing of venerable superhero tropes (a mission interrupts
+relaxation, the villains explain their nefarious scheme to the bound
+heroes, etc.) are all very cleverly done. There were some coincidences
+which strained even the generous boundaries of satire, but I'll
+discuss those below.
+
+Puzzles: In fact, I'll just discuss them right here. The puzzles are a
+weaker part of this game. I found basically two types of puzzles in
+the game. One group is the puzzle based on extremely contrived
+circumstances -- for example, the door to the villains' hideout uses a
+"guess-the-big-word" lock, and what do you know, I happen to have
+someone on my team whose superpower is guessing big words! Lucky me!
+The other type of puzzle is supposed to have drawn on my character's
+superpower, the ingenious use of household objects. However, since
+this power wasn't implemented (as a hint system) within the game, I
+was left to think of these ingenious uses by myself, the problems of
+which have already been discussed above.
+
+Technical:
+writing -- I found no errors in grammar or spelling in this game.
+
+coding -- I think the main failure of the coding was the one I've
+already discussed: the lack of depth in coding alternative uses for
+inventory items. When a game's main character is someone whose primary
+trait is the ingenious use of objects, it is incumbent on that game to
+provide specific code for as many of those ingenious uses as possible.
+Frenetic Five falls well short in this regard. The game also had a few
+regular bugs, which I assume will be fixed in the post-competition
+version.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Friday Afternoon
+AUTHOR: Mischa Schweitzer
+E-MAIL: M.A.M.Schweitzer SP@G inter.nl.net
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILIITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/competition97/inform/friday/friday.z5
+VERSION: Release 1
+
+PLOT: Simple (1.2)               ATMOSPHERE: Office, but well-done (1.3)
+WRITING: Quite good (1.4)         GAMEPLAY: Mostly good (1.2)
+CHARACTERS: Quite funny (1.4)  PUZZLES: Nothing special (1.2)
+MISC: Solid, but some unfortunate elements (1.2)
+OVERALL: 6.3
+
+Among all the wander-around-an-ordinary-place-doing-ordinary-things
+entries in the 1997 competition, perhaps the most enjoyable is Friday
+Afternoon, a short tour of the author's office. Though the puzzles
+aren't really anything special, they have few obvious flaws, and most
+impart an air of whimsy that makes this feel reasonably fresh.
+
+Perhaps the most notable thing in Friday Afternoon is a development
+right at the beginning of the game -- your glasses break, and you have
+to find a means of fixing them despite your limited vision. The
+solution itself is not particularly hard or innovative, true, but
+Mr. Schweitzer shows admirable thoroughness in concealing the office
+behind a blur until the problem is solved. The problem is vaguely
+reminiscent of one from Wishbringer, though that was an absolute bar
+on vision rather than a reduction -- but it did draw me into the game
+effectively enough, much more than the average conventional-task game
+tends to. My only problem with that part of the game, really, was that
+the solution came too easily; I wanted to have to rely on other
+senses, follow a complicated pattern, something, but the payoff was a
+bit mundane.
+
+After that, Friday Afternoon becomes fairly conventional, though
+enlivened by a good deal of wit; one of your co-workers has responses
+that echo those of the hacker in Lurking Horror, for one thing, and
+the solution to the problem of looking up a phone number is
+entertainingly zany. (At least, zany in a bored-and-
+trapped-in-an-office way.) The only puzzle that really breaks IF rules
+is one involving repeated actions without the first few failures being
+clued -- i.e., the player might give up after a try or two, since the
+responses don't indicate that you're getting any closer.  With some
+tinkering on that -- feedback that changes, some reason to believe
+that pursuing that course will lead you to the goal -- the puzzles
+would be fine.
+
+A secondary but just as significant problem in Friday Afternoon
+involves a certain calendar and what it assumes about you, the player
+-- namely, that you're a straight male who enjoys having pictures of
+women in tight clothes in your office. While this certainly doesn't do
+anything for the game, in my eyes, the sexism involved isn't so
+painfully blatant that it's offensive; I found it a bit annoying, I
+suppose. (When I played this one, I had already encountered "Leaves"
+and its much more juvenile example of the same problem.) I don't think
+that the existence of the calendar in the game is itself wrong, but
+there are a few lines that could be better put -- namely, in a
+description, you're told that it's from August 1997, "but that isn't
+what you're looking at, is it?" And elsewhere, when you find a note
+indicating that the company's female employees are offended, you smile
+and note that the management won't see the calendar in its current
+location. No, not outrageous, but still a little obnoxious on both
+counts. Imputing thoughts or feelings to a player can be very
+effective when well done, but these aren't thoughts or feelings that
+are really worth imputing, given the assumptions involved. My feeling
+is that the calendar should still serve its purpose in the game -- but
+that the suggestion that it, er, does whatever it does for you should
+be removed.  (And, I must say, the answer to "read calendar" is quite
+amusing.)
+
+Some have objected on similar grounds to the central premise of the
+game -- you need to get out of your office bi 6:00 lest you miss your
+date with Tanya, and your date with Tanya is particularly important
+because you want to prove to yourself and to the world that you're not
+a nerd. Not a particularly noble reason for going on a date with her,
+true, but the game doesn't say that it's the sole reason or that you
+have no actual feelings for Tanya, merely that you feel like a nerd
+and are tired of that feeling.  My feeling was that this is simple
+tell-it-like-it-is; for many people, going on a date -- either the
+first one ever or the first one in a long time -- serves as ego
+reinforcement, a sign that you're attractive, interesting, etc. It
+isn't particularly fair to the other party involved if that's the only
+reason, but the interests of comedy here; it's not as funny, somehow,
+if you're anxious about missing your date because you're desperately
+in love, and this is supposed to be comic, not tragic.
+
+All that said, there are plenty of things to enjoy here, notably an
+"Easter Egg Hunt" in the hint menu that gives the player interesting
+things to try -- with a prize in the form of the original release of
+the game. I didn't find many of the Easter Eggs involved -- though I
+wouldn't mind getting a push, particularly for "re-creating a scene
+from The Graduate". There is plenty of deadpan humor in the writing,
+for example when you try to move a stack of boxes and get this: "You'd
+rather not do anything with it: you might hurt yourself if it all fell
+on top of you, and you don't want to go on a date with Tanya with
+band-aids all over your face." Or a reference to a desk as "taking up
+space," to which the author adds "(Much like Marc's job description,
+from all you've seen him do." The view of your co-workers is
+consistently amusing, even if they're a bit stereotyped; the sugarcube
+is a very funny take on office boredom.
+
+Though there isn't a lot about Friday Afternoon that will stay with
+the player, the author should get credit for not doing much
+wrong. Using the phone, admittedly, requires fairly specific syntax,
+and the scoring system -- where you get ten points for significant
+tasks, but one routine action gets one point -- is a bit odd. But the
+game is entirely free of grammar problems (the author is Dutch, though
+it's not clear what his familiarity with English is). There's a time
+limit, though it's sufficiently loose that you really have to be lost
+to run afoul of it -- but it does provide some measure of tension, the
+puzzles work the way they're supposed to, and the whole thing's done
+with a measure of humor. I gave this one an 8 on the competition
+scale.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Glowgrass
+AUTHOR: Nate Cull
+E-MAIL: culln SP@G xtra.co.nz
+DATE: 1997
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/tads/glow/glow.gam
+VERSION: Release 1
+
+PLOT: Intriguing but incomplete (1.4)   ATMOSPHERE: Not bad (1.4)
+WRITING: Mostly good (1.4)     GAMEPLAY: Uneven (1.2)
+CHARACTERS: One, sort of intriguing (1.3)  PUZZLES: Fairly good (1.4)
+MISC: Interesting idea, not fully developed (1.3)
+OVERALL: 6.7
+
+Post-apocalyptic IF? There hasn't been any, in my memory -- A Mind
+Forever Voyaging is the only thing that comes close -- but there's no
+reason why there couldn't be, and Nate Cull's Glowgrass, small but
+well-conceived, is certainly an interesting attempt. Though the game
+itself has some flaws, the story is intriguing enough to make it
+enjoyable.
+
+You, it seems, are an alien researcher whose ship has crashed on an
+Earth now empty of humans -- 'twasn't nuclear war, though, 'twas a
+Green Plague (not much development on the specifics there) that wiped
+everyone out. As an expert on Homo sapiens (or, to you, "the
+Ancients"), stranded on the planet you're supposed to understand, your
+mission is to apply your knowledge to get yourself out of your plight
+one way or another, though exactly how isn't clear at the
+outset. (Nor, arguably, is it at the end, though you have a better
+idea.) You explore a small suburban home in an anthropologist's
+mindset -- in the bathroom: "From your knowledge of Ancient social
+mores, this was likely to have been a personal cleansing area." The
+effect is occasionally like that of a short story I once read called
+something like "Daily Rituals of the Nacirema" -- I don't remember the
+author -- which similarly describes common daily suburban life as an
+anthropologist might. But the intent there was to parody, and
+Glowgrass is more science fiction than sociology -- and, moreover, the
+Earth you're witnessing is several technological notches up on us
+currently, so most things are only indirectly familiar. It's something
+of a strange way to go about it, but the story does, for the most
+part, hold up, more because it's well written than because of striking
+originality.
+
+The main problem with the plot, though, is that there's just not
+enough there. You get snippets about yourself, but not enough to
+really figure out who you are, what you were doing coming to Earth in
+the first place, what you really think of "the Ancients" or of the
+things you find. Nor, as noted, is the fate of the Earth made clear --
+you find a printout that hints at a plague, but why did it happen?
+What sort of plague was it, how was it spread, how did it start, did
+anyone survive or get off the planet? It might be unfair to expect all
+this from a competition entry, but a story as complex as this one
+should get at least some development, and there really isn't much to
+go on here. There are offhand references at the end that seem entirely
+cryptic -- which gives the impression that the author either has a
+sequel planned or meant to develop the plot more in this one and never
+got around to it. If there is more to come, I look forward to it --
+but this snippet is so truncated that it's a bit frustrating.
+
+The gameplay is mostly adequate, though the required syntax is often
+rather specific, and steps for piecing together one mechanical puzzle
+aren't entirely logical (you have to be holding certain objects that
+you hook together but not others). At one point, a certain NPC says to
+you "I didn't think of that!", even if you've already mentioned it to
+her. And there is a vehicle that is a location unto itself, so "get
+out of" it doesn't work, and objects that appear to be in plain sight
+require "examine" to find. More irritatingly, crashes are frequent --
+and I'm running the latest DOS TADS runtime, so I don't think it's the
+interpreter. In a small game, of course, it's not a huge issue -- but
+one hopes that a future release will clean things up.
+
+Glowgrass is not particularly difficult -- there are only three
+puzzles, really, though some searching of scenery is necessary to
+solve those puzzles, and they're all fairly straightforward mechanical
+assemble-and-apply-the-objects puzzles. (Though there is one moment
+that requires simply waiting around for four or five turns, not
+initially obvious to me.) But the writing is good enough to keep you
+involved; you have the sense of inhabiting the mind of a character who
+is genuinely intrigued and surprised by what he finds. At times, the
+writing takes on the overwritten character of mediocre science
+fiction, and you get this:
+
+     A gasp wells in your throat, as vividly you relive how it
+     must have been; to suffer such agony, so young.  For the
+     first time you regret the empathic talent which led you to
+     xenohistory.  A moment later, the mood passes, leaving you
+     still somehow chilled.
+
+For one thing, tears well in eyes; gasps don't generally well in
+throats.  For another, you're not reliving anything, you're trying to
+imagine, and your capacity to do that is fairly limited considering
+who you are. More importantly, imputing emotions is difficult to do
+well -- see this year's Sunset Over Savannah for an exceptionally good
+attempt -- and in a scene like this, where the player can infer
+perfectly well what he or she is supposed to be feeling (your
+"empathic talent" is a little weird; why it would lead you to
+researching Earth is too hard to infer), there's no need to inform the
+player that he or she feels sad or empathetic or anything
+else. Similarly, you're told at another point that a room "still
+retains the awe and innocence of the Ancient age," which feels like
+overkill, unless the author wants to tell us exactly why it seems that
+way. But there are also good moments that recall, well, good science
+fiction, such as the following from the intro:
+
+     A minute later, you get to your feet, pain gnawing your body.
+     Scratch one dropship; nobody could have survived that crash.
+     Scratch your equipment.  Now it's just you, your wits - and
+     the Ancients.  Hope you're as good a xenohistorian as you
+     claimed at the Institute.  Because unless you find some kind
+     of way out of here, it could be months before a recovery team
+     locates you.
+
+Not profound, but concise and even witty in a rueful sort of
+way. There are several of the shakier moments, in terms of writing, in
+Glowgrass, but the game is short enough that it's not a major problem;
+if this were followed up or expanded into a full-length game, the
+imputing-emotions bit might get wearisome. At any rate, Mr. Cull keeps
+us involved throughout, and even manages to pass off one
+quasi-metaphysical moment (in that it's somewhere between spiritual
+and technological) with a minimum of conscious suspension of
+disbelief. (At least, that's how it felt to me.) Though that moment
+doesn't really feel as transcendent as it should, it's convincing and
+gives the story a jolt.
+
+Glowgrass, in short, is a competent and reasonably interesting little
+entry, though it feels more like a teaser than a game in its current
+state. I hope the cryptic references will be elucidated in a later
+game; for now, I give this one a 7 on the competition scale.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Lost Spellmaker
+AUTHOR: Neil Brown
+E-MAIL: neil SP@G highmount.demon.co.uk
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-
+archive/games/competition97/inform/lost/lost.z5
+VERSION: Release 2
+
+PLOT: Reasonably amusing (1.2)    ATMOSPHERE: Not much (0.9)
+WRITING: Mostly strong (1.3)     GAMEPLAY: Weak in spots (0.8)
+CHARACTERS: One very funny one (1.2)  PUZZLES: Not great (0.8)
+MISC: Some good ideas, didn't do enough with them (1.2)
+OVERALL: 5.4
+
+Uneven but reasonably enjoyable nonetheless, Neil Brown's Lost
+Spellmaker pushes the boundaries of the genre somewhat. The setting is
+ostensibly fantasy -- your mission is to rescue a wizard of sorts,
+after all -- but Spellmaker is more comedy than fantasy; the game
+spends more time subverting or mocking fantasy conventions than
+abiding by them -- and to the extent that it succeeds, it does so
+mostly because of the comedic factor.
+
+You are a dwarf (an element almost entirely neglected by the story; it
+isn't clear whether you're in a land of dwarves or are unique in that
+respect) assigned by the Secret Service to hunt down a Magic Weaver
+who has disappeared. (Some hint of the tone of the game comes in the
+prologue, when you're instructed to retrieve the missing magician "so
+that he may entertain us further with his joyful sparkly spells.") You
+have no hint of his whereabouts until you stumble across him; the
+plot, typically, requires that you go out and solve puzzles, not
+actually track the guy down. Still, there is more than enough whimsy
+to keep the player entertained; among the better elements is a
+sarcastic talking cow and a reverend who speaks entirely in
+malapropisms. ("I never did heard such inscruciating nonsenseness in
+my whole lovely liveliness!") There is also some unintentional humor
+-- one character's ability to parse input is limited enough to produce
+this exchange:
+
+     >mrs wisher, hello
+
+     "Oh I'm sorry, dear," apologises Mrs Wisher. "I can't do
+     that. The Reverend wouldn't approve."
+
+At least, I assume it was unintentional. The predominance of
+silliness, as opposed to coherent plot, is occasionally irritating,
+though -- one character must be given an object simply because it's
+nonsensical, and your final action is more than a bit contrived.
+
+The gameplay is slightly uneven; there are some actions whose syntax
+might defeat the less persistent, notably the problem of a certain
+well. At another point, in a dangerous situation, an escape route
+opens up for a turn or so -- but the game gives you no hints to that
+effect. More generally, you steal a jar from a sweet shop (well, you
+take it in plain sight of a dimwitted salesman), and, as noted,
+several actions are more than a bit illogical. There are several
+well-coded features, though, notably characters who manage to move
+around without obvious bugs (at least, not very many), a series of
+candies that can be regenerated, and a hint system in the form of a
+magical door that leads you back to the central office. Though the
+game revolves around magic, your contact with it is limited -- one
+instance -- and the story depends more on the silly characters in the
+village than on the ostensible plot.
+
+The central distinguishing feature of Lost Spellmaker is that you play
+a lesbian; you are attracted to the cute librarian Tilly, and the game
+tries -- not very successfully -- to resolve that along with the
+finding-the-lost-magician bit. The author has said that the game was
+underway before the argument this fall on gay characters in IF -- in
+which his position was that a gay or lesbian main character, even if
+made obvious, did not have to be a political statement. As far as that
+goes, Lost Spellmaker demonstrates the truth of it; unless your biases
+are such that you see the inclusion itself as political, this game
+does not come across as trying to Make An Important Point or any such
+thing. But nor does it do much with the relationship; your
+interactions with Tilly are so limited that it would be hard to call
+this a lesbian romance, somewhat improbable ending aside.
+
+It is worth wondering whether such a game would feel like a political
+statement if the game encouraged you to act in a way expressing your
+attraction -- along the lines of, say, Plundered Hearts. As it is,
+it's easy enough to forget that you're a lesbian -- for that matter,
+to forget that you're female -- for most of the game. This is
+certainly an interesting foray, but I'm not sure it answers many of
+the questions that the argument brought up -- not that it was required
+to, of course. With more development in the romance area, this might
+be genuinely groundbreaking.
+
+Lost Spellmaker is very short -- six puzzles, by my count -- and not
+all that remarkable, but it does manage to entertain (me, anyway,
+which is more than I can say for many humor games). As a demonstration
+of the viability of having a gay or lesbian main character, it's not
+particularly successful; it sends up the convention that the hero or
+heroine must be a strapping young thing, but that's a different
+problem. But it works well enough as a whimsical romp that I rated it
+a 7 on the competition scale.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: The Lost Spellmaker
+AUTHOR: Neil James Brown
+E-MAIL:  neil SP@G highmount.demon.co.uk
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/inform/lost/lost.z5
+VERSION: Release 2 (1997 competition release)
+
+It's not often that you see a thread from one of the newsgroups
+translate so directly into an actual piece of IF, but that's what's
+happened with The Lost Spellmaker. This summer, the discussion raged
+(and I do think that's a fair characterization) in rgif about "Gay
+characters in IF." Some people held that if a piece of IF were to
+feature a gay character, that piece would need to have homosexuality
+as its primary concern. Others, including Neil James Brown, contended
+that a character's sexual orientation can function simply as a vector
+to deepen characterization, of no more central concern to the game's
+theme than her gender, her height, or what food she likes to eat. The
+Lost Spellmaker proves Brown's point quite handily.
+
+The game's protagonist is Mattie, a dwarf Secret Service agent
+dispatched to discover the whereabouts of Drew Tungshinach, last in a
+long line of local spellmakers who have disappeared mysteriously. The
+fact that Mattie is both a dwarf and a Secret Service agent is an
+indication of the clever world that Brown has created, which consists
+of equal parts Ian Fleming and Brothers Grimm. The fact that Mattie
+loves candy comes in handy in a couple of puzzles, and helps explain
+why she lives in the town Sweet Shop.  And finally, the fact that
+Mattie is a lesbian has a bearing on the love- interest subplot with
+the local librarian. Yet none of these incidental facts impinge on the
+game's central concern, the rescue of its eponymous Lost
+Spellmaker. Instead, they enrich our understanding of the characters,
+for which purpose Mattie's status as a lesbian is no more or less
+important than, for example, her status as a dwarf.
+
+After the competition ended, Brown posted to RGIF that he didn't write
+The Lost Spellmaker to prove his point -- the game was half-finished
+when the debate began, and in fact he wrote "It was unfortunate in
+some ways that Lost was a competition entry, as I was unable to use it
+as an example during the debate." No matter: The Lost Spellmaker
+stands as an example now, proving Brown's point handily. It's also a
+fun piece of IF apart from any political or identity
+considerations. The quest for Drew brings Mattie in contact with a
+number of amusing characters, and the milieu is small enough to make
+most of the puzzles fairly easy. Of course, I can't deny that I
+personally find it quite refreshing to play a game where
+heterosexuality isn't the implied norm, but The Lost Spellmaker has
+more than that to recommend it. It's a snappy quest in a creatively
+conceived world, a pleasant way to spend a couple of hours.
+
+Prose: The prose in The Lost Spellmaker never jarred me out of the
+story, and I often quite enjoyed reading it. The village wasn't
+particularly vividly rendered, but the characters often were, and some
+of the game's lighter touches were hilarious. Dialogue was, as a rule,
+quite well-written, especially the Reverend's constant malapropisms,
+which made me laugh out loud over and over, even when seeing them for
+the second and third times.
+
+Plot: Considering the weird, mutant setting Brown has achieved by
+breeding traditional fantasy elements (magic, dwarves, talking
+animals) with James Bond derivations (the Secret Service, a one-letter
+superior, his secretary "Mr. Cashpound"), the plot walks a fine line,
+and does it well. The plot is not simply a fantasy, though it does
+involve using magic to halt the decline of magic, and manipulating
+fantasy characters to solve puzzles.  Nor was it simply espionage,
+though it did involve a heroic spy facing off against the obligatory
+Femme Fatale. Instead, it swerved back and forth between the two,
+making for a merry ride.
+
+Puzzles: I only had to consult the walkthrough one time, for a puzzle
+which was logical, but could have used an alternate solution. The
+puzzles weren't the focus of the story, so they served the basic
+purpose of small goals to help advance the plot. In this role, they
+worked admirably well.  There were no particularly witty or clever
+puzzles, but by the same token there were no unfair or
+"guess-the-verb" puzzles either.
+
+Technical:
+writing -- I only noticed one proofing error in the game. The vast
+majority of the prose was competently and correctly written.
+
+coding -- There were a few bugs in the game, one of which may be more
+of a library issue than a lack of attention on the part of the author.
+Also, there were a few places where a response beyond the default
+would have been appreciated. Overall, the code was relatively bug
+free. Kudos must go here to the title page, which employed a really
+nifty z-machine special effect.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Madame L'Estrange and the Troubled Spirit
+AUTHORS: Ian Ball and Marcus Young
+E-MAIL: iball SP@G maths.adelaide.edu.au
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/inform/lest/lest.z5
+VERSION: Release 1 (1997 competition release)
+
+Madame L'Estrange and the Troubled Spirit (hereafter called MmeLTS) is
+a frustrating game, because it builds such a slipshod house upon a
+very promising foundation. The game is riddled with what I would guess
+are at least a hundred grammar and spelling errors. It flipflops
+seemingly at random between past and present tense. It can't seem to
+decide whether to address the player in the second or third person. It
+consistently causes a fatal crash in at least one interpreter
+(WinFrotz). All this would be easy to evaluate as simply the product
+of incompetent authors if it didn't take place in a game that starts
+with an interesting premise, executes a number of great interface
+decisions, and manages to unroll a complicated mystery plot along the
+way. As it is, MmeLTS is a great mess that could've been a contender
+if only it had been written with more care.
+
+One area in which the game does succeed is that of the innovations
+introduced by its authors, especially in the area of navigation:
+MmeLTS combines the direction-based locomotion of traditional IF with
+the more intuitive "go to location x" type of travel used in games
+like Joe Mason's "In The End." The title character (a "spiritualist
+detective" who is also the player character) can travel to various
+locations around Sydney with the use of the "travel to" or "go to"
+verb. However, once she has arrived at a particular location she uses
+direction-based navigation to walk from place to place (or room to
+room, as the case may be.) Moreover, the authors often write direction
+responses as a simple set of actions performed by the title character
+rather than implementing entire rooms which serve no purpose. These
+methods of navigation combine the best of both worlds, providing a
+broad brush for cross-city or cross-country travel but not taking away
+the finer granularity available to the direction-based system. A
+related innovation concerns Madame L'Estrange's notebook, in which the
+game automagically tallies the names of important people and places
+which come up in her investigations. This notebook (similar to the
+"concept inventory" used in some graphical IF) provides a handy
+template for travel and inquiry, and would be welcome inside any game,
+especially those involving a detective.
+
+One other point: MmeLTS takes the character all over Sydney, and in
+doing so provides an element of education and travel narrative along
+with its detective story. The medium's investigations take her from
+Centennial Park to the Sydney Harbour Bridge to Taronga Zoo to the
+University of New South Wales. Locations are often well-described, and
+after playing the game for two hours I felt more knowledgeable about
+Sydney than when I started (I hope the game's locations weren't
+fictional!) As an American whose knowledge of Australia is mostly
+limited to "Mad Max" movies, I can attest that the travel aspect of
+the game is a lot of fun.
+
+Prose: It's not that the game's prose was terrible of itself. The game
+is quite verbose, outputting screenfuls of text as a matter of course,
+and much of this text is effective and worthwhile. As I mentioned,
+many of the descriptions worked quite well, and the game does manage
+to clearly elucidate its plot as events happen. It's just that the
+mechanics of the prose are *so* bad (see Technical/writing). When
+technical problems are so pervasive, they can't help but have a
+tremendous negative impact on the quality of the prose.
+
+Plot: The game's plot is actually quite interesting. Mme. L'Estrange
+is presented with two apparently unrelated mysteries: strange wildlife
+deaths ascribed to a mysterious beast loose in Centennial Park, and
+the apparent suicide of a marine biology worker. As one might expect,
+these two situations eventually turn out to be linked. I wasn't able
+to finish the game in the initial two hours of competition judging
+time; in fact, I only scored five points out of 65 in that time, which
+gives an indication of just how much text there is to read. By the
+time I finished, I was really quite impressed with the machinations of
+the plot. The game employs several clever ideas and brings the whole
+together nicely at the end.
+
+Puzzles: I didn't really find many puzzles as such -- the game is
+mainly focused on exploration. Those puzzles which I did find were
+quite soluble as long as enough exploring had been done. What took up
+most of my time was visiting locations, talking to characters, and
+"tuning in" to the spirit world to commune with the spirits of the
+dead or learn more about a place's spiritual aura. This kept me busy
+enough that I didn't really miss the lack of puzzles. There are a few
+rather perfunctory puzzles as the game progresses, but they serve less
+as brain-teasers than as adjuncts to the plot (as is appropriate in a
+game as plot-driven as MmeLTS).
+
+Technical:
+writing -- The mechanics of the writing are just horrible. Sentences
+constantly lack periods or initial capital letters. Words are quite
+frequently misspelled. Typos are everywhere. The tense shifts back and
+forth at random between past and present; either one would have been
+workable and interesting, but the game seems unable to make up its
+mind. A similar phenomenon occurs with the voice, which vacillates
+between second and third person address. This avalanche of mechanical
+problems cripples what could have been an excellent game.
+
+coding -- The jury is still out on how well the game is coded. When I
+was using WinFrotz to play the game, I encountered Fatal errors
+repeatedly, but I'm not sure whether they were the fault of the
+designer or of the interpreter. JZIP presented the game with no
+problem, but again that could be because the interpreter was ignoring
+an illegal condition.  Several aspects of the coding, such as Madame
+L's notebook, were quite nifty (unless that's what was causing the
+problem with WinFrotz crashing), and the implementation was solid
+overall.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: A New Day
+AUTHOR: Jonathan Fry
+E-MAIL: jfry SP@G skidmore.edu
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/newday/newday.z5
+VERSION: Release 1
+
+PLOT: Interesting but uneven (1.2)     ATMOSPHERE: Er, not much (1.0)
+WRITING: Fairly good (1.2)          GAMEPLAY: Frustrating in spots (0.8)
+CHARACTERS: One very good one (1.3)   PUZZLES: Nothing special (0.9)
+MISC: Very interesting idea (1.3)
+OVERALL: 5.5
+
+Jonathan Fry's A New Day is another in a fairly long list of games
+that were nice in theory but not a real joy to play. Though the
+premise is interesting and though the plot is well-designed, mostly,
+the challenges of A New Day felt more like annoyances, and I never
+really got into the game.
+
+The plot, in all its self-referential glory: you are venturing
+into/playing a partially completed text adventure whose author, one
+Jonathan Fry, has died mysteriously; you confront a sentient being
+named Winston who seems to be running the show inside Jonathan's
+computer. The "incomplete" element means that objects are there but
+not mentioned, and some room descriptions are entirely absent or very
+terse. Even if you understand what you're doing in the game -- not all
+that likely -- it's still hard to make any sense of what you, the
+player, are supposed to do next, since you don't get much direction;
+as is typical, you are tossed into settings and given things to
+do. (As has been pointed out, there is a built-in excuse here for
+flaws in the game -- "it's an unfinished game, dummy" -- but I assume
+that Mr. Fry won't take refuge in that.)
+
+There are some problems that can't be put down to the unfinished-game
+element, though, like a location requiring that the player SEARCH
+three times -- finding something on the first and third times but not
+on the second (and, obviously, no clue that there's something more
+when you search the second time). Syntax for getting a cat across a
+street is rather unlikely, and the solution to a puzzle involving a
+guard assumes considerable stupidity on the guard's part. And try as I
+might, I could _not_ visualize the last puzzle, nor figure out why the
+solution suggested by the hints was correct.
+
+One of the more interesting decisions that Mr. Fry made was to make
+one of the sections of the game simulate a software crash of sorts, so
+that the text comes out garbled -- or, I should say,  SP@G #$^ s SP@G #$ft SP@G # SP@G e
+cr SP@G #!sh s} th8723 the t523xt c&* SP@G es  SP@G % SP@G #$t ga^%23482 SP@G (*bled. I
+exaggerate only slightly -- a sample sentence:
+
+    Spli0LAS99x
+    Broken gla31s and dsi8 wiring de76f746t the deca##]
+    wo_)2den49053en walls of this room.
+
+There are very few moments in IF that I have wanted to be over as
+quickly as I wanted this one to be over, and, unfortunately, it took a
+while to end, since there's a not-all-that-intuitive puzzle to solve
+that assumes you have VERY sharp eyes. All this gets points for
+verisimilitude, I guess, but giving the player a headache is not the
+sort of verisimilitude we're striving for, nor even the k2342nd of
+veris27 SP@G #^ SP@G ^ SP@G #de we're str][;,ving for.
+
+A New Day is, for the most part, technically proficient; other than
+the unfairnesses mentioned above, there aren't many design problems,
+and no bugs at all as far as I could tell. Somehow, though, I didn't
+enjoy it; I didn't feel like the plot went anywhere, and the story
+felt uninvolving.  Well, the plot did go somewhere, true, but it
+didn't precisely progress there; you're given a situation at the
+beginning, you do a bunch of things that don't relate directly to the
+situation, and then the situation changes suddenly at the end. Perhaps
+some hints at the final revelation -- perhaps things that you discover
+along the way that point to it, rather than having it all dumped on
+you without warning -- might help in that respect; for me, that
+development was a sort of "oh, really?" bit. I hadn't really been
+thinking about it, to be honest, as I'd been busy trying to solve
+unrelated puzzles. If the idea is to figure out how Fry died, it might
+be good to have some of the puzzles actually concern him or the
+setting of his death, lest the whole thing feel disconnected. (I
+recognize that the behavior of a certain character may be intended to
+point to that, but it didn't really work for me.)
+
+My, I do seem to be complaining, don't I? There are plenty of
+well-done things about A New Day as well. The ending feels genuinely
+suspenseful -- though a little mysterious, since you have very little
+idea of what's going on. There are multiple solutions to several
+puzzles, a welcome touch, though I admit I only found a few. At one
+point, you get bad advice from an NPC, and though normally it would
+feel unfair to do something like this -- when there's no obvious
+reason not to trust the NPC -- it works well here, I found. (At least,
+I was sufficiently unsure about the NPC not to take the advice.) One
+puzzle involving crossing a street breaks IF conventions in a
+thoroughly welcome way; it does something that seems like common sense
+but is almost never actually implemented, and I was glad that this
+game rewarded common sense (though, for those who have been playing IF
+for a while, it's actually not common sense anymore). More generally,
+the idea is well-thought-out and intriguing, even if I never got into
+the plot, and there's potential for a much longer and more- involved
+game where the plot might move along better. At least, it seems so to
+me; it seems like there's much that can be done with exploring a
+computer. (Find a file directory tree and chop it down. Hee hee hee.)
+Though this particular effort is a little short (though I shouldn't
+fault Mr. Fry for obeying the two-hour limit, I know), it has ideas
+that could make a longer game quite intriguing.
+
+Even so, there are difficulties in A New Day that, while not fatal to
+its playability, made it less than enjoyable for me; perhaps it's a
+matter of taste, but I don't claim to be sufficiently objective to
+transcend these things. Though this is a good effort, and Mr. Fry is
+clearly a good programmer, I gave this one a 6 on the competition
+scale.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Phred Phontious and the Quest for Pizza
+AUTHOR: Michael Zey
+E-MAIL: zeyguy SP@G aol.com
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/inform/pizza/pizza.z5
+VERSION: Release 1
+
+PLOT: Cliched but sometimes funny (1.2) ATMOSPHERE: Nope (0.8)
+WRITING: Not bad, but nothing special (1.1) GAMEPLAY: Uneven (1.0)
+CHARACTERS: Cardboard (0.8) PUZZLES: Some very clever (1.3)
+MISC: Problems, but still fun (1.1)
+OVERALL: 5.2
+
+And sometimes, well, the game just matches the title perfectly. The
+tone of Phred Phontious is relentlessly silly, so much so that several
+of the puzzles are quite difficult because they require offbeat
+thinking rather than simple logic. Though the premise is far from
+original, and though there are plenty of flaws, there is still plenty
+to enjoy here -- if you don't mind some dreadful puns.
+
+The setting is fantasy, sort of, but more joke-fantasy than
+Tolkien-fantasy; this is the sort of fantasy that allows for things
+like photographs and coffee and chainsaws. The plot is typical of
+fantasy, though, even though it's a joke here -- you have to hunt down
+the ingredients to a pizza, and deliver it safely. Along the way, you
+encounter a dragon and a vampire -- along with a gnu and a crazed
+dentist, of course. The layout is sufficiently unencumbered by sense
+that all sorts of things can sit side by side, such as a spice mine
+(why not?), a dragon's lair, a haunted cemetery and a travel
+agency. Obviously, Phred Phontious is not trying particularly hard to
+convey the scene or draw you into the world it describes; the player
+may safely register the given stock situation, figure out the twist,
+and never bother to try to visualize anything. The result is, while
+enjoyable for a while, oddly forgettable; I found that I could hardly
+recall the details of the game just hours after playing it. (The silly
+place names -- Thikk Forest, Idubeleevinspukes Cemetery, etc. -- don't
+help.)
+
+Implementation-wise, Phred Phontious needs work. One significant
+object is hidden in a scenery object that barely gets mentioned,
+another important object is never mentioned at all, an enemy notices
+your hiding place under one set of circumstances but not another --
+though it would be just as easy to spot you -- and another fellow goes
+on addressing you or preventing you from doing things even after he
+falls asleep. Other objects act _very_ illogically -- a rope in this
+game has some unexpected properties, and another object embedded in
+scenery must be dislodged by an action that I never would have
+guessed. At another point, you find yourself in a hole and are told
+that "it looks uncertain whether you'll ever make it out." Is the
+challenge to find some creative means of getting out? No -- just
+finding the right syntax. There are other things, illogical bits that
+didn't slow down gameplay but still left me wondering -- for instance,
+the character brandishing a key next to a locked cage, except that the
+key doesn't unlock the cage -- the cage is irrelevant to the game --
+but rather a gate far far away. There is a bottleneck right at the
+start of the game -- you have to discover a hidden closet, but the
+game gives no hint that it's there.  Elsewhere, you have a few turns
+to search certain scenery and get an object; if you don't find it
+then, the game closes off.
+
+Even amid gameplay problems, though, there are some memorable moments
+-- and even if the setting is clumsy more often than not, the author
+does manage to send up fantasy conventions in amusing fashion now and
+again. Two puzzles hinge on dreadful puns -- I, personally, enjoyed
+them, but then again I have a weakness for these things, and I don't
+advise that the author do this in the future. The way you get rid of
+the dragon is reasonably creative, and the gnu-milk puzzle -- the
+first part of it -- is clever, even if distasteful. And the endgame is
+quite rewarding, though made more difficult by the requirement of
+random scenery searching; I enjoyed the puzzles in the endgame more
+than any in the game. Though there are coding problems aplenty
+associated with the puzzles, many of them have excellent ideas; with
+some more time and attention to programming difficulties, the author
+might produce a first-rate -- and very challenging -- game. (One
+puzzle I never figured out: a "last lousy point" that's a clue from a
+British crossword.)
+
+Phred Phontious is large, hardly finishable within two hours unless
+the player relies heavily on the walkthrough, and the game both
+encumbers you with a lot of objects and limits your inventory
+severely. Perhaps the most welcome thing about the endgame was that
+the goal was clear and the territory to explore limited; there was no
+question of wandering around looking for the right object only to find
+that the solution actually turned on a bad pun. Moreover, the endgame
+is the only area where the room descriptions come alive -- and they do
+for a very obvious reason then, of course, but it does make things
+more vivid. And even though it's predictable, the ultimate ending
+does, somehow, feel satisfying -- no "to be continued" messages or any
+such thing.
+
+This is a game for the puzzle fan, in short, specifically the puzzle
+fan who likes to see fantasy sent up and doesn't mind some incoherence
+in the setting. Though the player should save often -- the game closes
+off without warning -- Phred Phontious is one of the few competition
+entries that I found enjoyable despite serious flaws, and I gave it a
+6 on the competition scale.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: She's Got a Thing for a Spring
+AUTHOR: Brent van Fossen
+E-MAIL: vanfossen SP@G compuserve.com
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/spring/spring.z5
+VERSION: Release 1
+
+PLOT: Reasonably interesting (1.4)   ATMOSPHERE: Effective (1.6)
+WRITING: Strong (1.6)             GAMEPLAY: Mostly good (1.4)
+CHARACTERS: Excellent (1.8)    PUZZLES: Not especially notable (1.3)
+MISC: Attention to nature is a nice touch (1.6)
+OVERALL: 7.6
+
+Though it's arguable whether She's Got a Thing for a Spring has the
+best or most memorable setting in this year's competition, Brent van
+Fossen has clearly given the backdrop a wealth of detail: there are
+ample descriptions of flora and fauna that play no part in the game
+other than scenery, and the player gets a feeling that Mr. van Fossen
+lives among and enjoys observing the sights that he describes. The
+rest of the game doesn't quite live up to the setting, unfortunately,
+but She's Got a Thing... is a solid entry in this year's competition
+nonetheless.
+
+The story: you've received a note from your husband asking you to meet
+him at a hot spring, and you have to get over there, first, and then
+assemble all the little things needed to enhance the
+experience. Getting there is fairly straightforward, and gathering
+most of the accoutrements isn't difficult, but one puzzle at the end
+requires considerable intuition and, even when the gap is bridged,
+doesn't make much sense. (It feels like the author is either trying to
+make the game harder or trying to come up with an excuse for the
+puzzle -- which is, to be fair, a reasonably clever one, though the
+game doesn't give you much of a nudge.) Still, the idea is compelling,
+and the sensual delights associated with the various features of your
+dip in the hot spring are so vividly described that it seemed a safe
+bet to me that this is among the author's favorite real-life
+experiences.
+
+Among the more intriguing parts of the game is only tangentially
+related to the plot: you encounter a fellow named Bob, who resides in
+a cabin in the woods and can offer his knowledge on virtually
+everything in the game.  Bob seems to serve as a stand-in for the
+author in providing useful information about the various forms of
+wildlife you encounter -- he has a paragraph for all of them, as far
+as I can tell -- and he'll go on about the various aspects of his
+little cabin and garden. (In fact, he so fits the image of the
+benevolent kindly old fellow that his one off-color comment, when you
+ask him about the spring, seems slightly out of place; dirty old man,
+perhaps, but it doesn't seem to fit his persona.) One gets the feeling
+that Bob is so happy to have someone to talk to that interaction isn't
+much of a problem for him; he'll often babble on whether or not you
+respond.
+
+If there is a side of Bob that is lacking, it is Bob himself -- we get
+something about his wife Sally, dead of breast cancer, but virtually
+nothing else. (Moreover, you are told repeatedly that you remind Bob
+of Sally, certainly effective in painting Bob as a slightly forgetful
+old coot, if that was the intention, but it breaks the spell more than
+anything else. (Even a forgetful old coot doesn't word it the same way
+every time.) If you stay by Bob's side, you can watch him picking
+strawberries, fixing a rocking chair, fixing the porch, making lunch,
+making a strawberry shortcake, painting the forest (no, silly, on
+canvas) -- and though all this takes hundreds of moves, the passage of
+time is slowed while you're with Bob (a comment on the stimulating
+nature of his company?) so that you don't forfeit the main story by
+hanging out around the cabin. The main problem with all this is that,
+apart from a few things right at the beginning, you're largely
+confined to typing Z endlessly -- there are undoubtedly a wide variety
+of things to ask Bob about, but they slow down his various chores, and
+even those run out after a while. There doesn't, sadly, seem to be any
+way to participate in Bob's actions, and watching Bob put together the
+batter for the shortcake, ingredient by ingredient, loses its
+fascination after a bit. And if you're an IF player conditioned to
+expect that something elaborately coded will be relevant, well, you'll
+be wrong, because you only need about five moves' worth of interaction
+with Bob to finish the game.
+
+Bob is worth noting because he's the rare example of an NPC who is
+much more developed than he needs to be; in fact, he's a relatively
+ordinary character with an ordinary life which you can even witness in
+all its glory. The failure to really fili out Bob's background is a
+weakness, yes, but even so, he does such a remarkable amount of things
+and reacts to such a remarkable amount of stimuli that one can only
+wonder at the amount of code that went into him. It isn't, of course,
+unprecedented to have an NPC who plays encyclopedia for the game, but
+to have one who does that but also carries on complicated
+time-sensitive tasks of his own (which speed up dramatically when you
+walk away from him). And I don't recall ever encountering an NPC who
+did such a variety of, well, mundane tasks, described in such detail;
+it reinforces the idea that living in the wild and carrying out these
+chores is something that Mr. van Fossen enjoys, or at least thinks
+more people should know about. Bob is noteworthy, in short, because
+he's one of very few NPCs that can't be reduced to an obstacle; more
+often than not, characters represent puzzles, locked doors upon which
+you need to use the right key to get the needed object or bit of
+information. There is much more to this one -- the mundanity of it all
+makes him feel more real -- and if for nothing else, She's Got a Thing
+deserves recognition for the inclusion of Bob. (He's a close second to
+Maurice of Zero Sum Game as best NPC of the competition, I think.)
+
+There are several puzzles, as mentioned, one slightly unfair but most
+reasonably straightforward. One requires observation, as it happens,
+to figure out a pattern, irritating to the impatient IF player but
+consistent with the feel of the game (as in, nature is there to be
+observed, not simply co-opted to the player's ends). The gameplay is
+likewise strong; most verbs and nouns have several synonyms, and there
+are multiple substitute syntaxes for most important actions. One
+puzzle is a mite peculiar -- you dodge an adversary simply by moving
+away, and the adversary disappears and doesn't return (though the
+behavior in question is not atypical in real life) -- and the solution
+to another is not obvious to those of us who aren't familiar with hot
+springs -- but most of the puzzles are passable. As suggested, though,
+the appeal of this one lies less in the puzzles than in the scene as a
+whole, and though a few elements of it do break the spell -- two elk
+lock antlers and stay that way for the _entire game_, several birds
+are largely untroubled by your presence -- the game is well-written
+enough to make those minor flaws. The descriptions are effective...
+
+       The canyon rim trail descends, clinging tightly to the stone
+       wall, then disappears entirely as the rocks converge.  You have
+       no choice but to wade, the current swift and
+       powerful. Overhead, a small slice of the sky is visible between
+       the two cliff faces, covered with ferns that thrive in the dark
+       moist environment here. The crevice runs northwest to south.
+
+...and restrained; Mr. van Fossen has the sense not to go on about how
+beautiful the setting is, certainly a welcome touch. Moreover, the
+vocabulary employed is considerable and scenery objects get far more
+detailed description than standard IF would give; it is virtually
+impossible to find a "That's not something you need to refer to in the
+course of this game" in She's Got a Thing... (And there's even some
+humor: a book that you find includes short stories about "a bored
+diplomat who uses underground means to accomplish his goals", with
+other references to the 1996 competition.) And even though things get
+resolved oddly at the end -- you learn about a few things involving
+your own thoughts and motivations for the first time -- the nature of
+it fits the game quite well.
+
+On the whole, then, though She's Got a Thing... might not be the entry
+whose playing experience stays with you the longest, it's a polished
+work that's consistently enjoyable to play. Though sticking with Bob
+is only for the extra-patient, there is much to do in the game
+environment, and I gave it an 8 in the competition.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul O'Brian <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Sins Against Mimesis
+AUTHOR: Adam Thornton
+E-MAIL: adam SP@G princeton.edu
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/mimesis/mimesis.z5
+VERSION: Release 1 (1997 competition release)
+
+Few things are more unfunny than an in-joke that you're not in on. On
+the other hand, an in-joke that you *are* in on can be hysterical, as
+it provides not just the pleasure of humor but also the feeling of
+community that comes from shared experience. Sins Against Mimesis is
+definitely a very in-jokey game, and consequently not for
+everyone. However, having been a longtime (since 1994) lurker and
+sometime participant in the rec.*.int-fiction newsgroups, I was part
+of the audience at which the game was aimed, and I have to admit that
+I found a lot of the in-jokes really funny. In fact, one of the most
+fun parts of the game was to play name-that-reference -- kind of the
+IF equivalent of listening to a World Party album or a Dennis Miller
+routine. Of course, the nature of the game (and the fact that it was
+written pseudonymously) also invited us to play guess-the-author. My
+guess was for Russ Bryan, but as it turns out the game was written by
+Adam Thornton, a relatively new author.
+
+If you haven't played much IF, and in fact even if you haven't spent
+much time on the IF newsgroups, most of this game is going to mean
+very little to you. Even its title is an allusion: to "Crimes Against
+Mimesis," a well-crafted series of articles posted to the newsgroups
+by Roger Giner-Sorolla (whatever happened to him, anyway?) a year or
+so ago. The rest of the game continues in that vein. The opening
+paragraph alludes to Jigsaw. The score of the initial part of the game
+is kept in IF disks which magically pop into the player's inventory
+every time a correct move is made. In some ways, this familiar, almost
+conspiratorial approach is a weakness. Certainly in the context of the
+competition it won't endear Sins to any judge who stands on the
+outside of the privileged circle at which the game aims itself. Even
+for an insider, the constant barrage of "if you're one of us, you'll
+know what I mean" references can start to feel a little
+cloying. However, the game is cleanly coded and competently written,
+and on the first time through I found it quite entertaining.
+
+There aren't many games which I would highly recommend to one group of
+people and discourage others from playing, but Sins is one of them. If
+you're an raif and rgif regular, I think you'll find Sins quite funny
+and entertaining. If not, forget it. It's bound to be more baffling
+and irritating than anything else.
+
+Prose: The prose is generally somewhere between functionally good and
+rather well done, with occasional moments of brilliant hilarity.
+
+Plot: The plot is based around several clever tricks which are quite
+funny at the time, but aren't worth repeating. If you've already
+played, you know what they are, and if you haven't played yet I won't
+give away the jokes. Like the rest of Sins, the plot is funny the
+first time through but won't wear well.
+
+Puzzles: Actually, this was the weakest part of the game. Many of the
+puzzles can be solved by performing extremely basic actions, which of
+course hardly makes them puzzles at all. Others, however, depend
+either on extremely specific (and not well-clued) actions or on
+deducing something about the surroundings which is not included in
+object or room descriptions. For a game so adamantly self-aware, it's
+ironic that Sins falls into some of the most basic blunders of puzzle
+design.
+
+Technical:
+writing -- I found no mechanical errors in Sins' writing.  
+coding -- I found no bugs either. 
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: Sunset Over Savannah
+AUTHOR: Ivan Cockrum
+E-MAIL: ivan SP@G cockrumville.com
+DATE: 1997
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/tads/savannah/savannah.gam
+VERSION: Release 1
+
+PLOT: Intriguing (1.7)     ATMOSPHERE: Very good (1.5)
+WRITING: Mostly strong (1.6)  GAMEPLAY: Consistently good (1.6)
+CHARACTERS: Not many (1.3) PUZZLES: Some quite original (1.5)
+MISC: A genuinely innovative premise (1.9)
+OVERALL: 8.3
+
+This year's competition had a fair crop of "ordinary person doing
+ordinary things" games, for want of a better description, but few of
+them confronted the central problem associated with such games: how to
+make the game interesting, more than a collection of dull tasks. After
+all, if the player wants to relive the joys of washing dishes or
+finding phone numbers, in theory he or she doesn't need interactive
+fiction to describe it for him; a good work of fiction, interactive or
+not, manages to transport the player to another world, and one would
+hope that the new doesn't look exactly like the old. But Ivan
+Cockrum's Sunset Over Savannah is up to the task; the game give the
+player an apparently ordinary situation and invests it with unexpected
+life. Indeed, the goal of the story lies in the process of discovering
+the hidden wonders of your environment -- and the experience for the
+player may fairly be called unique.
+
+The initial premise of Sunset is unrevealing: you are on the last day
+of vacation from your office job, and you're discontented with your
+work and thinking of quitting. With no more direction than that, the
+game deposits you in front of the boardwalk in front of your Savannah
+hotel -- and it might seem that the background is a way to explain
+your presence before the real plot, yet to be discovered, starts. But
+if you assume that you'll encounter an adventure game with a little
+poking around, you're wrong, because that prologue really did give the
+plot: the key developments are all in your mind, involving your
+decision on whether to quit your job.  Handled poorly, this could be
+fairly silly -- "you find a brochure for a job on an ocean liner, so
+now you're thinking of doing that" -- but the beauty of Sunse" is that
+the developments feel plausible. Mr. Cockrum employs an innovative
+device for keeping track of the internal action: a status line with
+your state of mind on any given turn. Some actions -- jumping over a
+railing and landing with a crash on the beach -- lead to temporary
+changes ("stunned"), and other developments are more permanent. And
+though many of the pivotal actions are far from ordinary -- some
+merely unusual, a few simply fantastical -- very little conscious
+suspension of disbelief is required, simply because the setting feels
+so real. Mr. Cockrum integrates the ordinary and fantasy elements
+skillfully: those parts of the story that go beyond ordinary
+experience are few, carefully chosen, and clearly surprise the
+player-character as much as the player. Just as importantly, those
+elements are out of your control and mostly independent of your
+actions, so the feeling of ordinariness juxtaposed with the fantastic
+is enhanced.
+
+The idea of tracking your feelings and making them central to the plot
+is original to this game, to the best of my knowledge, and Mr. Cockrum
+carries it off skillfully. The connections between your experiences
+and your corresponding thoughts are sometimes a bit forced; an
+experience involving a sand sculpture starts you thinking about the
+sculptor and his artistic vision about your job "and how infrequently
+it lets you pursue your own visions." And there is no real sequence to
+the required actions, though some inevitably come before others; the
+plot is not so integrated with the puzzles that certain tasks address
+certain moods. But one could argue that realism dictates against such
+manipulation -- the idea is supposed to be that you stumble across
+experiences that affect your thinking, not seek out those experiences
+in order to force a certain decision on yourself -- and the
+arbitrariness of the connections mirrors the arbitrariness of
+real-life decision-making, to some extent. Moreover, the plot requires
+a certain degree of aimlessness to be realistic; no one sets out to
+wander around a beach and pavilion with certain goals in mind, and
+though several of the things you need to do require more effort (and
+some semi-suicidal motivations in a few cases) than might be expected
+in real life, exploration and experimentation are what move the story
+along.
+
+The puzzles themselves are quite good -- few of them are very hard,
+though a few, as noted, require whimsy that borders on suicidal
+tendencies, and others require wanton destruction of property that,
+while unremarkable for an adventure game, break the feel of the game
+somewhat. I must admit that one puzzle, if puzzle it can be called,
+eluded me completely when I first played the game -- I didn't see any
+reason for doing one particular vital thing -- and the prospective
+player should know that logic occasionally yields to simple
+impetuousness for this particular player-character. That aside,
+though, there is plenty of creativity at work, particularly in the way
+you use the objects at hand to get around problems; the way you catch
+the crab is one of the more inventive puzzles in this year's
+competition.  The description-to-puzzle ratio of the writing -- the
+amount of text that is there simply to be read -- is unusually high,
+as might be expected, but that is hardly a drawback.
+
+The writing, for its part, is strong and descriptive, though
+occasionally Mr. Cockrum piles on a few too many adjectives and images
+at once. At one point, we are informed that "somehow this amazing
+spectacle has cut through your ingrained layers of cynicism to
+revitalize your waning belief in a world full of wondrous novelty."
+Er, maybe, but there are simpler ways to put it. And the tone wavers
+now and again -- at one point, the sun is described as a "fat, ripe,
+blood orange," inadvertently deflating (at least, I assume it was
+inadvertent) what was otherwise a picturesque description. A few flaws
+aside, though, Sunset is compellingly written: most events and
+descriptions are portrayed with a wealth of detail, consistently
+absorbing and almost never tedious. Some particularly strong examples:
+
+    Pavilion
+    You're standing in the center of a colossal gazebo that
+    provides shade for sunburned tourists like yourself.  The
+    octagonal floor is made of unbroken grey concrete, bordered
+    on each face by a waist high railing.  Tall beams support a
+    sloping wooden canopy that rises over three times your
+    height.  A red brick enclosure squats in the southwest
+    corner and a small snack bar nestles up against the
+    enclosure to the south.  To the east lies the foot of a
+    seemingly endless pier.  A number of wooden benches sit
+    along the north face of the pavilion.
+
+
+    Damp Sand, North of Pier
+    The damp, hard packed sand is darkened almost to bronze by
+    the relentless tide to the east, while to the west it
+    lightens to a powdery gold before ending in tall dunes.  To
+    the south, you can pass through the pylons supporting the
+    long pier that stretches east from the pavilion.
+
+Though the writing in Sunset is not always as economical as it might
+be, the moments that get described with particular detail warrant the
+attention; the game's interest in detail mirrors the
+player-character's observations of the surroundings, and the
+circumstances justify more attention to the scene than your average
+passerby might give. Particularly effective in that regard is a series
+of random messages involving your scenery that recur now and again...
+
+    A slight gust of wind sends eddies of sand swirling over the
+    brick path.
+
+...or...
+
+    A young boy wearing a bright blue bathing suit and matching
+    flip-flops runs by.
+
+...which, though not precisely relevant to anything in the game, do
+plenty to set the scene. An extensive "fun stuff" section available at
+the end of the game testifies to the wealth of attention that went
+into writing Sunset, and there are many things in the game that reward
+curiosity, notably collecting the various shells and chatting with the
+old man.  Several line-break descriptions amplify the effect, notably
+this: "Grains of sand on the concrete floor twinkle as the light of
+the setting sun streaks through them at just the right angle." (And,
+naturally, there is humor here and there; hitting return without
+entering a command elicits one of the following -- "Beg pardon?",
+"What?", "Sorry?", and "Mumblemumble?", the latter of which amused me
+immensely.) Though there are several moments where text takes up at
+least a full screen, it is a tribute to the writing that those are
+highlights, invariably clear and vivid. In short, Sunset is
+well-written enough that even aimless wandering and experimenting
+feels intriguing; there are few games that can say that.
+
+Whether Sunset will appeal to a given player is, I think, largely a
+matter of taste; some might simply regard the subjective approach dull
+or mechanical, or find the story too aimless to be involving. My own
+enjoyment of the game no doubt owes something to my biases. But there
+is no denying the skill that Mr. Cockrum brings to bear on this game,
+nor how well it achieves its objectives, and given that and the
+novelty of the concept, I feel comfortable rating Sunset as my only 10
+in the 1997 competition.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul O'Brian <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Sylenius Mysterium
+AUTHOR: C.E. Forman
+E-MAIL: ceforman SP@G postoffice.worldnet.att.net
+DATE: 1997
+PARSER: Inform standard
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/sylenius/sylenius.z5
+VERSION: Release 1 (1997 competition release)
+
+[Because of the nature of Sylenius Mysterium, any or all of this
+review could be considered a spoiler. In addition, spoilers are
+present for "Freefall" and "Robots." You have been warned.]
+
+There seems to be this strange impulse in the text adventure community
+to recreate the experience of graphical arcade games using the
+Z-machine. The first evidence I ever saw of this trend was Andrew
+Plotkin's "Freefall", a z-machine Tetris implementation using realtime
+opcodes to reproduce the geometrical game with ASCII graphics. Others
+have followed, including Torjborn Andersson's "Robots", which
+recreates one of the earliest computer games, and a DOOM
+implementation which I haven't played. I have to say that this notion
+baffles me. When I first saw "Freefall", I thought it was good fun. It
+struck me as a typically amazing Plotkin programming exercise which
+showcased the versatility of the z-machine. But it didn't become an
+arcade staple on my machine. As a text adventure, it was pretty
+wild. As Tetris, it was pretty average. I played it once or twice to
+see what it could do, then deleted it. "Robots" I kept, but I don't
+play it.
+
+Now here's Sylenius Mysterium (hereafter called SM), the bulk of which
+is a textual emulation of a horizontally scrolling run-and- jump game,
+a la Pitfall or Mario Brothers. This kind of thing used to come up as
+a joke on the IF newsgroups from time to time, and now here it is, a
+real game.  Unfortunately, SM demonstrates the reason why those games
+were implemented graphically in the first place. Namely, it's silly to
+implement an arcade game in descriptive mode. ("You begin walking
+right." "You execute a running jump." "Beneath you is a low wall.")
+These types of structures are what graphics are best at doing, and
+they were being done 15 years ago.  It's both more fun and less
+confusing to see an arcade environment in graphics, and if even
+ancient computers are capable of doing so, what's the point of making
+a text adventure which simply produces an inferior copy of the
+original? Playing SM just made me wish that the author had sacrificed
+portability and implemented the arcade section in graphics.  Hell,
+even cheesy ASCII graphics would have made for a more fun experience
+than one long room description reading "A panoramic landscape,
+parallax layers of empty, ruined buildings, scrolling by with your
+movements." It seems to me that text is good at certain things and so
+is graphics, and to make a text version of Pitfall makes about as much
+sense as a joystick-and-fire-button version of A Mind Forever
+Voyaging. It's great to know that the z-machine has realtime
+capabilities to produce a text arcade game, but surely those
+capabilities can be put to better use.
+
+SM does have a prologue which operates in a traditional text adventure
+mode, and this section of the game is quite well-done, with the
+exception of a number of problematic bugs. The game does a very nice
+job of defining an engaging and convincing setting and characters, as
+well as creating a sense of nostalgia for the old gaming consoles. The
+Atari system was my first introduction to videogames that could be
+played at home, and I have many fond memories of days spent at
+friends' houses playing "Missile Command" or "Donkey Kong" or
+"Pitfall." In fact, the game evoked nostalgia so well that my
+disappointment was all the sharper when I realized that its "arcade"
+section was nothing more than realtime text.
+
+Prose: The prose in the IF section of the game was really quite
+accomplished, so much so in fact that it sent me to the dictionary a
+couple of times to confirm the meaning of unfamiliar words. All the
+game's elements, from the sterile quiet of a mall after-hours, to the
+almost exaggerated "skate punk" main character, to the loving
+descriptions of the old-time game consoles, were written in a style
+that I found quite rich and absorbing.
+
+Plot: The plot in SM is mainly a device to whisk the player to the
+arcade section. The plot of that section is (intentionally, I think)
+extremely pure and simple: find the bad guy and undo his evil deeds.
+
+Puzzles: Again, the puzzles outside the arcade section were few, and
+those inside the arcade section can't really be called "puzzles" in
+the traditional sense, though I would argue that the game does propose
+an interesting juxtaposition between the challenges of a Mario
+Brothers-style arcade game and IF puzzles -- the two are closer than
+they are sometimes thought to be. Those puzzles within the IF section
+were usually quite simple, though from time to time bugs arose that
+made the simplest actions seem unintentionally like puzzles
+themselves.
+
+Technical:
+writing -- The writing was technically excellent.
+
+coding -- Here there were a number of problems. I was keeping a text
+file of all the major bugs I found until I realized that the author
+had provided no email address (not even an anonymous remailer for
+comp97) to which bug reports could be sent. Suffice it to say that
+there were a number of situations, both inside and outside the arcade
+section, that needed much improvement. That being said, however, I'm
+willing to forgive quite a bit from someone who takes on a project as
+ambitious (even though I personally don't find it to be very
+interesting) as the arcade section of SM. That section suffers from
+game-killing bugs of the "FATAL: No such property" variety (or at
+least it does under WinFrotz), but the working sections of it seemed
+to work quite well, and I salute the serious effort it must have taken
+to create them.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+NAME: The Tempest
+AUTHOR: Graham Nelson
+E-MAIL: graham SP@G gnelson.demon.co.uk
+DATE: 1997
+PARSER: Inform, sort of
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL: 
+https://ifarchive.org/if-archive/games/competition97/inform/tempest/tempest.z5
+VERSION: Release 3
+
+PLOT: Um...borrowed (1.0)     ATMOSPHERE: Not bad (1.2)
+WRITING: To the extent that Graham wrote it... (1.4)
+GAMEPLAY: Clunky (0.7)
+CHARACTERS: Fine, but borrowed (1.0)
+PUZZLES: Few, not very good (0.6)
+MISC: Brilliant idea, execution so-so (1.3)
+OVERALL: 5.6
+
+Of the 1997 competition entries, among the most memorable, and the
+most ambitious, is Graham Nelson's "The Tempest" -- but it may also be
+the hardest to rate. Certainly, the extensiveness of the Inform
+hacking is impressive, and the sheer concept of adapting a drama and
+making it interactive is novel -- but the game does not, in truth,
+meet all the challenges the task presented.
+
+For the few who don't know: this is an adaptation of Shakespeare's
+"The Tempest." Your role is that of Ariel, the fairy servant to
+Prospero, the protagonist of the play, and you must complete a series
+of missions given you by Prospero to (a) move the plot along and (b)
+win your freedom. The text of the play is virtually all there within
+the game, and, essentially, when you do something right, the play
+moves along; you're given a series of situations within the play where
+the action stops, in a sense, and you need to do something to restart
+it. After the first scene, you can never make the game unwinnable; you
+can take as long as you like to hit upon the right thing to do to move
+things along, and no one will complain. The responses to your actions
+are written entirely in Elizabethan, perhaps the best part of the
+whole thing for me; an unrecognized verb elicits "That instruction,
+that verb, doth elude me," and "get violets" brings this response: "I
+pluck me nodding violets from this darling bed." Swearing will yield a
+rich variety of insults, including this: "Mind thy tongue, thou
+paunchy pottle-deep plume- plucked strumpet!" There is, in short, wit
+aplenty.
+
+There are also, however, some serious problems. Your required actions
+are not always obvious, even with a copy of the play in hand, and
+there is no walkthrough or hint system to help you along. Though there
+are very few puzzles as such -- though one, requiring that you unlock
+a cabinet, is rather confusing and frustrating -- simply figuring out
+how to do whatever Prospero has commanded often takes considerable
+guesswork. Limiting the difficulty somewhat, though hardly in a
+positive way, is the small set of commands that the game recognizes;
+once the player figures out the 10 or 15 actions that are helpful, the
+experimentation required for any given problem is reduced
+somewhat. The problem remains, though; a bottleneck at the very
+beginning, in the form of actions that require some intuition even for
+those who know the play, makes the difficulty of the whole enterprise
+obvious. Other problems abound -- at one point, even though you can
+fly, you are required to swim, not an obvious turn of events. The one
+significant puzzle requires such trial and error that it breaks the
+spell, so to speak, in that the other characters involved never
+comment on your presence. And translating some of your tasks into
+interactive-fiction actions sometimes results in some strange
+creations, notably three homonculi that you carry around.
+
+Nelson takes considerable care to make this a performance of the play,
+not an innovation on it. Most obviously, you are prevented from
+speaking your own words -- you cannot ASK a character about anything
+-- though Ariel will speak lines at the appropriate time,
+independently of you. This isn't generally a problem -- it would
+confuse things if you tried to interact with most of the characters
+anyway -- but given that there are scenes and actions added that
+aren't Shakespeare's, it doesn't seem that a few questions to Prospero
+(with the responses described rather than recorded -- "he tells you
+that...") would break the spell. True, the game does have a note on
+each character available when you type the name at the prompt -- but
+there are other things that bear explanation. The desire to avoid
+dialogue that isn't Shakespeare's is understandable, but it shouldn't
+override the necessity that a player understand what's going on.
+
+Also problematic is that some of the action does not actually turn on
+anything Ariel does, meaning that, in some cases, _very_ lengthy
+stretches of text go by before you get a prompt again -- which isn't a
+problem the first time, but might be if you have to replay that
+section for some reason -- and in other cases, you set off a scene
+merely by walking into a room. And in a few cases, though your action
+does trigger the advance in the plot, the connection feels a bit
+strained -- and it's those cases where what's required of you is
+particularly hard to guess. Ariel changes shape now and again, as the
+play dictates, but the way you prompt them -- when you do; sometimes
+it just happens -- feels random and impossible to guess.  Though these
+problems speak to the difficulty of the project, it is undeniable that
+Tempest is not, for all its charm, a particularly playable game.
+
+Even so, I enjoyed the experience -- though, I must say, I enjoy
+Shakespeare as a whole, and being thrust into the middle of the play
+was entertainment enough for me. Simply having a setting to match and
+make sense of the action was in many cases helpful and illuminating --
+it made sense of the plot in a way that Shakespeare's stage directions
+sometimes do not -- and the cut scenes that happen in response to
+certain actions give the player a sense of how the story
+progresses. And even though there is a feeling of being distinct from
+the play, in that the prompts only come when the action stops and you
+have to restart it, that does reinforce the sense that you're
+controlling the events on the island and the various characters are,
+in a sense, puppets. Of course, your ability to manipulate them is
+severely limited by the plot of the play; there isn't much real
+freedom to test your power. But the sensation is interesting all the
+same.  I found the "performance" genuinely involving in a way that
+simply reading the text could not reproduce. The sequence of events is
+variable, to some extent -- certain scenes can be triggered at
+different times -- but never, as far as I can tell, can you delay or
+speed up an event in a way that doesn't make sense. And whatever the
+other faults of Tempest, it must be conceeded that Nelson's
+Elizabethan is outstanding; even the most mundane responses are
+written convincingly.
+
+The difficulty remains -- how to rate this? Though the gameplay
+limitations of Tempest are considerable, they are there for a valid
+reason, not simply inadequate coding -- and, as such, I decided they
+shouldn't count too heavily aganist the game. Though it doesn't "work"
+especially well, the concept as put into practice works about as well
+as it could, and the author should get some credit for a worthy
+effort. I gave it a 7 on the competition scale, and think that a few
+minor changes -- like the addition of a hint system, ideally in
+Elizabethan -- could make this one highly enjoyable.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: The Tempest
+AUTHOR: Graham Nelson
+E-MAIL: graham SP@G gnelson.demon.co.uk
+DATE: 1997
+PARSER: Inform standard, significantly adapted
+SUPPORTS: Inform interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/tempest/tempest.z5
+VERSION: Release 3 (1997 competition release)
+
+    "Yet look, how far
+    The substance of my praise doth wrong this shadow
+    In underprizing it, so far this shadow
+    Doth limp behind the substance." 
+                         -- William Shakespeare
+                     The Merchant of Venice III.ii.126-129
+
+The Tempest attempts a great deal, and achieves much of it despite
+being somewhat flawed. The work presents itself not as a game, but as
+an "interactive performance" which asks the player to perform as the
+magical will of Shakespeare's Prospero, guiding the spirit Ariel
+(a.k.a. the parser) through the plot of The Tempest (the play), though
+not necessarily in the order in which Shakespeare wrote
+it. Remarkably, this complicated positioning of subjectivity works
+quite well (and opens some unexplored territory for the mixing of
+first, second, and third person forms of address in IF). It is blended
+with a new approach to dialogue which prevents the player character
+from speaking at all but presents many screenfuls of dialogue between
+other characters (and sometimes including Ariel himself), the
+exchanges broken up by pausing for keystrokes between each character's
+lines. In a sense, the player's commands to the parser become
+essentially stage directions issued to an onstage persona via a
+magical conduit. This idiom also works beautifully, bestowing the game
+with a powerful aura of theatrical performance. The Tempest is
+entertaining and innovative; it often feels quite magical to inhabit
+the Prospero/Ariel connection, and to take part in a groundbreaking
+interactive experience. I think that the game also has great potential
+as an educational tool, allowing readers to experience Shakespeare's
+language in a new and thrilling way.
+
+All this being said, however, the Tempest is not without its problems.
+Actually, perhaps the game just has one major problem which manifests
+itself in several ways. Although the game does an excellent (sometimes
+astonishing) job of rearranging Shakespeare's scenes and lines to fit
+the interactive mode, the fit is not perfect. Several times during the
+game I felt faced with responses which, if not complete non sequiturs,
+were certainly only tenuously connected to the command I had
+typed. Tempest wrenches in bits and pieces of dialogue from all over
+the play for various purposes, pressing them into service as room
+descriptions, parser rejoinders, and other sundry purposes. Sometimes
+they are perfectly suited to their purpose and sometimes less so. When
+I was on the wrong end of this continuum, my relationship with the
+game became strained -- the parser's responses were beautiful, but
+didn't make enough sense, and not because of any opacity in the
+Elizabethan English. This situation creates a problem with the game's
+puzzles: usually interactive fiction prose can be written in such a
+way as to suggest subtle hints to the problems facing the
+player. However, when control of the prose escapes the author, those
+hints become harder and harder for a player to come by. It is to this
+difficulty with the prose (and, of course, to the lack of any hint
+system or walkthrough) that I ascribe the problems I've seen players
+having, often with the very first puzzle of the game. With a typical
+piece of IF, the game could simply tailor its responses to help the
+player along -- the Tempest often achieves this goal, but all too
+often it falls short.
+
+Plot: I predict that a certain contingent of voices will raise the hue
+and cry over what they perceive to be the Tempest's lack of
+interactivity. I wasn't able to finish the game in two hours (far from
+it, in fact -- I got only six points, another example of an excellent
+competition game which breaks the two-hour rule), but the parts I saw
+made it pretty clear that the game leads you along rather carefully
+from one plot point to the next, allowing for very little
+branching. My own opinion is that this structure is not a problem --
+after all, the piece bills itself as "more a 'performance' than a
+'game'," and as such it's perfectly appropriate for the Tempest to
+enforce a certain degree of rigidity to accommodate the exigencies of
+its plot. In fact, what this achieves is the inclusion of a much more
+complicated plot than is common in interactive fiction; by limiting
+the player's ability to affect the narrative stream, the game allows
+the complexity of Shakespeare's plotting to shine through even in this
+challenging new form. I'm satisfied with the trade-off.
+
+Prose: I suppose this is where I ought to weigh in on the debate over
+the originality of a work like the IF version of the Tempest. It's my
+opinion that the IF Tempest is absolutely a different piece of work
+from the Tempest, the play. Yes, the author uses almost the entire
+script of the play, but I would argue that such usage is not
+plagiarism, because whatever Shakespeare's intentions, I think it's
+safe to say that the play was not written to be adapted into
+interactive form. Consequently, I don't see the IF Tempest as any less
+an original work than Emma Thompson's Sense and Sensibility or, for
+that matter, Shakespeare's MacBeth (whose plot was lifted from
+Holinshed's histories.) Yes, the seams do sometimes show between the
+author's additions and Shakespeare's text -- these are the work's
+weaker moments. However, in judging the Tempest's prose, I judge not
+the quality of Shakespeare's writing, but the quality of its usage in
+its new medium -- on that basis, more often than not, it succeeds.
+
+Puzzles: As noted above, this is where I identify the major weakness
+of the Tempest. [SPOILERS AHEAD] I cite as an example the first puzzle
+of the game, where Ariel must blow a storm to upset the boat and set
+the plot into motion. The reason that players are finding this puzzle
+so difficult is that it requires rather close knowledge of the play
+(and not just of the play's first scene), which most players, even
+very well educated ones, are not likely to have at their
+fingertips. No hint is given of Ariel's powers or of his purpose in
+regard to the ship. Now, in a typical IF game, there might be a
+sentence or two in the introductory paragraph which introduces the
+idea and sets players on their way. However, because of the
+constraints imposed by using a collage of prewritten text, these hints
+are unavailable and thus players flounder in a
+"read-the-playwright/designer's-mind" sort of puzzle. It won't be the
+last time.
+
+Technical:
+writing -- The prose did an excellent job with handling a number of
+difficult technical tasks with regard to writing and using Elizabethan
+English.
+
+coding -- I found only one bug in Tempest (at least, I think it was a
+bug), among a thoroughly reworked library of Inform responses and the
+introduction of a number of excellent devices for the presentation of
+dialogue and clarification of the plot.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Unholy Grail
+AUTHOR: Stuart Allen
+E-MAIL: sallen SP@G one.net.au
+DATE: 1997
+PARSER: JACL standard
+SUPPORTS: JACL interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/jacl/grail
+VERSION: 1997 competition release
+
+Playing Unholy Grail puts me in mind of the old saw about the glass
+being half-full or half-empty. For each positive I can think of, a
+counterbalancing negative also comes to mind. While the prose creates
+sharp, clear, atmospheric images, it is also burdened with numerous
+grammar and spelling errors. While the game had an inventive plot,
+this same plot was punctuated with moments of tediousness,
+implausibility, and pure frustration. And while Grail is orders of
+magnitude better than Allen's 1996 entry "The Curse of Eldor," it
+still fails to realize both its own potential and that of its author.
+
+Allen has accomplished a noteworthy programming achievement: he has
+written his own IF engine, one which mimics much of the important
+functionality of the current front-runners Inform and
+TADS. Unfortunately, it still doesn't perform at the levels of either
+of these popular "standard" IF engines, and suffers greatly by
+comparison. Again, it's a yin and yang situation: a quality engine is
+written from scratch, but it's still a poor competitor to the dominant
+systems, marred by problems ranging from the complex (tortured
+disambiguation) to the amazingly simple (an inexplicably arbitrary
+pathname in the CONFIG file.)
+
+Still, Unholy Grail was the first 1997 competition game I played, and
+it wasn't an altogether inauspicious start. For one thing, it
+represents remarkable progress on the part of the author. Unholy Grail
+is not the fulfillment of Stuart Allen's promise, but it marks him as
+one to watch.  With the improvements he's already made to his JACL
+engine it seems entirely plausible that it could one day match the
+quality of the current state of the art. Also, this game is one of the
+few conceptually complete pieces of IF I've seen in the "thriller"
+genre, a field which is in many ways well-suited to IF, but whose only
+significant representative has been "Border Zone," a quality game but
+one whose gimmick of real-time has often overshadowed discussion of
+its generic groundbreaking. Unholy Grail was uneven; some things were
+really very good, other things really not very good at all. I hope
+it's a marker of better things to come.
+
+Prose: I found the prose in Unholy Grail fairly difficult to read.
+Sentences seemed to string endlessly, clause following clause until I
+thought perhaps the author had asked Henry James to
+ghost-write. However, I also think that the lack of a status line and
+room name threw me out of my ingrained IF reading habits, the
+disorientation of which probably contributed to my difficulty in
+following the author's long narrative strands. Or it could just be my
+own denseness -- that's always a possibility. Despite the game's
+verbosity, though, strong images floated up to me out of the sea of
+words. I have a very distinct picture in my mind of the swivel chair
+and radar screen in the control room, of the battered hut whose
+floorboards parted to show the ground below, and of the elegant,
+elaborate hotel. The author clearly had done his homework, and was
+able to create a very convincing picture of the character's
+environment. I just had to read some of the sentences a few times
+before I felt sure I knew what they were saying.
+
+Plot: The most ringing endorsement of the plot I can give is this:
+after the two-hour judging period had expired, and I was only 75%
+through with the game, I spent another half-hour on it because I
+*needed* to know how it ended. I found the plot difficult to get into
+at first (see Puzzles), and needed to refer often to the science
+encyclopedia so I could have a basic clue of what the game was talking
+about, but once I understood, I was inexorably drawn in by the
+skillfully dropped hints and slowly unfolding drama.
+
+On the other hand (and there's always another hand when it comes to
+Unholy Grail), I found some things in the plot pretty difficult to
+believe. Small points like the layout of the complex were jarring:
+would the military really have a female officer share a bathroom with
+a male civilian?  Certainly the PC's name ("Alex") is gendered
+ambiguously, but imagining the character as a male (as I did) drains
+the layout of some believability. Also, some larger points (such as
+the Rotenone) seemed only to serve as red herrings, but created major
+implausibilities in the plot: if I've determined that Rotenone is
+causing the fish deaths, how can it be true that they're being caused
+by something which in fact behaves entirely differently? For that
+matter, if my basic science encyclopedia tells me that Rotenone causes
+fish to drown, why do I blame it for cancer?
+
+Puzzles: For the first hour I played the game, I was absolutely
+stumped.  Finally, I resorted to the hint system and learned that
+because an extra-long sentence in the room description of the lab, I
+had neglected to examine the lab bench as closely as I ought. Once I
+found the global positioner, I was off and running. Consequently, I
+struggled with this game a lot more than its puzzles may have
+merited. Most of the puzzles were fairly easy, when they didn't
+involve guessing the verb (Can't turn the drum. Can't move the
+drum. Can't push the drum. Can't pull the drum.  Can't look under the
+drum. Oh, look *behind* the drum!), and some were quite satisfying
+(especially the filing cabinet.) However, one puzzle was amazingly
+tedious -- it basically involved typing "n" 20 times and "w" 20 times,
+then doing the opposite. Here's where a "swim to" verb would have been
+much appreciated!
+
+Technical:
+writing -- In addition to the stylistic factors I mentioned in
+"Prose", Unholy Grail was also plagued with grammar and spelling
+errors.  Certainly there was some attention to proofreading, but one
+or two more passes were needed.
+
+coding -- Unfortunately this is where Grail stumbles the most. JACL
+does a good job of imitating mainstream systems (especially Inform) in
+many ways, but in other crucial areas it falls critically short. For
+example, the system lacks an "oops" verb. Also, its disambiguation is
+weak, a fact which caused a great deal of frustration for me as my
+reasonable answers to its reasonable questions kept getting the
+response "The sentence you typed was incomplete." The system also
+overuses Graham Nelson's famous "You can't see any such thing,"
+applying it to sentences whose nouns are examinable and manipulable in
+other contexts. In addition to these general systemic problems, Grail
+itself had a number of particular bugs which I've reported to the
+author in a separate email.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Poor Zefron's Almanac
+AUTHORS: Carl Klutzke
+E-MAIL: cklutzke SP@G iquest.net
+DATE: 1997
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/tads/almanac/almanac.gam
+VERSION: Version 1.0 (1997 competition release)
+
+Right about the time that Poor Zefron's Almanac (hereafter called PZA)
+starts feeling like another humdrum sword-and-sorcery game, it
+executes a nice surprising twist. To say too much more would be to
+give the game away, but the fact that the author bills PZA as "an
+interactive cross-genre romp" is a clue toward its direction. This
+twist made the game refreshing and fun again, especially after the
+frustration it caused me when I began playing it. More on that
+later. PZA does several things very well, one of which is its
+eponymous book, a tome owned by your wizardly master Zefron and left
+behind after his mysterious disappearance. This almanac contains a
+feature unique to all the CONSULTable items in IFdom (as far as I
+know): it can be BROWSEd. Browsing the almanac brings forth a random
+entry from within its pages; not only is it great fun to read these
+random entries, it also gives a sense of how thoroughly the almanac
+has been implemented. This device would be most welcome in other
+IF... how I'd love to browse the Encyclopedia Frobozzica or the
+Hitchhiker's Guide to the Galaxy! Just having the book at hand lent a
+sense of scope and excitement to PZA.
+
+Unfortunately, my first 45 minutes or so of playing this game were
+extremely frustrating. PZA suffers from a couple of serious design
+flaws, the gravest of which is its repeated violation of the Fifth
+Right (from Graham Nelson's "Player's Bill of Rights"): not to have
+the game closed off without warning. Because of a fairly flexible (but
+extremely temporary) magic spell that becomes available at the very
+beginning of the game, I found myself repeatedly stranded, unable to
+proceed and forced to RESTART. This happened again later on in the
+game -- I committed a perfectly logical action and found out hundreds
+of turns later that this action had closed off the endgame. This is a
+frustrating experience, and one that could easily have been avoided
+with a few minor changes to the game's structure, changes which would
+not have had any discernible effect on puzzles or plot. In addition,
+there are a few areas in which the player character can be killed
+without warning, always an unwelcome design choice. PZA is (as far as
+I know) Carl Klutzke's first game, so chalk these flaws up to
+education. I look forward to playing another Klutzke game as
+well-implemented as PZA, but designed more thoughtfully.
+
+One nice element of PZA was its facility with IF homage. The game's
+"cluple" spell not only had a name that sounded straight out of
+Enchanter, it was virtually identical to that series' "snavig"
+spell. The almanac itself (as well as a number of other features) was
+a skillful allusion to the Hitchhiker's Guide to the Galaxy. Finally,
+the XYZZY command response is one of the more clever I've seen in a
+while. Clearly PZA's author is a devotee of the old games, and his
+devotion shows in his work. I am hopeful that his next piece of IF
+will live up to his worthy aspirations.
+
+Prose: The prose in PZA is generally very good. Rooms, objects, and
+random events are described concisely but with attention to
+detail. Some of the locations are rather sparsely treated (for
+example, the town consists of one location), but such skimping is
+always done in service of the plot, and more detail would serve to
+distract rather than to enrich.
+
+Plot: This is definitely the strongest point of PZA. The game starts
+out with an engaging hook, and after the twist I was definitely
+enjoying the direction of the story quite a bit. In addition, the
+author has manipulated the scoring system in such a way as to give the
+feeling of multiple endings. Granted, many of those endings amount to
+one version or another of "*** You have died ***", but not all of
+them. There are more and less successful solutions to the story, and
+they are integrated so naturally into the endgame text that they
+almost escape notice. One of the nicest implementations of multiple
+endings in the competition.
+
+Puzzles: Here there were problems. What happens to PZA is that its
+individual problems are well-considered, and their solutions are
+perfectly logical. However, when the actions that comprise those
+solutions are attempted in other areas of the game, they all too often
+drive the narrative into a blind alley from which there is no
+escape. It's one of the hardest balancing acts in interactive fiction:
+how to have sensible puzzles logically integrated into the game,
+without making the narrative too linear, which in their elements
+create no dead ends for the player.  PZA doesn't pull it off.
+
+Technical:
+writing -- I found no technical errors in the writing.
+
+coding -- Once I played PZA on WinTADS, I had no problems with it.  I
+started out trying to use it on my old DOS version of TR, and before I
+could even get one command out it was giving me TADS "Out of Memory"
+errors. Whether this is a bug in the program of the interpreter, I
+don't know enough about TADS to say.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Second April <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: Zero Sum Game
+AUTHOR: Cody Sandifer
+E-MAIL: sandifer SP@G sunstroke.sdsu.edu
+DATE: 1997
+PARSER: TADS standards
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/tads/zero/zero.gam
+VERSION: Release 1
+
+PLOT: Funny, innovative (1.6)   ATMOSPHERE: Cartoonish (1.3)
+WRITING: Quite good (1.6)       GAMEPLAY: Weak in spots (1.3)
+CHARACTERS: Very funny (1.7)   PUZZLES: Some bad choices (1.2)
+MISC: Original concept, well executed (1.7)
+OVERALL: 7.5
+
+In premise and execution, Cody Sandifer's Zero Sum Game is a genuinely
+funny send-up of an adventure game (Pork, eat your heart out) and
+perhaps the funniest work of IF since C.E. Forman MSTed
+Detective. Your mission: you have completed an average hack-and-slash
+adventure game, but when you come home, your mother sends you out to
+undo everything you've done. The goal is therefore to lose all 75
+points you have at the start of the game, by unslaying a dragon,
+giving back treasures, and making good all your dirty deeds. That you
+frequently have to do more dirty deeds along the way is, of course,
+part of the humor.
+
+Humorous enough as a concept, but there's more: you get a sidekick
+named Maurice the Follower (when commanded to do something salacious:
+"Maurice can't spring to your aid if he's busy doing that!") who
+invariably refers to himself in the third person and provides running
+commentary on everything in the game. And I mean everything:
+periodically, Maurice exclaims "Oh boy! Look at the size of this [room
+name]!", which has quite the effect when it comes along in the
+location named Dirt Patch. Though Maurice is only minimally useful, it
+is advised that the player keep him around as long as possible to hear
+his various contributions. My personal favorite Maurice line, when
+accompanied by a nasty character:
+
+    Maurice claps.  "Hooray for goodness!  Down with evil!"
+    Irritated, Darlene glances sharply in Maurice's direction.
+    "Um," stumbles Maurice.  "Maurice is shutting up now."
+
+The comedy in Zero Sum Game extends well beyond Maurice. (When you try
+to give something to a dead character: "I bet you also loan money to
+trees.")  The antiheroic "hero" character affords some humor in his or
+her own right (the gender varies with yours, which you choose at the
+beginning), stalking around killing everything in sight in a fashion
+reminiscent of many a combat-based role-playing game. (And berating
+his or her big toe for its interference.) There's even a sex scene of
+sorts (or a series of them), played for laughs rather than thrills,
+naturally. As with Mr.  Sandifer's most recent work, "Everybody Loves
+a Parade," there are numerous particularized lines for ho-hum
+commands, notably "kiss", whose generic response is "You're not
+attracted to [character] in that secret special way" but which draws a
+wide variety of funny lines in certain situations.
+
+The glitches in Zero Sum Game mostly arise from the puzzles. For one
+thing, there are many opportunities to make the game unfinishable,
+many of them merely from doing things out of sequence; the player is
+advised to save often, since many of the key developments are a bit
+hard to foresee.  One puzzle can even be solved "wrong" -- you'll get
+the points, but you won't be able to finish the game -- which is a bit
+irritating. Even though the game is short enough that restarting it is
+not a major hassle, the gameplay problems detract a bit from the
+overall enjoyability. There are also numerous small illogicalities --
+you steal an object and its owner doesn't notice, though he does if
+you show up carrying it; you can't take an object from Maurice, even
+if he follows you around slavishly; the superstrong hero can't break
+an old rusty padlock. Logic is not a major factor in humorous games,
+of course, but then again that's one of the drawbacks of humorous
+games (witness Bureaucracy, one of the hardest games Infocom ever
+produced simply because the puzzles all required Douglas Adams logic),
+and Zero Sum Game suffers from that problem.
+
+Small problems aside, this is certainly one of the best of this year's
+competition, and without a doubt one of the most consistently
+enjoyable; even with the gameplay problems, I still thought it merited
+a 9.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Paul O'Brian" <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Zero Sum Game
+AUTHOR: Cody Sandifer
+E-MAIL:  sandifer SP@G crmse.sdsu.edu
+DATE: 1997
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition97/tads/zero/zero.gam
+VERSION: Release 1 (1997 competition release)
+
+Zero Sum Game (hereafter called "ZSG") is like the proverbial apple
+which is shiny & enticing on the outside, but inside is rapidly
+rotting away.  The game starts with a fun premise: You've won. You've
+collected treasures and solved puzzles, and now (before the first move
+of the game) you're bringing them home to your mother. Unfortunately,
+she doesn't approve of theft and killing and other such goings on, and
+orders you to go back and put right all the wrongs you've
+committed. Thus the game's name: you try to bring your score down to
+zero before your moves (5000 of them) run out.  This could have been a
+fun romp of reverse thinking, or an interesting exploration of the
+morality of the traditional stock adventurer character, or even
+both. As it turns out, the game doesn't really succeed on either
+count.
+
+The main problem that I had with ZSG is that it takes a much more
+callous approach to cruelty (no, not Zarfian cruelty. Real
+cruelty. [No offense, Andrew -- yours feels pretty real at the time.])
+than I'm comfortable with. SPAG has a no-spoiler policy, so it's
+difficult to provide concrete examples of this problematic
+tendency. Suffice it to say that in order for the player to reach the
+solution, several harmless and friendly creatures within the game must
+be killed, sometimes in grotesque ways. These (and other) scenes make
+it apparent that the author has not taken a thoughtful, mature
+approach to the implications of his theme. That's OK -- not everything
+has to be thoughtful and mature. But ZSG reached such a level of
+cruelty that it wasn't much fun either. Dead bodies piled up in
+proportions comparable to any hack-and-slash MUD, and even though
+there's a resurrection spell in the game, you can't use it to revive
+any of the dozens of dead elves and villagers, or any of the other
+beings killed in the game (with one partial exception). The game's
+ending provides the final barb. Without giving away too much, I'll
+just say that it inflicts some arbitrary punishment on you, not as
+penance for your crimes, but because you're a "mama's boy" (or girl,
+as the case may be.)
+
+To give it its due, ZSG does have a clever premise, a promising start,
+and some good puzzles. Some of these puzzles have no particular moral
+bent, but are cleverly designed. Others in fact do have the particular
+ethical direction of reversing wrongs: you give the candy back to the
+baby, for example. That's why it left such a bad taste in my mouth to
+learn that other puzzles required coldly slaughtering your friends for
+the sake of a few points. I learned this from the walkthrough -- I had
+already thought of the "killing" solution to one puzzle, but couldn't
+believe it was the right thing to do until I heard it from the author
+himself. After that point, I detached from the game, using the
+walkthrough to see the whole thing and make notes for this review. It
+didn't get better. Zero Sum Game's gimmick is one that works best the
+first time it is used -- too bad this game did such a poor job of
+using it.
+
+Prose: The prose in ZSG is actually pretty good. It's what enabled me
+to become a little affectionate about Maurice and Chippy before I had
+to slaughter them. Still, much like the rest of the game, the prose is
+a good tool used for the wrong purpose. It's like a beginning
+carpenter using the best quality wood -- the result may look pretty,
+but it falls apart much too easily.
+
+Plot: I think this is a game that doesn't know what it wants to be
+about.  After the competition ended, the author posted to rgif that in
+fact there was a "larger purpose" to the cruelty in ZSG, and that he
+was trying to do a number of things, including explore 1st person
+morality in IF, and to spoof the traditional treasure hunt in a funny,
+absurd, and extreme way.  It's interesting to know this, and also to
+know that for a number of people, the game worked. Still, maybe I'm
+overly sensitive (or taking things too seriously), but it didn't work
+for me. The game's arbitrary limits force brutal answers to trivial
+problems -- not a very powerful exploration of the concepts the author
+claims to have had in mind. The plot is a wandering mess, ending in a
+big "piss off" to its player.  Unsatisfying and unpleasant.
+
+Puzzles: The puzzles represented both the best and the worst things
+about ZSG. On the one hand, the first couple of puzzles I solved (the
+baby and the key) were really clever and interesting, and they raised
+my expectations from the already high level achieved by the game's
+premise.  Unfortunately, the excitement of these only intensified the
+letdown of consulting the walkthrough and discovering what cold
+solutions were required for the other puzzles. It's a pity that the
+game didn't keep a consistent tone throughout -- I was much more
+disappointed than I would have been had all the puzzles required nasty
+measures to solve.
+
+Technical:
+writing -- I only found one grammar error in the entire text, a
+misplaced modifier.
+
+coding -- The coding was relatively coherent, though there was one
+major problem: the warning system was a complete failure. To test it,
+I ate the candy, killed the merchant, and killed Maurice in the first
+few turns of the game. No response. Other than that, I found no major
+bugs.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Paul O'Brian <obrian SP@G ucsu.Colorado.EDU>
+
+NAME: Zombie!
+AUTHOR: Scott W. Starkey
+E-MAIL: starkey SP@G wcic.org
+DATE: 1997
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL:
+https://ifarchive.org/if-archive/games/competition97/inform/zombie/zombie.gam
+VERSION: 1997 competition release
+
+I love the beginning of Zombie!. In it, you play Valerie, a junior at
+the local college who is enjoying a relaxing camping trip after having
+finally dumped her loser boyfriend Scott. The atmosphere of the
+camping trip is very well-done, from the CD player spinning 80s hits
+to the various characters squabbling over how to build a
+campfire. Equally well- done is the terror of learning that there is
+something awful lurking in those woods, and it's coming to get
+you. You run, but to no avail: you are overtaken and killed... and
+then the prologue is over and you find yourself in your actual role:
+that of Scott, the unlucky guy who has just been dumped by his
+heartless girlfriend Valerie, ridden his motorcycle out into the
+country to get his mind off the breakup, and (wouldn't you know it?)
+run out of gas in the remote woods. The viewpoint shift caught me
+off-guard, and it worked marvelously. I felt like I had a better
+insight into my character after having seen him through the eyes of
+another, and vice versa for the character I played in the
+prologue. Viewpoint shifts in traditional fiction can make for a
+dramatic effect; interactive fiction, with its customary second person
+form of address, made the shift all the more dramatic, at least this
+time. It also serves perfectly to crank up the tension: one of the
+first things you hear with Scott's ears is a scream -- it sounds like
+Valerie, but what would she be doing out here in the woods?
+
+Unfortunately, after this promising beginning Zombie! stumbles
+badly. For one thing, after taking so much time to develop the
+relationship between Valerie and Scott, the game never returns to it!
+I fully expected to see Valerie show up again as a zombie, to see
+Scott's emotional reaction to encountering her in that state, and to
+find out what happens after he rescues her from zombification. A
+reunion, perhaps? Well, no. In fact, the prologue is the last we see
+of Valerie. Now, I usually like it when a game proves itself less
+predictable than I thought it would be, but this time I felt
+cheated. I wouldn't have paid so much attention to Valerie or put so
+much time into learning about the relationship had I realized that she
+was just a throwaway character. Doubly unfortunate is the fact this is
+far from Zombie!'s only problem. There are numerous bugs in the code,
+hand-in-hand (as they so often are) with an unpleasantly high count of
+mechanical errors in the writing.
+
+I kept finding myself feeling frustrated, because every time I really
+got into the game, allowed myself to get interested in its tensions, a
+bug or a spelling error would come along that would shatter mimesis
+and deflate the emotional effect. The thing is, the game does a great
+job of building that tension. It's a b-movie all the way, no deep or
+serious issues here, but it's definitely got that suspenseful, creepy
+feeling that the best b-movies have. (Yes, I'm aware of the irony in
+that phrase, so you needn't bother pointing it out.) The sound of
+heavy footsteps approaching, or the feeling of driving rain beating
+against a worn, gothic mansion, or the sight of horrific creatures
+staring dead ahead (literally!), and similar gothic pleasures were all
+very well-executed in this game, until you hit the inevitable
+technical error. Still, better to have a good game with lots of bugs
+than a mediocre game executed flawlessly. Bugs are easy to fix. When
+Starkey fixes them, Zombie! will definitely be one to recommend.
+
+Prose: The prose isn't beautiful by any means, and it often shows
+signs of awkward construction or phrasing. On the other hand, it does
+achieve many suspenseful moments, and quite often has some very nice
+pieces of description or atmosphere. I found the rain very convincing,
+and the eerie outside of the mansion was also well-portrayed. In
+addition, the prologue had some well-done dialogue and atmosphere, and
+built the tension just right for entry into the game proper.
+
+Plot: The plot was a good combination of the spooky and the silly,
+with the emphasis on the silly. I found it reminiscent of some of the
+early LucasArts games, especially the moments with Ed the Head. The
+kitschy charm of the mad scientist, his lumbering assistant, the
+haunted mansion, the unholy army of the dead, etc. was great. The main
+disappointment I had with the plot was the ending. It felt tacked on,
+as if there were more story to tell but because the game is a
+competition entry the author didn't have time to explore it. Also, as
+I mentioned above, the emphasis placed on Valerie was rather odd
+considering that she never again showed up in the game. I also felt a
+little frustrated by the ending. I don't want to give too much away,
+except to say that it managed neither the triumphant feeling of
+destroying evil nor the spooky feeling of inevitable defeat.
+
+Puzzles: I actually liked the puzzles in Zombie! quite a bit. Some of
+them were a little tacked on (the measuring cups), and the overall
+puzzle framework (collect the elements of a recipe) is quite shopworn
+by now.  However, all the puzzles, cliched as they may have been, fit
+very well into the overall story, and that seamless fit makes a lot of
+things pretty forgivable. If the game hadn't been plagued by bugs, its
+puzzles would have come very close to achieving the goal of aiding the
+narrative rather than obstructing it.
+
+Technical:
+writing -- There were a significant number of mechanical errors in
+Zombie!'s writing.
+
+coding -- The game also had quite a number of bugs. It needs at least
+one round of intense playtesting before it's really ready for the
+world at large.
+
+SUBMISSION POLICY ----------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred. At the moment, we are
+reluctant to accept any more reviews of Infocom games (though
+exceptions happen).
+
+
+CLOSING REMARKS--------------------------------------------------------------
+
+In his answer to one of the interview questions, Nate Cull states that
+he thinks of the future of IF as "bleak, but hopeful." Well, I don't
+really know about the bleak part, but considering the sheer number of
+entries in the '97 competition, as well as the outstanding qualities
+of at least some of them, there is certainly reason for hope. Keep up
+the good work in 1998!
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
+

@@ -1,0 +1,2253 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE #48
+
+        Edited by Jimmy Maher (maher SP@G grandecom.net)
+                       May 2, 2007
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #48 is copyright (c) 2007 by Jimmy Maher.
+Authors of reviews and articles retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign.
+
+ARTICLES IN THIS ISSUE ----------------------------------------------------
+
+Editorial
+IF News
+A History of Russian IF by Sergey Minin
+
+INTERVIEWS IN THIS ISSUE --------------------------------------------------
+
+Andrey Grankin
+Victor Koryanov
+Akela
+Eugene Tugolukov
+Evgeny Bychkov
+Yuri Pavlenko
+ZombX
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+The Ebb and the Flow of the Tide
+The Elysium Enigma
+The Traveling Swordsman
+
+SPECIFICS
+=========
+The Elysium Enigma
+
+EDITORIAL------------------------------------------------------------------
+
+Late last year Scott Rettberg of the Electronic Literature Organization was kind 
+enough to send me a CD containing the ELO's Collection #1.  I wanted to make a 
+serious effort to explore the CD, but with the Competition then wrapping up 
+followed by the holiday season, I didn't get to it until quite recently.  Having 
+finally done so, I thought I would pass along a few thoughts here for those 
+interested in branching out a bit to explore other forms of computer-based 
+writing.
+
+IF fans will be happy to hear that our work gets considerable attention in the 
+collection, to the tune of five complete games.  Represented are All Roads by 
+Jon Ingold; Whom the Telling Changed by Aaron Reed; Savoir Faire and Galatea by 
+Emily Short; and Bad Machine by Dan Shiovitz.  It's hard to take exception with 
+any of these choices, and this exposure for IF alongside so many works of 
+"serious" electronic literature certainly can't be a bad thing. 
+
+But what of the rest of the collection?  Well, it's a bit overwhelming, to start 
+with.  No fewer than 55 other works are present here, of widely varying 
+approaches, and, perhaps inevitably, I found it a bit of a mixed bag.  Some of 
+this displays the postmodern aesthetic in full flower, and that is just not my 
+bag.  
+
+Some of the more painful examples:
+
+Kenneth Goldsmith gives us "an unedited document of every word I spoke during 
+the week of April 15-21, 1996," through which I learned that Kenneth drinks a 
+lot of coffee and talks a lot in a way that often manages to be vapid and 
+pretentious at the same time.  Textual voyeurs may be delighted, I suppose.  I'm 
+not sure what the rest of us are supposed to get out of it.
+
+Then we have the inevitable Michael Joyce hypertext fiction.  The selection 
+here, Twelve Blue, has come into my life several times in the past.  After 
+literally years of study, I still can't figure out just how the interface is 
+actually supposed to work.  Perhaps Joyce is the anti-Apple of the computer 
+world, or maybe my feverish clicking around the screen in search of something 
+that will lead to more lines of overwrought prose is some sort of commentary on 
+the state of postmodern life.  Lines like this sound like extracts from one of 
+the annual tortured emo-kid Competition entries: "Follow me?  What choice do we 
+have but love, what season after?"
+
+There are a lot of even easier targets here, including several examples of texts 
+that randomly recombine letters and words into sequences that usually result in 
+gibberish but occasionally stumble into a recognizable word or two, thus 
+illustrating... something.  The fundamental instability and subjectivity of 
+meaning, I suppose, or something similarly high-flown.  It just looks like 
+jumbles of random letters to me.
+
+So it's all pretentious claptrap, right?  Well, no, not at all.  As I said, it's 
+a mixed bag, and there was much here that I liked quite a lot, stuff that got 
+beyond this obsession with surface textuality to actually say something to me.
+
+One of my favorites was a modest little piece called Like Stars in a Clear Night 
+Sky by Sharif Ezzat.  It opens with a voice speaking in Arabic -- subtitled in 
+English -- introducing me to some of the stories it would like to tell me 
+against a panorama of a night sky.  Then I can click on various stars to hear 
+associated vignettes written in the style of the Arabian nights.  The stories it 
+tells are surprisingly compelling, and the piece moved me for reasons I can't 
+quite describe.  It also made me realize again what a lovely language Arabic can 
+be to listen to.  The whole can't be reduced to a single descriptive sentence 
+describing the author's clever gimmick... and that's the point, really. This one 
+has soul.
+
+Another great one is Urbanalities by "babel and escha."  Garish animations fly 
+by accompanied by some great tunes, and phrases appear that are (oh no!) 
+randomly formed, but with enough reason to make superficial sense.  So you get 
+things like, "I think the unemployed hatter, he has weapons of mass 
+destruction," which I find unaccountably hilarious.  The whole thing reminded me 
+of wandering amidst the bustle of a city, receiving snatches of dialogue out of 
+context along with a kaleidoscope of colors, images, music.
+
+In Cruising by Ingrid Ankerson and Megan Sapnara a wonderful little poem about 
+the time-worn small-town teenage American practice of cruising on a Saturday 
+night is spoken aloud, and spoken in character at that, while a jumble of 
+evocative images tumbles by.  I just wish there were more of it, as it starts to 
+loop all too quickly.
+
+Maybe the funnest piece of the bunch is Nio by Jim Andrews, which lets the 
+reader construct little musical pieces of her own by combining sound samples on 
+the fly.  The program is clever enough to make it just about impossible to make 
+anything that sounds really BAD, although I gave it my best try.  This one will 
+put a smile on anyone's face.  Strange that its author elsewhere indulges in the 
+dreaded random text combination game.
+
+And so, while much of this collection carries an aesthetic approach and 
+worldview that does little for me, about a third of it made me sit up and take 
+notice, and at least a few pieces I found delightful, even moving.  The curators 
+of the collection said they wanted to capture the full range of electronic 
+writing, and I think they have succeeded.  You can check it out for yourself at 
+http://collection.eliterature.org/1.  Click the About link at the bottom of that 
+page for information on requesting a hardcopy of the whole thing on CD-ROM.  I 
+will be happy to accept commentaries on the collection as a whole or even 
+reviews of individual pieces, if you care to write them and send them to me.
+
+Actually, I would like anything from you, folks.  The bulk of this issue is a 
+the second part of an ongoing series about non-English IF.  It consists of a 
+number of interviews conducted and translated by Valentine Kopteltsev with 
+members of the Russian IF community, and I must say I think it's some very 
+fascinating stuff.  Other than that, we've also got a great SPAG Specifics piece 
+by Valentine, who has really gone above and beyond this time, and another review 
+from the ever-reliable Mike Harris.  I wrote a couple of reviews for games that 
+I've replayed recently and thought really deserved coverage, and... that's it.  
+I don't want this to permanently become the Jimmy and Valentine show any more 
+than you do.  So please, think about helping us out and getting next issue's 
+review total back up to where it was for the last few issues before this one.  
+SPAG is yours, after all.  I just put it together each month.  I received a lot 
+of positive feedback about the larger size of recent issues.  It's up to all of 
+you whether that trend continues.
+
+
+IF NEWS -------------------------------------------------------------------
+
+2006 XYZZY AWARDS
+The following games received recognition for representing the cream of the IF 
+crop of 2006.
+Best Game: The Elysium Enigma by Eric Eve
+Best Writing: Delightful Wallpaper by Andrew Plotkin
+Best Story: The Traveling Swordsman by Mike Snyder
+Best Setting: Floatpoint by Emily Short
+Best Puzzles: Delightful Wallpaper by Andrew Plotkin
+Best NPCs: Floatpoint by Emily Short
+Best Individual Puzzle: navigating the mansion in Delightful Wallpaper
+Best Individual NPC: Leena in The Elysium Enigma
+Best PC: Delightful Wallpaper by Andrew Plotkin
+Best Use of Medium: The Baron by Victor Gijsbers
+I can't complain about any of these selections.  Congratulations to all the 
+authors!.  The following is a link to a transcript of the awards ceremony which 
+took place on the IF MUD.
+http://www.xyzzynews.com/2006xyzzyawards.txt
+
+SPRING THING 2007
+Greg Boettcher's annual contest for longer, hopefully more polished games than 
+those usually seen in the fall Comp has come and gone.  There were four entries 
+this year, with Fate by Victor Gijsbers winning top honors (and making it two 
+Spring Thing wins in a row for Victor).  All of the games were quite well 
+received, so see the contest website for the full standings and to download the 
+entrants.
+http://www.springthing.net/2007
+
+IF ART SHOW 2007
+After a three-year hiatus, Marnie Parker will be running another Art Show this 
+year.  Deadline for entries is May 18.  See the contest website for more rules 
+and information.
+http://members.aol.com/iffyart
+
+GHOST TOWN REDUX
+Greg Boettcher is running a unique competition for games that are a "remake or 
+adaptation" of the old Scott Adams game Ghost Town.  You should get your entries 
+to Greg by July 30.
+http://www.gregboettcher.com/games/sagtr.htm
+
+INNOVATION COMP
+David Fisher is running a competition for transcripts illustrating things we 
+can't do in IF today, but would like to be able to do.  Yes, I know, it sounds 
+strange, but it's a neat idea actually.  You won't have time to prepare an entry 
+if you are reading about it for the first time here, as the deadline is April 
+30, but you can read the transcripts and judge.
+http://www.ifwiki.org/index.php/Innovation_Comp
+
+SECOND PERSON
+The MIT Press has recently released the best book on interactive narrative ever 
+printed.  Really, seriously, it's that good.  IF gets quite a bit of attention, 
+with articles from Steve Meretzky on Planetfall, Emily Short on Savoir Faire, 
+and Nick Montfort on understanding the role of the PC in IF.  Also included are 
+a nice little article on Andrew Plotkin's Shade and even a non-IF-related 
+article from SPAG founder cum boardgame designer Kevin Wilson.  That's all good 
+stuff, but I found the wealth of articles on tabletop role-playing, a form I had 
+completely lost touch with since my days of playing Dungeons and Dragons in high 
+school, even more stimulating.  It caused me to start looking at RPGs again and 
+to realize some great work is being done in this area.  I think we could learn a 
+lot from them.  And then there's great, extended articles on the inner workings 
+of the groundbreaking Facade, and a nice article from Chris Crawford on his 
+interactive storytelling system, and...  Just go buy this one, folks.  It may be 
+published by MIT Press, but it's not a lifeless academic text at all.  (Trust 
+me!  I'm a graduate student, so I know lifeless academic texts when I see them.)
+http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11000
+
+ZOOM 1.1.0
+Andrew Hunter has improved his Unix and Mac Z-Code interpreter to make it... 
+more than just a Z-Code interpreter.  This version adds support for Glulx, TADS 
+2 and 3, and Hugo games.  Wow!
+http://www.logicalshift.co.uk/unix/zoom
+
+GNOME INFORM 7
+Philip Chimento is working on a version of the shiny Inform 7 IDE for versions 
+of Linux with the Gnome libraries installed.  See his development site for the 
+latest beta.
+http://sourceforge.net/projects/gnome-inform7
+
+QUEST 4.0
+Alex Warren has released a major update to his Quest IF authoring software, 
+which plays in the "no programming required" arena of ADRIFT.  Also like ADRIFT, 
+this is a shareware product.  The full version will set you back $39.95.
+http://www.axeuk.com/quest
+
+ONLINE QUEST GAMES
+Mr. Warren has also launched a website where one can play Quest text adventures 
+online for free.
+http://www.textadventures.co.uk
+
+NEW Z-MACHINE INTERPRETER
+Mike Greger has authored a new Z-Machine interpreter in C# for Windows.  He 
+calls it Grue.
+http://home.cinci.rr.com/grue
+
+INFORM 7 TUTORIAL
+Stephen Granade wrote an article for PC Plus recently on getting started with 
+Inform 7.  He's now made it available on his Brass Lantern website as well.
+http://brasslantern.org/writers/howto/i7tutorial.html
+
+EMILY SHORT ON GAMASUTRA
+IF got some attention on the Gamasutra, a site which normally focuses on 
+professional game development, in the form of an interview with Emily Short.  
+Savoir Faire gets a lot of attention, as does Inform 7.
+http://gamasutra.com/features/20070410/munroe_01.shtml
+
+HOTEL DUSK
+Speaking of commercial products, Nintendo has released an "interactive novel" 
+for the DS handheld console that looks very interesting.  I don't have a DS to 
+play it on, unfortunately, but maybe some of you do.
+http://www.hoteldusk.com
+
+CIRCUMREALITY
+Mike Rozak has released a beta version of CircumReality, a development kit for 
+multiplayer graphical adventures.  Windows only, and it requires quite a 
+powerful machine to run, but looks very interesting.
+http://www.circumreality.com
+
+SPAG NEEDS YOU!
+I've already chided you about the lack of reviews I received for this issue.  
+There are so many games out there deserving of reviews.  Please, won't you take 
+an hour or two of your time to give something back to an author who has tried 
+her best to entertain you?
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  Remaining IF Comp 2006 Games (any or some)
+2.  Getfeldt's Treasure
+3.  1893: A World's Fair Mystery
+4.  Final Selection
+5.  The Retreat
+6.  When in Rome, parts 1 and/or 2
+7.  Bronze
+8.  Suprematism
+9.  Moments Out of Time Adventure Type
+10. Spring Thing 2007 games (any, some, or all)
+
+
+A HISTORY OF RUSSIAN IF By Sergey Minin (aka Zer)---------------------------
+
+
+All Quiet on the Eastern Front?
+
+History of QUESTion
+
+  In general, adventure games are rather popular in Russia. Of course, they have 
+incomparably less fans than, say, Half Life or Diablo, but they can't complain 
+about lack of attention, either. The genre made a name for itself in the 1990-
+ies, when the Quest-series by Sierra gained popularity in the CIS countries. 
+Even people barely aware of the genre would know such serials as Quest for 
+Glory, King Quest, and Police Quest. The expression "made a name" is to be taken 
+literally, because the simply-to-pronounce term quest soon replaced the word 
+adventure, which sounded more intricately (at least to a Russian ear), almost 
+entirely. As a result, the following terminology has been spontaneously formed: 
+a graphic 2D adventure is usually called a quest, a work of interactive fiction 
+– a text quest, and only 3D adventures with action elements are adventures as 
+such for Russians. Occasionally, strange mutants would show up, defining their 
+own genre as "Adventure/Quest", or even "Adventure/Quest/IF"!
+
+However, due to a number of reasons, the predecessor of graphic adventures, 
+interactive fiction, isn't too well-known in the fatherland of Pushkin and 
+Dostoevski. A few hundreds know the genre exists, several dozens at least 
+attempt to play text adventures, and faithful fans can be counted on the 
+fingers… of one hand. One of the grounds for such a low popularity of IF in "the 
+world's most-reading country" (one of the myths created by propagandus 
+sovieticus) was undoubtedly the lack of appropriate material resources at the 
+time the genre was on the height of its fame: in 1980-s, the term "personal 
+computer" sounded like non-science fiction to USSR citizens. CYOA books, which 
+were, in a way, forerunners of IF, also passed our country by somehow. 
+Figuratively speaking, we didn't learn Adventure at our mothers' knee, didn't 
+play Zork in our childhood, and weren't engaged in discussions about Trinity 
+during breaks between the lectures we attended. To most of us, the legendary 
+names of Steve Meretzky, Brian Moriarty, and Dave Lebling would convey nothing.
+
+The most real chance of gaining a firm footing in Russia cropped up for IF by 
+the end of 1980-s, when the British star called Speccy just started crawling up 
+the Soviet sky, and text-only games weren't considered a mossy anachronism yet. 
+And while it probably was the most unfavorable period for the residents of the 
+former "socialist camps" – inflation, dramatic impoverishment of people, and 
+growth of the unemployment rate anything but stimulated the expansion of a 
+relatively expensive "toy" en masse – the first Russian "adventurers" showed up 
+just then. Sure, they weren't many – the specificity of the genre, as well as 
+the need for at least rudimentary knowledge of English had their (negative) 
+effect; still, early in the 1990-s, one of the first Russian magazines dedicated 
+to computer games for the ZX Spectrum, ZX-Review, entered the scene. A great 
+deal of its materials was devoted just to adventures. The editor of the magazine 
+and simultaneously one of its authors, Sergey Simonovich, can by right be 
+honorably entitled the first PR manager for gaming in Russia, because, thanks to 
+his unexampled adventure promotional efforts, the circle of "initiates" of the 
+genre became considerably wider, although (sigh) it still remained a club for a 
+select company. 
+
+In the 1990-s, the mass computerization of the ex-USSR by IBM PC-compatible 
+machines began. By the time a personal computer had become a common thing at a 
+Russian's home (middle to late 1990-s), graphic games already dominated our SVGA 
+screens, and I'm afraid you couldn't find too many people who, instead of Zork 
+Grand Inquisitor, would prefer to play its text-only predecessor. Thus, after a 
+short blip of interest for the text genre, silence fell, which was complicated 
+by the further graphical evolution of the IBM PC. Our old acquaintance, Mr. 
+Simonovich, made an attempt to break this hush by introducing his new project, 
+the online magazine PC-Review, now devoted to games for the PC, whose popularity 
+soared up like a rocket. 
+
+In 1996, this journal published a translation of the epochal work by Graham 
+Nelson, The Craft of Adventure, and enclosed the immortal Curses by the same 
+author. Among those who got caught in the meshes at that time was your most 
+humble servant, but (I'd like to add gloatingly) he was not the only one. Later 
+the magazine and its offline satellites -- PC-Express, PC-Forum, and PC-Help – 
+repeatedly addressed interactive fiction: the documentation for the adventure 
+games development system OASYS was translated into Russian, an article about the 
+legendary Infocom and games produced by this company was brought out, a joint 
+brainstorm of Curses was announced, and So Far by Andrew Plotkin received its 
+portion of attention, too. Unfortunately, the PC-Review project ceased to exist 
+soon after that. After its demise, no other Russian media would launch such 
+large-scale operations for promotion of "text quests".
+
+RussIFication
+
+As mentioned earlier, another reason for the lacking popularity of IF in Russia 
+was the language barrier. Even if the novice had a "text adventuring" vein in 
+her/his character, (s)he'd be confused by the many lines of foreign text, and 
+scared away by the necessity of establishing a dialog with the game in a little 
+known language. This made the newbie's choice quite obvious – graphic games, 
+where the narrative was reduced to a minimum, and most puzzles could be solved 
+by uncomplicated manipulations with the mouse. However, attempts of directing 
+the genre on Russian rails are known even from the Spectrum epoch. Probably the 
+most well-known piece of Russian IF of that period was The Stellar Legacy, a 
+game released in 1995 for the Spectrum that was agonizing by then (its graphical 
+remake has been released a short time ago by the companies Step Creative Group 
+and 1S). The Stellar Legacy represented a graphical game with a textual input of 
+suggested sentences by means of a menu system (or, to put it short, a CYOA).
+
+  By 1999 A. D. the world-wide web even reached Russian backwaters. People in 
+the provinces stopped making sacrifices to the mighty yet mysterious divinity 
+called "Internet", and at last, the word "Dial-up" wasn't used for scaring 
+babies in the villages anymore. Russian Internet-communities, forums and other 
+forms of virtual gatherings started mushrooming out. The not too numerous IF 
+fans didn't stay on the sidelines, either. About this time, several remarkable 
+sites dedicated to interactive fiction were founded, and the idea of creating 
+"native" Russian text adventures was discussed on the forums actively. IF 
+theorists were joined by people who weren't acquainted with the genre before, 
+but were attracted by the relative easiness of game creation – it's known that 
+coding a video game is a very laborious enterprise, and at the current stage of 
+development of the gaming industry, it's practically impossible to complete a 
+project of decent quality on one's own. Yet, the experience of the foreign 
+colleagues, as well as the success of such systems as Inform, TADS, Hugo, and 
+Adrift, showed us -- nothing was impossible in the IF-genre. Still, the whole 
+thing rested on that notorious "language barrier". The question was, how to 
+overcome it. The solution seemed simple: either develop a parser-based game 
+platform similar to the "western" ones that'd support Russian, or confine 
+oneself to creation of CYOA-games akin to the aforementioned Stellar Legacy, 
+that'd only allow the player to pick options from a menu.
+
+However, things that look easy in theory often conceal pitfalls when it comes to 
+putting them into practice. The problem is, the structure of the Russian 
+language differs from that of English significantly -- say, you can't get by 
+with only one verb form. Add declinable substantives, and changeable endings to 
+that. The general difficulty of creating a universal development system from 
+scratch isn't to be underestimated, either. To put it short, there were more 
+than enough pitfalls for breaking one's legs, so that most of the parser-based 
+projects didn't survive till their delivery, many of them never getting any 
+further than the pregnancy planning stage. Finally, only menu-based (in other 
+words, CYOA) projects stayed alive, the most well-known of which were URQ 
+(Universal Ripsoft Quest) – the most popular development system today; and QSP 
+(Quest Soft Player). Both platforms still are fit and vigorous, and have been 
+updated several times. About the same time, the IF-community split in two 
+parties: "the parserers" and "the menuists". Although the parties were supposed 
+to be friendly, their relationships varied between cold neutrality and open 
+conflict.
+
+By 2001, after getting tired of the many duplicating posts on different forums, 
+the Russian IFers decided to unite on a common place that should become a 
+central point for the whole community. After the naming and hosting problems had 
+been settled, the web site http://taplap.ru/ became such a point. The start was 
+very vigorous and energetic, but later on, as it often happens, the site 
+activity went downhill little by little. At the same time, an attempt was made 
+to link together the two community parts – parser-lovers and menu-devotees – 
+under the aegis of this site. This attempt, however, remained unsuccessful: the 
+menuists preferred to go their own way, and to create their own, separate 
+communities (http://urq.allquests.ru/ and http://qsp.borda.ru/). And it must be 
+said, they turned out to be much more active than their parser-addicted rivals – 
+games were released more often, "internal" competitions for CYOA games were 
+carried out, and the community live in general was more intense; the parserers, 
+on the other hand, as well as the site http://taplap.ru/ itself, remained in a 
+coma-like state since the end of 2003. 
+
+The 21st century set in, but the Russian IF-scene still didn't have a really 
+working development system for parser-based games. This changed in 2002, as one 
+of the enthusiasts of Russian text adventuring, Andrey Grankin aka GrAnd, 
+started the venture of translating TADS into Russian, which was successfully 
+completed in the same year. As a result of his titanic work, most of the 
+"Russian national particularities" could be solved, and the ones that couldn't 
+were evaded. The overall happiness was so close, it seemed, and Russian games – 
+about to start pouring out like from a cornucopia. However, it didn't happen. A 
+few released games, oodles of unfulfilled promises, translation of Ditch Day 
+Drifter and Deep Space Drifter – that's pretty much all game authors vouchsafed 
+to create using Russian version of TADS called RTADS (http://www.rtads.org) 
+between 2002 and 2005. It's difficult to say what the reasons for that were – 
+maybe the lost of interest in IF by most community members, maybe the overall 
+stupor that befell the community just in this period of time, or maybe the 
+relatively steep learning curve TADS is known for.
+
+We are the Champions!
+
+The idea of organizing contests analogical to the "main" IF-Competition was in 
+the air probably from the very first post made by The Unknown Player at T?me 
+Immemorial, and after the (partial) joining up, the community came to the 
+conclusion of the necessity for such a contest. The first Russian Interactive 
+Fiction Competion aka RussComp took place early in 2002, and was a brilliant... 
+flop, since there was exactly one game participating. In the same year, 
+literally a few months later, "attempt number 2" was made, with 5 participating 
+games, and a successful completion. In spite of a lot of talking about the 
+necessity of maintaining this great tradition, nothing happened until 2006. The 
+previous year, the community site experienced a certain revival, and another try 
+to organize the contest (this time called KRIL'06) was made. This time, six 
+games participated (four parser-based, and two CYOAs), and it must be said that, 
+in respect to game quality, this competition surpassed the previous one by far. 
+This, of course, inspires certain hopes. As it turned out that, in spite of 
+disappearing of the sonic radars' screens, the submarine called "Russian 
+Interactive Fiction" didn't sink or go for a burton – it was just exploring the 
+seabed for a while. Who knows – maybe it emerges to the surface once more. Not 
+to dive back this time.
+
+RUSCOMP 2002 Results:
+1. Shadow of the Malice, author: Elf Dillm   (own parser)
+2. In the Deepness, author: Vovka Smert' (URQ) 
+3. Desperation, author: Igor Savine   (own parser)
+4. Zombie IV, author: Eugene Sharov (own parser)
+5. Abyss, author:   Eugene Sharov (own parser)
+
+KRIL 2006 Results:
+1. Dreamour, author: Andrey "GrAnd" Grankin (RTADS).
+Although the game hardly can be considered a completed project – it's rather a 
+prequel – its fantasy world full of caves, goblins, and golems was to the liking 
+of the vast majority of the judges. 
+
+2. Waiting for the Morning, author: Stas "Unreal" Starkov (RTADS).
+A short puzzle-based digression to the roof of a building, where your goal is to 
+get down. The most polished game of the contest. 
+
+3. Genie from the Machine, author: Korvin (URQ).
+Sci-fi story about an astronaut whose ship had an accident, and his brave 
+girlfriend. 
+
+4. Stone of Shady Sands, author: Ivan "Zevs" Zykov (own menu-based engine).
+Multimedia-heavy, post-apocalyptic adventures evoked by the immortal piece by 
+Interplay. 
+
+5. Klara the Jam-Plunderer, author: Belial (6 days – an original parser-based 
+development system).
+A charming little story about a naughty sweet tooth.
+
+6. Gad, author: Davarg and Nunhan (RTADS). 
+A (rather unsuccessful) attempt to create a bleak medieval world, injecting 
+fantasy in the process. 
+
+And a few more links of interest not mentioned in the article (unfortunatel, all 
+of them are in Russian):
+
+http://advantureclub.narod.ru/ - a site dedicated to making Russian adventures 
+with Adrift.
+
+http://ru.wikipedia.org/wiki/Interactive_Fiction - Russian Wikipedia entry on 
+interactive fiction.
+
+http://vixterm.narod.ru/IFRusFAQ.htm - a Russian IF FAQ; quite useful, although 
+it hasn't been updated for a while.
+
+http://zerrr.livejournal.com/ - "Non-Russian Interactive Fiction", a site mostly 
+dedicated to Russian reviews of English IF-games
+
+
+THE SPAG INTERVIEW (DEPARTMENT OF RUSSIAN STUDIES)-------------------------
+
+Longtime SPAG stalwart Valentine Kopteltsev has done me and you a huge favor 
+this issue by translating interviews with several prominent members of the 
+Russian IF community.  It's a world brand new to me.  I never even realized 
+Russian IF existed until David Kinder sent me a Russian version of Adventure to 
+test with my Z-Machine interpreter a couple of years ago.  These interviews 
+provide an interesting glimpse into the way IF, computer games, and ergodic 
+literature in general are received in a culture that is still just slightly 
+remote and exotic to most of us in the West.
+
+I struggled with how to handle the Cyrillic names of people and games, and 
+finally reluctantly decided to just publish the English translations.  Using 
+Cyrillic would require using Unicode encoding, which would double the size of 
+this issue of SPAG.  I was concerned about that, and concerned whether some 
+folks' mail software -- or the Majordomo listserv, for that matter -- might 
+garble it.  
+
+We'll begin with an interview Valentine conducted with Andrey Grankin, whose 
+game Suprematism was recently released in English; then we have an extended 
+joint interview conducted by Jenny Waynest and translated by Valentine with six 
+prominent members of the menu-based CYOA Russian IF community, which is far 
+larger than its parser-based community.  Their games are developed in a system 
+known as URQ.  Valentine's comments as translator are enclosed in square 
+brackets [].
+
+Huge thank yous go out to Valentine and Jenny for conducting these interviews, 
+and to all seven interviewees for participating, even at the expense of time 
+spent on World of Warcraft.
+
+=-=-=-=-=-=-=-=-
+ Andrey Grankin
+-=-=-=-=-=-=-=-=
+
+  VK: So, meet Andrey Grankin aka GrAnd, inhabitant of Moscow, an outstanding,
+  if not legendary, figure in Russian IF. His most significant project up to 
+  this date is the RTADS system, a russified version of TADS 2. At that, the 
+  russification doesn't confine itself to the translation of the system 
+  libraries and a constant support for users in word and deed, but also includes 
+  the development of teaching demo-games for that platform, as well as 
+  documentation about creation techniques for Russian games and auxiliary 
+  instruments that make the author's life easier. By the end of the last year,   
+  Andrey's game, Dreamor, won the Russian IF-Competition KRIL-06. Besides, one 
+  can call him a popularizer of the genre in Russia, since he's the author of 
+  several analytical articles dedicated to IF.
+
+  Andrey, would you like to add something to this introduction?
+
+AG: In addition, I can say that in real life, I'm 24 years old, have two dusty 
+diplomas (in mathematics and economics), and can currently be found in my little 
+office at the Third Transport Ring in the city of Beijing [Moscow also has a 3rd 
+Transport Ring]. I'm here for more than one and a half years now due to family 
+business. 
+
+  VK: For understandable reasons, interactive fiction is not the primary
+  occupation for any of us as a matter of fact, well, not even the only hobby. 
+  Could you tell more about your other areas of interest, and their relations 
+  with IF (whether they help, intervene, etc.)?
+
+AG: My interests are manifold, but lie in the erudition widening sphere for the 
+most part. Reading books, articles, news, well, whatever from the screen of my 
+computer or mobile phone. This predilection took the place of awfully dipsomanic 
+computer gaming. I hardly watch any TV, apart from occasional movies. I study 
+Chinese: it's both needed for my work, and exciting. I'm not overfond of sports, 
+but visit the fitness center regularly, and am pretty good at ice- and 
+roller-skating (thus, don't think I'm a complete computer geek :)).
+ 
+Until recently, I've been keen on programming, but have given it up for quite a 
+while, except for building websites with php. Now, if one day I return to this 
+activity, then as a director I hope. 
+
+All in all, IF is my only hobby I could more or less fully self-actualize in. 
+Mainly thanks to the persistence that overwhelms me in situations when it 
+becomes necessary to apply it to more important things. Banach spaces and 
+deformation tensors were send to hell when I submerged into the depths of 
+creation, and would then torment me in the most cruel way after my awakening by 
+the end of the semester. 
+
+  VK: And where there situations when IF helped you in real life? Or, to put it
+  another way, have you gained something from your IF studies? 
+
+AG: At the very least, I used the Case Generation Utility for RTADS in my 
+graduate work. Well, and all the training makes it easier for me now to write 
+ads. 
+
+  VK: Now, let's come to the point. So, how people become IFers in this country, 
+  which isn't very suitable for that particular genre? 
+
+AG: They play text games on ZX Spectrum, then give up them for years to run 
+across them again one day and become moved to tears. That's exactly what 
+happened to me. I found out about Russian text adventures in 2001. Not satisfied 
+by their quality, I went on with my search, and finally discovered the classic 
+games in English. And once you played long enough, it's hard not to get a 
+burning desire to write something on one's own, especially if one has certain 
+skills in this respect. 
+
+  VK: So, what games re-opened the world of IF for you?
+
+AG: Of the Russian ones, it was Zombies 4, and of the ones in English, I can't 
+say exactly which was the very first, since I downloaded a collection. The ones 
+I tried, completed and was delighted in: The Lurking Horror, and Theatre. I 
+liked the Zorks as well, but I didn't get further than about a third-way through 
+any of them; the same goes for Curses!, which scared me by its scale. Of more 
+recent games, I'd like to mention Photopia. Other games didn't leave such a 
+long-lasting impression, although they also were great. But generally, I'm only 
+superficially acquainted with the life and works of the English-speaking 
+IF-community. Especially the last couple of years, since I stopped following the 
+discussions in r.a.i.f, and confined myself to glancing through the SPAG issues. 
+
+By the way, my advice to all those who promote IF-games in non-English-speaking 
+countries: don't advertise LARGE works. An enthusiastic mention of daylong 
+gameplay is enough to eliminate the slightest wish of trying out the new game. 
+English is the world's technical and economical language, but reading fiction is 
+very tiresome for many people, even with an electronic dictionary at hand. 
+Ideally, I'd like to see a "the best" list of shorter new releases, playing 
+which would allow one to feel up to date with the current development and 
+general tendencies of the "big" IF-community. 
+
+  VK: A question that is of great interest personally to me: Why TADS? Why not
+  Inform or Hugo?
+
+AG: It could be Inform, as well, since it was the first development system I 
+stumbled across. However, all translation attempts remained without success, 
+since at that time, none of the interpreters supported Cyrillic letters. 
+Somewhat later, David Kinder turned to that problem, and at least one 
+interpreter (WinFrotz) is now usable by Russian players. Well, and as to Hugo -- 
+I didn't get to it, since TADS rewarded me with understanding after five minutes 
+of experiments.
+ 
+  VK: Although the RTADS platform exists for almost five years now, there are
+  still not as many games for it as desired. What do you think, what are the 
+  reasons for such a situation, and how it could be changed?
+ 
+AG: I'm also puzzling over it for a long time, but still can just come out with 
+my suggestions. 
+
+First of all, too little people know about text adventures. I myself only was 
+able to find the Russian IF-community after I understood what's the name of the 
+thing I'm looking for. The situation can be changed, but only by united efforts 
+-- by spreading games, articles and IF-related links over the Web. The KRIL-06 
+Competition gave us a good chance in this respect, which should be used wisely. 
+
+Then, there are the notorious difficulties learning TADS. Well, a lot has been 
+done already for newbie support, and a few experienced authors always can help 
+them with advices. I think this isn't the most crucial problem, especially 
+considering the fact many people are so good programmers they constantly start 
+writing their own IF development systems. 
+
+Furthermore, questions of creativeness and problems of self-discipline come to 
+mind. Personally for me, this is the most serious difficulty. I have about ten 
+unfinished projects, and I shudder to think how many potential authors have also 
+dropped their creations barely starting them. Our "menu-oriented" community part 
+solves this problem by organizing competitions on regular basis (several times a 
+year), which allow everybody to remain in shape and create a healthy creative 
+atmosphere. However, parser-based games have a much longer average development 
+period and much less authors, so that this experience can't be taken over 
+directly. Unless we organize some sort of "warming-ups" -- mini-comps, say, for 
+single-puzzle games, or for sketches on a given theme. I think it's time to 
+start this tradition. 
+
+  VK: By the way, since you mentioned the "menuists". What do you think, our
+  genres ("classic" IF and CYOA) are doomed to be each other's competitors, or 
+  there is some common ground allowing them to be mutually useful?
+
+AG: I'd say they supplement each other. CYOA is democratic and easy, classic IF 
+is difficult both for the author and the player, but provides more possibilities 
+and artistic means. The target audiences are very similar, but in the end, IFers 
+are glad about any mentioning of their genre, while CYOA lives in every RPG and 
+prospers as anime/manga games. 
+
+Coming back to our situation: a part of the "menuists" would write parser-based 
+games if our community life were as lively as theirs. Regular communication with 
+the platform developer and other authors via an IRC chat is a very valuable 
+possibility. Maybe that's the reason why they don't migrate to a more 
+sophisticated CYOA platform, which also is available. Some of them have tried to 
+write something in TADS and even succeeded, but finally they returned back to 
+menu-driven games. I believe sooner or later they will write parser-based games, 
+and be it just a test of skill. 
+
+  VK: Connected with that, a global question (while the answer can be partially
+  found in your article, most SPAG readers haven't read it, I'm afraid): what do 
+  you think of prospects of IF in general, and of Russian IF, in particular?
+
+AG: I also expressed the main idea on r.a.i.f, but didn't raise any significant 
+discussion. My claim has been, interactive fiction will gain mass popularity 
+again and become commercially successful only in the form of a verbal dialog 
+between the player and the computer. However, now I think that, when voice 
+recognition technologies will reach the proper level for it, such an application 
+of them will just be lost in the variety of other possibilities. Even now we can 
+see new principles of player input and game control appearing, which introduce 
+their own (and very effective) means of game immersion. To put it short, the 
+gaming industry is on the verge of changes, and the IF community should be open 
+towards novelty in order not to miss the opportunity to conceive a new 
+interactive genre, since I can't imagine a prosperous future for IF within the 
+existing technologies.
+
+As far as Russian IF is concerned, I reckon it will grow due to the increasing 
+number of Internet users in Russia, if nothing else. Besides, every new 
+high-quality game represents another brick in the fundament of the genre 
+popularity, thanks to the wide promotion possibilities.
+
+  VK: You really think that's the path of IF? As I see it, IF would mutate into
+  an entirely different genre this way...
+
+AG: Exactly. Classic IF will still be there, but new genres will arise. IF will 
+play in them the same part menu-driven CYOA-principles play in modern RPGs. 
+Audio-IF is the most obvious trend, which could beget graphic adventures with 
+voice input, as well as other genres one could only speculate about. An 
+interactive movie, for instance, where the hero acts pretty independently, but 
+the spectator influences the plot indirectly by mocking or invigorating the 
+hero, "whispering" hints into his ears, or even by arguing with the narrator.
+
+  VK: From the global to the "special cases". Please tell us a little about your
+  game Dreamor that won the KRIL-06 competition.
+
+AG: Oh, I can speak about it a *very* long time, since it took me four years to 
+write it. Contrary to some conjectures, its creation began not with the lengthy 
+and redundant prologue but with the small room the PC wakes up. The only idea I 
+had at that time, was "a malicious monster breaks loose and chops everybody down 
+to sausages". I think the theme of unmotivated and ultimately gory violence is 
+generally very popular among young writers and artists, but that's an entirely 
+different story :). 
+
+Thus, after the more or less sophisticated battle system was finished, I started 
+filling in the details and the game world. As to be expected, it changed many 
+times and often came into contradiction with pieces written previously. The game 
+was influenced by every new book delivered, every impressive film watched, every 
+new thought or idea that came to my mind. At some moment, I decided the game 
+should reflect the idea of ditheism I was interested in at that time: two 
+deities, one of them representing the void (space, static matter), and the other 
+-- the chaos (changes, entropy; strictly speaking, Dreamor is its name), form a 
+world that is very similar to our own one, but the protagonist, who isn't an 
+ordinary human, or, rather, no human at all, can see it under an entirely 
+different angle. At the end of the day, the goal of the game is to explore this 
+world. Unfortunately, the idea turned out to be too wide-scaled, and I'm 
+inclined to getting into the tiniest detail and non-linearity. Thus, the game 
+name turned out to be prophetical, and the divinity of chaos almost ruined the 
+game. To bring some order to the game world, I wrote the not very interactive 
+and somewhat autobiographic introduction. Several of the autobiographic aspects 
+weren't resolved yet in real life at that time, and because of that, or maybe 
+for other reasons, I did very little in terms of game development for more than 
+two years. 
+
+The situation was saved by the competition. I hoped sincerely and naively, I'd 
+complete the game by the deadline, but in reality, the competition started only 
+after I finished the game, because as it turned out I had finally to organize 
+it. I had to finish my work at an accelerated tempo within a week. 
+Unfortunately, a few nasty bugs turned up afterwards, and the game had been to 
+be reduced to the first of two chapters of the first game in the series (which 
+represented about one sixth of the initial conception), but I badly needed to 
+finally show my "monster" to the audience. And it looks like it impressed them. 
+
+  VK: Did you think about writing a sequel? Also, tell us about your IF-related
+  plans in general. 
+
+AG: There are thoughts about a sequel, but no real desire. I hope to become an 
+effective businessman, and in this case, there just won't be any time left for 
+interactive fiction. If I write something as monumental again, it will mean that 
+I either manage to canalize the creative energy needed for that once more, or 
+reach such a level of effectiveness that I will have enough time for everything.
+
+All in all, I have an idea I want to implement especially badly. It's more worth 
+to me than ten Dreamors. It's a short, but very emotion-loaded game. When this 
+idea came to me, I chilled, and my hair bristled. Even a mere retelling of the 
+plot makes people gloomy, although they don't know yet how it happened. The most 
+dramatic thing is, the story is entirely real, and not even unique. It's the 
+recent past of my country, which is so rich in tragic episodes...
+
+  VK: Yeah, you managed to be quite intriguing :). Could you give at least a
+  slight hint what the story is about?
+
+AG: Its working name is Mother. And it has nothing to do with the novel by Maxim 
+Gorky of the same name. 
+
+  VK: English-speaking players mostly now you as the author of the experimental
+  work Suprematism in IF, which has been uploaded to the Archive this February, 
+  and caused a rather vivid discussion in the rec.games.int-fiction group. Could 
+  you say a few words about it please?
+
+AG: Thanks, I think it isn't worth so many words, and I already got more 
+feedback than I ever could expect. 
+
+  VK: Well, then, let me wish you to increase your efficiency, and finally
+  complete The Game of Your Dream!
+
+AG: Thanks, I'll do my best.
+
+=-=-=-=-=-=-=-=-
+ Victor Koryanov, implementor of the major URQ runner (URQ DOS)
+ Akela, implementor of an advanced URQ runner (AkURQ) and several games
+ Eugene Tugolukov (nickname Korwin), a prolific author and promotor
+ Evgeny Bychkov (brevno), implementor of URQ editor SMSQuest and contest guru
+ Yuri Pavlenko (Goraph), prolific author, contest guru, and reviewer
+ ZombX, who used to write games but now is just good company!
+-=-=-=-=-=-=-=-=
+
+  Jenny:  My friends, I wonder when and how you found out about IF?
+ 
+Victor: In my childhood, when I found in a magazine (a paper one) the source 
+code for an IF-game about a larceny from a gallery. I think it was the very 
+beginning of the 1990-ies. There was no accessible Internet at that time, so it 
+was very hard to find any new programs. Then, computer magazines often simply 
+published the source code for useful utilities and games, so that a new issue 
+often became a great event. There just hasn't been any other way to quickly get 
+something new for one's computer.
+ 
+Goraph: At the age of about 11, I bought a computer gaming journal (I didn't 
+have a computer at that time). There were lots of adventure reviews there, and 
+at the end of the issue, there was a Russian translation of an adventure 
+players' guide. After reading it, I blazed up with the desire to play 
+adventures, and managed to make a reality of it with time:).
+
+Korwin: For me, it's a difficult question, which I can't give an unambiguously 
+and concrete answer to. The thing is, I had a hobby of inventing fantastic 
+stories for my friends at the age of about 9 to 11 years. I'd describe a 
+situation (most often loaned from the books I read) to them, and they would tell 
+me what they were going to do in the place of the main characters. The plot 
+developed independent of the initial conditions. Our games sometimes went on for 
+several years -- I remember a session based on The Lord Of The Rings that 
+continued from 1981 till 1987! Of course, there were breaks for other games, 
+studies, dancing and other private life. As far as "real" computer IF are 
+concerned, it was 1995, ZX-Spectrum, a number of adventures (I remember Emerald 
+Isle, Red Moon by Level 9, Kayleth by AdventureSoft, which was based on an Isaac 
+Asimov's short story). 
+
+brevno: That's an easy question I *can* give an unambiguously and concrete 
+answer to. Even in my tender age I became acquainted with the delights of 
+interactive fiction -- by means of the story about Ilya Muromets. You know, that 
+stone at the crossroads with three paths leading in different directions: if you 
+go right you'll lose your horse, left -- you find a wife, and if you go 
+straight, you'll ride into the stone. [This is indeed a very common situation in 
+Russian fairy tales, but I'm not sure there is a counterpart in English 
+literature.  Oh, and you can read about Ilya Muromets in Wikipedia at 
+http://en.wikipedia.org/wiki/Ilya_Muromets.] Being a true gamer and explorer, 
+Ilyusha [that's a diminutive for the name Ilya] checked out all options of this 
+famous quest.
+
+Well, and after that, there were the great CYOA-books by Braslavsky: The 
+Faithful Rapier Of The King, The Master Of The Endless Desert, where you had to 
+browse the pages to find the location with the proper number, and even to roll 
+the dice when fighting with brave chevaliers and other gremlins. My next stage 
+of evolution was, finally, real computer IF -- menu-based quests for the Space 
+Rangers game, which was in development at that time. Then, I got the burning 
+longing to create something in that vein, but cooler. As it turned out, I 
+couldn't make something cooler myself, but it looks like I was able to help 
+others to accomplish that feat. 
+
+ZombX: I found Orczero [that's one of the first Russian text adventures, 
+inspired by Zork Zero] in a game collection, that's how everything started...
+
+Akela: ... (plays WoW, and gives no answer therefore.)
+
+  Jenny: What's your first IF-game?
+ 
+Victor: I typed in the source code of the aforementioned game from the magazine. 
+It was seemingly the first program in my life.
+ 
+Goraph: My first game was written in Basic for the ZX-Spectrum, its name was A 
+Wizard Of Archipelago, and it was based on the book by Ursula Le Guin. 
+
+Korwin: You mean the first one that has been completed? Well, that's of course 
+Winnie-the-Pooh And Other Animals), developed in urq_dos in 2003-2004. It was 
+intended to be a test game -- at that time, I just wished to familiarize myself 
+with the features of this engine; besides, I wanted to boast about a bit, and to 
+demonstrate my son who's been 7 years old then that his dad is a cool 
+programmer, and also can write computer games. With such a motivation, I just 
+couldn't fail to complete this not-so-big work. For me, it was a very conceptual 
+effort. First of all, because I revised my attitude towards the character I was 
+very fond of from little up after reading The Tao of Pooh by Benjamin Hoff. 
+Secondly, because in spite of the rather modest size of the game, I did my best 
+to provide all four characters of the story with distinct personalities and 
+certain behavior logic, and it looks like I succeeded. Finally, I kept this game 
+fair, which is rather untypical for me. You can't lock yourself out of victory 
+here; saving and restoring the game are retained only for the players' comfort.
+
+brevno: The acme of my creative work that sullied me with glory forevermore is 
+the URQ-game White Bull-Calf. Amazingly, it isn't menu-based but uses keyboard 
+input (in fact, this was the goal of its creation -- demonstrating how to handle 
+that kind of input in URQ). The game is remarkable not just because of being the 
+only annoyance tale in the whole Russian IF, but also because it's the only URQ 
+game I know that managed to lock up someone's computer:). Needless to say, I'm 
+proud beyond all measure. [The tale of the white bull-calf is a traditional 
+Russian annoyance game. It goes like this: you ask the person you want to annoy, 
+"Shall I tell you the tale of the white bull-calf?" He answers, "Yes, tell me." 
+You say, "Yes, tell me. Shall I tell you the tale of the white bull-calf?" etc., 
+etc. The idea is, you repeat the answer, and add the everlasting phrase about 
+the white bull-calf again and again. In a figurative sense, Russians say someone 
+is telling stories about the white bull-calf if the said person avoids giving 
+you a clear answer/decision, repeatedly digging up points that have been 
+discussed over and settled a long time ago. It's a bit like the old "Who's on 
+First?" comedy routine.] 
+
+But what am I talking about? In fact, I'm only indirectly involved in game 
+development. My main merit is, I programmed the sole (at that time, at least) 
+specialized editor for writing URQ games. And, which is even more important, I 
+played the role of an acres gatherer, which effectively means the centralization 
+of URQ-related resources. The web site dedicated to my editor (both of which has 
+almost sunk into oblivion since then -- the web site and the editor) contained 
+the biggest collection of Russian menu-based URQ-games. It served as a powerful 
+incentive for the further progress of that platform, as well as for the creation 
+of new games. Previously, these games were scattered about minor web pages, the 
+authors' hard disk drives, as well as other wondrous places. In the course of 
+time and numerous migrations the site transformed into the main resource of the 
+whole URQ-community, and its guest book -- into the forum where most of the 
+URQ-related life is humming on. And the game catalog is continuously replenished 
+with new works. 
+
+Finally, I can proudly state that I'm one of the organizers and one of the 
+stimulus of the Summer Adventure Contest (abbreviated as LOK or LOKa), a 
+competition that takes places at our site annually. I call myself a "stimulus", 
+because I award every game for participating with an illustration to that game, 
+which I draw myself :). And there haven't even been complaints about that so 
+far. Oh, and one more thing -- I'm the most popular co-author of URQ-adventures. 
+It's rumored there's hardly anyone who screwed up as many mutual projects as I 
+did. 
+
+Well, considering all the aforesaid, I just have to wonder why they still 
+haven't set up a monument, don't bow down, and, above all, haven't started 
+sacrificing young virgins to me yet...
+
+ZombX: Oooh... it's been a long time ago... you mean a real GAME, or just 
+creative experiments? As a matter of fact, it's been Dmitry Smetanin. But let's 
+say Teletubbies, because I can't remember a thing about Dmitry Smetanin anymore. 
+[Teletubbies is the brief name of a short but very interesting surrealistic 
+adventure, the full name goes as follows: The Comeback Of The Teletubbies, Or 
+The Revenge Of Freddy Krueger. One Of The Two. Part One, As Well As Six And 
+Eighteen. "About The Harm Of The Drugs". However, even the author himself is too 
+lazy to say the complete version.] 
+
+Akela (tears himself away from WoW and remarks briefly): Fortunately for 
+everyone, it remained on my HDD forever. 
+
+  Jenny: Evgeny, since you mentioned this subject yourself, could you give as
+  some more details about LOKa and ZOKa? 
+
+brevno: Even at the very early stages of organizing the big URQ-site, the 
+objective was set to introduce competitive spirit to the game creation process 
+in order to influence their quality and quantity positively. Thus, LOKa -- the 
+Summer Adventure Contest (Letnyaya Olimpiada Kvestov in Russian) was started -- 
+an all-URQian game competition, which goes on over the whole summer. The 
+competition is still a bit unripe, and we experiment with its rules and 
+conventions all the time. For instance, in one of the first LOK contests the 
+game authors had to write games that started with an excerpt chosen by the jury. 
+Why, we tried just everything -- limiting the game size, setting a fixed set of 
+words and noun phrases to be used in the game... To put it short, we did any 
+perverse thing we could think of:). For instance, the last LOKa had a prescribed 
+set of themes, ideas, one of which had to be treated by the participating games 
+(not necessarily word for word): "mutual effort", "damnation of mastery", 
+"fulfilling of a wish", "the necessary question", etc. I think one of the 
+authors even tried to treat all themes simultaneously :)
+
+There also is a winter counterpart of LOKa -- ZOKa (Zimnyaya Olimpiada Kvestov 
+-- The Winter Adventure Contest). It was established as an alternative contest, 
+because during the first LOKa, doubts about the accuracy of the voice counting 
+by the jury (by the way, those doubts were completely unfounded). The main 
+difference is, ZOKa is organized by one or several enthusiasts who both invent 
+the rules and choose the winner by themselves (in LOKa, public voting is used). 
+Traditionally, the organizer of ZOKa writes reviews of all participating games, 
+founding the ratings he's given them.
+ 
+  Jenny: Thanks, Evgeny. Now, a question to the developers of URQ: when and how
+  did you come to the idea of creating a program for Russian IF-games?
+ 
+Victor: When I stumbled upon Ripurka [a familiar name for RipURQ -- the ancestor 
+of all modern URQ versions] somewhere by the end of 2000. At that time, I had a 
+computer almost unsuitable for Windows, among other things, because of an awful 
+EGA monitor. I "lived" under monochrome DOS that wouldn't allow to start Ripurka 
+in an even remotely decent way, but there already had been an interesting 
+adventure for that platform, The Ancient Dagger. The first versions of urq_dos 
+aka Dosurka were created literally for playing through that game. 
+
+Akela: ... [apparently, he has a difficult situation in his game, so that he has 
+no time for us; that's a pity, since AkURQ is the URQ interpreter with the most 
+powerful capabilities for the time being].
+
+  Jenny: Victor, please tell us, what's the difference between URQ and other
+  adventure games authoring tools, what stipulated such a wide popularity of it 
+  (it's no secret that in Russia, about as many games have been developed for 
+  this platform as for all the others taken together)? And how do you decipher 
+  this mysterious abbreviation URQ?
+
+Victor: About the popularity: there were several factors. Historically, URQ was 
+the first successful text adventure development tool written in Russian 
+(projects that had been preceding it, for instance, OrcZero, hadn't found a wide 
+distribution). For it, two very important games have been written almost 
+immediately -- the very interesting Ancient Dagger (by Kaschey) and the 
+"didactic" Pilgrim -- The Case Of The Kidnapped Girlfriend (by Devil). In 
+Pilgrim, the author demonstrated how to describe typical gaming situations, so 
+that for a certain period of time, this game became a programming language 
+manual de facto. An important role also played the gentle learning curve, 
+combined with the feature allowing code modification during its execution. The 
+main idea, as I saw it at that time, consisted in drawing the source code as 
+close to common book-like text as possible. In other words, the author just had 
+to insert instructions and branching conditions into his (static) story to make 
+an adventure game of it. Although this concept was pretty early diverged from 
+towards introducing a gradually increasing number of elements of a general 
+programming language, the possibility of writing an adventure as a CYOA book has 
+been retained till now. The code modification possibility means that you can 
+insert a renewable expression value at any place in the code line, and the final 
+execution of this line by the interpreter will only take place after all values 
+have been calculated and substituted. The important thing is, the location of 
+these renewable expressions isn't restricted by any means, so that this way, 
+instructions, variable names and parts of data structures can be generated. Not 
+only allows this feature the automatic creation of some standard language 
+structures (like arrays), but also provides opportunities the limits of which 
+aren't quite clear yet.
+ 
+As to the name, it's been invented by the initial designer of the language and 
+the first interpreter for it, RipOs (Timofey Basanov). URQ means Universal 
+Ripsoft Quest, where RipSoft is the designation of the fictional "company" in 
+whose name RipOs released his programs. When there was only one interpreter, the 
+name URQ was applied both to it and the language. After RipOs withdrew from IF 
+and stopped the development of his related project, they began calling the 
+language URQL to avoid confusion, and new interpreters by other authors received 
+names derivative from URQ with additions of prefixes and suffixes -- just the 
+way as is customary in the TeX world. The original interpreter by RipOs is 
+sometimes referred to as RipURQ or Ripurka in modern articles, manuals, etc., to 
+avoid confusion with the URQL-language.
+ 
+  Jenny: Why did you choose a menu-based interface for your game?
+
+Victor: Ripurka was menu-based.
+
+Goraph: Since I wasn't very well-acquainted with BASIC at that time, I chose a 
+menu interface, because it was easier to implement. Besides, it must be said my 
+game was in Russian, which is one of the world's most difficult languages 
+(almost like Japanese). To write an adequate parser was far beyond my abilities 
+at that time.
+
+Korwin: In most likelihood, it was the fact that I'm rather an author than a 
+programmer. The URQL language was exceptionally easy to use, yet provided pretty 
+decent possibilities, and I was just delighted by the idea to write a game using 
+only the Notepad editor. In other words, the menu interface allowed creating an 
+adventure with approximately the same plot, but with significantly less efforts 
+on my part. 
+
+ZombX: I hate parsers...
+
+Akela: Just because!
+
+  Jenny: Who helped designing and testing your program? 
+
+Victor: As far as the first versions are concerned -- nobody. [Victor means the 
+development of Dosurka.]
+
+Goraph: My friend Alexey helped me testing my game. It must be said he never 
+could complete it -- its puzzles probably were too difficult. For instance, you 
+had to guess the name of a dragon that was hidden in the lyrics of a song taking 
+up two screens of text. He just didn't read it! 
+
+Korwin: In first place, it's been the creator of urq_dos Victor Koryanov, who 
+not only gave very clear explanations on using his game engine, but integrated a 
+number of useful functions in it at my request, even those used very rarely now 
+(at that time, I wanted to write a parser-based game in Dosurka). Secondly, it's 
+my best beta-tester Stas Starkov, who found a heap of mistakes -- not just 
+programming ones, but also (to my shame) misspellings. Some of them ignited 
+heated discussions, during which Internet search, examples from the world's 
+literature and consultations with professional teachers of the Russian language 
+were called in. Finally, my friends, relatives and Internet acquaintances. 
+
+brevno: If you mean my notorious adventure games editor -- there were huge lots 
+of people, mainly our wonderful game authors, who tested on themselves all ruts 
+and grooves of this program, which I started writing barely knowing how to 
+program, only inspired by the bright idea of URQ-domination on our planet... I'd 
+like to thank them all. I'm sincere about it. I've always said the most 
+important thing isn't the language, the development platform, the choice between 
+a menu- or parser-based interface, but the author of the game, its text, its 
+plot. That's the salt of the earth -- the creator. 
+
+ZombX: Well, I did all the writing part myself, and the testing was done by 
+those in front of whom I wanted to show off. 
+
+Akela: What's this question about? As far as AkURQ is concerned -- everybody 
+helped. However, mostly by criticizing it.
+ 
+  Jenny: How did you see the prospects of the Russian IF movement at that time
+  (when you were first introduced to IF)?
+ 
+Victor: Then, there wasn't any "movement" I knew of, the first Dosurka versions 
+were distributed to as little as four addresses. 
+
+Goraph: At that time, I didn't think of the prospects of the Russian IF movement 
+at all, I just did what I liked. The very process of game creation was fun for 
+me, I had no concerns about whether someone would actually play it (and if he 
+would be able to play it at all); admitted, this influenced the quality of my 
+game unfavorably.
+
+Korwin: In 2003, I was very optimistic about it, wrote articles, was working on 
+two games simultaneously, tried playing English text adventures again -- it 
+seemed to me the only problem of the genre was the lack of publicity, and that 
+in our "world's most-reading country" IF was just doomed to be successful. 
+
+What have I not done to shake the Russian interactive fiction out of its 
+slumber:
+ 
+- wrote help for URQ and QSP -- the two most advanced Russian menu-based 
+adventure development platforms; actively communicated in forums and via e-mail 
+with every person who, as I thought, could help the genre to expand; among them, 
+there were the developers of all Russian adventure authoring tools I knew of 
+(including GrAnd -- the author of RTADS; Byte -- the creator of QSP; Victor 
+Koryanov and Akela, both present here; Overlord, who tries porting URQ to Java; 
+Sonic, who intends to develop the YaRIL/IFML -- Interactive Fiction Markup 
+Language) adventure-oriented programming language, which should be completely in 
+Russian, including instructions and operators; several other developers);
+- entered games in contests organized on the URQ forum (urq.fastbb.ru), often 
+using different nicknames to give the impression of a more vivid activity, 
+winning several competitions (sometimes beating myself).
+
+As I see it, these efforts were fruitful, and I'm proud there is my humble 
+contribution to the development of Russian IF. 
+
+brevno: I was at an age when one doesn't care a jot about the future, only 
+living by the present day. A new program version every week -- bang. Manually 
+rearranging the adventure games catalog growing out of size (the non-kosher PHP 
+was out of question) -- no problem! Playing a game or discussing it on the forum 
+instead of preparing for an important test -- well, you really didn't need to 
+ask! 
+
+ZombX: Well, I expected the new URQ for Windows by RipOs and the SMSQuest by 
+Evgeny to finally be released... 
+
+Akela: I haven't been there.
+
+  Jenny: How do you see it (the future of IF) now?
+ 
+Victor: First of all, the URQ-community has no official structure. Sure, the 
+opinion of the "old-timers" is often weighty when routine problems are 
+discussed, well, and people related to the support of the main site and forum 
+have some technical privileges. However, all this is rather nominal. It's a very 
+common situation that a newcomer showing up with fresh and reasonable ideas, or 
+a new author who strikes everybody with a game setting a new quality standard, 
+enters the community life as an active full member from the very first days. 
+Considering such organization principles, it's not quite right to speak about a 
+"movement". The veterans' only organizational initiative are the annually 
+contests that pull up the games' overall quality and creativity little by 
+little. Under such conditions, it's just not possible to have a clear "vision of 
+the future". There is hope that we will put into practice the technical ideas we 
+have, which, in its turn, will give the authors and the whole community a new 
+motivation, that the oncoming contests will become even more interesting, but 
+that kind of predictions don't change with time, I could tell you exactly the 
+same things two years ago. 
+
+Goraph: Russian IF-authors are notable (compared to the Western ones) for their 
+incredible laziness, and incredible lack of time. Therefore, although there are 
+enough adequate authoring tools available, there aren't too many quality and 
+finished games. The Russian IF-community will exist for a long time as a 
+subculture, but I don't think it will ever result in a large number of 
+high-quality games being released. 
+
+Korwin: At present time, there are at least three almost perfect IF-development 
+systems for Russian games: the parser-based RTADS, and the menu-based URQ and 
+QSP. Besides, there are at least a dozen of other systems, which are also quite 
+usable (ADRIFT, RINFORM, TGE, TKR2, GTI, QTech and a few more.) The stumbling 
+block isn't the lack of a development platform, but rather the lack of authors. 
+Maybe writing adventures for palmtops and mobile phones could spur interactive 
+fiction in general -- if there are (paying) players and, consequently, money, 
+serious authors probably will get attracted. 
+
+brevno: It's easy to say there's a lull. However, there's always a place for 
+dreams and hopes. 
+
+ZombX: To tell you the truth, somewhat puny, the initial enthusiasm faded away. 
+Everybody ponders why it peters out little by little, but no one does anything 
+in order not to let it kick the bucket.
+
+Akela: To be honest, I don't see it.
+
+  Jenny: What are the main problems of Russian IF as you see them?
+ 
+Victor: There are still too few really big games. Games with a world one would 
+be pleased to dive into, without concerns about hitting the bottom too fast; 
+with characters one would remember even half a year later. Such games have 
+already started to be released, but not as many as I'd like to see.
+ 
+Korwin: First of all, it's the absence of massive IF traditions in Russia, 
+which, in its turn, has its roots in the fact a computer was a too expensive 
+"toy" for most Russians over a long period of time, so that the IF-heyday of the 
+1980s passed our country by.
+
+Then, there is the difficulty of the Russian language with its variety of 
+wordforms, which represents a serious obstacle for writing a decent parser. This 
+problem was solved only by 2002-2003 thanks to the efforts of GrAnd; another way 
+for solving it was using of a menu-based interface in such interpreters as URQ, 
+QSP, TGE and others.
+
+Thirdly, the best authors usually prefer to write books, since they bring their 
+creators more profit than computer games. My opinion is, to create a good text 
+adventure, a cooperation between a good programmer and a good author is 
+required; at that, none of them needs to have outstanding skills in their 
+respective field of activity. The thing is, good programming skills and the 
+ability to express one's thoughts coherently and aesthetically are very rarely 
+combined in one person -- and that's one of the most serious problems of Russian 
+IF. [Not only of the Russian one, it seems ;)].
+
+brevno: Our (URQ) authors are young and rash people for the most part. That's 
+great of course. Sometimes, however, they're full of ideas and eagerness, but 
+just can't properly express their feelings and concepts. You hardly can expect 
+an impeccable plot and language from a jolly teenager. Persistence is also an 
+important factor here, since, if you work too long on one thing at that age, 
+your interest tends to fade away. Yet, on the other hand, our unfinished, even 
+homely gamies occasionally conceal such little gems one doesn't find so easy in 
+professional works (and I don't mean just IF).
+ 
+Sure, there are also mature authors (casts a glance at Korwin) writing solid, 
+polished adventures. If only they loaned that little spark from our young 
+people... ;)
+
+Finally, there's a lack of motivation. Authors write for self-entertainment for 
+the most part, the target audience isn't too big: once you don't find means to 
+make yourself glad, you run about as if you've been shi... spit upon. 
+
+Generally, I think URQ is rather a therapeutic product. One has to ponder hard 
+to find an easier and better way of self-actualization through a game for a 
+beginner. To make a game using a sophisticated, well thought-out programming 
+language, especially a parser-based one, one needs to read manuals, studying 
+examples, etc. And here -- zap, zap, you smash your thought into the Notepad 
+editor, and the game -- albeit small and simple, yet alive -- is ready. And it's 
+yours -- your brainchild. You feel happy. The player does, too (well, maybe:) ).
+
+Goraph: Because of the difficulty of the Russian language, it's not easy to 
+develop a good parser; however, a passable parser-based authoring tool exists 
+already (I mean RTADS). Besides, there are no obstacles for writing high-quality 
+menu-based games, as they do it in Japan (they seem to have much more problems 
+with parsers than we).
+ 
+This leaves us but one problem -- the lack of interest and time on the authors' 
+part. 
+
+Akela: No one writes anything -- that's the problem!
+
+  Jenny: Goraph, what do you think of the "evolution" of IF into hybrid games
+  through melting with other genres? Is there any place for menu-based games in 
+  your vision of future?
+
+Goraph: It depends on what you mean by evolution into hybrid games. If you 
+include illustrations in your work of IF without harming the quality of the 
+text, it'll still remain an IF game. However, if the amount of text gradually 
+decreases, it finally isn't IF anymore. "The best visualization is your 
+imagination" -- that's the criterion I distinguish interactive fiction from any 
+other genres by. Menu-driven games have existed and will always exist in future 
+for languages where it's difficult to write a good parser.
+ 
+Besides, such games may have success on devices with limited input capabilities 
+(mobile phones, palmtops). On the other hand, they already begin playing DOOM on 
+cellular phones. I believe IF games will exist as long as literature will. It's 
+possible they become extinct together with literature in the future, to be 
+replaced by another sphere of creative work.
+ 
+  Jenny (now to all): What games did stick to your memory? 
+
+Victor: I've made up such lists -- both brief and more detailed versions -- on 
+the forum several times. I think it's not very useful to enumerate them here 
+once more, since the names won't mean anything to an uninitiated person; as to 
+explaining from scratch why I liked this or that game -- it alone would provide 
+material for a large article, or even a series of reviews. 
+
+Goraph: As far as Russian IF is concerned, it's Waiting for the Morning by Stas 
+Starkov, 40000 Years B. C. by Vampire, Winnie-the-Pooh And Other Animals by 
+Korwin. Of old commercial western text adventures, it's Hunchback by Ocean; 
+among the amateur "modern" IF, All Roads by Jon Ingold takes a clear lead 
+(actually, it's my favorite adventure altogether).
+
+brevno: I'm a big fan of Goraph (who's going to become the best writer of 
+Ukraine one day), especially of his notorious Ottar (How Ottar, Hetchhock And 
+Koyot Shook the Tail of Whitesquirrelwolf) -- an absolutely unique game written 
+in a language barely corresponding to Russian;). No, it isn't mat, it even isn't 
+Albanian. One has to see it. One has to dig it. ["Mat" (pronounced as "mutt") is 
+the famous Russian obscenity jargon, which is considered a unique phenomenon of 
+linguistics: the thing is, one can express oneself using this jargon only 
+without any loss of sense or expressiveness. I don't know whether the term "mat" 
+is known in the USA, if not, it can be translated as "obscenities". Albanian 
+means the deliberately grammatically distorted language (you know, in which you 
+say "kull" instead of "cool") that has become so popular in some Internet forums 
+and blogs recently. Again, the only term that seems to be a more or less 
+adequate translation is, well, "Akmi-speak"; however, I'm sure there must be a 
+word for that phenomenon in English that is known not only to fans of the 
+Unnkulian series;).] 
+
+Other games that come to mind immediately: the frolic The Golden Key, Or... How 
+It Happened In Reality by Akela; [The Golden Key (the full name is The Golden 
+Key, Or The Adventures Of Buratino) is a rather loose Russian adaptation of the 
+Pinochhio fairy tale. Until very recently, it was practically the only version 
+of the story inhabitants of the former USSR/Russia had access to; it's still 
+much more well-known and popular in Russia than the original story by Carlo 
+Collodi.] the historical Pyramid by Korwin; the monumental yet incomplete Trion 
+by D. Mazayev; games by VovkaSmert' aka Vegeta The Hero, In The Deep, both of 
+which are notable for their good writing; fun yet crazy game series by Larry 
+Baggins -- I'm tempted to go on enumerating :). I'd rather like to mention a 
+couple of mini-games not much talked about or just fallen into oblivion -- 
+PARISH 1313 that almost jazzed me out of my mind by the author's logic and 
+bizarre plot turns; The Co(s)mic Odyssey, the author of which remained unknown 
+due to a tragic mishap. 
+
+Korwin: Among the western adventures Eric the Viking, Zork I, So Far. 
+
+Among the Russian ones:
+- Dreamour (GrAnd, RTADS),
+- Waiting for the Morning (Stas Starkov, RTADS)
+- In The Deep (VovkaSmert' aka Vegeta, URQ),
+- Agent-D (Aracon, URQ),
+- Hope For Life (Phobos, URQ),
+- Door Into The Summer (Demon, URQ),
+- Chronicles Of Captain Bloud: The Secret Of The Left Buttock (Goraph, URQ),
+- Hill Of The Fairies (Belial, URQ),
+- Little Red Riding Hood (Yegorka Bestalanny, URQ),
+- Ukouzya (Tanya, QSP),
+- Zork Legends: Through the Dragon (Zorn, QSP);
+- Klara the Jam-Plunderer (Belial, 6days)
+
+However, I didn't play every game existing, and there're certainly a lot of 
+interesting ones beyond this list. I think Russian games currently are 
+noticeably inferior to western masterpieces. 
+
+  Jenny: Korwin, you are considered one of the most prolific URQ authors. What
+  other games did you write?
+ 
+Korwin: First of all, I'm not the most prolific author: there also is Larry 
+Baggins who seems to have been the creator of even more games. In addition to 
+Winnie-the-Pooh, I most actively participated in designing of a number of 
+adventures; only in the contests from 2004 to winter of 2007, there were eleven 
+games entered I had a hand in (I even can't enumerate them all):
+ 
+Pyramid (historical adventure about the ancient Egypt);
+The Wings (a modern-time story about a young man dating a girl on a rock music 
+festival);
+Rendezvous (a tiny game consisting of two locations, about an encounter of a 
+space traveler with an unfriendly spaceship of an alien civilization); 
+In Spite Of Winds And Waves (the PC is to be rescued from a yacht going down);
+Genie Ex Machine/Genie From The Machine (the heroine rescues her beloved (who's 
+an astronaut), confronting state institutions and an AI);
+Q-Quest (the adventures of a student in the forest and on a foreign planet)...
+
+Sadly, I have to admit there are very little fully finished games in this list 
+-- I feel like getting my hands on it again and give it more polish about 
+practically any of them. Rendezvous, for instance, is a wee fragment of a big 
+game, the conception of which is haunting me since 1996. However, this haunting 
+hasn't been very fruitful till now.
+ 
+  Jenny: Which of the authoring tools and interpreters for Russian text
+  adventures you think is the best one? Why do you think so? 
+
+Victor: As to authoring tools, it's a simple question to answer: for URQ, only 
+one specialized editor exists, so that you just have to choose between SMSQuest 
+and any common text editor. I prefer the second option, but I'm not indicative 
+here, since I've never tried to write a longer adventure. As to the 
+interpreters, I barely keep track of other Russian IF systems. I just look at 
+them, say, once in a year to see what new features have become available over 
+this period. Thus, I can't judge which system is "better", and which is "worse".
+ 
+Goraph: RTADS by Andrey Grankin. A very good platform for parser-based games in 
+Russian. Its disadvantage is the rather steep learning curve, but for me, it 
+doesn't represent a problem (I'm working as a programmer for a living). 
+
+Korwin: I won't answer, for one simple reason: I consider all the authors of the 
+development systems I've mentioned before to be my friends; to some extent, I 
+was involved in the creation process for all of those platforms (to a smaller 
+degree in respect of RTADS, to a larger degree regarding URQ). All of them are 
+perfectly suitable for writing text adventures; of course, each one has its 
+characteristics and advantages, but one can perform great work with any of them. 
+
+brevno: I haven't seen any that'd make me say -- yeah, this one is definitely 
+the best! One has to work with the tools available. Go ahead, not a step back!
+
+ZombX: WinURQ v. 1.4, since it's the only platform I can work with.
+
+  Jenny: What programming languages do you prefer to work with? 
+
+Victor: C99 with a few extensions.
+
+Goraph: I'm a web-programmer and only work in PHP and JavaScript. Besides, I 
+like Python. As to text adventures, I mostly work in urq_dos, because it's so 
+simple to use. It allows me to put aside all the programming aspects and 
+concentrate on the plot (this is important to me, since I usually don't make a 
+layout of the game on paper). This platform is perfectly suited for developing 
+games in English too -- if you're not put off by built-in system messages in 
+Russian and the absence of English documentation, that is.
+
+Korwin: Hmmm... Since I program games for the most part, it seems to me this is 
+another form of the previous question. However, I'll give you the following 
+answer: because of historical reasons, I've written most of my games using URQ, 
+but now I intend to make up for this lack of attention to other platforms (QSP, 
+RTADS). 
+
+brevno: I like PowerBASIC. I also program in C.
+
+ZombX: URQL of course.
+
+Akela: I prefer not to work at all, and play WoW instead.
+ 
+  Jenny: Your work and your hobby -- are they related to each other in some way?
+  [Apparently, there's been a misunderstanding between the interviewer and some 
+  of the interviewees: Jenny obviously implied the guys' hobby is interactive 
+  fiction, but a number of them told about their other hobbies].
+
+Victor: Very remotely. I'm a scientific associate in a research institute and do 
+a lot of programming at work, but the main themes, the development environments, 
+etc. are entirely different. 
+
+Goraph: I'm a web-programmer, I like my work, which also represents my hobby at 
+the same time. 
+
+Korwin: In no way at all. I'm a business trainer. However, the communication 
+with my clients often puts me in situations more challenging than any adventure 
+game puzzles. 
+
+brevno: I'm an engineer who programs microcontrollers, and develops/produces 
+devices based on them. Many people think I'm making infernal humanlike robots. 
+Unfounded speculations! This is what Victor Koryanov does!
+
+ZombX: They're somewhat related, if you mean my study. I like cinematography 
+(its technical aspects), and we have a lecture about TV broadcasting. 
+
+Akela: My hobby is computer gaming.
+ 
+  Jenny: What do you gain from contacts with other members of the Russian IF
+  community?
+
+Victor: It happened several times already that such contacts directly urged me 
+to implementing new features, fixing bugs, thinking over ideas not yet realized. 
+That's an especially common thing when an author writes an adventure, the code 
+of which could be made a lot more elaborate and compact if this or that feature 
+were present. Or, if a reasonable plot idea can't be implemented at all without 
+this feature. 
+
+Goraph: Russian IFers are great beta-testers capable of introducing constructive 
+critics that makes my games better, and the target audience for these games at 
+the same time (unfortunately, at the current stage players and authors are 
+practically the same for us).
+
+Korwin: Probably a certain feeling of being free. We're all from childhood by 
+origin, and IF allows me to come back there. 
+
+brevno: I met many great guys. 
+
+ZombX: Much fresh and useful information about cinematographic news. 
+
+Akela: Yeah.
+
+  Jenny: How old are you? What's the average age of Russian IFers in general,
+  and how many are they? 
+
+Victor: 1979 YOB. No one could tell you the average, but the fact is the age 
+spectrum began growing broader recently. As to the number of community members, 
+there are over 100 authors registered in the URQ games catalogue, but it must be 
+taken into account that a "generation change" goes on steadily. Some authors 
+drop out of sight after uploading several games, others come anew, and some 
+return after keeping silent for a long time. The approximate number of 
+simultaneously active authors is about 10, maybe 20.
+ 
+Goraph: Personally, I'm 26 years old; I can't tell you anything about the 
+average age, and it doesn't make any sense anyway, since some of the community 
+members are old enough to be the others' fathers or even grandfathers. I think a 
+realistic estimation of the number of members is over fifty, but the absolute 
+majority of them are passive; the number of those who are active is slightly 
+over ten. 
+
+Korwin: I'm 37 years old now, but that won't last long. It's difficult for me to 
+judge about the age of other IF enthusiasts, but my impression is they're 
+younger than me. By my estimation, the number of those who write their own games 
+is about twenty to thirty... if they don't write (like myself) under several 
+nicks, that is. 
+
+brevno: I'm 23, have no pernicious habits (apart from URQ), but a bad character, 
+and I'm single. I think 13 to 19 years is the most accurate estimation of the 
+average age of community members. Judging by the number of adventures sent in 
+and nicknames registered, they are about eighty, regular rotation kept in mind 
+of course. But I can't say about other development platforms. 
+
+ZombX: I'm 19. The average age is 17 to 30. Yeah, the interval is like this. 
+Other ages are a rarity. 
+
+Akela: I'd be glad to tell about myself as well, but unfortunately I can't 
+reveal the coordinates of my home planet...
+ 
+  Jenny: What would you like to tell the readers about yourself?
+
+Goraph: [In English...] Hello, Dear Readers, my name is Yura, I'm living in 
+Chernigov, Ukraine, a small beautiful town 140 km east of Chernobyl. I never pay 
+taxes, and love interactive fiction for the most part of my life. :)
+
+Korwin: I have a house, a much-loved wife, a job I like, a son and a daughter. I 
+also have a number of minor everyday problems life probably would be impossible 
+without, solving of which gives one the feeling of a full-blooded life. And lots 
+of problems at work they wouldn't pay me my wage without. 
+
+brevno: My nickname is brevno (translated from Russian as "a log" or "a 
+numskull"). Are you sure you want to know anything about someone who has chosen 
+such a nick of his own accord, and is using it over several years?:)
+
+ZombX: Well, I was born in a small town of the Nizhni Novgorod Region, I'm 
+unmarried, am fond of horror movies; I had a hard childhood, didn't go to school 
+until the age of 7, was afraid of anybody. When I was beaten up, I cried. 
+
+Akela: (Inarticulate mumbling.)
+
+  Jenny: Your favorite books? Writers? Films? Song?
+
+Goraph:  Book - The Hobbit by Tolkien (I reread it about fifteen times)
+Writer - China Miéville and Neal Stephenson
+Films -- all Hong Kong films by John Woo, True Romance by Tarantino, as well as 
+Rosencrantz & Guildenstern Are Dead.
+Song: The Young One by Yefrem Amiramov
+
+Korwin: As far as books are concerned -- it's a difficult question. There are 
+too many of them, since reading is my favorite way to spend my spare time. I'll 
+list some of the books I've reread several times.
+ 
+Among foreign authors: Dragonsbane by Barbara Hambly, Ender's Game by Orson 
+Scott Card, Foundation by Isaac Asimov, Leaves of Grass by Walt Whitman, The 
+Alchemist by Paulo Coelho, Illusions and Jonathan Livingston Seagull by Richard 
+Bach.
+ 
+Among Russian authors, I like the books by Arkady and Boris Strugatsky, Sergey 
+Lukianenko, Pavel Shoumil, Lev Vershinin. 
+
+brevno: I like reading SciFi and historical literature. I hope the names won't 
+be totally unfamiliar to you... Among ours, the first ones who come to mind are, 
+say, Loukin, Belyanin, and Kaganov. Of the foreign ones - Longyear, Adams, 
+Harrison, Asprin, well, and Pratchett is going to join this list soon.
+ 
+Films... Recently, I started watching movies way too much. Therefore, now, I 
+don't like cinema at all. Well, the only exception may be good old Russian 
+(Soviet) films, like the Midshipmen. [Midshipmen, Go Ahead! is a series of 
+semi-historical full-length films made in the late 1980-ies, which is very 
+popular in the SU/Russia. The plot is in the vein of Three Musketeers AFAIK].
+ 
+Songs -- depend on my mood. Generally, I have a weakness for merry Irish music, 
+frantic revolutionary and military songs, simple and sunny songs from the Soviet 
+time, sometimes bardic song and folk. In a sad mood, I listen to classical music 
+or punk rock. 
+
+ZombX: Book: The Autumn Carnival Of Death. Authors: Ron'shin, Kharms. Films -- 
+Cigarette Burns by Carpenter, then Man Bites Dog. Song She Loves So Much by 
+Secret.
+
+Akela: Books -- there're lots of. Author - Lukianenko. Films -- are very many 
+too, anime for the most part. Songs -- a whole lot too, by The Mill, The Rowan 
+Tower, The King And The Fool, etc.  
+
+  Jenny: A forgivable weakness in a person?
+
+Goraph: I have difficulties answering this question, I only can talk about a 
+specific person and a specific weakness:).
+
+Korwin: Telling lies -- in order to put oneself in a better light. But not 
+slandering. 
+
+brevno: IF.
+
+Akela: A weakness for computer games... that's mine. 
+
+ZombX: Probably smoking. By the way, I'm a non-smoker. 
+
+  Jenny: What do you think, which merit deserves the most respect in a person? 
+
+Goraph: All in all, you shouldn't ask me about that, rather the government and 
+the sociologists. But the desire to write interactive fiction is undoubtedly 
+worthy of all kinds of respect.
+ 
+Korwin: Perseverance, diligence. 
+
+brevno: Adequacy, understanding, cordiality, fervor. 
+
+ZombX: Well, the ability to carry an undertaking through.
+  
+Akela (reluctantly tearing himself away from the screen): Honesty, decency. 
+
+  Jenny: The worst streak of the Russian mentality. 
+
+Goraph: I don't know any.
+
+Korwin: Unreliability. I'm a historian by education, thus, I understand where it 
+comes from, and hope very much modern conditions will form other habits. In me, 
+too. 
+
+brevno: A generous nature. 
+
+ZombX: The way everything is put off till the last minute. 
+
+Akela: How can you measure all Russians by one yardstick?
+
+  Jenny: The best streak of Russians.
+
+Goraph: The best streak of the Russian mentality is their "unconventional" way 
+of thinking (that doesn't resemble either the Western or the Eastern one, and is 
+a sort of a mixture between them), which sometimes leads to interesting results. 
+
+Korwin: Optimism.
+
+brevno: A generous nature.
+
+ZombX: A generous nature.
+
+Akela (is immersed in the game again):...
+
+  Jenny: A traditional question: your plans for the future.
+ 
+Victor: urq_dos is a text-only (command-prompt only) application originally 
+developed for DOS16. After the machines that only had "pure" DOS installed 
+became completely obsolete, it was ported to DOS32 and WCL (Windows Command 
+Line). The last update goes back to 2004, and of course a huge number of new 
+ideas and features not yet implemented are pending. This includes a version with 
+a suitable graphic interface, porting to new environments and operating systems, 
+several new key features of the URQL language suggested by adventure authors, as 
+well as a lot of other things I can't remember straight off. In other words, 
+there's no lack of new plans and prospects, the question is just, where to find 
+spare time, a motivation and opportunities for implementing all this. When I 
+started working on Dosurka I was a student, and while there isn't ever enough 
+spare time, in that period, I had the wish to just get a look at various aspects 
+of programming, to try my strength at solving interesting problems; well, and 
+the burden of reality hasn't been as heavy as it is now -- many of the problems 
+I've been confronting at that time seem rather trifling to me now. Currently, 
+I've already graduated from the university and upheld my thesis, I have an 
+intense work full of responsibilities, as well as a number of problems that 
+somehow never get fewer. As time goes by, it becomes more and more difficult to 
+simply throw everything out of mind and return to one's hobby.
+ 
+Goraph: Currently, I have no plans related to IF, I'm interested in sim-racing 
+now, but sooner or later I'll have the desire to write a text adventure again, 
+as it happened many times over the last fifteen years :). 
+
+Korwin: My most intimate dream is to write a masterpiece of a game, a game of 
+the same level as the best Western text adventures. There're a lot of plans: to 
+write a menu-based game in j2me for a cellular phone, two projects to be 
+implemented in RTADS, one -- in QSP, and half a dozen -- in URQ. To be honest, 
+I'd prefer if there was only one project -- I'd had better chances to complete 
+it this year then. 
+
+brevno: I'd be glad to say that I'm planning to do something really useful: to 
+improve my editor, to program a GUI for URQ, or to write a stunning adventure... 
+But instead, I'll just say that I'm going to take a firm hold on my line -- 
+continue organizing the LOKa contests and second our authors' efforts. Sure 
+enough, as much as I can, yeah.
+
+ZombX: I'm planning to shoot my low-budget horror film within the next three 
+years. 
+
+Akela (tearing himself away from the game one last time): To finally boost 
+myself to the 60th level and solve all quests to get t3.
+
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+TITLE: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+VERSION: Release 23
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Authors may not review their own games.
+
+
+REVIEWS -------------------------------------------------------------------
+
+
+From: Mike Harris (harriswillys SP@G grandecom.net)
+
+TITLE: The Ebb and the Flow of the Tide
+AUTHOR: Peter Nepstad
+E-MAIL: petern SP@G illuminatedlantern.com
+DATE: December 16, 2006
+PARSER: TADS 2
+SUPPORTS: TADS-2 Interpreters
+AVAILABLITY: freeware
+URL:
+http://www.illuminatedlantern.com/if/games/the_ebb_and_flow_of_the_tide.html
+VERSION: 1.1
+
+The Ebb and Flow of the Tide is the second of Peter Nepstad's IF interpretations 
+of Lord Dunsany's short stories, the first being The Journey of the King 
+released in November 2006.
+
+"Tide" is certainly the more successful, perhaps because the story itself is 
+more readily adapted to IF and also perhaps because the prose of the story is 
+less florid and more accessible to the 21st century reader. 
+
+Fans of the usual action-adventure will take some comfort in the fact that the 
+PC can not be killed during the course of the game, for the simple and somewhat 
+novel reason that the protagonist starts out in this unfortunate state. 
+
+As one can imagine, this somewhat limits the actions available to the PC, but 
+the author has done a good job implementing all of the sensory commands - 
+listen, feel, smell, taste.  
+
+This should be kept in mind, as arguably the most used command in more 
+conventional IF, examine, will not always further the story.  I would not call 
+them "guess the verb" problems although they superficially resemble same, merely 
+that the author forces the player to take a somewhat less orthodox approach 
+given the limitations of the PC.  With this in mind, play should take no more 
+than 15 or 20 minutes.   
+
+Beyond this unusual twist, play is bug free and cues are well integrated into 
+the responses; for example at one point examining a wall will reveal the 
+existence of passages which can then be further investigated with the sensorium 
+available to the PC.  At no point is a player left to wonder what to do next 
+provided that they've investigated all of the current options at hand. 
+
+The Ebb and Flow of the Tide is a memorable game, not least due to the efforts 
+of the game author. The Dunsany tale is a somewhat chilling dream sequence but 
+ultimately of little import; Mr. Nepstad's interpretation gave it life and 
+immediacy.   
+
+Out of 10 I give it a 3 for simplicity and 8 overall. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Jimmy Maher (maher SP@G grandecom.net)
+
+TITLE: The Elysium Enigma
+AUTHOR: Eric Eve
+E-MAIL:  eric.eve SP@G hmc.ox.ac.uk
+DATE: October 1, 2006
+PARSER: TADS 3
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/tads/Elysium.zip
+VERSION: 2.01
+
+As anyone who read my IF Comp reviews last year will know, The Elysium Enigima 
+was my game of the Comp.  I noted at the time that I would like to return to it 
+later to try for a full score, something the game encouraged when I completed it 
+by helpfully suggesting some things that I left undone and might want to try 
+next time.  I had intended to play it again soon after the Comp, but Last Resort 
+and the holiday season intervened.  When Elysium won the XYZZY awards this year 
+for Best Game and Best NPC, however, I was reminded to return to it, armed with 
+my list of additional things to try to accomplish in search of a full score, to 
+see if it was really as good as my almost embarrassingly enthusiastic previous 
+review would indicate.  And so I downloaded the latest post-Comp release and 
+dove in.  I am still very impressed, but also noticed a few things that bothered 
+me this time around, as I was able to spend more time with the game and, 
+unbothered by the joy of first discovery, view it with a bit more of a critical 
+eye.
+
+First, though, let me explain the premise and the many positives for anyone 
+coming to the game for the first time through this review.  You play the role of 
+a rather junior interstellar diplomat sent on a routine mission to the planet of 
+Elysium, a backwater colony world populated by ludites who reject all but the 
+most basic technology and have a rather ambivalent attitude about being a part 
+of the Empire you work for at all.  You are supposed to -- literally -- show the 
+imperial flag, meet with a few of the society's elders if they desire it and 
+make note of their concerns or complaints, and be on your way. The inevitable 
+complications arise in the form of a mysterious and attractive female who 
+doesn't seem to belong here.  You must also deal with the suspicious natives, 
+and may even be able to learn the reasons for their latent hostility toward the 
+Empire.  A lot is going on here, and the story, setting, and implementation are 
+as well fleshed-out as you are likely to find in IF.  Like all of Eric Eve's 
+TADS 3 work, the whole serves as fine advertisement for the power of TADS 3.
+
+Most of the commentary on the game has focused, rightfully so, on the mysterious 
+Leena, one of its three NPCs.  You meet her early in the game, when she 
+approaches you in the guise of a dirty and apparently hungry, but nevertheless 
+very shapely, outcast.  Much of the game revolves around figuring out just who 
+and what she really is.  I am already treading right on the line of spoilerdom 
+here, so I will not go into more detail but rather defer to Valentine 
+Koptelsev's SPAG Specifics piece, which focuses on Leena's role in the game.  I 
+agree with many of Valentine's concerns about Leena's sometimes illogical 
+behavior, but also remain very impressed with Mr. Eve's masterful job in 
+creating her.  You can converse with Leena in great depth and breadth.  The TADS 
+3 conversation system is in full flower.  Talking with Leena doesn't feel like a 
+game of "guess the topic," but rather feels at certain stretches like real 
+conversation, as the two of you probe and feint, each trying to determine just 
+what the other is really about.  It's a fine merging of technical and artistic 
+mastery that remains as impressive to me as it did when I first played the game. 
+These interactions with Leena and (to a lesser extant) the two other NPCs, 
+along with the thoroughly implemented environment, pull the game away from the 
+text adventure feel and into something that feels more like a true interactive 
+story.
+
+I think this feeling contributes to the disappointment I felt with some of the 
+non-character interaction puzzles.  First, though, I should mention that Mr. Eve 
+did vastly improve in this post-Comp release the most egregious offender, a 
+fiddly puzzle that required a degree of, shall we say, lateral thinking, and was 
+borderline unfair.  I complained about it in my previous review, and was 
+apparently not alone.  It's nice to see an author listening to his players and 
+taking his work seriously enough to revise it and incorporate their input.
+
+Some of the other puzzles still bother me, though, because they destroy the 
+sense of reality the game otherwise so masterfully creates.  The worst offender 
+comes when you find a housecat lying on top of a chest you would dearly like to 
+open.  Removing said cat requires solving a sequence of absurd puzzles that 
+might be amusing in a Monkey Island-style comedy adventure but clash horribly 
+with the believable tone of this story.  I am an intrepid, healthy young 
+adventurer visiting a planet as the representative of a powerful Empire, and I 
+am stymied by a housecat?  I love animals as much as the next guy, but... just 
+kick the damn cat out of the way, already!  The game doesn't need stuff like 
+this to artificially lengthen it.  
+
+I want to see more simulation-oriented puzzle-solving in IF, something at which 
+TADS 3 should excel, and less fiddly set-pieces like this.  (I know that places 
+me outside the consensus position in the community, but so be it.)  Apparently 
+others complained about some of the puzzles as well, as Mr. Eve mentions in his 
+notes on this release that taking their suggestions would entail making more 
+extensive revisions than he was ready to undertake, in effect making the new 
+release into an entirely new game.  Fair enough, I can certainly understand that 
+position, but do hope that he will consider our comments when writing his next 
+game.  He is so very, very close to achieving the most fluid storytelling we 
+have yet seen in IF that it is a shame to see his efforts foiled by 
+ill-considered puzzles seemingly inserted out of a sense of obligation.
+
+But let me place my complaints aside to state again that Elysium is a brilliant 
+piece of work.  It does not attempt to radically, explicitly innovate for the 
+sake of mere cleverness, but rather molds its form to its function of providing 
+the player with a fun, immersive interactive story.  Even the writing does not 
+call attention to itself, but flows fluidly and cleanly out of the way of the 
+story.  The game stands as my personal favorite of a very strong year, and I am 
+happy to see the XYZZY voters recognize it.  If you are reading this review to 
+find out if you should play it... Yes, you should.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Jimmy Maher (maher SP@G grandecom.net)
+
+TITLE: Tales of the Traveling Swordsman
+AUTHOR: Mike Snyder
+E-MAIL:  wyndo SP@G prowler-pro.com
+DATE: October 1, 2006
+PARSER: Hugo
+SUPPORTS: Hugo interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/competition2006/hugo/tales_ts
+
+Tales of the Traveling Swordsman is one of several games from the 2006 
+Competition that I returned to recently for another look.  I enjoyed my second 
+play-through just as much as my first, even though the game is not the sort that 
+generally most excites me.  You see, Tales very much wants to tell you a story 
+-- one particular story.  It is very linear, and implemented just deeply enough 
+to get you through that story.  And it is a fantasy game, not my favorite genre 
+of IF or literature.  The fact that someone like me, who is generally interested 
+by more simulation-oriented, open-ended IF set anywhere BUT a world of magic and 
+fantasy, finds the game so appealing is a testimony I think to just how well it 
+operates within its chosen restrictions.
+
+The game casts you as the eponymous swordsman, an adventurer who roams the land 
+in search of villains to vanquish and fair maidens to rescue.  It proceeds 
+through three linear episodes to a suitably exciting climax; then comes a 
+wonderful little denouement that casts everything that happened before in an 
+entirely different light and really makes the game for me.  The writing fairly 
+charges along with lots of swashbuckling vigor right from the opening lines: 
+"Thick blades of grass at hip level part and bend with your long strides. Onward 
+you go, one hand on your broadsword's sheath, the other clutching a scrap of 
+parchment, and your water flask dangling from the opposite hip. The town of 
+Homesdale is now a morning's journey behind you."  Mr. Snyder also takes modest 
+advantage of Hugo's multimedia capabilities to display some nicely-done 
+scrollwork chapter titles that add to the atmosphere.  I hate to always refer to 
+games by name-dropping books and other games, but in this case I can't resist.  
+In the book department, this reminds me of a Fafhrd and the Grey Mouser story 
+with a rather less roguish protagonist; in the game department, of a less 
+aggressively silly Eric the Unready.
+
+It does have plenty of puzzles, but they are quite straightforward and likely to 
+stump you just long enough to make them satisfying.  You won't find any 
+brain-twisters here to derail the story, and that's a good thing.  In fact, you 
+won't find any of the things you might be used to seeing in next-generation 
+titles by the likes of Emily Short and Eric Eve, or even the author's own 2005 
+Competition entry Distress.
+
+So why do I want to give this one such an excellent review?  In short, because 
+the atmosphere is just so darn innocent and fun... and because at the end, when 
+you realize what you have really been experiencing, it manages to be both very 
+funny (especially the bit about the cat!), and poignant, a reminder -- for me, 
+anyway -- of childhood summers that seemed to go on forever.  Without the 
+epilogue, it would be a competent but unexceptional little piece of lightweight 
+fantasy.  With it, though, it rises to mingle with the cream of the 2006 crop.  
+I can't think of a better choice for the 2006 XYZZY award for best story.
+
+I could happily go on for several more paragraphs, but to do that I would have 
+to spoil the central surprise about which I've possibly already said too much.  
+I have to say, though, that a huge source of confusion for me as I was playing 
+the first time, the fact that I couldn't seem to TALK to anyone, gets explained. 
+ In fact, I realized on my second play-through that there was no sound at all in 
+the story, and, again, when you get to the end yourself you will understand why. 
+ I'm not sure if I'm quite happy with the point of view switch that happens 
+inside the epilogue, as it felt a bit jarring to suddenly be somebody else after 
+going all through the game through behind another set of eyes, but I'm also not 
+sure if the real situation could have been communicated quite so economically if 
+this hadn't been done.
+
+The overall level of polish is excellent, bugs seem well-nigh nonexistent, and a 
+play-through will take no more than a couple of hours at the outside.  So go to 
+it, and if you have any heart at all prepare to laugh and even be a little bit 
+moved.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ___. .___    _    ___.     ___. 
+/  _| |   \  / \  / ._|    /  _| 
+\  \  | o_/ |   | | |_.    \  \  
+.\  \ | |   | o | | | |    .\  \ 
+|___/ |_|   |_|_| \___|    |___/ PECIFICS
+
+SPAG Specifics is a small section of SPAG dedicated to providing in-
+depth critical analysis of IF games, spoilers most emphatically
+included.
+
+
+
+
+
+WARNING! SPOILERS BELOW FOR THE FOLLOWING GAME:
+
+The Elysium Enigima
+
+
+
+
+
+PROCEED NO FURTHER UNLESS YOU HAVE PLAYED THIS GAME!
+
+
+
+
+
+THIS IS NOT A TEST! GENUINE SPOILERS TO FOLLOW!
+
+
+
+
+
+LAST CHANCE TO AVOID SPOILAGE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Valentine Kopteltsev (uux SP@G mail.ru)
+
+TITLE: The Elysium Enigma
+AUTHOR: Eric Eve
+E-MAIL:  eric.eve SP@G hmc.ox.ac.uk
+DATE: October 1, 2006
+PARSER: TADS 3
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware; IF-Archive
+URL: https://ifarchive.org/if-archive/games/tads/Elysium.zip
+VERSION: 2.01
+
+Five Things A Spy Should Never Do
+
+Since the publication of my IF-Comp rant in SPAG issue #47, I've been
+restless. (And that's not as much an exaggeration as you might have thought).
+The reason for that were the rather unkind words I applied to Mr. Eve's work,
+Elysium Enigma. To be more precise, it weren't exactly the words
+themselves -- rather, the way I left them without any grounding or
+explanation. "The behavior principles of the most important NPC are
+fundamentally wrong", "I'm confronting dummies" -- those certainly aren't
+accusations to be thrown about without rhyme and reason! Yes, the requirement
+of not being spoilery can sometimes have strange (and clearly unintended)
+effects on a review; in this particular case, for instance, it probably
+provided the author of the reviewed work with the unique opportunity to slip
+on the shoes of a theatre producer whose play is pelted with rotten tomatoes
+by the audience for no apparent reason. Well, at least this non-spoilery
+requirement is fair in respect of its effects working bothway: to me, it gave
+the genuine feeling of being one of such a tomato-throwing rowdies paid by
+the competitors, who play their mean tricks out from the safety of the
+spectators' hall. Not a very pleasant sensation, by golly!
+
+That's when one starts to appreciate the SPAG Specifics section. God bless
+Paul O'Brian who introduced it! God bless Duncan Stevens, too, who was the
+first to write a Specifics review!
+
+What follows is a list of a few key behavior aspects of the most important
+NPC in Elysium Enigma, Leela the spy, which I found totally unrealistic,
+accompanied by an explanation why exactly they didn't convince me. Please be
+aware that my analysis is based not on deep insider knowledge of the spy
+trade, but mostly on plain common sense (with only sporadic insertion of
+information I gained from the few spy movies/novels I watched/read).
+
+So, the first of the DON'Ts for a spy would be
+
+1. NEVER TALK TO STRANGERS (unless you really have to)
+
+In fact, questions start to crop up immediately after the spectacular
+apparition of Leela. So, shortly after you start the game, she comes up to
+you, telling her tear-jerking story about being expelled by the other
+dwellers, and begging you to find her some food and clothing. Now, keeping in
+mind Leela turns up to be an enemy spy by the end of the game, we just can do
+nothing but ask: why would she do it? Let's assume she only has professional
+interest in our PC, so that several motives quite natural for a "young woman
+of about twenty standard Earth years of age", like feeling lonely or the need
+for men's attention, can't be applied here.
+
+Well, a spy's main goals usually are sabotage and gaining information. Let's
+start with the former.
+
+Damaging the already troubled relations between the Empire and the Elysium
+people certainly would be an enticing objective for Leela. Say, something
+like obtaining the Empire officer's ID card, then penetrating the Legion
+office, decoying one of the local Elders by hoisting up the flag, killing
+him, and framing the Empire for the murder. She then could depart, taking the
+captured Empire officer with her, or, alternatively, kill him too, leaving
+his body somewhere not far away from the landing site of the Empire shuttle.
+Granted, the departure part might turn out somewhat problematic, but even if
+she failed to split -- the damage to the Empire probably would more than
+justify the loss of an agent for the Federation. (I know, it sounds pretty
+cynical, but so is the spy trade.)
+
+The problem is, Leela wouldn't have to contact our PC to achieve that. In
+fact, she'd just have to wait for him in ambush (which wouldn't represent a
+problem, since she clearly knew the path he'd take, as well as the
+approximate time of his arrival), then kill or stun him using a long-range
+weapon. She then would have at least a couple of hours to arrange everything
+the way she wanted... But I'm digressing from the subject. The main point is,
+if Leela was planning to inflict damage the way described above, the less the
+PC would become aware of her presence, the better it'd be for her.
+
+What other goals could she be after, then? Seduce the PC in order to win him
+over? More than doubtful, considering how little time is at her disposal, and
+what a low-value target a "hoist-up" officer probably represents. Start small
+talk with the PC in the hope to worm a few crucial secrets out of him? The
+very idea is ridiculous -- considering, again, the humble time resources she
+has, and the way how utterly suspicious any questions about the Empire
+(except maybe for the most general ones) would sound in her lips ("They say
+this year, the crops are gonna be good... By the way, darlin', what's the
+numeric strength of the Empire's most important starship fleets in the Sirius
+system?") Maybe just undermine his morale and arouse doubts about the
+correctness of the Empire's politics on Elysium by demonstrating how cruel
+the people he's going to talk to are? Again -- this means high risks (see
+more on that below), unclear (and probably pretty weak) effect to the benefit
+of the Federation, and low probability of success.
+
+And now, what are the dangers Leela is taking upon herself by contacting the
+PC? Well, a pretty severe risk of exposure -- no more, no less. Elysium
+Enigma's optimal path suggests the PC does all the work by himself, but he
+really didn't need to. Even if he was a narrow-minded martinet only capable
+of directly following the instructions he received, anybody "with a deeper
+understanding of the situation" would reveal Leela's legend as a fake one,
+and know, on reading the PC's report, something foul is going on there. The
+result most likely would be a special de-spying mission to Elysium...
+
+Finally, a passage from a mystery by Agatha Christie comes to my mind (the
+highlight is mine, and I'd like to apologize for the quotation being not very
+accurate -- I've read the novel several years ago, and not in the original):
+"If he stayed quiet, we'd probably let him be, but *the idiot* kept getting
+underfoot and putting his nose in our affairs, so that finally, we started
+suspecting him."
+
+I think certain similarities between the way the criminal referred to in the
+previous section acted, and the behavior of Leela the super-spy haven't
+eluded the reader's attention. Also note the characterization the said
+criminal received -- no, not from a high-skilled spy-catcher, but from a mere
+police detective.
+
+2. DON'T LET YOUR KEYS LYING AROUND
+
+What's the optimal distance between a spy's hideaway, and a representative of
+the opposing party, from the spy's point of view? Correct answer: as far as
+possible.
+
+Leela doesn't just draw the PC to her shelter: after all, that might have
+been required for her plan (whatever it was -- see DON'T #1 on that). In
+addition, she conveniently drops the key to it in the next vicinity. That's
+the acme of negligence for a spy: she could as well just put a WELCOME mat on
+the "secret" trapdoor, hiding the key for it underneath!
+
+Well, if I were the spy, I'd probably carry the key somewhere on my body --
+say, on my neck, disguised as a locket, or concealed in my hair -- regardless
+of whether any enemy officers were around or not, but especially in the
+former case. At the very least, I'd hide it somewhere I truly could rely on
+nobody being able to find it (like, burying it in the forest, that kind of
+thing). Sure, that'd be less handy -- but the elimination of unauthorized
+access risks clearly outweighs any inconvenience in this situation.
+
+3. DON'T FORGET TO TRAIN YOUR MEMORY
+
+A short digression: it's amazing in itself both opposing forces, The Empire
+and The Federation, use compatible data storage systems. In this regard, I
+remember the semi-fable about how the Soviet engineers cloned the IBM PC, yet
+the clone turned out to be incompatible with the original device, because all
+imperial dimensions were converted to metric ones.
+
+But that's not the subject I initially intended to talk about. I've really
+been stunned to find the passwords to the datatabs scattered around here and
+there. I'm more than unsure spies are allowed to write down such information
+at all! Leela also seems to have even more serious problems with her memory,
+since she had to jot the passwords down on like-colored objects to match them
+to the proper datatabs...
+
+Well, I probably even could buy this whole business as a relatively minor
+plausibility break. The thing that clearly went over the top was, having a
+password written down on Leela's shuttle! Were there not a single other,
+more suitable black object around? It's practically as if I scribbled the
+password to my office computer on the wall in the entrance hall of the house
+I'm living in! The Federation really must be suffering from lack of qualified
+personnel.
+
+4. DON'T NEGLECT YOUR SURROUNDING LANDSCAPE
+
+At a couple of occasions during the game, Leela semi-actively tries to get
+into the PC's way -- say, by preventing him from moving the cabinet to reveal
+the trapdoor, or not letting him cross the river in her presence. Now, what
+would be a suitable tactics to encumber him not just at one occasion, but
+permanently? I'd see two ways: a) find a vantage point I could watch the
+whole surroundings from, and run to intercept the PC as soon as I see him
+make his way to the spot he was trying to do something I didn't let him to,
+or b) occupy a key location the PC couldn't pass without meeting me. None of
+those plans are ideal, but at least they're consequent.
+
+What does Leela instead? She follows the PC to the edge of the forest and
+remains there sheepishly, giving him the opportunity to do what he's
+initially intended to unnoticed. Someone could point out to me the courses of
+action I suggested above aren't the solution under the given topographic
+circumstances. That's a strong argument I fully agree with; but then,
+wouldn't it be *much* wiser for Leela to just refrain from those attempts of
+hindering the PC, since they were doomed for failure from the very start? I
+mean, she had plenty of time to study the area to find out there's no easy
+way to intercept someone who's trying to slip by secretly, and any person
+with an IQ of at least a three-year-old child would know trying to talk
+someone out of doing something with a motivation like "you'd kill yourself"
+(while he obviously wouldn't) just couldn't be successful. If anything,
+such an attempt would just stir up the curiosity of the person it's directed
+against, and make the one trying to get in the way look extremely suspicious.
+(By the way, the part about making Leela look suspicious worked perfectly for
+me).
+
+5. DON'T TURN AWAY FROM PROBLEMS (because they tend to come back to you)
+
+As the game was going on and I was getting past its puzzles, I tried hard to
+provoke a sensible reaction from Leela. I got down into her hideaway,
+accompanied by her; I asked her questions that should have make it obvious
+for her I discovered the shuttle, the listening device, etc. To put it short,
+I did everything to make a person with even a trace of intellect understand
+she's in for trouble.
+
+What kind of reaction did I expect? Well, there were three options. Leela
+could try to take the PC by surprise and shoot him (oh, and don't tell me a
+decent spy wouldn't have a suitable weapon hidden somewhere!); alternatively,
+she could return to the role of a degraded, half-nutty girl she was playing
+at the very beginning, and flee (for instance, accompanying her retreat with
+shouting at the PC, "You're a monster! Don't touch me!") The third option
+might have been a combination of the other two (Leela would run away, then
+eventually return and try shooting the PC).
+
+What happened in the game instead? Nothing, actually. Leela kept following me
+around, playing the innocent, until a point where the situation became
+absolutely hopeless for her. We know how to call such a way of action:
+ostrich policy, a behavior pattern very typical for a bureaucrat who's pretty
+sure it's not him who's going to sort out the consequences of the problems
+he's trying to ignore; but certainly not for a spy knowing that her mission,
+her career, well, even her freedom and life are at stake.
+
+EPILOGUE
+
+There are a few other inconsistencies in the game, including a couple of plot
+branches dangling in the air (for instance, I don't think we ever get an
+explanation how it came to the flag/pillowcase confusion, which, in its turn,
+resulted in the listening device being revealed), but they are relatively
+minor compared to the ones listed above.
+
+Now, I can't say it often enough: I don't think The Elysium Enigma is a bad
+game -- on the contrary, it's great, especially once you stop creating
+illusions about it being a spy mystery, and perceive it as a puzzle-fest.
+
+Leela, too, is a nicely done character -- in her own way. I had the
+impression Mr. Eve designed a set of reactions that'd be plausible for an
+innocent village girl, but for some reason, didn't go a step further and
+check whether they'd be logical for a spy *pretending* to be an innocent
+village girl. Also, a few inconsistencies in her behavior can be explained by
+the game author's desire to keep his puzzles fair. Which, in its turn, quite
+unambiguously hints at Leela's primary predestination: she's not here to be
+your opponent -- rather, to provide puzzles for you. This is perfectly fine,
+but I radically disagree with the opinion EE in general and Leela in
+particular represents a breakthrough in character interaction.
+
+Finally, I'd like to remind you that I'm just expressing my personal opinion
+here, and that my words aren't intended to be taken as a gospel. I might very
+well have overlooked something. Thus, I've always open for a discussion via
+e-mail or R*IF in case you find a mistake in my reasoning, or just disagree
+with my views.
+
+P.S. My work on this review was in full play when the news came
+The Elysium Enigma won the XYZZY Awards for best game, and best individual
+NPC. The only thing I can do here is, to congratulate Mr. Eve sincerely with
+but one comment: we have a worthy winner here;).
+
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure games, 
+a.k.a. Interactive Fiction. This includes the classic Infocom games and similar
+games, but also some graphic adventures where the primary player-game
+communication is text based. Any and all text-based games are eligible for
+review, though if a game has been reviewed three times in SPAG, no further
+reviews of it will be accepted unless they are extraordinarily original and/or
+insightful. SPAG reviews should be free of spoilers, with the exception of
+reviews submitted to SPAG Specifics, where spoilers are allowed in the service
+of in-depth discussion. In addition, reviewers should play a game to completion
+before submitting a review. There are some exceptions to this clause --
+competition games reviewed after 2 hours, unfinishable games, games with
+hundreds of endings, etc. -- if in doubt, ask me first.
+
+Authors retain the rights to use their reviews in other contexts. We accept
+submissions that have been previously published elsewhere, although original
+reviews are preferred.
+
+For a more detailed version of this policy, see the SPAG FAQ at http://www.
+sparkynet.com/spag/spag.faq.
+
+---------------------------------------------------------------------------
+
+
+           Thank you for helping to keep text adventures alive!
+

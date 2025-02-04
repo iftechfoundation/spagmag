@@ -1,0 +1,1060 @@
+        ___.               .___                 _             ___.
+       /  _|               |   \               / \           / ._|
+       \  \                | o_/              |   |          | |_.
+       .\  \               | |                | o |          | | |
+  The  |___/ociety for the |_|reservation of  |_|_|dventure  \___|ames.
+				ISSUE # 6
+        Edited by G. Kevin Wilson (whizzard SP@G uclink.berkeley.edu)
+			      
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+EDITORIAL--------------------------------------------------------------------
+
+	First off, thanks go out to Gareth Rees, who sent me the nifty
+40-point gothic outline font now used in the title of SPAG.  I think it looks
+pretty spiffy.
+	Second, if you look in the Closing Comments section, you will find
+the complete rules for the 1995 First Annual IF Tournament.  I'm running it
+this year, and I'm pretty excited about it.  We've got some really nice
+prizes (the list may not be complete) including a $100 cash prize donated by
+Eileen Muller (the editor of XYZZYnews, see SPAG #3) and copies of Excalibur
+(for Macintosh), Save Princeton, Leather Goddesses of Phobos, and Avalon.  I
+hope to see a huge response.
+	In the meantime, is there anything you'd like to see SPAG print?  If
+so, just let me know.  As long as XYZZYnews isn't already doing it, I'll be
+glad to include it.
+
+				G. Kevin Wilson
+				"Whizzard"
+
+LETTERS TO THE EDITOR--------------------------------------------------------
+
+From: "Gareth Rees" <gdr11 SP@G cl.cam.ac.uk>
+
+Dear SPAG,
+
+Every artistic pursuit, from poetry to architecture, gives rise to a
+body of criticism and analysis.  This performs a service for the
+consumers of that art form - it tells them what's interesting, what's
+enjoyable, what's new (and what isn't) - helping them to be more
+discriminating in their choice, and helping them to waste less time
+searching for things that satisfy their taste.  SPAG serves this purpose
+well.
+
+But criticism also has a function for the artists.  It explains their
+art form to them, makes sense of old work and puts new work into context.
+It tells them what works, what doesn't; it gives them an understanding
+of the field so that they know what to react against and where the
+opportunities for new work are.
+
+It seems to me that the interactive fiction genre lacks good criticism
+of the latter type, and that this is an unfortunate consequence of the
+nature of the genre.  Because adventure games are puzzle-oriented and
+because the kinds of people who play the games tend not to want the
+puzzles spoiled for them, extant reviews (such as those in SPAG) and
+serious discussions (such as Graham Nelson's "Art of the Adventure")
+have tended to be very coy about saying *anything* specific about the
+games under consideration.
+
+I think this is an unsatisfactory state of affairs; I think criticism of
+adventure games needs to get beyond the generalities and into specifics.
+At the moment we have a state of affairs where we all have our own ideas
+about which games are good and why, but we have no effective means of
+communicating our separate understandings to each other.
+
+I would like to see SPAG containing a few in-depth reviews, especially
+if they contain major spoilers.
+
+	[Well, Gareth.  I'm perfectly willing to help organize a body of
+criticism geared to the author's needs.  I think the difficulty will be in
+finding someone to write criticisms that involve such in-depth analysis.
+SPAG, as policy, doesn't carry spoilers of the nature you are describing,
+so it would have to be more of a rec.arts.int-fiction thing, that could also
+be put up on ftp.gmd.de.  Again, I can be the editor/coordinator, but the
+writing will have to come from interested parties.  Anyone interested, drop
+me a note. -GKW]
+
+KEY TO SCORES AND REVIEWS----------------------------------------------------
+
+Consider the following review header:
+
+ NAME: Cutthroats                                PARSER: Infocom Standard
+ AUTHOR: Infocom                                 PLOT: Two Seperate Paths
+ EMAIL: ???                                      ATMOSPHERE: Well Done
+ AVAILABILITY: LTOI 2                            WRITING: Good
+ PUZZLES: Good                                   SUPPORTS: Infocom Ports
+ CHARACTERS: Not Bad                             DIFFICULTY: Medium
+
+	First, you'll notice that the score has been removed, and replaced
+by one or two word ratings.  These are pretty arbitrary, and should allow
+more freedom to the reviewers.  The EMAIL section is for the e-mail address
+of the game author, not the reviewer.  AVAILABILITY will usually have either
+Commercial ($price), Shareware ($price), or Freeware.  If the commercial
+price varies in stores, then it will just say Commercial.  If it has been
+released in the LTOI collection, this line should say so.  Lastly, if it is
+available on ftp.gmd.de, the line should add GMD.  (Demo) if it's a demo
+version.  The body of the review hasn't changed.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+Also, scores are still desired along with the reviews, so send those along.
+The scores will be used in the ratings section.  Authors may not rate or
+review their own games.
+
+SPAG accepts reviews of any length, letters to the editor, the occasional
+interesting article on text adventures (no reprints please), and even just
+ratings for your favorite game, if you don't have the time to do a full
+review.  Please though, at least send me info for each game you have rated
+equivalent to the review header for Cutthroats, above.  All accepted
+materials will be headed by the submitter's name and e-mail address, unless
+you request that they be withheld, or do not supply them, in which case the
+header will read as "Anonymous."
+
+NEW GAMES--------------------------------------------------------------------
+
+	The big news in interactive fiction-land this month is _Theatre_.
+I've gotten two, count 'em, two reviews on this real estate/horror/H.P.
+Lovecraftian/Victorian romance tale.  It's definitely worth a look.  Details
+on getting ahold of the game appear with the reviews.  Besides that, it's
+my Pick of the Month.  What more praise do you need?
+
+REVIEWS----------------------------------------------------------------------
+
+From: "Magnus Olsson" <mol SP@G df.lth.se>
+
+NAME: Balances				PARSER: Inform
+AUTHOR: Graham Nelson			EMAIL: nelson SP@G vax.oxford.ac.uk
+ATMOSPHERE: Nostalgic, slightly surrealistic
+PUZZLES: Some old friends, some quite original ones
+AVAILABILITY: GMD, Freeware		SUPPORTS: Infocom ports
+WRITING: Very good, rather minimalistic	PLOT: Simple, non-linear
+CHARACTERS: Few and sketchy		DIFFICULTY: Below average
+
+It is an interesting fact that one of the most talked-about adventure
+games of 1994, and certainly the one that caused the most controversy,
+was, according to its author, not intended as a game at all, but just
+as a demo.  Despite this fact, the game/demo did not only become quite
+popular, but the debate about whether its puzzles are in any way
+"unfair" or "illogical" reached enormous proprtions, degenerating into
+the first big flamewar of rec.arts.int-fiction (a Usenet newgroup
+devoted to the art of writing adventure games).  I have seen several
+people writing very kindly about this game, ranking it among their
+favourite pieces of IF; it was recently included on the companion disk
+of XYZZYnews; many people have expressed disbelief in the author's
+claim that the game is just a demo.  [Had our esteemed editor been in
+the habit of putting more varied headlines over reviews than just the
+name of the game, this review may have been titled "The Game That
+Wasn't", or perhaps "The Little Demo That Could" :-)]
+
+The game in question is "Balances" and the author is Graham Nelson, of
+"Inform" and "Curses" fame. 
+
+If this game is "nothing but a demo", then it is certainly one of the
+most ambitious and playable demos ever written; the fact that so many
+people played it as a game, never noticed the demo aspect, started
+criticizing it as any other game, and seemed to have difficulty
+believing the author when he told them it was just a demo, makes a
+very clear point.  On the other hand, some aspects of the game, which
+would be serious flaws had it been intended as a game, are quite
+natural in a demo, at least in retrospect - but we're of course all
+blessed with 20/20 hindsight.  Be that as it may: game or demo,
+"Balances" is in many ways a very attractive piece of IF, with great
+charm. 
+
+Any Infocom fan is bound to recognize the setting of "Balances": it
+takes place in the same universe as the "Enchanter" trilogy, as a kind
+of epilogue to "Spellbreaker".  Not only that, but the user interface
+is almost identical to those games; spells are cast in the same way,
+and you'll recognize some of the spells, and even some objects.
+Indeed, the opening words reflect this: "This transcript is not from
+the Enchanter trilogy, but it does show most of the usual things you
+can do in those stories..."
+
+If the universe, interface, and general look and feel of "Balances"
+are almost identical to Infocom games, then "Balances" is considerably
+less detailed: there aren't many objects, there are very few
+locations, and neither the object nor room descriptions are very long.
+This is, of course, quite in line with the game being a demo: if you
+are going to demonstrate that you can implement certain advanced
+features of Infocom games, then you don't want to spend too much time
+designing or describing the rooms and objects that are the necessary
+framework for those features.  Still, however, the author has taken
+the time to create a coherent, consistent world, albeit a tiny one.
+The whole game has a sketchy character to it, but that is sketchy in
+the sense of a sketch by a great artist: Leonardo's sketches are still
+considered great art.  The prose is sparse, but of high quality;
+despite the small amount of text, the author manages to create a very
+pervasive atmosphere of nostalgia (a feeling of nostalgia for the golden
+days of magic before the Change, when seen from the perspective of the
+protagonist; from the perspective of the player, the nostalgia is for
+the golden days of Infocom), more than a little surrealistic, of a
+dreamlike quality that gets a twist in the very concluding paragraph. 
+
+The puzzles are of varying quality, most of them rather easy. Some are
+familiar to all Infocom players (how do you open a locked door without
+a key in "Enchanter"?), while others are quite novel and innovative.
+The "lleps" spell in particular is perhaps alone worth the effort to
+download this game.  Some puzzles have been criticized for seeming to
+require exhaustive exploration of all possible actions - this,
+however, is only natural for a demo, where you're really expected to
+try all possibilities just to see what happens.  It is maybe
+unfortunate that a critical puzzle hinges on a pun that may be easily
+overlooked, but once you've got it, it's quite delightful as puns go.
+Perhaps the most notable feature of the puzzles - one which elevates
+this game high above the level of ordinary demos, and even of many
+serious games - is that many (though not all) of the puzzles not only
+advance the plot, but actually act to reinforce the mood of the game.
+I'm referring primarily to the puzzles involving balances - the
+constant repetition throughout the game of the concept of "balance" in
+various forms enhances its dreamlike quality quite a bit.
+
+If the prose and puzzles are of a quality (though not quantity)
+comparable to the very best of IF, then the playability aspects of the
+game are more "demo-like".  According to the author, the game (being a
+demo) didn't go through any playtesting; this notwithstanding, its
+more playable than, say, most AGT games, but the parser and vocabulary
+are not quite up to Nelson's usual standards. The lack of synonyms had
+me playing the rather more disagreeable game of "hunt the word" for
+quite some time.  Another aspect of the game that lowers playability
+is the complicated way spells are cast: you must memorize the spell
+before casting it, you can only cast it once before having to
+re-memorize it, and you can only keep four or five spells in your
+memory at once.  Of course, Graham Nelson can't really be blamed for
+this, since he copied the system from "Enchanter"; still, in a game
+like this, where you really have to cast a _lot_ of spells (and the
+demo aspect makes you want to try out all possible and impossible
+spell combinations just to see what happens) you tire very rapidly of
+this rather pointless complication.  I can only urge current and
+future IF authors _not_ to use this spellcasting system in their
+games, but try to find something more convenient, or, if they really
+want to make spellcasting hard, something novel, innovative and less
+time-worn. 
+
+To summarize, is "Balances" really a game or a demo?  I'm not certain
+of the answer, or even if this choice of categories is the appropriate
+one.  As a demo, "Balances" has achieved a state of almost
+unbelievable sophistication; as a game, it is very enjoyable but rather
+sketchy and not quite as playable as one might wish.
+
+Perhaps instead "Balances" should simply be regarded as a piece of
+interactive literature.  As such, it is original and very charming;
+the dreamlike, nostalgic mood is quite memorable - "Balances" is very
+small and quickly played through, but the mood and the images are
+likely to stay with you for a long time.  Finally, let me just quote
+one line which might be destined to become a classic quotation of IF;
+a line that nicely exemplifies the surreal quality of this game:
+
+"Tiny in the blue sky, a tortoise flaps across the sun".
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Anonymous" <Virus2Wyrm SP@G aol.com>
+
+ NAME: Beyond the Tesseract                      PARSER: 2 Word Syntax
+ AUTHOR: David Lo                                PLOT: Science Fact
+ EMAIL: ???                                      ATMOSPHERE: Creepy
+ AVAILABILITY: GMD                               WRITING: Good, but short
+ PUZZLES: Great                                  SUPPORTS: IBM
+ CHARACTERS: Strange, inhuman                    DIFFICULTY: Hard*
+
+Taken from the docs:
+
+Scenario:
+---------
+  You have reached the final part of your mission.  You have gained access
+  to the complex, and all but the last procedure has been performed.  Now
+  comes a time of waiting, in which you must search for the hidden 12-word
+  message that will aid you at the final step.  But what choice will you
+  make when that time comes?
+
+  The scenario for the adventure is meant to be vague.  Once the adventure
+has been completed, the scenario will hopefully become clear.
+
+---
+
+Vague is the word for it!  At first glance the world is 4 rooms large, but
+don't worry, soon you'll be popping your stack and collapsing universes,
+looking for those key words.  Also, you'll have a dream, read an IF book <!>
+and have fun trying to get the improbability.
+
+I personally found this game hard...but that's because I'm in 8th grade and
+haven't had physics or quantum mathematics.  These are the refrences the 
+author lists for this game.
+
+    The Beauty of Fractals.
+    The Fontana Dictionary of Modern Thought.
+    The Fractal Geometry of Nature.
+    Godel, Escher, Bach: An Eternal Golden Braid.
+    The Heritage Illustrated Dictionary Of the English Language.
+    Mathematics: The New Golden Age.
+    The New Lexicon Webster's Dictionary, Encyclopedic Edition.
+    The Penguin Dictionary of Science, Fifth Edition.
+    Roget's International Thesaurus.
+    The Science of Fractal Images.
+    The VNR Concise Encyclopedia of Mathematics.
+    The World of M.C. Escher.
+
+Ummmm....I've heard of Escher ;).   My favorite part was the dream where if
+you think, an idea will become an object, but then the hypothesis will come
+and you'll have to prove it.  When in the interactive book, you'll find a
+machine that doesn't work.  Now while you would think from what this game has
+been like so far, some heavy mechanical skills would come in handy.  Nope.
+    The charecters are not human, except the Professor, but he's in the
+dream.  There's a plant that would really like some fluid....could you please
+fit it in my klein bottle?  And of course the party of numerals!  Don't
+worry.  They won't hurt you.  In fact, nothing will.  You can't die or get
+stuck in this game.
+    The game plays exactly like a Scott Adams game.  Room descriptions are
+short and to the point.  He does describe objects better than Mr. Adams
+though.  That brings up another point: VERBS.  You'll be doing a lot of
+popping and _y_ing. Yes, _y_ is a verb in this game.
+    Over all this is a fun game that could take a long time to play, or a
+very short time to delete.  Let it grow on you, and if you're really stuck,
+there's a solution on ftp.gmd.de
+
+P.S. The game also comes with a great philosophy on adventure games.  Check
+it out!
+
+Tesseract:
+----------
+               /*--------------/*
+             /  '            /  '
+           /   '|          /   '|
+        */----'---------*/    ' |
+       '|    '  |      '|    '  |
+      ' |   '   |     ' |   '   |
+     '  |  '   /*----'--|--'---/*
+    '   | '  /  '   '   | '  /  '
+   '    |' /   '   '    |' /   '
+  '    /*/----'---'----/*/    '
+ '   /  '    '   '   /  '    '
+'  /   '|   '   '  /   '|   '
+*/----'----'----*/    ' |  '
+|    '  | '     |    '  | '
+|   '   |'      |   '   |'
+|  '   /*-------|--'---/*
+| '  /          | '  /
+|' /            |' /
+*/--------------*/
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Julian Arnold" <jools SP@G arnod.demon.co.uk>
+
+ NAME: A Fable                                   PARSER: Poor
+ AUTHOR: Stan Heller                             PLOT: I couldn't find one
+ EMAIL: Unknown                                  ATMOSPHERE: Kafka-esque
+ AVAILABILITY: Freeware, GMD                     WRITING: Reasonable
+ PUZZLES: Virtually nonexistant                  SUPPORTS: AGT
+ CHARACTERS: Non-interactive                     DIFFICULTY: Couldn't say
+
+Well, what can I say?  In _A Fable_, a game originally written in 1985 by one
+Stan Heller, and apparently rewritten three years ago by David Malmberg and
+Mark Welch with AGT 1.35, you guide the actions of Max, a somewhat confused
+man.  Unlike most IF _A Fable_ uses the third person (ie, `Max feels suddenly
+like a huge cloud has lifted him up and taken him away').  This adds to the
+detached, dreamlike atmosphere which the author has attempted to create.  The
+introduction tells how Max has gone for an evening stroll through his
+neighbourhood in order to `find himself'. Wrapped in self-obsession he is
+unaware as his world rapidly disappears, and Max soon finds himself in a
+strange place, enveloped in fog.
+
+Apart from a few foggy areas each location (there are apparently only fifteen
+so the game is mercifully short) is a one or two paragraph scene reminiscent
+in style, but without the content, of some of Kafka's shortest works.  They
+are apparently unrelated to each other, except that each seems as pointless
+and pretentious as the other.  In most of these locations there is one item
+which you can manipulate, but to what end I could not say.
+
+The only puzzle which I could find (and I quit with a score of 70/75)
+involved unlocking a lock with a key...  Wow!  Admittedly the key was hidden,
+but very obviously.  The score seems to go up for no reason (maybe for moving
+to a new location) and also goes down for no reason.
+
+I guess Max is wandering around his own mind and each location is meant to
+reveal something to him about himself, but if this is the case it hasn't
+worked. Oh, this is silly.  Even four paragraphs is too long a review for
+this.  Unless I have missed something crucial this game is utter drivel. 
+Don't bother.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "J. J. Farmer" <J.J.Farmer-CSSE94 SP@G cs.bham.ac.uk>
+
+ NAME: Plague Planet                             PARSER: Fair
+ AUTHOR: Philip Hawthorne                        PLOT: Linear
+ EMAIL: ???                                      ATMOSPHERE: Very Good
+ AVAILABILITY: Shareware (BBC Micro),            WRITING: Very Good
+               Commercial (Archimedies)          SUPPORTS: BBC Micro,
+ PUZZLES: Excellent                                        Acorn Archimedies
+ CHARACTERS: Rather Shallow                      DIFFICULTY: Hard
+
+Let me start by saying this: Plague Planet is a BIG game.  Lots of locations,
+hundreds of puzzles, thousands of hours of fun for all the family, and at a
+very reasonable price.  Which is rather useful, since you will have to employ
+somebody to make your food, walk the dog, clean the house, etc., the moment
+you buy it.  Why?  Because this game is so addictive you won't be able to
+tear yourself away from it.
+
+The plot is nothing if not unoriginal: you are a peaceful farmer on the
+agrarian planet of Azura when a spaceship lands in your field.  And
+that's pretty much all you know when you start the game.
+
+Like many excellent games, however, you are left to discover the objective
+for yourself.  In fact, you actually create the objective whilst you are
+trying to do this.  I'm not spoiling the plot too much if I tell you: like
+a prize idiot, you break into the spaceship, releasing the plague virus that
+was contained within and condemning every man, woman and child (including
+yourself) on the planet to death.
+
+The puzzles in the game are, almost without exception, solvable with nothing
+more than the objects to hand and a little logical thinking.  There are a
+couple of mazes, but hints to the paths through them are lying around, and
+there is no need to fall back on the old "drop an object in every location"
+routine.
+
+Many puzzles are a joy to solve.  I particularly enjoyed learning to fly
+the spaceship and satisfying the talking door unhappy with its position
+in life.  And the sheer number of puzzles means that there is a tremendous
+variety, ranging from variations on traditional ones (a key in a lock on the
+opposite side of a locked door), to completely original conundrums.
+
+There is only one "what on earth is the author thinking of" puzzle; the
+meaning of the initials "BMUS".  Just think of a certain American science
+fiction serial...
+
+As for the other characters in the game - well, there aren't all that
+many.  A few robots, a few animals, a few religious maniacs who will kill
+you on sight, and one miner with a severe flatulance problem.  They don't have
+a wide variety of things to say, but there are various reasons why you can't
+spend much time talking to them, anyway.
+
+The atmosphere generated by this game is simply wonderful.  The descriptions
+are verbose without being longwinded, and the problems fit into it all
+perfectly - none are "glued on".  You could almost believe you are there,
+sneaking into a mine on the planet Zanthor, evading a Yillis Gorf on the
+planet Aquaria, meeting an "old friend" on the planet Arboreta.
+
+All in all, this game is simply marvellously addictive and amazingly
+enjoyable.  If you can find a copy, snap it up at once...
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "J. J. Farmer" <J.J.Farmer-CSSE94 SP@G cs.bham.ac.uk>
+
+ NAME: Scapeghost                                PARSER: Very Good
+ AUTHORS: Level 9 Computing                      PLOT: Linear
+ EMAIL: ???                                      ATMOSPHERE: Excellent
+ AVAILABILITY: Commercial                        WRITING: Good
+ PUZZLES: Poor (part 1), Very Good (parts 2 & 3)
+ SUPPORTS: Amiga, Amstrad CPC, PCW, Apple II, Atari ST, XE, 800XL, BBC Master,
+           Enhanced (sideways or shadow RAM) BBC Micro, Commodore 64 or 128,
+           IBM PC, Apple Mac, Spectrum +2 or +3, MSX 64k, Spectrum 48k or 128k
+ CHARACTERS: Excellent                           DIFFICULTY: Moderate-Low
+
+Let's start at the beginning: Alan Chance was a cop.  Alan Chance was
+infiltrating a drug gang.  Someone (or something) tipped off the gang.  Alan
+Chance got killed, his partner Sarah was taken hostage and his ex-colleagues
+think it's all because of his own stupidity.
+
+But all is not lost.  Alan Chance has returned as a ghost and, with the aid
+of an adventure game-player intrepid enough to actually locate and purchase
+a copy of this game, has three nights to rescue Sarah and bring the criminals
+to justice.
+
+Scapeghost was the last game Level 9 wrote before they withdrew from the
+adventure market, and evidence of their previous experience is obvious.  The
+parser understands pretty much anything you type in; you can use the command
+"FIND" or "GO TO" to take you to any object in the game, and you can order
+around characters in the standard fashion (e.g. "JOE, RUN TO MY GRAVE, WAIT
+FOR ANDY, FIND THE WATCH, GET IT, FIND ME"), although whether they actually
+do it is another thing.
+
+Like most of the later Level 9 games, Scapeghost is split into three
+parts; in this case, the three nights on which the game takes place.  However,
+unlike many of the previous games, they can be played in any order.  I'm
+not really all that keen on this; the parts follow each other in a logical
+and chronological manner, and later parts do all but give you the solutions
+to puzzles in previous parts.  I exercised restraint and played through the
+parts in order.
+
+The first part, November Graveyard, is probably the weakest.  You start the
+game by waking up at your funeral just before dusk.  There are four characters
+in the graveyard at this point (a workman, a supervisor, a detective and a
+crowd of mourners), and valuable information can be gained from following
+them around.
+
+Then night falls and you are introduced to the first of your fellow
+sufferers - Joe Danby used to be a publican, but he's stuck in the graveyard
+now because his place "doesn't serve spirits"; groans all round.  He'll
+take you on a guided tour of the graveyard and introduce you to most of the
+residents.  It doesn't take you long to deduce that each one of them has
+a problem, and if you solve it for them they'll help you.
+
+It's all rather routine and there are some awful puns along the way.  The
+climax of this part involves coordinating your small army of ghosts in
+a final effort to delay the drug gang while you wait for part two.
+
+As I said, this part has a good atmosphere but it's pretty much all been
+done before.  There is only really one innovative puzzle, which I won't
+go into detail about because I don't want to spoil it for anyone.  It
+took me about a day to complete this part.
+
+The location descriptions are very terse; some versions include graphics,
+and these help to get the true feel of the locations.  I had the BBC Master
+version, and whilst the graphics were in an ultra low-res mode, with
+the BBC's normal complement of 8 colours not really helping, they were
+of surprisingly good quality and quite atmospheric.  The back of the box
+shows some screen shots from the Atari ST version, and these are of
+near-photographic quality.  On the other hand, they would put the best
+pictures on the box...
+
+Although the quality of the location descriptions is rather poor, all of
+the other text is truly excellent.  It more than makes up for the other
+shortcomings.
+
+Part Two, Haunted House, sees you with enhanced abilities, and you can now
+leave the graveyard.  Your previous squad of helpers has melted into the
+darkness, with only Joe Danby remaining to aid you in your quest to
+investigate the gang's old hideout.
+
+The puzzles in this part are really excellent.  You must use your ghostly
+abilities to piece together your final moments, and to assemble a body
+of evidence.  All of this can be solved by pure logical thought.  There's
+still nothing too testing, but it's all good fun.
+
+In part three you can finally get to grips with the criminals - but they're
+trying to get to grips with you too, and force a priest to attempt an
+exorcism.  After your exploits in part two, the police are making their
+way to the gang's new hideout - with lights flashing and sirens
+blaring.  A surprise assault it won't be.
+
+Although it initially seems that you are left to develop your own strategy
+to bring them to justice, the instructions actually tell you what to do,
+which is a mite disappointing.
+
+The atmospheric touches in this part are excellent.  It's worth playing the
+part through once just to sit and watch the gang's poker game.  The puzzles
+are once again very original, and in some parts hilarious.  Yet again,
+though, there's nothing overly difficult.
+
+Scapeghost is a truly classic game let down by a poor first part and some
+very brief location descriptions.  Another review (in the magazine "The Micro
+User") said that it contained "real brain-teasers", and left the impression
+that it was rather difficult.  I personally found it very easy - I finished
+it in three days, which is the quickest I've completed any game, but maybe
+I was lucky.
+
+Availability is probably rather low - it was released in 1989, and
+when I purchased my copy three years ago Level 9's supplies of all their
+BBC games were running very low (sold out of all but three), and it's a
+fair bet that a similar situation exists for the other formats.  However,
+if you do see a copy anywhere, snap it up at once.  You won't be
+disappointed.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Donna Mccreary Rodriguez" <drodrig SP@G tenet.edu>
+
+ NAME:   Sir Ramic Hobbs and the High Level Gorilla
+						 PARSER:  AGT
+ AUTHOR: Gil Williamson				 PLOT:  Slightly linear
+ EMAIL: ???					 ATMOSPHERE:  Whimisical
+ AVAILABILITY:  GMD (hobbs.zip),  F              WRITING:  Good
+ PUZZLES:  Clever; logical                       SUPPORTS:  AGT ports
+ CHARACTERS:   Whimsical; "punny" names          DIFFICULTY:  Easy
+
+You, the main character, are Sir Ramic Hobbs, Knight Errant.  You have
+made a pledge to rescue Princess Anne de Pea from the clutches of the
+High Level Gorilla, who resides in the Pleasure Dome of the kingdom of
+Trassch Khan.   Corny, yes......but really a  light, fun little game with no
+pretenses except to entertain the player and present some interesting
+puzzles.  Gil Williamson, the author, says that---having spent days lost in
+the caverns of Zork--he wants to make no unfair demands on the player, and he
+is true to his word.  In case you get stuck, there is a solution file zipped
+in.
+
+Try this one.  In my download from GMD there was no information about 
+registering the game and no contact info on the author, so I suppose 
+it's a gift.
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Gareth Rees" <gdr11 SP@G cl.cam.ac.uk>
+
+  NAME: Theatre                           PARSER: Inform's usual
+  AUTHOR: Brendon Wyber                   PLOT: destroy the evil
+  EMAIL: cctr120 SP@G cantua.canterbury.ac.nz, brendon SP@G caverock.co.nz
+					  ATMOSPHERE: Lovecraft horror
+  AVAILABILITY: Freeware, GMD             WRITING: good spelling, no style
+  PUZZLES: good                           SUPPORTS: Infocom ports
+  CHARACTERS: not convincing              DIFFICULTY: easy
+
+[This review contains some plot details, but spoils no puzzles.]
+
+The introduction to "Theatre" explains that you are an estate agent,
+trying to sell an old run-down theatre in a slum area of town.  It is
+late in the evening, and you're in a hurry to see off the buyer and set
+out to the opera, when you remember that you left your pager in the
+basement.  After collecting it, you discover that your car has been
+stolen, and a nasty thug turns up to make sure that you don't wander
+off.  It looks as though you're going to have to spend the night in the
+theatre unless you can find a phone and call the police.
+
+You have to play through the above.  It takes a minimum of about ten
+turns, but it feels very forced because the game won't allow you to
+explore until you have finished the opening, and the "You can't do that
+yet, because that would be contrary to the plot" messages come thick and
+fast.  Perhaps the author could have found a more natural way to
+restrict access to the rest of the theatre until the opening was
+finished.
+
+After the opening, the game becomes much wider.  You explore the haunted
+theatre, at first in search of a way out, and then in search of magical
+items necessary to thwart a certain evil power.  You find yourself
+collecting the scattered pages of the 1898 journal of Eric Morris, the
+man who drew the architects' plans for the theatre, which gradually
+reveal a tantalising story of how he fell in love with Elizabeth, a
+mysterious and beautiful woman who persuaded him to alter the plans in
+nefarious ways.
+
+My first impressions were very favourable.  The developing plot was
+intriguing, and the atmosphere well-judged.  I imagined that the focus
+would be on some tragic and melodramatic incident in the history of the
+theatre (perhaps, I speculated wildly, this would be a jealous rivalry
+between two leading actors over a woman, or a spurned prima donna who
+killed herself).  The puzzles were logical and not over-hard, and the
+programming was excellent: almost everything I tried produced an
+intelligent response, and there were never any problems guessing verbs.
+The developing journal entries kept me interested in looking around for
+more.
+
+If anything lets the game down, it's the quality of the prose, which
+feels as though it has been very hastily written, without much attention
+to grammar.  There are few memorable or vivid descriptions, and lots of
+clumsy phrasing.  This is a particular problem with the journal entries,
+which have an unfortunate Adrian Mole tone.
+
+However, the game becomes weaker as it progresses.  The early sections
+are original and interesting, but there comes a point where the game
+loses its atmosphere and becomes a standard fantasy set in
+H. P. Lovecraft's "Cthulhu" mythos.  A couple of scenes (the monster in
+the library and the rats in the tunnels) feel as though they could have
+been lifted straight out of Infocom's game "Lurking Horror", also based
+on Lovecraft's books.  The interesting exploration eventually comes to
+an end with the disappointing realisation that this has been a simple
+treasure hunting exercise: you have to find a collection of colour-coded
+jewels of power and leave them in the correct place.
+
+The author explained to me that because of time constraints, he hadn't
+been able to spend as much time on the ending as he would have liked.
+"Theatre" certainly feels as though it reached a certain point and then
+was finished off in a desperate rush.  There are many loose ends: for
+example, it is hinted that there is a cellular phone in the theatre, but
+this never materialises.  Some of the closing scenes are very
+unfortunate: for example, the appearance of Elizabeth near the end
+completely spoils the characterisation of her that was established
+through the journal.  It's very disappointing that there is no real
+attempt to link the plot with the potentially interesting milieu of
+early twentieth century theatre.
+
+I don't want to sound too negative.  "Theatre" is excellent when
+considered only as an adventure game, with good puzzles and superb
+game-play.  I felt that it lacked the consistency and prose that would
+have made it a good piece of fiction too.  But then I feel the same way
+about "Zork".
+
+"Theatre" is a medium-length game written using the "Inform" compiler.
+The version 5 story file is available by anonymous FTP at
+<https://ifarchive.org/if-archive/games/inform/theatre.z5>.  It runs on all
+manner of computers; fetch the following file to find out how:
+<https://ifarchive.org/if-archive/games/inform/how_to_play_these_games>.  The
+game includes hints which appear as needed.  These are nicely judged,
+and don't give too much away.
+
+From: "Julian Arnold" <jools SP@G arnod.demon.co.uk>
+
+ NAME: Theatre                                   PARSER: Excellent
+ AUTHOR: Brendon Wyber                           PLOT: Not too original
+ EMAIL: cctr120 SP@G cantua.canterbury.ac.nz, brendon SP@G caverock.co.nz
+						 ATMOSPHERE: Inconsistant
+ AVAILABILITY: Freeware, GMD                     WRITING: Good
+ PUZZLES: Mostly logical and intuitive but unoriginal
+                                                 SUPPORTS: Inform
+ CHARACTERS: Very few and limited                DIFFICULTY: Easy-medium
+ 
+In this game you are a property agent who, having just shown some clients
+around a decrepit theatre, are annoyed to realise that you left your
+electronic pager in the old building.  The game begins as you re-enter the
+theatre with a view to retrieving this object before meeting friends at the
+opera.  Suffice to say things do not go quite as planned.
+
+_Theatre_ is very distinctly split into the traditional opening, mid-game and
+end-game.  Indeed, the three sections seemed rather too distinct from each
+other, lending a rather disjointed feel to the game.  Also contributing to
+the feeling of disjointedness is the atmosphere, which changes about half way
+through from ghostly psychological horror to semi-Lovecraftian `icky' horror,
+more reliant on physical revulsion than a sense of `something's wrong'.  This
+is a shame, as it reminds the player too much of _The Lurking Horror_ which
+is the better game.  The opening is nice 'n easy for beginners with plenty of
+advice in case you don't know what to do next.  This may be frustrating for
+more experienced players as it is very linear.  The middle game opens up
+more, with several well thought out but familiar puzzles open to the player
+at once.  However, as mentioned above, there is a sudden change of direction
+in the atmosphere and style of the game, which was not to this reviewer's
+tastes. The end-game is where _Theatre_ really falls down though, with a
+short sequence of ill- or un- explained puzzles which, once finally solved,
+leave the player with an unsatisfactory ending and a bitter aftertaste.
+
+Hmm, the previous paragraph gives the impression that I didn't like
+_Theatre_.  This is not true, there are many good points to recommend the
+game.  For a start it seems an excellent game for the beginning IF player,
+boasting several pages of a well written `Introduction to text adventures' as
+well as a short non-interactive demonstration and a useful explanation of the
+way the parser works.  The parser itself, in common with all Inform games, is
+excellent.  The puzzles, although they've mostly been seen before in various
+incarnations, are both logical and fair (again apart from the last few). 
+There are also some nice little touches along the way, such as the system for
+reading the diary pages which you pick up along the way (a clever use of
+Informs menu system), the adaptive on-line hints, and the fact that the game
+starts in verbose mode rather than brief.
+
+To summarize, _Theatre_ is far from perfect but is perfectly adequate with
+several enjoyable moments and a nice `polish' to it.  It is a damn sight
+better than many shareware games out there, and it's free.  Try it, you might
+like it.  Akk!  I can't believe I wrote that...
+
+=-=-=-=-=-=-=-=-=-=-=-=
+
+From: "Magnus Olsson" <mol SP@G df.lth.se>
+
+NAME: Wishbringer			PARSER: Infocom
+AUTHOR: Brian Moriarty 			PLOT: Non-linear
+EMAIL: ???				ATMOSPHERE: Horror-comedy
+AVAILABILITY: LTOI2			PUZZLES: Innovative but not difficult
+WRITING: Excellent			SUPPORTS: Infocom ports
+CHARACTERS: Vivid			DIFFICULTY: Below average
+
+As a postal clerk in the small seaside town of Festeron, your only
+problem, apart from the occasional angry poodle, is your even angrier boss,
+Mr. Crisp.  When he tells you to take a special-delivery letter to the 
+Magick Shoppe right outside town, you have no idea that this errand
+will throw you right into the middle of a life-or-death struggle
+between good and evil, or that your idyllic, maybe a little boring
+life will be turned into a nightmarish parody of itself...
+
+This is the beginning of _Wishbringer_, one of Infocom's
+"introductory" games. That label has led people to dismiss it as a
+trifle, or as aimed at a juvenile audience. It is true that the game
+is a little smaller, a little easier, a little less complex than
+Infocom's "big" games. It is also a little nicer to the player (it's
+very hard to get killed, and at some places you get warned to save
+your game before attempting some dangerous action). 
+
+To draw the conclusion that the game is in any way inferior to other
+games would be a big mistake, however. In fact, I regard this game as
+one of Infocom's very best products: a small-scale masterpiece.  The
+puzzles may be easy, but they're original and innovative. The game may
+be less complex than, say, Zork, but complexity is not necessarily a
+virtue by itself. It may be aimed at a juvenile audience - but aren't
+most computer games? 
+
+What I like the best about this game is that it works with small
+means. There are no horrible monsters, no monstrously evil
+super-villains - but the transformation of idyllic Festeron into a
+distorted, evil mirror image of itself is far more effective; at least
+the first time I played it, it managed to fill me with a fundamental,
+existential dread that is much worse than any fear for monsters or
+evil wizards. 
+
+Still, the game never becomes gothic or macabre; the genre is
+horror-comedy, and the balance between horror and humour is nicely
+kept. The humour never becomes facetious or intrudes on the plot, but
+derives mainly from the sheer absurdity of the situation; the horror
+aspects never degenerate into empty fireworks or become so terrible as
+to stop the humour from working. All the time, you have this anxiety and
+feeling of threat at the back of, but it never gets bad enough to keep
+you from enjoying yourself - it's more like watching 'Twin Peak' than
+'Aliens^3'.
+
+The game also has great charm, not only in its loving attention to
+detail, but also in its references to other Infocom games (how many
+people have seen the family life of grues and lived to tell about
+it?). Add to this engaging and memorable NPC's (the most memorable
+being, perhaps, something as improbable-sounding as the mailbox from
+Zork 1), a set of very clever (though simple) puzzles (the video game
+and the blurry room are expecially noteworthy), excellent writing, and
+some breathtaking cliffhangers, and you get a very good game indeed. 
+
+A nice touch is that the major puzzles have alternative solutions; the
+Wishbringer of the title turns out to be an object in the game, and
+with that in your possession you can wish for various things, such as
+darkness, rain, or flight. I managed to find the "scientific"
+solutions to all puzzles; however, for beginning players it may be
+nice to have a way around difficult problems - and of course it adds
+variation to the game.
+
+The endgame, finally, is everything it should be: brief, not too
+difficult, suitably climactic (though not flashy) - and it also
+manages to provide a surprise at the very end, when you thought
+everything was nicely wound up.
+
+My only major complaint is that it is quite easy at some places to get
+the game into an insolvable state, without noticing that until much
+later; this lowers the gameplay score slightly, though the puzzles are
+sufficiently simple that it's not too difficult to start over again.
+
+All in all, this is a very enjoyable little game, as well as an
+excellent piece of writing. As an introduction to Infocom, or to IF in
+general, it is superb; for experienced adventurers it provides a
+delightful diversion from the complexities of games such as Curses and
+Spellbreaker. 
+
+READER'S SCOREBOARD----------------------------------------------------------
+
+   Notes:
+
+	A   - Runs on Amigas.
+	AP  - Runs on Apple IIs.
+	GS  - Runs on Apple IIGS.
+	AR  - Runs on Archimedes Acorns.
+	C   - Commercial, no fixed price.
+	C30 - Commercial, with a fixed price of $30.
+	F   - Freeware.
+	GMD - Available on ftp.gmd.de
+	I   - Runs on IBM compatibles.
+	M   - Runs on Macs.
+	S20 - Shareware, registration costs $20.
+	64  - Runs on Commodore 64s.
+	TAD - Written with TADS.  This means it can run on:
+                AmigaDOS, NeXT and PC, Atari ST/TT/Falcon, DECstation
+                (MIPS) Unix Patchlevel 1 and 2, IBM, IBM RT, Linux, Apple
+                Macintosh, SGI Iris/Indigo running Irix, Sun 4 (Sparc)
+                running SunOS or Solaris 2, Sun 3, OS/2, and even a 386+
+                protected mode version.
+        AGT - Available for IBM, Mac, Amiga, and Atari ST.  This does not
+                include games made with the Master's edition.
+	ADVSYS - Available for PC and Macintosh only, or so my sources tell
+                 me.  (Source code available as well.  So it can be ported
+		 to other computers.)
+        INF - Infocom or Inform game.  These games will run on:
+                Atari ST, Amiga, Apple Macintosh, IBM, Unix, VMS, Apple II,
+                Apple IIGS, C64, TSR-80, and Archimedes Acorn.  There may be
+                other computers on which it runs as well.
+
+ Name		       Avg Sc  Chr  Puz  # Sc  Rlvt Ish       Notes:
+ ====                  ======  ===  ===  ====  ========       ======
+Adv. of Eliz. Highe     3.1    0.8  0.3    1     5      F_AGT
+Another...No Beer	2.5    0.1  1.0    1     4      S10_IBM_GMD
+Arthur: Excalibur	8.6    1.8  1.7    1     4	C_INF
+Balances		6.6    1.0  1.2    1     6      F_INF_GMD
+Ballyhoo		7.0    1.8  1.6    2	 4	C_INF
+Beyond Zork		8.0    1.6  2.0    2	 5	C_INF
+Border Zone		6.1    1.1  1.4    2	 4	C_INF
+Bureaucracy		8.4    2.0  1.8    2	 5	C_INF
+Castaway		1.1    0.0  0.4    1     5      F_IBM_GMD
+Cosmoserve		8.7    1.3  1.4    2     5      F_AGT_GMD
+Curses			8.3    1.3  1.7    6     2	F_INF_GMD
+Cutthroats		6.3    1.4  1.2    4	 1	C_INF
+Crypt v2.0		5.0    1.0  1.5    1     3	S12_IBM_GMD
+Deadline		7.2		   2	 x	C_INF
+Deep Space Drifter	5.5	    1.4    1     3      S15_TAD_GMD
+Detective		0.7    0.0  0.0    2     4-5    F_AGT_GMD
+Ditch Day Drifter	7.1    1.2  1.6	   1     2      F_TAD_GMD
+Dungeon Adventure	6.8    1.3  1.6    1     4	F_SEE REVIEW Issue #4
+Dungeon of Dunjin       7.0    1.0  1.5    1     3      S20_IBM_MAC_GMD
+Electrabot		0.7    0.0  0.0    1     5      F_AGT_GMD
+Enchanter		7.0    0.8  1.3	   4     2	C_INF
+Enhanced		N/A		   0	 2      S10_TAD_GMD
+Fable, A		2.0    0.2  0.1    1     6      F_AGT_GMD
+Great Archaelog. Race	6.5    1.0  1.5    1     3      S20_TAD_GMD
+Hitchhiker's Guide	8.2    1.6  1.8    4     5	C_INF
+Hollywood Hijinx	5.5		   2	 x	C_INF
+Horror30.Zip		3.6    0.0  0.9    1	 3	S20_IBM_GMD
+Horror of Rylvania	7.7		   1     1	C20_TAD_GMD (Demo)
+Humbug			7.4		   1	 x	S10_GMD (Uncertain)
+Infidel 		6.9		   5     1-2	C_INF
+Jacaranda Jim		7.0		   1	 x	S10_GMD (Uncertain)
+Jeweled Arena, The	8.0    1.5  1.5    1     x      ?
+John's Fire Witch	7.0    1.1  1.5    2     4	S6_TADS_GMD
+Journey			6.9    1.3  0.8    1     5      C_INF
+Klaustrophobia		7.3    1.3  1.4    3     1	S15_AGT_GMD
+Leather Goddesses	8.0    1.6  1.7    3	 4	C_INF
+The Legend Lives!	8.2    0.8  1.5    1     5      F_TADS_GMD
+Lurking Horror, The	6.9    1.4  1.2    4     1,3	C_INF
+Magic.Zip		4.5    0.5  0.5    1     3      S20_IBM_GMD
+Mind Forever Voyaging	8.4    1.5  0.3    3	 5	C_INF
+Moonmist		5.8	           4     1	C_INF
+Mop & Murder		4.9    0.5  1.0    1	 4-5	F_AGT_GMD
+Multidimen. Thief	5.3    0.4  1.0    2     2      S?/F_AGT_GMD
+Nord and Bert		3.9		   2	 4	C_INF
+Odieus': Flingshot	3.2    0.4  0.7    1     5      F_INF_GMD
+One Hand Clapping	7.1    1.1  1.3    2     5	F_ADVSYS_GMD
+Planetfall		7.1		   3	 4	C_INF
+Plundered Hearts 	7.9    1.2  1.2    1	 4	C_INF
+Sanity Claus		9.0	           1     1	S10_AGT_GMD
+Save Princeton		5.6		   1	 x	S10_TAD_GMD
+Seastalker		5.4		   2	 4	C_INF
+Shades of Grey		7.8    1.2  1.5    2	 1-2	F_AGT_GMD
+Sherlock		8.5    1.5  1.8    1	 4	C_INF
+Shogun			7.1    1.5  0.5    1     4      C_INF
+Sir Ramic Hobbs		5.0    1.0  1.5    1     6      F_AGT_GMD
+Sorceror		7.3    0.6  1.6	   4	 2	C_INF
+South American Trek	0.9    0.2  0.5    1     5      ?_IBM_GMD
+Space Aliens...Cardigan 1.6    0.5  0.4    3     3      S60_AGT_GMD
+Spellbreaker		8.1    1.2  1.8	   3	 2	C_INF
+Starcross		7.2	           4     1	C_INF
+Stationfall		7.5    1.6  1.5    3	 5	C_INF
+Suspect			5.9		   1	 x	C_INF
+Suspended		7.0		   1	 x	C_INF
+Theatre			5.4    0.5  0.8    1     6      F_INF_GMD
+Tossed into Space	3.9    0.6  0.2    1     4      F_AGT_GMD
+Treasure.Zip		N/A		   0     3	S20_IBM_GMD
+Trinity			8.8    1.4  1.7    6     1-2	C_INF
+Unnkulian One-Half	7.0    1.3  1.7    4     1	F_TAD_GMD
+Unnkulian Unventure 1	8.0    1.3  1.7    3     1-2	S10_TAD_GMD
+Unnkulian Unventure 2	7.2    1.4  1.5    3     1	S10_TAD_GMD
+Unnkulian Zero  	9.0 	           1     1	C25_TAD_GMD (Demo)
+Waystation		8.0    1.2  1.5    1     x      F_TAD_GMD
+Wishbringer		7.5    1.3  1.2    3	 5-6	C_INF
+Witness, The		7.0    1.7  1.2    3     1,3	C_INF
+World			6.9    1.0  1.4    1     4	F_SEE REVIEW Issue #4
+Zork 0			6.5    1.1  2.0	   1	 x	C_INF
+Zork 1			5.9    0.6  1.5	   6	 1-2	C_INF
+Zork 2			6.7    0.8  1.6	   4	 1-2	C_INF
+Zork 3			6.0    0.6  1.4	   4	 1-2	C_INF
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Three:
+
+	A game is not eligible for the Top Three unless it has
+received at least three ratings from different readers.  This is to ensure a
+more democratic and accurate depiction of the best games.
+
+ 1. Trinity		8.8	6 votes
+ 2. Mind Forevr Voyagn. 8.4	3 votes
+ 3. Curses		8.3	6 votes
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Editor's Picks of the Month:
+
+	My pick of the month, as you may remember, is _Theatre_.  Theatre is
+a fun, short game.  It uses some interesting techniques, and contains more
+plot and characterization that most other IF games put together.  While I
+agree with my two reviewers that the ending was a let down, I still have to
+compare Theatre with other IF works and state that it shines in comparison.
+Seldom, when exploring the if-archive, will you come across such a gem.
+Just for the sake of convenience, I reproduce the info on where to get it
+below.
+
+From: "Gareth Rees" <gdr11 SP@G cl.cam.ac.uk>
+   "Theatre" is a medium-length game written using the "Inform" compiler.
+The version 5 story file is available by anonymous FTP at
+<https://ifarchive.org/if-archive/games/inform/theatre.z5>.  It runs on all
+manner of computers; fetch the following file to find out how:
+<https://ifarchive.org/if-archive/games/inform/how_to_play_these_games>.  The
+game includes hints which appear as needed.  These are nicely judged,
+and don't give too much away.
+
+ADVERTISEMENTS---------------------------------------------------------------
+
+	There are no advertisements this month.  Remember, they're free, take
+advantage of them.
+
+CLOSING REMARKS--------------------------------------------------------------
+
+      Announcing the First Annual Text Adventure Authorship Competition
+
+	This idea has been bandied about on r.a.i-f for awhile, so I am
+making it a reality.  The original concept of the contest was to get more
+Inform source code out in the public domain.  However, the TADS authors
+wanted to play too, so a category was added for them.  Here is my own
+personal vision for the contest.
+
+	"This competition is to inspire IF authors to write something,
+however small, and make it available for people to play.  IF as a hobby
+cannot survive unless there are people out there writing and playing it.
+Hopefully, some of the people who enter the competition will enjoy it, and
+decide to write more on their own."
+
+	Anyways, here are the rules (I mean, the rule.)
+
+	The Rule:  The text adventure you enter must be winnable in under
+two hours.  Judges will be asked to rate it after playing for that long.
+
+	That's the main point of the competition.  You don't have to enter
+something really long to have a chance at winning, because you aren't allowed
+to.  That way we get more entries.
+
+	The rule is not debatable.  It's the only rule, and it's not very
+unreasonable.
+
+	Now, to enter, simply write a game, using either the TADS authorship
+system, or the Inform authorship system.  The two groups will be judged
+seperately.  Once you have your game, put anything that comes to mind with it
+(that's related to the game) such as maps, read.me files, hints,
+walkthroughs, source code, whatever and .zip it.  I know some folks may have
+trouble with .zips, but I'm here to help.  If someone needs their game zipped
+or needs a game unzipped, just email me, and we'll work out something.  You
+cannot enter a game in both categories by porting it over to the other
+development language.
+
+	Upload your .zip file to: https://ifarchive.org/incoming/if-archive/competition
+
+	The deadline to do this is Midnight on the last day of August.
+	(That's midnight in Germany obviously.  Plan ahead, upload a day
+	early.  I doubt I'll disqualify slightly late entries anyway.)
+
+	If you want your entry to be anonymous, then leave your name off it
+and email me that it's your entry.  I advise a secret command that pops up
+the author and copyright message.
+
+	Which reminds me.  All entries MUST be freeware or public domain.  So
+don't enter a game you've worked on for 2 years if you don't want to give it
+away.
+
+				Judging
+
+	The judging will be a 'People's Choice Awards' type deal for the
+most part.  There may be a few prizes that are just awarded by the person who
+donated them to whichever game they liked best, but not many.  In general,
+everyone is able to vote.  All you have to do is play every game in the TADS
+and/or Inform category (which will be sorted out on the 1st of September)
+and then choose your three favorite games, in no particular order, for
+that category (or both categories, if you've played them all.)  Email me
+your votes at whizzard SP@G uclink.berkeley.edu.  The games with the most votes in
+each category will win.  The winners will have their pick of prizes available
+in a draft sort of thing.  If there are conflicts between the TADS/Inform
+choices, a coin flip will decide the matter, with the loser choosing another
+prize, if there is one.
+
+	The deadline for submitting votes is September 30.  Prizes will be
+awarded the next day.
+
+	The Prizes So Far Include:
+
+	$100.00 cash, donated by Eileen Mullin
+	1 free copy of Avalon (upon its completion), donated by me.
+	One free registration for Save Princeton, donated by Jacob Weinstein.
+	"Castles and Kingdoms: An electrifying compendium of 15 BASIC
+           adventures you can type in to your Commodore 64" by Bob Liddil,
+	   donated by Gareth Rees.
+	1 year subscription to the printed version of XYZZYnews, donated by
+	   Eileen Mullin
+	"Arthur: The Quest for Excalibur" for the Mac, complete with box,
+	   etc., donated by Jacob Weinstein.
+	An autographed copy of my first novel, if and when it's
+	   published--for a winner who feels like taking a big gamble,
+	   donated by Jacob Weinstein.
+
+	More might be donated as we go along.  If you have something you
+want to donate, email me with details.
+
+	Good luck, now get out there and write!
+
+-----------------------------------------------------------------------------
+
+	   Thank you for helping to keep text adventures alive!
+

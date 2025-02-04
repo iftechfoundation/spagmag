@@ -1,0 +1,2771 @@
+      ___.               .___              _             ___.
+     /  _|               |   \            / \           / ._|
+     \  \                | o_/           |   |          | |_.
+     .\  \               | |             | o |          | | |
+The  |___/ociety for the |_|romotion of  |_|_|dventure  \___|ames.
+
+                         ISSUE # 20
+
+           Edited by Paul O'Brian (obrian SP@G colorado.edu)
+                       March 15, 2000
+
+           SPAG Website: http://www.sparkynet.com/spag
+
+SPAG #20 is copyright (c) 2000 by Paul O'Brian.
+Authors of reviews retain the rights to their contributions.
+
+All email addresses are spamblocked -- replace the name of our magazine
+with the traditional 'at' sign. 
+
+REVIEWS IN THIS ISSUE -----------------------------------------------------
+
+Christminster
+Common Ground
+Deadline
+Enemies
+I-0: Jailbait on the Interstate
+Inheritance
+Inhumane
+Intruder
+Lost New York
+9:05
+Not Just A Game
+Not Just An Ordinary Ballerina
+Perilous Magic
+Shrapnel
+A Simple Theft
+Skyranch
+
+SPECIFICS
+=========
+Bliss
+9:05
+
+EDITORIAL------------------------------------------------------------------
+
+When I was asked to assume editorship of SPAG, one of the first things I
+did was to read every back issue. Out of those thousands of lines of
+text, one item in particular struck me, and has lingered in my memory
+ever since. It was a letter, written way back in 1995 by Gareth Rees
+(the author of Christminster, reviewed in this issue.) In this letter,
+Rees argued that most IF criticism, such as the reviews printed here, is
+great for players, but isn't as useful for authors. This imbalance,
+according to him, is due to the nature of IF itself, namely the
+imperative to avoid spoilers. He suggests that when we avoid spoilers,
+we are forced into talking about IF games in broad, general terms, terms
+that of necessity exclude some important and fruitful topics. In his own
+words: "Because adventure games are puzzle-oriented and because the
+kinds of people who play the games tend not to want the puzzles spoiled
+for them, extant reviews... have tended to be very coy about saying
+*anything* specific about the games under consideration." [To see the
+entire text of this letter, check out SPAG #6 in the "Back Issues"
+section of the SPAG website.]
+
+Rees' letter brought into sharp focus a concern that has vaguely worried
+me ever since I began to write reviews. Sometimes, when reviewing a
+piece of IF, I'll find myself wanting to talk about the ending of the
+game, or about what worked and what didn't for a particular puzzle, or
+about certain character reactions and what I thought of them. But as
+soon as I recognize the impulse, I'll stop short, and start looking for
+ways to skirt the issue. Why? Because I couldn't discuss any of those
+things in specific terms while still keeping the review spoiler-free. I
+could still discuss enough aspects of any game that a prospective player
+could determine whether or not it was her cup of tea, but how useful
+might it have been to the author, or to other authors, had I been able
+to dissect in detail some of the specific aspects of the game? The more
+I thought about Rees' letter, the more I agreed with him that the lack
+of in-depth analysis in IF criticism is "an unsatisfactory state of
+affairs." 
+
+In that spirit, I'd like to inaugurate a new section of SPAG: SPAG
+Specifics. Unlike the reviews in the main section of SPAG, Specifics
+reviews can and should contain spoilers. In fact, this kind of in-depth
+review isn't new to SPAG -- after the first IF competition, then-editor
+Kevin Wilson provided breakdowns of several games, spoiler-laden reviews
+which wouldn't have been out of place in SPAG Specifics. I'd like for
+the reviews in this new section to help further the state of IF
+criticism by allowing critics to discuss IF games in unambiguous,
+explicit terms. The section is making its debut in this issue with two
+reviews by Duncan Stevens, one for the Comp99 game Bliss and another for
+Adam Cadre's recent short piece, 9:05. Neither of these reviews could
+discuss what they do if they were bound by the typical SPAG "no-spoiler"
+policy, and I think they both contribute useful insights to the ongoing
+study of IF. I'm pleased and proud that SPAG can provide a home for
+them. 
+
+Let me be clear about my intent: SPAG's primary purpose has been and
+will continue to be to provide spoiler-free reviews that help players
+decide which pieces of IF might interest them. I recognize that it takes
+some discipline to write reviews sans spoilers, and that the temptation
+exists to include spoilers, even if one's use of them doesn't
+particularly serve any kind of incisive analysis. For this reason, I'm
+only going to accept two or three reviews per issue for the SPAG
+Specifics section, and those reviews will be required to provide
+in-depth analysis to justify their usage of spoilers. Note also that
+even though the reviews in this issue's Specifics section discuss games
+whose most important element is one of surprise, any and all pieces of
+IF are eligible for a Specifics review. SPAG Specifics will be included
+at the end of each issue (after the Readers' Scoreboard) and festooned
+with spoiler warnings. I hope that both authors and players will find it
+useful, and that it will help us, in the words of Gareth Rees, to "get
+beyond the generalities and into specifics."
+
+NEWS ----------------------------------------------------------------------
+
+AND THE XYZZY GOES TO...
+Saturday, February 12, saw the 4th annual XYZZY Awards held in the
+beautiful Auditorium of Tomorrow on ifMUD
+(http://ifmud.port4000.com:4001). The XYZZY Awards are sponsored by our
+fellow IF zine XYZZYNews, edited by the able Eileen Mullin. Though it's
+been a long time since the last issue of XYZZYNews (there's a "Come On
+Eileen" joke in there somewhere, but I'm not going to look for it), the
+zine has faithfully hosted the awards ceremony every year, and it's been
+a great showcase for spotlighting the best games from each calendar
+year, both in and out of the competition. For 1999, the victor in the
+Best Game category was Adam Cadre's Varicella. In fact, the observant
+among you may have noticed that Adam Cadre and Andrew Plotkin have a bit
+of a ping-pong match going in the XYZZYs, with Cadre winning best game
+in 1999 and 1997 (for Varicella and I-0, the latter of which is reviewed
+in this issue), while Plotkin won in 1998 and 1996 (for Spider and Web
+and So Far, respectively.) Vegas oddsmakers are looking to Plotkin for
+the 2000 XYZZYs, but of course, he has to release a game first. Full
+results of the 1999 XYZZY Awards follow: 
+   * Best Game: Varicella, by Adam Cadre
+   * Best Writing: For A Change, by Dan Schmidt
+   * Best Story: Worlds Apart, by Suzanne Britton
+   * Best Setting: Hunter, in Darkness, by Andrew Plotkin
+   * Best Puzzles: The Mulldoon Legacy, by Jon Ingold
+   * Best NPCs: Varicella, by Adam Cadre
+   * Best Individual Puzzle: The Maze, from Hunter, in Darkness
+   * Best Individual NPC: Miss Sierra, from Varicella 
+   * Best Individual PC: Primo Varicella, from Varicella
+   * Best Use of Medium: Aisle, by Sam Barlow
+
+NEW GAMES
+I'm so proud of our SPAG reviewers. First of all, this issue remedies
+some long-standing gaps in the SPAG review record, covering games such
+as Christminster, I-0, and Lost New York, all of which have languished
+for years without the benefit of a SPAG review. Not only that, but this
+diabolical delay between a game's release and its review in SPAG (a
+delay which I will most emphatically *not* christen "SPAG lag") has been
+virtually eliminated in the case of two games released just since the
+last issue of SPAG came out two months ago -- John Menichelli's Not Just
+A Game and Adam Cadre's Shrapnel are both reviewed in this issue. Other
+new games since last issue include a couple of pieces of tiny IF, a
+German Inform adventure, a Z-Machine abuse, and a full-blown HTML-TADS
+game:
+   * Lost In New York by Mikko Vuorinen (no relation to Neil DeMause's
+     Lost New York, reviewed in this issue) 
+   * Starrider (in German), by Max Kalus
+   * Not Just A Game by John Menichelli
+   * Shrapnel by Adam Cadre
+   * Sycamora Tree by David Dyte
+   * Z Trek by John Menichelli (another "abuse of the z-machine")
+   * The Adventures of Helpfulman by Phillip Dearmore
+
+THE PARSIFAL MOSAIC
+Roger Firth had already made a great contribution to IF Authorship on
+the web with a page that demonstrated the same small demo game as
+implemented in 9 major IF languages
+(http://homepages.tesco.net/~roger.firth/cloak/), but he didn't stop
+there. He's just unveiled PARSIFAL
+(http://homepages.tesco.net/~roger.firth/parsifal/), a dense and
+thorough collection of links to many many homepages and web sites
+related to IF. It makes for fascinating surfing. By the way, in keeping
+with the IF world's love for acronyms, PARSIFAL stands for People And
+Resource Summary -- Interactive Fiction Authorship Links.
+
+EVERY REVIEW A WANTED REVIEW
+I couldn't be more pleased with the results that have been generated by
+the SPAG 10 Most Wanted List. The long-awaited reviews I mentioned above
+(in the NEW GAMES section) are all items that appeared on the last
+couple of Most Wanted lists -- many people didn't even realize that
+those games had never been reviewed in SPAG! This issue's list has a
+nice mix of the new, old, and otherwise unjustly neglected. Please note
+that the 10 Most Wanted List refers to regular SPAG reviews, not those
+intended for the new SPAG Specifics section:
+
+SPAG 10 MOST WANTED LIST
+========================
+1.  The Adventures of Helpfulman
+2.  Bad Machine
+3.  Cutthroats
+4.  Dr. Dumont's Wild P.A.R.T.I.
+5.  Guilty Bastards
+6.  Lunatix: The Insanity Circle
+7.  The Mulldoon Legacy
+8.  Offensive Probing
+9.  Winchester's Nightmare
+10. Worlds Apart
+
+KEY TO SCORES AND REVIEWS--------------------------------------------------
+
+Consider the following review header:
+
+NAME: Cutthroats
+AUTHOR: Infocom
+EMAIL: ???
+DATE: September 1984
+PARSER: Infocom Standard
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: LTOI 2
+URL: Not available.
+
+When submitting reviews:  Try to fill in as much of this info as you can.
+If you choose, you may also provide scores for the games you review, as 
+explained in the SPAG FAQ. The scores will be used in the ratings 
+section.  Authors may not rate or review their own games.
+
+More elaborate descriptions of the rating and scoring systems may be found
+in the FAQ and in issue #9 of SPAG, which should be available at:
+
+        https://ifarchive.org/if-archive/magazines/SPAG/
+ and at http://www.sparkynet.com/spag
+
+REVIEWS -------------------------------------------------------------------
+
+From: Nick Montfort <nickm SP@G media.mit.edu>
+
+NAME: Christminster
+AUTHOR: Gareth Rees
+EMAIL: wgr2 SP@G cus.cam.ac.uk [See editor's note after footnote 1. --PO]
+DATE: August 1995
+PARSER: Inform
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware.
+URL: https://ifarchive.org/if-archive/games/zcode/minster.z5
+
+"Upon this Oath that I shall heere you give..." The seventeenth-century
+verse that begins Christminster brings on tingles, dropping the
+interactor directly into an atmosphere of ancient secrecy, a world where
+mysteries must be unlocked. It becomes smoothly evident that the main
+character, Christabel, is an outsider: She's come to visit her brother
+at all-male Biblioll College, which seems rather shut off from the
+surrounding town and happens to be completely closed today. The
+situation is more quotidian than the epigraphical quotation suggests,
+but, being sure of conspiracy inside, the interactor's curiosity is
+provoked.
+
+Christ! How is Christabel to get into Christminster's cloistered college
+on the Lord's day? [FOOTNOTE 1] More critically, what will she do when
+she finds that brother seems to have been engaged in forbidden research,
+and is now missing?
+
+The college is populated with particularly rich characters who play
+their parts well through the usual sorts of text-adventure interactions.
+There are good excuses to interact with them along the way, too,
+provided by a plot which twists along past different personalities. Rees
+has said that his puzzles are contrived for the purpose of drawing the
+interactor through the story and into contact with different characters,
+and that is evident in Christminster. Areas of the setting are
+consecutively unlocked for exploration, but the whole college is worked
+into the story very evenly, throughout the narrative.
+
+That said, the actions required to unlock the college and the secrets
+within are, as is so often the case in interactive fiction, convoluted.
+The general nature of the challenges that Christabel faces do fit in
+well with the situations of the story. The artifice of puzzles is
+visible, though, and sometimes tugs against the authorial and narrative
+voice. Although challenging, the solutions to the puzzles are plausible,
+in the context of current interactive fiction -- and the puzzles are
+quite well-crafted, as one would expect from Rees's The Magic Toyshop --
+but to actually solve them the interactor must shift away from reading
+and exploration to worry about waiting a number of turns, crossing
+different-colored wires, and decrypting enciphered text. This is often
+the case with interactive fiction. The nice thing about Christminster is
+that, aside from its interlocking challenges, there is some good reading
+and exploration to be done.
+
+In some ways Christminster might be held up against with The Lurking
+Horror -- the university setting and occult mysteries being the obvious
+points of comparison. There are important differences. [FOOTNOTE 2] The
+main character in Christminster is unfamiliar with the campus, which
+fits in with the interactor actually having no previous knowledge of the
+fictional college. Importantly, Christminster is more populated than The
+Lurking Horror. The life of the university is still going on, even if at
+a Sunday pace.
+
+How the revelation of the conspiracy occurs, and what actually happens
+in Christminster, is most fascinating. The writing in which these events
+are described does not shine, but the descriptive text in Christminster
+is clear. Objects in the environment, and the behaviors of those
+objects, are well-defined and aptly described. A few commands elicit
+responses that ring a bit false -- ">pet the parrot. Keep your hands to
+yourself!" -- but the interaction is, overall, well-constructed. For
+those concerned with allowing more English-like interaction,
+Christminster does not advance the state of the art. It would help to be
+able to "leave" a room that has only one exit, for instance. As is
+conventional, compass directions are required for movement through most
+locations.
+
+At times the objective description in Christminster yields and the
+emotions of the main character are described. This does little, for the
+most part -- "Your heart sinks as you look around this room." -- but
+sometimes it adds a bit of color: "It is a hot summer's day in
+Christminster, the kind of day that makes you think of strawberries and
+cream and punting on the river."
+
+Rees excellently ties together the acquisition of keys and the advance
+through locations with quotations from alchemical literature and from
+Coleridge's "Christabel." Although it may seem a minor element, it links
+the work to the world of literature strongly, and draws the interactor
+deeper into the mysteries of the college. The quoted material is not as
+thematically meaningful as are the excepts in Trinity, but these texts
+build up the rich and enveloping atmosphere of this work.
+
+Christminster overcomes more than a few of the obstacles that keep
+casual gamers and readers unfamiliar with the form from enjoying
+interactive fiction. The map in Christabel's bag, for instance, is
+nicely rendered in ASCII graphics on-screen. This makes pencil-and-paper
+map-making unnecessary, removing one encumbrance for those who are new
+to the form. Although some of the puzzles are challenging, the
+compelling story and fairly well-developed interaction makes
+Christminster a good work to introduce readers to interactive fiction.
+[FOOTNOTE 3]
+
+Overall, Christminster has both gaming and literary merits. The two
+halves of the work could, perhaps, fit together better, and particular
+aspects of the work might have been honed further. Amazingly, though,
+both the overarching narrative and the puzzle set provided are
+exemplary. This, along with several important smaller touches, makes
+Christminster a work of lasting value, of interest to both veterans of
+Spellbreaker and readers of the conspiratorial Pynchon and Eco.
+
+---
+
+FOOTNOTE 1. A major Christ-initial place name and character name may
+sound contrived, but truth is at least as strange as fiction. Rees's
+home page [at http://www.spri.cam.ac.uk/people/wgr2/home.htm] reveals
+that he's a fellow of Christ's College at Cambridge, and his wife is
+named Christine.
+
+[Editor's note: After this issue was released, an astute reader pointed
+out that the web site mentioned above is not for the right Gareth Rees.
+The Christminster Gareth Rees attended Cambridge but does not teach
+there. Consequently, the email address provided with this review is also
+incorrect. The proper email address is <gareth.rees SP@G pobox.com>. As of
+this writing (March 2000), Gareth reports that he does not maintain a
+web page.]
+
+FOOTNOTE 2. Christminster is inferior to the Lurking Horror in one
+respect: MIT students won't find any splufty in-jokes to appreciate.
+
+FOOTNOTE 3. Not as ideal, perhaps, as a simpler selection (e.g.,
+Wishbringer, the Trinity preface), but still a good choice.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: David Samuel Myers <dmyers SP@G ic.sunysb.edu>
+
+I'm biased, I'll admit it.
+
+But every longtime IF player, I think, must have a special soft spot for
+at least one game. Even though you know it's probably not the very best
+game out there, you're very forgiving with these games that live in your
+soft spot because they worked for you on a level that is hard to
+replicate. For me, Christminster is one of those games. Games which I
+have finished get unconsciously compared to 'Minster in deciding whether
+or not they are worthy enough to reside permanently on my hard drive in
+dim hopes of being replayed. And yet I have replayed this game twice.
+Why?
+
+For starters, the setting is a rich one. I'm not positive if the game is
+patterned after Oxford directly, but there is a Christ Church college
+there, and from pictures that I have seen of it, I can believe this was
+the inspiration for the surroundings in the game. No room or location is
+out of place. It all seems in keeping with what you might expect at an
+Oxford college a few decades ago... er... except for the magic potions
+and the like. This little academic world provides plenty to do despite
+only a moderate sized map.
+
+Now, there have been quite a few other college games: Save Princeton,
+Veritas, and PCU come to mind. In each case, the cliche aspects of dorm
+life are highlighted in a jokey manner, with a sort of jump through the
+hoops plot. Christminster largely avoids that, using the college more as
+a backdrop for a web of intrigue than anything else. Your job is to find
+your brother and save him.
+
+There are so many fantastic elements in this game, it's hard to review
+them all. The NPCs were what impressed me the most. There is the Master
+of the college, who appears to be a generator of stock replies, but can
+actually be asked about a host of topics (many of which, ironically,
+won't be informative enough to help you). There is Professor Wilderspin,
+who is completely in character in utterly blowing you off until you
+figure out what will engage his attention. There are the villains, who
+are plainly identifiable as being the bad guys early on. They do exhibit
+some complex behavior in attempting to thwart you, generating some good
+dialog at key moments (many of which are just before you either win or
+lose the game).
+
+But above all is Edward, the student who'll be most helpful to you in
+your quest. He's chattery in a quaint way, and forlorn in a way that
+makes you feel pretty smart as the PC at times. The subplot of having to
+help Edward find his pet bird is ingenious, and gives character not only
+to him as an NPC, but indirectly to you as the PC. It is one of those
+puzzles that feels less like a puzzle because it's so integrated into
+the plot. Part of this is because it recurs a couple of times.
+
+Certain key puzzles define almost all games, and leave a lasting
+impression. Here, one that comes to mind is figuring out the phone
+wiring. Getting through dinner without any gaffes in etiquette was
+another, again with a lot of dialog interwoven so that the atmosphere
+feels less straightforwardly puzzlish. The puzzle most associated with
+Christminster, though, has to be the street magician from the opening
+sequence. The magician spews so much text that it's hard to determine
+what kind of NPC interactions are going to be needed to solve it at
+first. You have to sit and observe (and unfortunately, restart) to
+figure out what is going on. The author has said that this was the
+hardest part of the game to program, and I can't help but wonder if it
+got away from him more than he wanted it to. This puzzle is just harder
+than it should have been for being this early in the game. It warped my
+expectations of how hard the rest of the game would be. Nonetheless, it
+is a rewarding puzzle in the end-- once you've saved and restored a few
+(dozen) times to nail down what is going on.
+
+Although there are a number of specialized elements in the plot, the
+results are not overwhelming. Very few cases involve utterly novel
+situations that send you into guessing verbs. Once you've gained access
+to the college after the tricky opening sequence, you're free to pursue
+a number of avenues simultaneously, with no single puzzle being
+ridiculous in nature. The in-game hint system is reasonably
+well-developed too. Some tricky puzzles do occur late in the game, with
+sufficient obscurity as to challenge most any player. But it's
+engrossing and immersive enough that few players who get that far are
+likely to quit altogether.
+
+It is clear from playing the game that it has been through extensive
+beta testing that refined the surroundings and ensured that a lot of
+touches were added to avoid stock responses at virtually every turn.
+What's more, interspersed with the plot are poetic undertones here and
+there, taken from various books you encounter in your research in the
+game. In terms of writing, this game is strong-- despite the absence of
+a directly story-driven plot (this was 1995). Instead, the plot in this
+game is uncovered slowly by exploration and sleuthing.
+
+Alas, in any game, there are always things that could have been better.
+There are a few infuriating aspects to Christminster that I could have
+done without. For instance, after the initial information collection
+that goes on, there is too much subsequent lookup of books and facts
+through the library. The indexing feature just seems overused. It's
+realistic to the story, at least, but in general, I find that if in-game
+reference materials have to be used more than a few times, I am bored
+with the device. Also, the story itself begins to get a bit convoluted
+after a while. Another thing is that there are too many containers late
+in the game, and they are tough to keep track of without botching your
+eventual objective. Minor sins, really.
+
+The thing I liked the least is that the game can be made unwinnable in
+subtle enough ways that the player can go on for quite a while unaware
+of the situation. In this regard, Christminster is probably a bit more
+fragile than it should be. In all, though, the small cracks don't mar
+the soundness of the game. The overall game design is as tight and
+sensible as just about anything I've seen. Christminster certainly makes
+my top five of all time, and stands as a classic. I suspect it will hold
+up well under the test of time. One hallmark of such games is that they
+make it hard to release a new game with a similar setting, plot, or
+milieu because the author has so well nailed it down. That seems to be
+the case here for college campuses and Christminster.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: Common Ground
+AUTHOR: Stephen Granade
+E-MAIL: sgranade SP@G phy.duke.edu
+DATE: 1999
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/tads/Ground.gam
+VERSION: Release 2
+
+It's not quite true that Stephen Granade's Common Ground goes somewhere
+that no IF has gone before, because most of what it does has been done
+in one form or another. Notably, Photopia pioneered the changing-
+perspectives aspect and, to some extent, the conversation system, Muse
+and a few others have made the plot turn on relationships more than on
+any tangible goal, and--well, this is a no-spoiler review, but there are
+other creative but not precisely novel elements. What's interesting
+about Common Ground is that the various elements get put together in an
+interesting way--and that the characters are well enough drawn that we
+care, at least somewhat, about each one by the end.
+
+There are four chapters in Common Ground, though the last chapter is
+something of an epilogue: the heart of the game (work?) is the first
+three chapters, each of which adopts the perspective of a different
+character. The characters are Jeanie, a teenage girl who's as teenaged
+as they come, her stepfather Frank and her mother Debbie, and the three
+main chapters are all set in approximately the same time frame. Some of
+the events are actually depicted twice, though not all of them, and you
+get somewhat different takes on the relevant people and events in each
+segment. The point actually isn't to adapt a Rashomon-style trick to IF,
+wherein incompatible stories are told and the truth lies somewhere
+between them, if anywhere; figuring out the truth is less the objective
+here than understanding the characters and why they do what they do. The
+result is susceptible to a variety of interpretations, in a few
+respects--the player's sympathies may rest with one of the characters,
+or all, or none, depending on what he or she makes of the various
+exchanges. That aspect of Common Ground is particularly skillfully done,
+in fact: playing the various characters gives a more nuanced look at the
+situation than playing one character might, and an honest look at the
+story more than likely leaves the player neither canonizing nor
+demonizing any of the characters outright, which is as it should be.
+
+A somewhat less successful aspect of Common Ground is the conversation
+system. Granted, no one has come up with a successful IF conversation
+system as such, but this one--"talk" says something preordained, and
+continuing to type "talk" steers the character through the conversation
+whether or not the player understands what's going on--isn't really any
+more interactive than a cut scene, in that the player's only power over
+what's going on is to walk away or do something else. In a way, that's
+significant in this particular story--Jeanie in particular can make
+statements by refusing to say anything--but as a conversation system,
+it's more than a little clumsy. It's especially frustrating here because
+the characters are fairly well developed--there are plenty of things to
+ask them about-- and the "talk" straitjacket makes the game feel more
+like reading a script than it should be.
+
+I shouldn't exaggerate the straitjacket aspect, though, because there's
+another aspect of Common Ground that works quite well: when you're done
+playing Jeanie and you're seeing her through the eyes of the other
+characters, you'll find that Jeanie does most of what you chose to have
+her do when you were playing her. That is, the game records the
+decisions you made and plays them back at you later. The same is true,
+though less so, with Frank. Obviously, there are some complexities that
+aren't acknowledged, but on the whole this works quite well and allows
+for substantial replayability; better still, playing one character
+differently elicits some revealing reactions from the other two. It's an
+impressive technical feat--it was done on a reduced scale in Infocom's
+Sorcerer and Sam Barlow's The City, but this is much more thoroughly
+implemented, and the various choices available do more for the story (in
+that both the characters and the perceptions of them can change in a
+variety of ways). If there's a fly in the ointment, it's that the game
+doesn't really try to ensure that you did what the other characters saw
+you do, beyond certain limitations--you can't go wandering around the
+house, but you have the discretion to avoid certain conversations,
+whether or not you had those conversations from the other side. Still,
+on the whole, it's a successful gimmick.
+
+Common Ground stands or falls on the character depictions, though, and
+those depend to some extent on the player's reactions. The characters
+initially seem a bit cliched--the angry teenager, the solicitous parent,
+and to a lesser extent the left-out and unappreciated stepfather--and
+while there's more to each of them than the cliches, that's not
+necessarily immediately obvious. Moreover, depending on what the player
+does with each character, the cliches might actually get reinforced;
+there's enough freedom to allow for that--particularly so with Jeanie
+and Frank (Debbie is a much less developed character). The details that
+the author introduces to portray both the characters themselves and the
+others' take on them are nicely done, as in this example from Jeanie's
+perspective:
+
+   As you come down the stairs, Frank looks up at you. "Goin' out
+   tonight too, huh?" Is his speech slurred again?
+
+Or this, from Frank's perspective:
+
+   >talk to jeanie
+   "I hated school, too.  Couldn't wait to graduate."
+
+   "Yeah? Why'd you even bother? Not like you need a diploma to do
+   factory work."
+
+   Should of known better than to even try to talk to her.
+
+Both snippets are revealing, both about the characters and about their
+assumptions and prejudices, but a player too ready to categorize might
+not pick up on the subtleties. The point is that while there's much more
+to these characters than cliches, a given player might not realize
+that--and if the player doesn't respond to the characters, he or she's
+unlikely to enjoy Common Ground. In other words, the player should feel
+some sympathies toward all of the three main characters, and arguably a
+player who doesn't hasn't really given the story a fair shake, since
+nothing is as simple as it first appears.
+
+Common Ground is an unusual piece of IF, on the whole. There are no
+puzzles to speak of, and no real objective--the point is to explore the
+characters and see how they interact. While the result isn't successful
+on every level, it's certainly a worthy experiment, implemented well,
+and it's worth checking out.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+FROM: Volker Lanz <volker.lanz SP@G gmx.net>
+
+NAME: Deadline
+AUTHOR: Marc Blank (Infocom)
+EMAIL: mblank SP@G eidetic.com
+DATE: 1983
+PARSER: Early Infocom
+SUPPORTS: Infocom Ports
+AVAILABILITY: Masterpieces
+URL: Not available
+VERSION: Release 27.
+
+Deadline was the first Infocom mystery and their third released game
+(after Zork I and Zork II). Author Marc Blank said that he did not want
+to do another fantasy game after the Zorks and thought that a mystery
+was an obvious choice: "I thought it was a great idea because most
+people, when they read mysteries, are constantly trying to think ahead,
+what happened. 'Ooh, I would have looked here, I would have done this. I
+would have been more clever.' So, it seemed to lend itself perfectly."
+
+Deadline was also the first Infocom game to come with feelies: In the
+box were interviews with the suspects, some tablets, a photograph of the
+murder scene, a letter from the attorney and a coroner's note.
+
+The story: Marshall Robner, a wealthy industrialist, is found dead in
+his locked-up library one morning. He died of an overdose of Ebullion, a
+medicine he has been taking for his depressions. An apparent suicide...
+Really? The attorney of the deceased asks you, the detective, to
+investigate this case to "quash the suspicions" that are inevitable when
+a wealthy man dies an unnatural death. You have twelve hours to solve
+this case and you begin your work on a Friday morning at 8 a.m.
+
+>From the beginning, almost the complete playing field is accessible to
+the player, so Deadline is a good choice for everyone who likes wide
+game designs and non-linear plots. On the other hand, Deadline also
+suffers from the "you-have-to-know-what's-happening-where-and-when"
+problem that Suspect later showed (though not as much): By your actions,
+you are likely to trigger reactions of the NPCs that happen somewhere
+else. If you don't know that, you are likely to miss crucial points of
+the plot.
+
+Speaking of NPCs: This is where the game really shines. The six main
+NPCs (not counting the attorney, who only plays a minor role) are really
+fleshed out; they act reasonable and consistent to their character and
+motives. You can show a lot of things to them and study their reactions,
+you can ask them about many topics, you can follow them around, you can
+accuse them and listen to what they have to say. Only few i-f games have
+such complete NPCs, I would say.
+
+A weaker point of the game is the early parser it uses: It understands a
+lot of things, but sometimes gets confused or reacts in the wrong way to
+the player's input. Also, the game is quite buggy if you do things that
+the author apparently didn't think of (the Infocom Bug List on GMD only
+shows about a third of the bugs I found).
+
+One major problem with the game is how hard it is: Not only do you have
+to get evidence against the guilty party, you also have to prove that a
+crime was committed at all. This turns out to be a tough job and can
+cause the player quite a headache for some time. Some actions you have
+to perform aren't that obvious (what to do with the holes in the garden;
+or how long exactly you have to wait before you may interrupt certain
+NPCs when they are doing something -- too early and you can't prove
+what they did, too late and they've finished), so players may be tempted
+to revert to a walkthrough or the hints.
+
+All in all, Deadline is a good game that is still worth playing after
+all these years -- in my opinion the best mystery that Infocom did.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Francesco Bova <fbova SP@G pangea.ca>
+
+NAME: Enemies
+AUTHOR: Andy Phillips
+EMAIL: aphillips SP@G ma.man.ac.uk
+DATE: January 1999
+PARSER: Inform
+SUPPORTS: Z-code (Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/inform/Enemies.z8
+
+Andy Phillips has a thing for .z8 games. In 3 attempts he's produced 3
+REALLY big puzzle-oriented games with varying degrees of success. The
+one constant has been that with each successive attempt, he's made great
+improvements in terms of both game design and story. Enemies, his most
+recent work, doesn't fail to impress in many ways and is certainly more
+"user friendly" than his first two offerings. The game chronicles the
+life of Charlie Johnson, accountant and every day Joe, who has
+unknowingly attracted the attention of an enemy (who it also turns out
+is a serial killer). The enemy is a person from Charlie's past who has
+been planning to test Charlie's resolve and intelligence for sometime.
+The enemy contends that Charlie's had life 'too easy' up until this
+point and needs to prove his worth. As an added incentive for Charlie to
+participate in the game, his enemy has also kidnapped his girlfriend.
+The game is broken into three sections: a prologue section (where
+initial bits of Charlie's past are revealed); a main story section
+(which revolves around an obstacle course full of puzzles and memories
+that take place in Charlie's former college); and an ending section
+(where Charlie's enemy is revealed and a final battle ensues). There's
+lots of prose to work through here and the puzzles are many and varied.
+But with such a cavernous game to review, the question is where do you
+start?
+
+Well, let's start with the positives. The best thing about Enemies is
+(surprisingly) the atmosphere. I mention the surprise because what had
+always impressed me about Phillips' work in the past were his puzzles.
+His storytelling conversely had been a little weak. In Enemies, however,
+it's his prose that takes the foreground. The writing is generally very
+creepy and Phillips does a great job of making the player feel that the
+threat is real and around every corner. There were a few instances when
+the prose went a little over the top and when it got to be too much it
+typically fell into one of these two categories:
+
+Aggravatingly repetitive
+
+   "It's quite easy to get caught up in the world of finance and forget
+   about the rest of us unfortunates who never had your chances."
+   "I'd like to see you fail for once, Charlie. You think you're a major
+   player, but in reality you're just a pawn in a very big game -- and
+   it's time to start playing."
+   "Imagine having to write your obituary, Charlie. If they had the
+   decency to be truthful, they'd say what a heartless creep you were,
+   but the ability to lie is second nature to accountants."
+
+   - This is a sample of Charlie's enemy's dialogue, anytime Charlie's
+   enemy comes within earshot of Charlie. By the end I felt like saying
+   "Alright, either kill me or get some new material because I can't
+   keep going on like this!"
+                                    OR
+Cringe-inducing
+
+   "She never had a chance to say, 'I love you'."
+
+   - Charlie's reaction after discovering his dead fiancée. Wait a
+   minute, after dating for two years and proposing marriage, she never
+   told him she loved him? Boy, that upper lip in England gets stiffer
+   every year. :)
+
+But it was worth going through that drivel to get to the little gems
+like this one:
+
+   "It's difficult to ascertain an age since wet sandy hair covers most
+   of her blistered face, but she can't be much older than twenty. You
+   only see her body for a split second before sheer revulsion makes you
+   look away, but the details are memorable: ankles bound with strong
+   twine, adhesive tape starting to peel off her swollen mouth, tattoos
+   of red flowers on her hips."
+
+   - A description of one of your enemy's many victims. Most of the
+   victims are done like this and it's quite unsettling when you find
+   them within the fondly described rooms of your former college.
+
+Another technique Phillips uses to sustain the atmosphere is the
+flashback (which is used when Charlie either gets knocked out or
+stumbles onto something that triggers a memory). Through the flashbacks
+we learn about Charlie's history - more specifically his college years -
+and the characters from Charlie's past. The characters are all well done
+with the usual suspects in full force; we have the bully, the love
+interest(s), the victim, and Charlie's teachers. From this group, a few
+suspects with potential motives arise but unfortunately, all of their
+motives are suspect in turn.
+
+Phillips tries hard to create tension between Charlie and the other
+characters with the flashbacks but what the flashbacks really illustrate
+is that - contrary to his enemy's ravings -- Charlie was a victim for a
+good part of his college life, and had it anything but easy growing up.
+If I feel sorry for anyone in this game it IS Charlie. His past would
+constitute the lead role in any Shakespearean tragedy. In fact, if any
+character has a motive for vengeance it's him. Did Charlie make mistakes
+in his life? Sure. But they were very human mistakes and certainly not
+intentional. That's what makes his enemy's hatred (and through that any
+of the supporting cast's motives for wanting to kill him) a little
+unrealistic. Enemies also tries to convey the feeling that it was
+Charlie's actions that drove his enemy to (amongst other things) serial
+killing. Given Charlie's past, this too seems flawed.
+
+Maybe it's the case then that Charlie's enemy is a psychopath, and that
+Charlie is a casualty of circumstance -- a victim, caught in the wrong
+place at the wrong time. If this was the author's intent. however, then
+the story loses a bit of its effectiveness and the game changes from a
+battle between two masterminds to that of a lowly victim being hunted by
+a mindless predator. My jury's still out on this because I don't think
+that was Phillips' intent. At any rate, it ends up being a minor speed
+bump on the road through a very chilling story.
+
+As I'd mentioned earlier, the focus of Phillips' games in the past have
+been his puzzles. He's racked up a few XYZZY puzzle nominations already
+for some of his previous work and with Enemies he continues to impress.
+I was reading one of the int-fiction newsgroups a while ago and noticed
+someone making a comment about Andy Phillips' previous game Heist. Their
+comment was that in many cases it looked like the plot was being built
+around the puzzle and not the other way around. I had personally never
+seen it that way (maybe it's because Heist is one of my favorite games
+or maybe it's because I've always preferred puzzles to plot), but in
+retrospect I think the author of the post may have had a point. Enemies
+improves a bit on Heist in that respect with many of the puzzles
+centering around different college-related courses including chemistry,
+mathematics, history, and astronomy. The college section is also capped
+off with an entertaining macro-puzzle (a spin off of the board game
+Clue) that brings everything together quite nicely.
+
+Once you move through the college into the final confrontation with your
+enemy, there are fairly strict time limits imposed which require a lot
+of saving and restoring, and in most cases there can't be progress
+without a little learning by death. I know most players don't view this
+as a terribly good thing, but in this case I think it supports mimesis.
+After all, how much time would a serial killer give you if they were
+intent on killing you? 
+
+The final battle between you and your enemy is also done very well. It
+involves both offensive and defensive maneuvers as well as some
+pre-planned setups. I've always been impressed with good fight sequences
+in IF because getting the timing done correctly and keeping up the
+player's intensity is considerably more difficult than with a graphical
+game. 
+
+There were 2 puzzles however that I think might really taint the
+player's perception of this game. The first one in particular ended up
+being a point where I know a lot of gamers stopped playing, and it's
+unfortunate because they miss out on a thrilling finale. Without giving
+too much detail, the puzzle involves an intricate number of steps where
+each step has to be performed correctly. If one step is missed, the
+player gets killed. This sort of thing isn't terribly uncommon in IF but
+the problem here is that the game doesn't give you any clues as to
+whether you're on the right track or not. To make matters worse, the
+puzzle is very complex and requires several boatloads of author
+telepathy to be done correctly. To finally make this puzzle truly
+horrible, there is a random element to the puzzle that means never
+producing the same set of information for the same game so that even
+after reading the walkthrough, I still had difficulty. In frustration, I
+had to e-mail the author with my set of data and he had to feed me back
+the answer. My motivation to play Enemies after completing this puzzle
+was severely diminished, and it took many moons to get my appetite back.
+
+Perhaps not as brutal, but equally frustrating was a poorly implemented
+puzzle revolving around viewing certain pieces of evidence and then
+confronting your enemy with their existence. Although I did see all the
+necessary evidence, I never managed to make the connection that I had to
+see it all in the same saved game, and thus was killed immediately when
+my enemy confronted me. I actually figured out the enemy's identity
+early on in the game because of a subtle hint in one of the puzzles (in
+fact, it was so subtle it may have been inadvertent), so not being able
+to confront my enemy with the evidence made this puzzle even more
+frustrating. 
+
+These were my two main sticking points with the puzzles but there were
+also a few minor problems with the parser, and some guess-the-verb
+problems. The problems were so minor, in fact, that they might not even
+be worth mentioning, but I think I will because I've noticed that these
+particular problems are quite common in bigger games. There were
+instances where I had a vague idea as to what I was supposed to do, but
+the solutions revolved around non-standard Inform actions (i.e., throw
+(x) over (y), put (x) under (y)). In a game like this, it's tough enough
+trying to figure out what to do when you're armed with a stable of
+common Inform verbs, but throw some "not-so-obvious" ones in there, and
+things get exponentially more difficult. A suggestion to remedy this
+problem might be to include a piece in the INFO section detailing all
+the verbs that can be used in the game. A good example of how to do this
+is Jon Ingold's 1999 release, and similarly puzzle-oriented game, The
+Mulldoon Legacy. Ingold lists all the potential commands in the game in
+a special section in the help menu and this makes a very difficult game
+puzzle-wise, much more enjoyable. Ingold also makes a comment in the
+help section of his game that guessing what verbs to use shouldn't be
+part of the puzzle. I tend to agree with him, especially in this case,
+because Enemies would still be sufficiently hard with a comprehensive
+verb list. 
+
+There, that's my last squabble with the puzzles. The truth is that there
+were at least two or three puzzles in this game that could easily be
+nominated for XYZZY awards, and the sense of satisfaction I got from
+completing most of them was very high. A recommendation might be to play
+this game with a walkthrough close by, and when you hit one of the
+killer puzzles (believe me you'll know when it happens), you can save
+both your gaming experience and yourself the grief of trying to plow
+through them.
+
+The ending as I'd mentioned is really well done but one last thing sort
+of irked me. If you finish the game with a full point score, you're
+awarded the rank of "Man of Little Merit". Not that I'm sure Charlie
+ever had anything to prove, but if he did, he at least proved that he
+was worthy of life. Not a big deal, but it left a bad taste in my mouth
+when I finished.
+
+All gripes aside, Enemies is a fine game and for those of you who like
+puzzle-heavy games that don't completely sacrifice plot, this may be one
+to download.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Christian Baker <lankro SP@G hotmail.com>
+
+NAME: I-0: Jailbait on the interstate
+AUTHOR: Adam Cadre
+EMAIL: ac SP@G adamcadre.ac
+DATE: 1997
+PARSER: Inform
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/I-0.z5
+
+When I first started up I-0, I didn't know what to think of the game. It
+starts in the front seat of your fantastic new car, which has broken
+down on the way home to celebrate Thanksgiving. The game has a gimmick,
+or rather, two gimmicks. The first one would be that you can take all
+your clothes off, and it really is fun to watch the NPCs react to
+partial or total nudity. This makes you want to classify it as a Leather
+Goddesses type game, but it isn't really. It's just about fun. I for one
+would love to see the reaction of other people if I started stripping in
+a garage.
+
+The second gimmick would be the fact that you can take multiple paths.
+There is more than one way to win. It is quite easy to win, but I don't
+really think the point of the game was mind-bending puzzles (Adam has
+shown his love of non-puzzle games with Photopia.) I-0 is a very good
+(and funny) game, but there are a few things lacking. The NPCs seem a
+bit stereotyped, but there is a good bit of conversation from Larry, the
+loveable truck driver. The writing is very good and always shows the
+funny side of things, as shown here:
+
+   You'd like to be able to say you're in the middle of nowhere, but
+   that would be wishful thinking. You're stranded at least fifty miles
+   away from the middle of nowhere.
+
+   The entire landscape is nothing but barren desert dotted with scrub.
+   Being a desert kid, you're well aware of how much danger you're in.
+   The scenery may be beautiful in its own way, but the sun is beating
+   down like it's got a personal mission to melt you into goo, and
+   you're well aware that out in the desert everything is either
+   poisonous or covered with spikes. Not to mention what could happen to
+   a pretty girl all alone on a deserted highway...
+
+   As for this particular spot, well, a barbed-wire fence lines the
+   roadside, and Interstate Zero itself stretches endlessly to the east
+   and west. There's a sign here, too, and its twin is on the other side
+   of the freeway directly to your north.
+
+I thought the inside of Taco Junta could have been used better, as it
+seemed a pretty useless location to me. The game isn't particularly big,
+or particularly difficult, but it doesn't give you any "You can't do
+that here" messages, and everything is very detailed. It lets you roam
+free, it doesn't let you sit there and have the plot stuffed down you
+throat. Adam, a darn fine piece of work.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: Inheritance
+AUTHOR: Eric Toth
+E-MAIL: ericndana SP@G juno.com
+DATE: 1999
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABIILTY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/tads/inherit.gam
+VERSION: Release 1 (I think--no version number in the game)
+
+Eric Toth's Inheritance is a throwback of sorts: it's a house filled
+with puzzles for the sake of puzzles, puzzles for their own sake rather
+than for the purpose of a story. While there's an ostensible plot, it
+doesn't really have much to do with the action besides providing an
+excuse for the puzzles. On the other hand, several of the puzzles are
+very clever indeed, and the whole thing is solidly done.
+
+It seems that your rich uncle has asked you to come to his mansion to
+discuss your inheritance, so here you are-- the trick is finding your
+uncle, who doesn't seem to be around. The mansion is crammed with
+strange puzzles, though, as noted, and as you might guess, solving
+enough of them entitles you to fabulous wealth. And off you go, solving
+puzzles, and eventually you reach the end. The puzzles themselves
+vary--some are a bit obscure, but all are logical and some are rather
+ingenious; one relies on an object that the room description seems to
+dismiss as unimportant, and another suggests that there's a way to
+manipulate it that doesn't in fact work, but there are worse sins, I
+suppose. The plot itself hinges on a series of shapes you pick up here
+and there--plastic circles and squares and such--which go into an device
+with appropriately shaped slots. There are very few surprises along the
+way, really--just puzzles. They're not bad puzzles at all, really;
+several of them span multiple rooms in reasonably creative ways. But
+they're puzzles for their own sake.
+
+The various elements of Inheritance hang together quite well. There are
+no bugs to speak of, and the few misleading responses aren't
+game-killers. A few objects go underdescribed, and one puzzle is a bit
+contrived, but the game design, while not incredibly innovative, is
+quite adequate for the job. The writing, likewise, is unremarkable but
+competent; I didn't see any errors or awkward phrasing. (You may miss
+the final bit of text, however, because the game kicks you straight out
+to the DOS prompt when you reach it. Play Inheritance from DOS rather
+than from a window, in other words.) There are attempts at cobbling
+together a story of sorts--one significant object is described as a gift
+from your uncle that doesn't really fit, another is identified as
+incongruous in another respect--but the bits don't add up to a story.
+
+There's not much inherently wrong with Inheritance, really, other than
+the point when it appeared, namely late 1999--as all-puzzle,
+minimal-story games are hardly in vogue these days. The puzzles would
+have to be impressive indeed for such a game to be received well--see
+Erehwon for a puzzle-driven game whose puzzles were good enough to make
+up for the lack of plot--and while Inheritance's puzzles aren't buggy,
+they're not all that original either. The shift toward the fiction
+aspect of IF has raised the playing population's standards regarding
+what works as a game, and even the most skillfully done crossword will
+get a tepid response if the narrative doesn't justify it. Here, I'm
+afraid, the narrative doesn't do much more than provide an excuse for
+the setting.
+
+Nostalgic fans of IF--those who first encountered IF when story was
+subordinate to puzzles--may well enjoy Inheritance--it's a solid example
+of its type. But IF as it has come to be known rarely works this way,
+I'm afraid.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Karen Tyers <karvic SP@G btinternet.com>
+
+My attention was drawn to this little gem by a posting on the newsgroup
+I read, and it was precisely because it was deliberately being
+under-promoted that made me go online and get it. I can't remember the
+exact wording now but the responses to the posting ranged from 'if it's
+that *** bad why should I play it' to 'I played it and loved it'. Anyway
+I duly downloaded the TADS gamefile and this was the intro that greeted
+me:
+
+   "You haven't spoken to your rich, eccentric uncle in several years,
+   but when he asks you to visit his mansion to discuss your
+   inheritance, you gladly agree. His private helicopter picks you up at
+   his office building and flies you to his secluded mansion. The pilot
+   sets down on a roof-top helicopter pad, and informs you that your
+   uncle is waiting for you in the south tower, before flying off into
+   the night.
+   INHERITANCE by Eric Toth (ericndana SP@G juno.com)
+   Developed with TADS, the Text Adventure Development System."
+
+So I found myself on the roof of the mansion looking at two towers, one
+of which I could enter and one I couldn't. Having got down into the
+mansion, I duly began to explore. It's not a very large game - about 27
+locations, excluding the arbitrary maze, which is not large and very
+easily mapped. Actually I am probably wrong to call it a maze, since the
+exits are clearly marked and there's no real way to get lost.
+
+I soon came across my uncle's laboratory (minus one uncle....), which
+contained a peculiar device which looked like one of those children's
+puzzles with slots of varying shapes. At last, I could use the various
+pieces of plastic I had found. There was also something that looked like
+a printer attached to it.
+
+This is a simple little game, and should be easily finishable in a
+couple of hours, or as the author says, over a lunchtime, unless you are
+like me of course. I got totally stuck because I couldn't get a blasted
+cat to move out of the way. However, a quick email to the author solved
+that problem, and one other concerning a photo (which was a bit oblique
+but when you knew the answer, quite logical).
+
+This could easily be developed into a much larger game, although I don't
+think Eric has any intention of doing anything else with it. It's a real
+shame, because it is a lovely traditional game, and if like me, you are
+not keen on the way a lot of i-f is going, you will have a lot of fun
+zooming around this one.
+
+There were one or two grammar errors ('a' instead of 'an' and wrongly
+used apostrophes for example), but I only found one 'proper' bug and
+that does nothing to stop you playing the game - just try typing 'sleep'
+when you're sitting in the armchair and you'll see what I mean. It would
+also have been improved by the addition of more synonyms.
+
+Overall this is ideal for beginners - they should only come unstuck in
+one place, where a more detailed description of a very mundane item
+could point you in the right direction, but this is really my only
+gripe. Go download it - you'll have a couple of hours fun.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Francesco Bova <fbova SP@G pangea.ca>
+
+NAME: Inhumane
+AUTHOR: Andrew Plotkin
+EMAIL: erkyrath SP@G netcom.com
+DATE: when he was 14
+PARSER: BASIC adapted to Inform
+SUPPORTS: Z-code (Infocom/Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/inhumane.z5
+
+Have you ever wondered how some of your favorite interactive fiction
+authors got started? I can remember playing Jigsaw for the first time
+and thinking that its author (Graham Nelson) must have been born from an
+exceptionally intelligent gene pool, gone to an ivy league school, or
+been raised by alien technology. The game was incredible and I'd always
+wondered what sort of experience had lead to producing someone with such
+good programming and writing skills. 
+
+Well, the game "Inhumane" provides us with a brief snapshot of what one
+of the better known IF authors, Andrew Plotkin, was up to in his younger
+years. Inhumane (a game originally coded in basic by Plotkin when he was
+14), is a spoof of the Infocom classic Infidel. Infidel was one of the
+easier Infocom games (I think I won in it in about 2 days), and keeping
+with that tradition, Inhumane is easily winnable within an hour. No
+guess-the-verb puzzles, no scenic landscapes, no moral plays. Basically,
+it's the antithesis of everything Andrew Plotkin has made since. (see So
+Far, Spider and Web) 
+
+The game follows the same premise as Infidel (find the buried treasure),
+but that's where most of the similarities end. Much like Infidel, Andrew
+has incorporated a few novel traps into this game. Unlike Infidel, the
+goal is not to disarm or avoid them, but rather to get killed by as many
+of them as possible. Only then can you attain the ultimate treasure
+(you'll understand this bizarre logic once you play the game). I'm not
+really giving too much away here because you should be able to win the
+game in the time that it takes you to download it. 
+
+As a game, the traps are adequately programmed and maybe the only real
+flaw is that the objects you can examine usually don't have any
+descriptions. This seems to be a fairly small shortcoming considering
+the age of the author when he wrote it, and the fact that this game was
+coded in BASIC. 
+
+All in all, not a bad little game. Certainly better than some other
+first attempts out there. At the very least, it's interesting from a
+historical standpoint to play the first offering from one of the premier
+talents in the interactive fiction community before he became a premier
+talent. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: Intruder
+AUTHOR: Volker Lanz
+E-MAIL: volker.lanz SP@G gmx.net
+DATE: 1999
+PARSER: Inform standard
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/zcode/intruder.zip
+VERSION: Release 59
+
+One of the most important advances in recent IF is what might be called
+player-friendliness, meaning the game's capacity to supply logical
+inferences. Michael Gentry's Anchorhead was a particularly good example
+of this: not only did the game have a large rucksack-type object (a
+trench coat, in that case) that could hold everything in the game, but
+it also handled the bulk of the item-juggling for you, so that you put
+items into and take them out of the trenchcoat automatically when you
+needed them. Likewise, you had a keyring, and when you came upon
+something you wanted to unlock, the game automatically sorted through
+the keys on the ring and checked whether any of them were the right one.
+Not many games do as much as Anchorhead to help out the player and keep
+annoyance at bay, unfortunately, and while Volker Lanz's Intruder is a
+good effort in many ways, the frustration factor is very much a problem.
+
+It seems you're a private eye hired to break into a house by a woman who
+wants evidence against her husband for their divorce proceeding--though
+it's more like coercion than hiring, since the woman threatens to have
+your creditors start collecting on their loans if you don't help out. At
+any rate, you do indeed break into the house, and the initial goal
+drives what you do in most significant ways for about two thirds of the
+game. At that point, you start trying to find something else, and how
+you know what you're looking for or where it would be escaped me
+completely. It's true, of course, that no IF protagonist ever really
+feels content if he or she leaves doors unlocked, but there's a
+difference between pure exploration games--fantasy, in particular, where
+it makes some sense to look under every stone--and others where you have
+a defined goal that doesn't include playing magpie. It's one thing to
+have ill-defined motivations throughout the game, but it's another to
+have very clearly defined motivations that don't in fact shape
+everything you do. (Well, they explain the importance of what you
+eventually find, but you get no hint as to why you would start looking
+for it originally.) It might have been helpful to actually throw in some
+of your mental processes: "your thoughts now turn to matter X, and you
+wonder whether it's possible to find object Y." At least, that would
+keep the plot moving.
+
+Complicating your task in addition is a _very_ small inventory limit, a
+finite light source (which is pretty easy to exhaust), a fairly
+restrictive time limit, and a puzzle that requires massive amounts of
+logistical planning and traipsing around. None of it is illogical per
+se, I should stress--I can't say that logic is advanced by infinitely
+large rucksacks, flashlights that last all night, and such--but
+sometimes cold logic and realism are not the friend of an IF designer.
+One particularly frustrating puzzle in Intruder necessitates either that
+you walk around turning on every light in the house or wander around in
+the dark, which is simply irritating, and while there are several clever
+puzzles (though some are old chestnuts), the annoyance aspect is
+considerable. Intruder seems to put a premium on having to do silly
+little things, like locking your car door before breaking into the
+house, and while it makes sense, these are the sort of gaps I'd rather
+just have the game fill for me. (Also, the hints only cover the first
+third of the game, which I found frustrating, since the puzzles for that
+section are pretty easy.) It's also annoyingly easy to lock yourself out
+of victory.
+
+Technically, likewise, Intruder is a mixed bag. One container object
+does not suggest that it is openable, another suggests that it's
+unlockable when it's not, and the syntax for another puzzle was a total
+shock to me. There are various little things that bothered me--dropping
+objects down a hole elicits a "you hear a sound as if something's
+breaking," even if you dropped a key or a bolt cutter, which aren't in
+fact likely to break. There are some typos and writing errors as well,
+but the bulk of the problems are design-related, and they diminish any
+potential for immersion considerably.
+
+The frustration factor is all the stronger because there's plenty to
+like about Intruder in other respects. The backstory is well done--it's
+rare that you have a PC with such a thoroughly defined set of
+motivations--and there's an actual reasonably believable plot. The
+characters--you and the woman who hires you, and to some extent her
+husband--come across very effectively; the author spends enough time
+developing each character to make them understandable and not
+caricatures. The setting itself is well described without excessive
+detail, and most of the objects and locations make sense. The tedium
+distracts from the story, unfortunately, and the logistical-planning
+aspect makes Intruder less a story than a set of tasks. In short, the
+story of Intruder has plenty of promise, but the implementation of the
+puzzles gets in the way.
+
+Intruder isn't a bad effort, at bottom, and it has its moments. If you
+can overlook the design flaws, it might be worth a try.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+FROM: J.D. Berry <berryx SP@G earthlink.net>
+
+NAME: Lost New York
+AUTHOR: Neil DeMause
+EMAIL: neild SP@G echonyc.com  (Not sure how current this is)
+DATE: 1996-1997
+PARSER: TADS   (Also available in PC format)
+SUPPORTS: TADS interpreters
+AVAILABILITY: Shareware ($12) (GMD)
+URL: https://ifarchive.org/if-archive/games/tads/lostny14.gam
+VERSION: 1.4
+
+Start spreading the news
+Download this today
+You'll want to be a part of it
+It's "Lost New York"
+These time-traveling shoes
+Are longing to stray
+Right though the very heart of it
+It's "Lost New York"
+
+Sports aficionados say the mark of a good referee is that you never
+notice him. He quietly and efficiently does his job controlling the game
+without seeming to control the players. Lost New York (LNY) is that
+referee. There's a definite air of professionalism throughout the work,
+but you may not realize it until after the game. "You know, I don't
+think the ref blew any major calls."
+
+Interactive fiction players think one mark of a good game is when they
+become absorbed by it. For this to happen, the world not only must feel
+real but it must be engaging. Now, if you've ever been to New York City
+(NYC), you know the smell isn't always a pleasant one. But, not only its
+smells but by its whole atmosphere (good and bad), you KNOW where you
+are. You're in New York, *&^%$! Remember, though, a game must do more
+than capture the effect. It must do so in an interesting way. LNY
+succeeds here too. You never get the feeling you're just walking down
+each street for the sole purpose of realism. You never get the feeling
+you are just a tourist. You are part of an unfolding story as well.
+
+I love the rich history that permeates the game, often seeping into
+strange but satisfying places. Your score is compared to a mayor of NYC
+complete with a small biography. Excellent! This also ties in nicely to
+the game in general. Even the better mayors were not without their flaws
+and not without the sense that the city was so much bigger than they
+were. You, the player, are thrust into the same situation. You control
+some things, but the city largely has its own say, its own destiny.
+
+I must point out that I am neither a patient person nor a master game
+solver. Thus the complaints I do have about the game may be more
+accurately pointed at my own flaws as a player. As a reader of the
+newsgroups, though, I feel some of you may be in the same dock. With
+this in mind, I think you'll get an idea of how to approach this game
+based on your strengths and weaknesses.
+
+The game can become unwinnable quite easily. For instance, I didn't
+bring along a certain object because I had already taken the "important"
+thing from it. Later on of course I needed to use that object for
+something else. Restoring back so far was quite annoying. If you're the
+sort of player who has an intuitive feel rather than an expert gamer
+feel, you may find yourself in these kinds of traps too.
+
+Near the end of the game I resorted to the walkthrough. I'm glad I did,
+because I don't think I would have put everything together no matter how
+long I had played. But I was able to solve 5/6 of the game on my own.
+The puzzles and situations were generally very fair, although at one
+point you will perform an action of questionable morals which is a
+little out of character for the "average joe" player you are. (The rich
+man in the park.)
+
+Let me quickly finish the remaining other little nits. I had trouble
+figuring out how to use the future subway. Also, the timing of a subway
+encounter in another situation frustrated me. Every now and then I had
+difficulty in communicating what I wanted to do. None of these remotely
+resembled downright aggravation.
+
+If you love detailed and responsive NPCs, you won't find them here.
+However, this does not take anything away from the game. In the first
+place, NYC is not the most congenial of places. There are no kindly but
+knowledgeable grandmothers or entertaining yet clue-revealing minstrels
+here. The thieves are definitely not gentlemanly. Also, LNY is a history
+piece. You are dealing with the city as an evolving entity. The NPCs are
+like little cogs in a bulky, inefficient, black box machine. They may or
+may not have a minuscule role in city's existence and evolution. They
+are important only to the degree that they can help you. This attitude
+may hurt most games, but it works perfectly here. It fits.
+
+Lost New York is an engaging work of interactive fiction and even a
+standard on which all historical pieces should be judged. Bear in mind
+that its whole is definitely greater than its parts. Each element taken
+by itself is merely good. The overall effect is very pleasing.
+Experience it for yourself!
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Michael Macwilliam <m.macwilliam SP@G virgin.net>
+
+TITLE: 9:05
+AUTHOR: Adam Cadre
+E-MAIL: ac SP@G adamcadre.ac
+DATE: 2000
+PARSER: Inform standard
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/zcode/905.z5
+VERSION: Release 1.00
+
+You wake up in bed. A reassuring start and one familiar from several
+games. You are spared the precision manoeuvring that was required in
+Hitchhiker's Guide To The Galaxy; instead, if you pick up the phone you
+receive a message urging you to work. It is 9:05 and you have slept
+longer than you intended...
+
+The game plays smoothly with no real apparent problems - something might
+strike you as strange when you are given a set of keys, but don't seem
+to be able to lock the front door on the way out, but hey, this is
+interactive fiction anyhow, and if we are prepared to accept endless
+magical transportations and interdimensional shifts in other games, then
+we should be able to deal with that. Also, the author's hand is clearly
+seen to be pushing you in a certain direction late in the game, where
+the line "Walk into Bowman's office without the form? Not smart."
+appears, even though we can easily reach that stage without having
+encountered the form yet. A petty point which doubtless could be dealt
+with in the next version - and also one that shows the high standards
+that IF has reached in recent years: if that's all we've go to moan
+about, then we aren't being badly served by the current crop of writers.
+
+Back to the game: play it once, definitely play it once, just to hear
+yourself say "WHAT?" when you reach the end screen. Then play it again,
+and investigate those nooks and crannies that you passed over the first
+time... things shall become apparent. Play it that second time and reach
+the best (?) resolution. On the basis of Cadre's earlier piece I-0 (aka
+Interstate Zero) I suspect that there may still be many hidden treasures
+(not *TREASURES*) lurking in the background though - I played that one
+through about eight or ten times and still missed out on at least half
+the fun. I don't know though - there do seem to be only two ways out of
+this set-up.
+
+In the end, 9:05 is a simple game which could almost be described as
+puzzle-less one - it does contain one puzzle which does not advertise
+itself as such until it is way too late. It's a game that is somewhat
+closer in spirit to Cadre's take on Flowers For Algernon than his other
+more involved Photopia or I-0.
+
+As an end note, it is interesting to see that the whole game can be
+cracked on the second move (if not completed on the third as was the
+case for Flowers).
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: Not Just a Game
+AUTHOR: John Menichelli
+E-MAIL: menichel SP@G pixi.com
+DATE: 2000
+PARSER: Inform standard
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/zcode/njag.z5
+VERSION: Release 1
+
+The game in question in John Menichelli's Not Just a Game is the game of
+Go--the game is set up around a Go board of sorts, and the last few
+puzzles are simply Go problems transplanted directly into the game.
+(There's a booklet lying around for the heretofore uninitiated.) Not all
+the puzzles are Go-related, though; in fact, most of them are
+conventional IF puzzles, and many are quite clever. The result is a
+somewhat schizophrenic but overall fairly enjoyable game that even
+offers some food for thought.
+
+It seems your Go teacher has mysteriously disappeared, but she's left
+behind some clues. The clues lead to a sort of larger-than-life Go
+board, which you have to navigate, by turns using your Go knowledge and
+your common sense. The puzzles you encounter along the way are mostly
+logical, with a few exceptions, and their structure blends symmetry and
+asymmetry in a way appropriate for the underlying game of Go. If there
+are problems, they're largely motivational: most of the puzzles are
+premised on something akin to "here's some stuff to fiddle with, and if
+you fiddle with it properly, you'll have something that will eventually
+prove to be useful," rather than actual goal-driven reasoning. Still,
+Not Just a Game has a lot of company in that respect, and it's hardly a
+fatal flaw. There's also an interesting blend between
+chinoiserie/Orientalism and Western culture, in that the bulk of the
+puzzles that aren't directly related to Go could fit into your average
+house-setting or fantasy game, and there are certain objects (e.g.,
+chewing gum) that would seem a bit out of place if the game were really
+striving to be culturally correct. In fact, the game itself calls
+attention to this contrast--the initial room description puts a Go board
+"between the sofa and the TV," and the description of a computer
+mentions that your teacher "doesn't feel comfortable around
+technological equipment." (Quick disclaimer: I'm not saying technology
+is Western. Merely that late-twentieth-century stuff like computers
+don't fit all that well into the chinoiserie setting, as exemplified by
+Sound of One Hand Clapping, or, for that matter, the endgame of Not
+Just a Game.)
+
+The aspect of the game that requires that you actually apply Go
+knowledge in more than a superficial way isn't quite as successful,
+unfortunately. It may be that Go just isn't easy to learn from a few
+entries in a booklet, but the Go problems that appear at the end of the
+game were difficult enough that I often didn't understand why the
+correct solution was correct, even after I'd found it by trial and
+error. This might be my mental block, but I'm not sure that applied
+reasoning on this level, even if it's only to learn Go, is well suited
+for IF--at least, barring a more thorough tutorial process than Not Just
+a Game provides. The final puzzle, which essentially involves scoring a
+completed Go game, is tedious in the extreme, moreover--once you figure
+out the premise of Go scoring, which isn't all that complicated, it's a
+matter of counting dots on a large grid. Whereas the other puzzles felt
+obscure, this one just feels mindless--and the game would benefit
+considerably, I think, if it were removed.
+
+The writing is quite good--it's rarely especially evocative (the setting
+is largely pretty unremarkable, after all), but it also rarely gets in
+the way of the game, which takes some skill in itself. There's also some
+humor scattered here and there, documented in an 'amusing' section.
+There are likewise few technical flaws or game design problems: one
+section involves a lot of traipsing around, which does get tiresome
+after a while, but at least it's straightforward traipsing. The story
+itself requires some disbelief-suspending, but no more than your average
+fantasy game, to be fair--and the only reason that the suspensions of
+disbelief here require a conscious effort is that the initial genre of
+the game isn't clear from the outset, and the setting wanders back and
+forth a bit between Western suburbs and, um, a vaguely Oriental setting.
+That may be jarring initially, but it's also rather creative, and it
+allows for some interesting juxtapositions. For instance, the "Five
+Elements of Chinese Philosophy" can be found in a poster on a
+refrigerator, and a baseball bat figures prominently in putting together
+the Go-related materials. The picture that emerges is one of cultural
+synthesis, in some respects: your teacher clearly is struggling to
+retain her own values in an unfamiliar culture, and yet you--and she,
+implicitly--are surrounded by the trappings of that culture, and draw on
+them to achieve your ends. The cultures are more complementary than
+conflicting, then--it's not a question of rejecting one in favor of the
+other. (I must say, though, that the computer with Z-abuses on it was an
+odd touch, even under a cultural-synthesis analysis.) In that light,
+then, it's not necessary to believe uncritically that, as your teacher
+says, Go is "a reflection of your inner self"--merely that there are
+many for whom the game of Go really is that important, and that it's
+worth examining the implications of those values.
+
+As a game, then, Not Just a Game is quite solid, if hardly
+extraordinary. The puzzles are good, and reasonably creative, but
+nothing particularly remarkable, and the Go puzzles themselves don't
+work particularly well. But among the subtexts are some rather unusual
+IF themes, unusual enough to make this one of the more interesting
+recent works of IF.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Karen Tyers <karvic SP@G btinternet.com>
+
+TITLE: Not Just an Ordinary Ballerina
+AUTHOR: Jim Aikin
+E-MAIL: jaikin SP@G pacbell.net
+DATE: 1999
+PARSER: Inform standard
+SUPPORTS: Z-machine interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/zcode/ballerina102.z8
+VERSION: Release 1.02
+
+I downloaded this game from the ftp.gmd.de archive after seeing an
+announcement on the rec.arts.int-fiction newsgroup and as soon as I read
+the introduction I knew I was in for a real treat:
+
+   It's Christmas Eve. Rather late on Christmas Eve. Just this afternoon
+   your darling 7-year-old daughter Samantha announced that fully a week
+   ago she mailed a letter to Santa Claus asking for Sugar Toes
+   Ballerina, the unbelievably sought-after, impossible-to-find fad doll
+   of the decade. Unwilling to see little Sam heartbroken on Christmas
+   morning, you frantically phoned every toy store in town.
+   Miraculously, you found a shop that claimed to have a Sugar Toes
+   Ballerina in stock!
+
+   But that was two hours ago -- before the flat tire. Now it's getting
+   dark, and icy weather is closing in. The address you were given, on
+   the outskirts of town, has proven to be that of a dilapidated and
+   disreputable-looking shopping center -- not a modern chrome-and-neon
+   strip mall, either, but a hulking two-story structure that looks to
+   be the ill-favored offspring of a fairy castle and a canning factory.
+   The shopping center is tucked well back from the street among
+   brooding skeletal trees. Other than a few dim yellowish lights that
+   show no trace of holiday spirit, the building is shrouded in gloom,
+   and yours is the only car in the parking lot.
+
+Although my own kids are grown up now (well, they think they are...) I can
+well remember the fad toys that were always (and still are) hyped at
+Christmas, and how kids are made to feel they are missing out if they
+don't have one. So, with great nostalgia I embarked on my quest for the
+Sugar Toes ballerina doll.
+
+The first impressions are great. The dark, apparently deserted shopping
+centre, hardly a sound anywhere, and freezing cold. Wandering around, I
+found I couldn't get very far as seemingly the power was off, and my
+hands were too cold to do very much. I found a security guard almost
+immediately but fortunately for me he was sound asleep. Unfortunately
+his elbow was leaning on a very interesting looking key and I couldn't
+obtain it straight away as he kept waking up and frogmarching me out of
+the building. However, there is a way to get hold of it and after much
+messing about I managed to do that very thing, and then found I could
+unlock most of the locked doors in the complex. However, that didn't
+solve the problem of no power, therefore no lighting. One other problem
+to over come initially was the series of security monitors covering the
+entire centre from the office where the guard is. Eventually, after much
+pulling out of hair, I did manage to disable them all and find a power
+source, so was able to explore at leisure.
+
+Perhaps leisure is not the right word here, as there are three floors to
+the centre, plus the roof, so I found my map sprawling over several
+pages. There are loads of shops and almost all of them have a unique
+puzzle attached to them, which in turn relates to another puzzle
+somewhere else. The difficulty level of the puzzles ranges from
+easy/medium to oblique/!**! impossible. Well not quite impossible, but
+some of the hardest I have come across in a very long while. A couple of
+them put me in mind of Steve Clay's Taxman series some years ago, but
+don't let that put you off. The game has an inbuilt gradual hint system
+so if you find you're really stuck you can use that.
+
+I have to say here that I am not sure I am in favour of the in-game hint
+system, as it makes it too easy to cheat if you are weak-willed. I
+managed to be very disciplined and only resorted to the hints three
+times, and given the difficulty of the game, I was quite pleased with
+myself.
+
+On your quest you will come across such things as a depressed elf, a
+homeless man, the security guard and a rather nasty, very large dog,
+plus one or two others.
+
+I have to say I haven't enjoyed a game as much in a very long time. It's
+one of those that keep pulling you back for just one more try. On more
+than one occasion I found myself looking at the clock to realise it was
+past two in the morning, and that doesn't happen very often.
+
+The writing is excellent, with very little in the way of errors. Of
+course, you have to allow for the difference in spelling (eg tire
+instead of tyre), but I have no quibble about that. The game runs
+smoothly, and solving one puzzle seems to lead right into another
+without any let up. I lost count of the number of objects to be found -
+63 at the last count, and every one has at least one use. This will give
+you some idea of the size and complexity of the game.
+
+I haven't quite finished it yet. I have found Sugar Toes, but haven't
+yet managed to pay for it (I'm very honest you see). This last puzzle
+has me climbing the walls - I know what to do and I have the necessary
+items (I think), but will have to put a lot of time and effort into
+solving it. There appears to be no built in hints for this last one
+(deliberate?) so I may well email the author and ask for help.....
+
+To close I would say that this is an unmissable game, and you know me, I
+don't say that very often.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+There are inherent mimesis problems in most puzzle-fest IF, since most
+of us do not live in a world where we need to solve logic problems or
+math riddles to open doors. One of the most significant mimesis problems
+is the objects-out-of-place syndrome--since most interesting puzzles
+involve objects with unusual or striking properties, the game author
+needs to come up with a good reason why the setting might include the
+objects that are vital to her chosen puzzles. Jim Aikin's Not Just an
+Ordinary Ballerina solves the problem in a rather creative way: the game
+is set in a shopping mall. Not just any shopping mall, of course; this
+one includes such things as a hair salon, a book bindery, and an antique
+store, the better to craft puzzles with, my dear. What results is about
+as unabashed a puzzle-fest as IF has ever seen--and while not all of the
+puzzles are highlights, the result is still thoroughly enjoyable.
+
+You're a parent (the game carefully avoids giving you a gender, though
+given the limited NPC interaction, this isn't all that remarkable a
+feat) searching for a doll on Christmas Eve, after the stores have
+closed; your 7-year- old daughter has her heart set on one Sugar Toes,
+and you're determined to find it. That's the premise, and it's a good
+one, but in truth it hardly matters whether you're after a ballerina
+doll or the Magic Hair Dryer of the Gods, since you can largely forget
+about your ostensible purpose until the very end. NJAOB is an old-style
+game: the puzzles are, I think it's safe to say, the raison d'etre, and
+your daughter and the doll provide a reasonably plausible framing device
+but not much more. (Perhaps that's not fair--some of the crueler
+obstacles you overcome could be taken as a wry comment on Christmas
+shopping and the primitive instincts it brings out in parents who are
+intent on keeping their kids up with the latest craze--but the game
+doesn't really do anything with that particular angle.) The result is
+distinctly reminiscent of Infocom's golden years in several respects;
+there's an initial premise, and the player is told to go forth and solve
+puzzles, most of which have no obvious connection to the ultimate goal,
+in hopes that things will work out in the end. On its terms, it works
+well--but as the trend in recent IF has been toward the integration of
+story and puzzles, NJAOB feels like something of a throwback.
+
+The puzzles--well, thereby hang quite a few tales. Most are quite
+clever; indeed, even those that are familiar in certain respects have
+original twists that help liven up the proceedings. There are some
+regrettable inclusions, in particular a fifteen puzzle--with a twist, to
+be sure, but it's still a fifteen puzzle in mechanics, and I dearly
+wished for a way to skip it--and several mazes, all of which have a
+twist of some sort, of course, but they're firmly within the maze
+category. Several are math-based, one (one of the first puzzles in the
+game) in a rather obscure way--and while some are straightforward,
+others come perilously close to read-the-author's-mind. On the other
+hand, most of the puzzles have a certain elegance--none, with the
+exception of a certain logic puzzle, are needlessly complicated--and a
+few require rather subtle lateral thinking. The layout of the game is
+distinctly "wide"--after the player solves the first few puzzles, dozens
+more are suddenly available all at once, so there are multiple
+puzzle-solving avenues to explore for most of the game. As with most
+"wide" games, however, there's an inherent frustration element--there
+may be many puzzles to solve, but it's distinctly possible (particularly
+toward the later stages of the game) that only one or two will be
+solvable at any particular moment, meaning that you may not have the
+tools to solve the problem you're currently struggling with. There's an
+in-game hint system that adapts nicely to your progress in the game,
+however, and which informs you if you're not yet ready to tackle a
+puzzle, so that's a saving grace. There's even one puzzle that depends
+on ASCII-art renderings for description-- and while the ASCII art is
+competently done, it feels like something of a betrayal to have largely
+textual IF give up on text at a key point. Moreover, as with many
+puzzle-fest games, the puzzles work only if you don't think about them
+too much--the technicians who set up the power and security systems for
+this shopping mall were either math Ph.D's or Games Magazine editors.
+
+Puzzle-fest IF has an inherent drawback that Ballerina addresses but
+doesn't entirely overcome. The problem is that the game can feel like a
+long slog, a series of Mensa-type puzzles without much in the way of
+reward along the way; if the story doesn't go anywhere when the player
+solves puzzles, and the only payoff is an object that's presumably
+useful for another puzzle somewhere, the whole exercise can turn
+wearisome after a while. Ballerina tries to overcome this in a rather
+unusual fashion: there's a subplot of sorts that periodically intrudes
+on the puzzle-solving in rather unexpected ways, so that now and again
+you're rewarded with some interesting and particularly well-described
+events that give your quest--well, not context as such, but something of
+a contrast. The subplot doesn't really withstand close scrutiny--the
+hows and whys are never resolved, or even touched, and some of the
+puzzle-solving associated with it owes more to whimsy than to sense--and
+yet it improves the game immeasurably, somehow; the incursion of the
+unexpected (and fantastic) leaves the player feeling like she's
+experienced something more than a doll-hunt. Suffice it to say that the
+story element lends the game a touch of wonder--and considering that the
+premise effectively requires breaking and entering on a grand scale,
+wonder is exactly what's needed here.
+
+The setting is vividly rendered, though the talents of a writer as
+gifted as this one aren't likely to be appreciated in this sort of game:
+there are few notable events with which to capture the player's
+imagination, and even the most skillful of room descriptions gets old
+after a hundred readings or so. The tone of the descriptions varies from
+sparing...
+
+   The heavy structure of the shopping center stretches left and right
+   from here. When you crane your neck the building seems almost to be
+   leaning outward, as if it's in some danger of collapsing on top of
+   you, or perhaps pouncing on you. Doubtless that's only a trick of the
+   light. An arched entryway beckons to the south, above it the
+   inscription 
+
+           FLOGG & GRABBY'S STUFFTOWN 
+                    EST. 1974 
+
+   carved in a pigeon-flecked substance that looks more like plaster
+   than real stone. Running along the building above the arch is a
+   covered-over exterior walkway. 
+
+...to faintly silly:
+
+   You've never seen so many lamps in your life. Floor lamps, table
+   lamps, gooseneck lamps, chandeliers, porch lights, track lighting --
+   when God said, "Let there be light," whoever owns this shop said, "I
+   can make a buck on that." The only exit is the door to the lower
+   concourse on the east.
+
+The feel of a slightly seedy shopping mall is well conveyed, for example
+in the "pigeon-flecked substance" in the first description quoted above,
+and to the extent that the game has an overall tone, the tawdriness fits
+it well. Less well developed or apt is the eerie aspect, brought out in
+the "pouncing" bit here and in various references to shadows and gloom
+elsewhere; the writing is more than good enough to set a creepy scene,
+of course, but the tawdry-glitzy aspect and frequent lapses into
+goofiness (the above is hardly the only silly bit) undermine the effort.
+Again, though, given that the puzzles rather than the setting and story
+are the focus of attention here, it's hardly a major drawback. The
+overall feel of playing Ballerina is hard to convey concisely; there's a
+temptation to simply ignore the setting and view the game as a set of
+puzzles, given the number and variety of those puzzles. Most players are
+likely to initially absorb the well-described setting, but increasingly
+disregard it as they start tackling the puzzles, and the extent to which
+the tone and style of the game stays with the player consequently
+varies.
+
+Technically, everything works well here--admirably well, considering the
+size (a 500K-plus Z8 file) of the game and the vast numbers of objects.
+The rucksack stand-in, appropriately enough a shopping bag, isn't
+flawless--I spent more time than I wanted to fiddling with it, and the
+game doesn't provide for things like automatically taking a key out of
+the bag in order to unlock a door. The same problem recurs elsewhere;
+several places where modern-day IF veterans might expect the game to
+supply inferences don't make such inferences, which can be frustrating.
+Still, it's good enough, and most of the glitches I noticed were minor
+details rather than game-stoppers. The hint system is quite well
+done--the adaptive aspect worked perfectly--and several puzzles have
+reasonably logical alternative solutions.
+
+If Ballerina suffers as a game-playing experience, then, it's less
+because it doesn't succeed in what it set out to do than because its
+genre isn't in critical vogue these days, if a field as sparse as IF
+criticism can be said to have a vogue. The PC is largely a cipher, the
+story intermittent and largely without momentum, the NPCs fairly
+cardboard--in short, the game exists largely for the sake of the
+puzzles, rather than trying to create an immersive experience through
+the story. It's far more difficult--virtually impossible, even--to make
+a puzzle-centered game immersive in the same way, and in that Ballerina
+occasionally requires that the player draw on outside knowledge of one
+form or another, it doesn't really try for immersion as such. The
+expectations of IF players in this day and age have been shaped by so
+many moral ambiguities, unreliable narrators, branching plots, and the
+like that the puzzle-oriented nature of Ballerina may prove
+unsatisfying.
+
+On the whole, then, Ballerina fits its genre admirably, and the player
+who doesn't ask it to be more than a puzzle-fest will not be
+disappointed. The puzzles are difficult, but largely fair, and they
+boast a wealth of originality. It has some minor flaws, but it's worth
+checking out.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Francesco Bova <fbova SP@G pangea.ca>
+
+NAME: Perilous Magic
+AUTHOR: David Fillmore
+EMAIL:  Noslwop SP@G Hotmail.Com
+DATE: June, 1999 ????
+PARSER: Inform
+SUPPORTS: Z-code (Inform) interpreters
+AVAILABILITY: Freeware
+URL: https://ifarchive.org/if-archive/games/zcode/permagic.z5
+
+3 rooms, 2 characters, 8 tangible objects, and 1 joke; that's all that
+there is to David Fillmore's 1999 offering Perilous Magic. Perilous
+Magic is one of a growing number of 'bite-sized' pieces of non-COMP IF
+that have become quite popular over the last year. 'Bite-sized' IF is
+interesting in that there's usually one convention that's being pushed
+or one joke that's being promoted and the games are typically finishable
+in a few minutes. Often, these smaller games are a nice break away from
+the bigger pieces out there that can seem more laborious than fun to
+finish.
+
+Perilous Magic takes place in the Zork/Enchanter universe and is
+entirely built around a historical reference from the accompanying
+material in the Infocom game Enchanter. The game actually reminded me a
+bit of the film Rosencrantz and Guildenstern are Dead, where the story
+of Hamlet is told from the confused perspective of the aforementioned
+bit players. With Perilous Magic, we look at a bit of Zorkian history --
+specifically the misuse of a spell resulting in disaster -- through the
+eyes of the person who caused the disaster. The puzzles are straight
+forward and the goal easy to attain. The end result is amusing but alas,
+even for 'bite-sized' IF, the game is a little too sparse with many
+interesting options left untouched. 
+
+Most of the problems revolve around not putting enough effort into
+coding objects. As I'd mentioned previously, there are roughly 8
+tangible objects in this game. 2 of these objects are Enchanter-like
+spell scrolls that are implemented using Graham Nelson's source code for
+Balances. One of the spells is a stand-alone spell that can't be cast on
+anything while the other spell can be cast on objects and people with
+interesting effects. You can imagine my chagrin then, when I started
+getting the dreaded non-default response, 'The spell fades and fizzles'
+when I cast the spell on objects that were part of the game's scenery.
+Considering the scope of Perilous Magic, it left me wondering whether it
+would really have taken much more energy to implement a few creative
+results. 
+
+There were similar problems with the game producing too many default
+messages for actions that should have had less than ordinary responses.
+This was especially true in areas where I felt a good snarky comeback
+would have been easy to come up with. I realize it's tough to come up
+with good non-default responses for everything, but we're not talking
+about a game the size of Jigsaw here. We're talking about 8 objects, and
+1 NPC. Spells should never fade and fizzle in this universe and towering
+stacks of paper, precariously positioned on the corner of your desk
+should not be hardly movable when pushed. 
+
+I know a few of you readers are probably asking why I'm being so tough
+on Perilous Magic for its poorly 'padded' objects when it was obviously
+intended to be nothing more than a small diversion and considering the
+fact that a lot of smaller games are conceived of, programmed, and
+released all in the span of an hour or two, and in those cases polish
+isn't particularly important (take Speed IF for example). Well consider
+this oddity: If you download the latest version of Perilous Magic,
+you'll find that you've download version 10 (yes, 10) of the game. How
+is it a game the size of Perilous Magic has been updated 10 times while
+larger games like The Mulldoon Legacy and Enemies only need 3 or 4
+releases? The point is that after 10 updates of a 3-room game, I expect
+to see non-defaults for every action I can think of let alone the
+obvious ones. If I try to squeeze my desk, jump over my co-worker, or
+kiss my report something interesting had better happen in every
+instance! Hmmm... that's going a little overboard (well actually more
+than a little...), but I think you catch my drift.
+
+Non-default problems aside, Fillmore seems to have promise as an author
+because of his good sense of humor. In fact, Perilous Magic's INFO
+section (much like in his '99 IFCOMP release) is as memorable as the
+game because of it. Fillmore also seems to grasp the basics of
+programming Inform well enough and even pulls a few neat tricks straight
+out of the Inform manual including a little Microsoft Windows sound that
+goes off when you get points (at least I heard them using Winfrotz).
+Still, quirky sounds, a good INFO section, and flashy quotes can't
+disguise the fact that their isn't much flesh on this skeleton and it
+all left me wondering what might have been had Fillmore focused his
+attention more on the game and less on the bells and whistles.
+
+When you reference your IF heavily to the Zork/Enchanter series there
+will always be comparisons drawn. The question is then, does Perilous
+Magic successfully qualify as a new chapter in the wonderful
+Zork/Enchanter anthology (like perhaps Nate Cull's game Frobozz Magic
+Support)? Nah, it's more like an extension to an existing footnote, but
+probably still worth the download if you have five minutes to kill.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Christian Baker <lankro SP@G hotmail.com>
+
+TITLE: Shrapnel
+AUTHOR: Adam Cadre
+E-MAIL: ac SP@G adamcadre.ac
+DATE: 2000
+PARSER: Inform standard
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/zcode/shrapnel.z5
+
+Shrapnel is weird. Really weird. I just want to get that out in the
+open. Shrapnel seems less like a game, more like an idea that Adam Cadre
+had been mulling around. The question on r-g-i-f is, is Adam Cadre a
+genius or a madman. I’m settling for genius, but as Andrew Plotkin said,
+"If he snaps and starts barbecuing the neighbors, of course, we'll have
+to pencil in some corrections."
+
+Shrapnel starts off outside the classic Zork White house, but it’s soon
+obvious that this is no Zork clone. Or any clone of anything ever made.
+You go north, you get eaten by vicious attack dogs. I try to quit,
+seeing that this is just another "One room death" game. I start typing
+QUIT, and find to my surprise that the game is forcing me to type
+RESTART. I go north from the original location, and find that another
+location has opened up. And so on. And so forth. I felt like the game
+was leading me round the (extremely strange) plot, and it seemed like it
+was just a matter of time before I completed it.
+
+But on the brighter side, the writing and room descriptions were
+excellent. A good example is:
+
+   In the pines
+   As you proceed along the path, the light trickling in through the
+   treetops seems to grow brighter, as if it had been sunrise and not
+   sunset when you began. And the trees... this isn't North Carolina
+   anymore. This is, what? Maryland? Pennsylvania? You'd think a man
+   would notice walking two hundred miles, but apparently not.
+
+   You hear voices in the distance.
+
+   "Hey, Green," says the first one. Even this is enough for you to
+   pinpoint the accent: Carolina. So you're not caught behind enemy
+   lines. Good to know.
+
+   "Yeah?" says someone, presumably Green. There was a Green in your
+   regiment, you recall. Common enough name to be coincidence, though.
+   "Have you been helped?"
+
+The characters are a bit underdeveloped, but what do you expect from a
+game you can complete in under 10 minutes? What this game does best is
+unsettle you. The whole game has an extremely eerie atmosphere, and half
+of that is due to the strange plot (or lack of a plot, I’m not sure
+which.) The other half is due to some Adam Cadre writing, and the
+strange ignoring of player input. It really adds something to the game,
+and gives the feeling of a total lack of control. All in all, the game
+is short and pointless, but darn enjoyable for a short while.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+It's science fiction! It's a split-identity story! It's a war story!
+It's a parody of Zork! It's a satire! It's Adam Cadre's Shrapnel, the
+weirdest bit of IF to come down the pike in quite some time, and there
+are enough things going on here to drive several full-length games (this
+one takes about 15-20 minutes, though). The ideas are interesting, but
+there's not much polish here--mostly, we only get the ideas. Still,
+Adam's ideas are better than most, and the game does has its intriguing
+moments.
+
+To try to describe the plot of Shrapnel would be a thoroughly futile
+endeavor, because the point is that the story doesn't travel in any
+discernible path: rather, you come across fragments of story here and
+there, and what exactly is going on isn't apparent until the end, when a
+character appears and infodumps all over you. Even then, it may not be
+fully clear how everything fits together--there are still plenty of hows
+and whys left unresolved for those who care about such things. Moreover,
+there are quite a few memorable images and surprising moments, meaning
+that you might remember and be affected by certain bits of Shrapnel even
+if you never tried to put the various story pieces together. 
+
+Shrapnel might in fact be remembered more for its meta-IF elements than
+its actual story. For one thing, this is the first work of IF to
+actually ignore keystrokes--not disregard a command, but actually ignore
+that the player is typing something and show something else as the
+input. What's shown is 'restart,' no matter what the player types, at
+the restore/restart/quit prompt, though restart generally continues the
+story from where it left off rather than starting from scratch.
+Moreover, pauses are an essential part of the presentation of the text,
+again a meta-IF function that may catch the IF veteran off guard.
+Similarly innovative is "talk" as a conversation system: you direct your
+conversation toward whoever you're paying attention to, usually the
+person you last interacted with, and you're given a choice between
+accepting or rejecting a proposed rhetorical sally; if you refuse, your
+character says something else, something you have no way of predicting.
+The fragmentary aspect, the variety of apparently unrelated plotlines,
+is reflected in the text itself, which now and again spits out
+disjointed words and phrases that have already appeared elsewhere.
+
+All these are intriguing, even subversive takes on IF as we've known it
+up to now, but--I know, I know, this is a hangup of mine--they also
+reduce the interactivity aspect down to just about zero. In something as
+short and disjointed as Shrapnel, the immersion factor is minimal
+anyway--by the time the player has figured out what's going on in the
+story, the story's over--and when the game commandeers the keyboard, the
+player is justified in thinking, well, why do you need me here, tapping
+on the keyboard? Why don't you just let everything scroll by me at once?
+Certainly, there's interaction of a sort here, even if it's forced:
+being powerless to stop the course of the story is an integral part of
+the experience, of course (though it's still possible to quit at prompts
+other than restart/restore/quit), but, again if you can't figure out
+what story is being told, it's hard to get all worked up about not being
+able to stop it. The limited control over the conversation system is
+similar: if the player's only control over what's said is a veto on one
+conversational option, the character may as well just start talking.
+(Admittedly, there are several people the player can talk to, but the
+choices aren't exclusive--were this rewritten as static fiction and the
+conversations simply written out, one character after another, the
+effect wouldn't be dramatically different. There are a few effects that
+couldn't be reproduced in static fiction: notably, you die repeatedly
+over the course of the story, and the place is littered with your own
+corpses by the end--but it's questionable how much impact that has on
+the story when the player's likely reaction to the deaths is something
+on the order of "huh?" It's not that there are no choices to be made in
+Shrapnel, but the choices there are affect the outcome so minimally that
+the result is closer to F than IF.
+
+Still, in its own way, this is pretty good F; the effect may be that of
+an early draft of a novel, with ideas, themes, and character development
+all fighting for space, but it looks like it would be a fascinating
+novel. Notably, the protagonist is split between two separate
+identities, and piecing together the way those identities is an
+intriguing challenge. (Of course, given the rampant confusion, the
+player isn't likely to make much headway in separating out those
+identities by the end of the story, but there's definite replay
+potential.) On the figurative level, the numerous violent deaths you
+experience are a precursor to the pain that your character inflicts, and
+you could even say that you're desensitized to the violence sufficiently
+that it doesn't have much effect on you, the player, after a while. (A
+similar process seems to have gone on with the character himself.) The
+Zork parody element--Shrapnel is set in and around a white house, and
+the living room has a rug with a trap door under it--brings out the
+ho-hum-more-violent-deaths aspect, since one hallmark of traditional
+fantasy IF is dying violently so many times that *You have died* has
+zero emotional impact. The core of the story, involving a dysfunctional
+family and abuse, is vividly and disturbingly rendered: the abuse is
+sufficiently distanced from you (you hear accounts of it rather than
+actually seeing it--that your sense of culpability is minimized, which
+is exactly the effect that the character himself has achieved. The way
+you seem to find horrific violence around every corner is a direct
+reflection of the nature of the story: the events that have already
+transpired have left unsightly secrets everywhere. The science-fiction
+aspect that appears at the end of the story, in an apparent attempt to
+make a bit of sense of the demented structure of the story, feels a bit
+tacked on, but it doesn't diminish the impact of what's come before.
+
+In its own way, then, Shrapnel is quite a story, and that it's less
+interactive fiction than a forced march isn't a major drawback, in the
+end. It's certainly not easy to make sense of what goes on, nor is it
+particularly pleasant, but it's still an impres precursor to the
+paindown to just about zerooff guardfragmentary aspectdemented
+structureseems to have gone onho-humrhetorical sallytacked onrampantbits
+of Shrapneldisregard a commandscratchdiscernible pathculpability*you
+have died* [Hit any key to exit.]
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: A Simple Theft
+AUTHOR: Mark Musante
+E-MAIL: olorin SP@G world.std.com
+DATE: 2000
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/tads/quick.zip
+VERSION: Release 1
+
+Mark Musante's A Simple Theft is indeed simple: you're apprenticed to a
+fellow who wants to retrieve a jewel from a castle, and you're sent in
+to do the deed--but it's a nice small game nonetheless, with just a few
+puzzles and a fairly thoroughly done backstory. The setting is fantasy,
+but magic at this point is not under control--your master is hoping to
+find something that would help in control it--and the incursion of magic
+at an entirely unexpected point in the story, and your discovery that a
+certain object has magical properties, therefore fit the plot nicely:
+you have no special insight into or control over magic, so you're not
+expecting it when it appears.
+
+The technical aspect, while mostly good, isn't flawless: one puzzle is
+marred by what I consider a major design flaw (it turns on using an
+object that you're told you can't pick up), and a key object is rather
+confusingly described. Still, in a game this small, there's only so much
+that can go radically wrong, and on the whole the coding is fairly
+solid. Likewise, the writing is more than good enough to tell the story,
+and it's pretty funny in spots as well.
+
+A Simple Theft feels like an introduction to a longer game--in
+particular, your boss, who's barely a character in this one, is an
+intriguing character who deserves more development in a longer, more
+in-depth game. Indeed, the ending text suggests that there's more to
+come: the story doesn't feel at all complete. For one thing, most of the
+names dropped in the introduction remain dropped--they're not explained
+anywhere--suggesting that the author intends to make something more of
+the world introduced here. The PC is worth fleshing out as well--it's
+intimated that you're a thief, but you don't learn anything about how
+you learned your trade or how you came to be apprenticed to your boss.
+
+In short, A Simple Theft is a nice preview of what could be an
+intriguing full-length game. Should there be a followup, it'll certainly
+be worth a look.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Robb Sherwin <Robb.Sherwin SP@G ia.nsc.com>
+
+NAME: Skyranch
+AUTHOR: Jack Driscoll
+E-MAIL: slackerbox SP@G snet.net
+DATE: 1999
+PARSER: DOS, custom
+SUPPORTS: 
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition99/skyranch/skyranch.exe
+VERSION: 1
+
+Professionalism. 
+
+With over a hundred new text adventures being written every year and
+excellent libraries, documentation, and newsgroup help available, it's
+perfectly reasonable to have expectations of the games we choose to
+play. The thing is, it doesn't always work out that way. Skyranch is
+completely lacking in professionalism. Many have stated that it did not
+appear as if the author was a native speaker of English. Valid, perhaps,
+but there has always been a percentage of the population that simply
+does not come across as fast, competent and skilled when it comes to the
+electronic word. We have all seen "the first e-mail" from our otherwise
+intelligent computer-newbie friends that looks like it was typed by a
+mentally handicapped, three-fingered snow ape. This is the type of voice
+Skyranch speaks with. We're actually somewhat lucky that the game is not
+written all in caps. 
+
+The game definitely has potential. It's about an experiment in the sky.
+As a survivalist type, you have signed yourself up to take part in the
+skyranch project. The real challenge isn't dealing with the lack of
+oxygen and air pressure as so much as being unable to concentrate on
+anything other than the dreadful sounds of heavy machinery. 
+
+One verb will usually do it for Skyranch. If Driscoll was made aware of
+the concept of synonym he no doubt thought, "bah! Who needs 'em?"
+Unfortunately, this does not bode well for the player. You absolutely
+have to go into the game with the understanding that the game's
+vocabulary is slightly better than Mystery House, second-level verbs
+are not going to be referenced and guessing the verb won't help you as
+much as getting a thesaurus and typing in alternate ways to express
+"exit" one by one.
+
+The thing is, it's often extremely amusing to place yourself in a
+literary world where the author is not a superb writer of English. (The
+Walter Miller Home Page, or Fat Chicks In Party Hats website, for
+instance.) Driscoll's game offers this style of appeal. His description
+for the robot that follows you around ("Lloyd 2.0") ends with the robot
+telling you, "I will love you always." This apparently sincere
+expression of emotion in a sea of poor spelling and incorrectly used
+homonyms is *funny*. No one, short of the author of Annoyotron, really
+goes out and attempts to make a bad game. The unexpectedness of Lloyd
+2.0 can at least produce a chuckle. Realizing that the author does care
+about the game can shock you into seeing it differently. More, the
+game's concept, at least, is not completely without merit. Sure, it's no
+Trinity -- hell, it's not even Punkirita Quest, but Skyranch contains a
+small bit of style to keep it from otherwise being a *complete* waste of
+time.
+
+Unfortunately, the lack of a decent parser really does damn the game.
+Exiting the ferry is not accomplished by "exit" or "out" or "get out of
+ferry" -- it is done by typing "leave." Although making those sort of
+breakthroughs allow you to continue to play the game, you can't
+effectively experience it in one sitting unless you are blessed with the
+gift of telepathy (and, er, have Mr. Driscoll sitting next to you within
+your effective mental range). Skyranch would be most effective -- and
+most entertaining -- if Driscoll collaborated with an experienced TADS
+or Inform programmer. Any sort of spell checking would absolutely ruin
+the game's charm, but being able to navigate the game's world is a must.
+Until that time, Skyranch's appeal is limited to the sort of player that
+enjoyed Space Aliens Laughed At My Cardigan, Symetry, and Human
+Resources Stories.
+
+READERS' SCOREBOARD -------------------------------------------------------
+
+The Readers' Scoreboard is an ongoing feature of SPAG. It charts the
+scores that SPAG readers and reviewers have given to various IF games
+since SPAG started up. The codes in the Notes column give information as
+to a game's availability and the platforms on which it runs. For a
+translation of these codes and for more detailed information on the
+scoreboard's format, see the SPAG FAQ. This FAQ is available at the
+ftp.gmd.de IF-archive or on the SPAG web page at
+http://www.sparkynet.com/spag.
+
+Name                    Avg Sc    Chr     Puz    # Sc  Issue Notes:
+====                    ======    ===     ===    ====  ===== ======
+Aayela                    7.4     1.2     1.5       5     10 F_TAD_GMD
+Acid Whiplash             5.3     0.6     0.2       3     17 F_INF_GMD
+Acorn Court               6.1     0.5     1.5       2     12 F_INF_GMD
+Adv. of Elizabeth Hig     3.1     0.5     0.3       2      5 F_AGT_GMD
+Adventure (all varian     6.3     0.6     1.0       9      8 F_INF_TAD_ETC_GMD
+Adventureland             3.9     0.5     1.4       3        F_INF_GMD
+Afternoon Visit           4.1     1.0     0.8       1        F_AGT
+Aisle                     6.6     1.4     0.2       7     18 F_INF_GMD
+Alien Abduction?          7.5     1.3     1.4       5     10 F_TAD_GMD
+All Quiet...Library       5.0     0.9     0.9       6      7 F_INF_GMD
+Amnesia                   7.4     1.5     1.4       3      9 C_AP_I_64
+Anchorhead                8.6     1.7     1.5      16     18 F_INF_GMD
+Another...No Beer         2.4     0.2     0.8       2      4 S10_I_GMD
+Arrival                   8.1     1.3     1.5       4     17 F_TAD_GMD
+Arthur: Excalibur         8.0     1.3     1.6       4  4, 14 C_INF
+Aunt Nancy's House        1.3     0.1     0.0       2        F_INF_GMD
+Awakened                  7.7     1.7     1.6       1
+Awakening                 5.6     0.9     1.1       2 15, 18 F_INF_GMD
+Awe-Chasm                 3.0     0.7     0.7       2      8 S_I_ST_GMD
+Babel                     8.5     1.8     1.3       6     13 F_INF_GMD
+Balances                  6.6     0.7     1.2       8      6 F_INF_GMD
+Ballyhoo                  7.3     1.5     1.5       6      4 C_INF
+Bear's Night Out          7.6     1.4     1.3       3     13 F_INF_GMD
+Beat The Devil            6.0     1.2     1.1       3     19 F_INF_GMD
+Beyond the Tesseract      3.7     0.1     0.6       1      6 F_I_GMD
+Beyond Zork               8.1     1.5     1.8       7  5, 14 C_INF
+BJ Drifter                7.3     1.3     1.2       3     15 F_INF_GMD
+Bliss                     5.7     1.2     0.6       3     20 F_TAD_GMD
+Bloodline                 7.2     1.7     1.2       1     15 F_INF_GMD
+Border Zone               7.2     1.4     1.4       7      4 C_INF
+Break-In                  6.1     1.1     1.4       3        F_INF_GMD
+Broken String             3.9     0.7     0.4       4        F_TADS_GMD
+BSE                       5.7     0.9     1.0       3        F_INF_GMD
+Bureaucracy               6.9     1.5     1.3       9      5 C_INF
+Busted                    5.2     1.0     1.1       1        F_INF_GMD
+Calliope                  4.7     0.9     0.8       3        F_INF_GMD
+Cask                      1.5     0.0     0.5       2        F_INF_GMD
+Castaway                  1.1     0.0     0.4       1      5 F_I_GMD
+Castle Elsinore           4.3     0.7     1.0       2        I_GMD
+CC                        4.2     0.4     1.0       1        F_ALAN_GMD
+Change in the Weather     7.6     1.0     1.4      11 7,8,14 F_INF_GMD
+Chaos                     5.6     1.3     1.1       2        F_TAD_GMD
+Chicken under Window      6.9     0.6     0.0       3        F_INF_GMD
+Chicks Dig Jerks          5.6     1.2     0.6       6     19 F_INF_GMD
+Christminster             8.3     1.7     1.6      13     20 F_INF_GMD
+City                      6.1     0.6     1.3       2     17 F_INF_GMD
+Coke Is It!               6.2     1.0     1.0       2        F_INF_GMD
+Coming Home               0.6     0.1     0.1       1        F_INF_GMD
+Common Ground             7.4     1.8     0.8       1     20 F_TAD_GMD
+Commute                   1.3     0.2     0.1       1        F_I_GMD
+Congratulations!          2.6     0.7     0.3       1        F_INF_GMD
+Corruption                7.2     1.6     1.0       4     14 C_MAG
+Cosmoserve                7.8     1.4     1.4       5      5 F_AGT_GMD
+Crypt v2.0                5.0     1.0     1.5       1      3 S12_IBM_GMD
+Curses                    8.2     1.2     1.7      15      2 F_INF_GMD
+Cutthroats                5.7     1.3     1.1       9      1 C_INF
+Dampcamp                  5.0     0.8     1.1       3        F_TAD_GMD
+Day For Soft Food         7.1     1.0     1.4       4     19 F_INF_GMD
+Deadline                  6.8     1.3     1.3       8     20 C_INF
+Death To My Enemies       4.7     1.1     0.7       3        F_INF_GMD
+Deep Space Drifter        5.6     0.4     1.1       3      3 S15_TAD_GMD
+Deephome                  5.9     0.7     0.9       1        F_INF_GMD
+Delusions                 7.9     1.5     1.5       5      14F_INF_GMD
+Demon's Tomb              7.4     1.2     1.1       2      9 C_I
+Detective                 1.0     0.0     0.0       9 4,5,18 F_AGT_INF_GMD
+Detective-MST3K           5.7     1.0     0.1       8 7,8,18 F_INF_GMD
+Ditch Day Drifter         6.7     0.9     1.7       4      2 F_TAD_GMD
+Down                      6.0     1.0     1.2       1     14 F_HUG_GMD
+Downtown Tokyo            5.7     0.8     0.9       4     17 F_INF_GMD
+Dungeon                   7.4     1.5     1.6       1        F_GMD
+Dungeon Adventure         6.8     1.3     1.6       1      4 F_ETC
+Dungeon of Dunjin         6.0     0.7     1.5       5  3, 14 S20_IBM_MAC_GMD
+Edifice                   8.3     1.6     1.8       6     13 F_INF_GMD
+Electrabot                0.7     0.0     0.0       1      5 F_AGT_GMD
+E-Mailbox                 3.1     0.1     0.2       2        F_AGT_GMD
+Emy Discovers Life        4.6     1.1     0.7       2        F_AGT
+Enchanter                 7.3     1.0     1.5       8   2,15 C_INF
+Enhanced                  5.0     1.0     1.3       2      2 S10_TAD_GMD
+Enlightenment             7.1     1.3     1.6       2     17 F_INF_GMD
+Erehwon                   6.1     1.1     1.4       3     19 F_TAD_GMD
+Eric the Unready          7.8     1.5     1.6       4        C_I
+Everybody Loves a Par     7.7     1.3     1.2       2     12 F_TAD_GMD
+Exhibition                5.6     1.1     0.4       3     19 F_TAD_GMD
+Fable                     2.0     0.1     0.1       3      6 F_AGT_GMD
+Fable-MST3K               4.1     0.7     0.1       2        F_AGT_INF_GMD
+Fear                      6.3     1.2     1.3       3     10 F_INF_GMD
+Fifteen                   1.5     0.5     0.4       1     17 F_INF_GMD
+Firebird                  7.2     1.6     1.2       3     15 F_TAD_GMD
+Fish                      7.5     1.3     1.7       4 12, 14 C_MAG
+Foggywood Hijinx          6.2     1.2     1.3       3        F_TAD_GMD
+Foom                      6.6     1.0     1.0       1        F_TAD_GMD
+For A Change              7.8     1.0     1.5       4     19 F_INF_GMD
+Forbidden Castle          4.8     0.6     0.5       1        C_AP
+Four In One               4.4     1.2     0.5       2        F_TAD_GMD
+Four Seconds              6.0     1.2     1.1       2        F_TAD_GMD
+Frenetic Five             5.3     1.4     0.5       3     13 F_TAD_GMD
+Frenetic Five 2           6.6     1.5     1.1       2        F_TAD_GMD
+Friday Afternoon          6.3     1.4     1.2       1     13 F_INF_GMD
+Frobozz Magic Support     7.2     1.2     1.5       3        F_TAD_GMD
+Frozen                    5.5     0.7     1.3       1        F_INF_GMD
+Frustration               5.7     1.1     0.9       1        F_TAD_GMD
+Gateway                   8.3     1.3     1.7       5     11 C_I
+Gateway 2: Homeworld      9.0     1.7     1.9       2        C_I
+Glowgrass                 6.9     1.4     1.4       4     13 F_INF_GMD
+Gnome Ranger              5.8     1.2     1.6       1        C_I
+Golden Fleece             6.0     1.0     1.1       1        F_TAD_GMD
+Golden Wombat of Dest     6.3     0.7     1.1       1     18 F_I_GMD
+Good Breakfast            4.9     0.9     1.2       2     14 F_INF_GMD
+Great Archeolog. Race     6.5     1.0     1.5       1      3 S20_TAD_GMD
+Guardians of Infinity     8.5             1.3       1      9 C_I
+Guild of Thieves          6.9     1.2     1.5       4     14 C_MAG
+Guilty Bastards           6.9     1.4     1.2       5        F_HUG_GMD
+Gumshoe                   6.3     1.0     1.1       6      9 F_INF_GMD
+Halothane                 6.9     1.3     1.3       3     19 F_INF_GMD
+HeBGB Horror              5.7     0.9     1.1       2        F_ALAN_GMD
+Heist                     6.7     1.4     1.5       2        F_INF_GMD
+Hero, Inc.                6.8     1.0     1.5       2        F_TAD_GMD
+Hitchhiker's Guide        7.2     1.3     1.5      13      5 C_INF
+Hollywood Hijinx          6.5     0.9     1.6      11        C_INF
+Holy Grail                6.2     0.9     1.2       1        F_TAD_GMD
+Horror of Rylvania        7.2     1.4     1.4       5      1 F_TAD_GMD
+Horror30.zip              3.7     0.3     0.7       2      3 S20_I_GMD
+Human Resources Stori     0.9     0.0     0.1       2     17 F_INF_GMD
+Humbug                    6.9     1.6     1.4       3     11 F_I_GMD
+Hunter, In Darkness       8.1     1.0     1.5       4     19 F_INF_GMD
+I didn't know...yodel     4.0     0.7     1.0       5     17 F_I_GMD
+I-0: Jailbait on Inte     7.5     1.5     1.3      11     20 F_INF_GMD
+Ice Princess              7.5     1.4     1.6       2        A_INF_GMD
+In The End                4.9     0.6     0.0       2     10 F_INF_GMD
+In The Spotlight          3.2     0.2     1.0       2     17 F_INF_GMD
+Infidel                   6.9     0.2     1.4      13      1 C_INF
+Informatory               5.5     0.5     1.3       1     17 F_INF_GMD
+Ingrid's Back             5.6     1.6     1.2       1        C_I
+Inheritance               5.2     0.5     1.0       2     20 F_TAD_GMD
+Inhumane                  4.4     0.4     1.0       3  9, 20 F_INF_GMD
+Intruder                  6.7     1.3     1.1       4     20 F_INF_GMD
+Jacaranda Jim             7.9     0.9     1.0       2        F_GMD
+Jacks...Aces To Win       7.6     1.6     1.3       2     19 F_INF_GMD
+Jewel of Knowledge        6.3     1.2     1.1       3     18 F_INF_GMD
+Jeweled Arena             7.0     1.4     1.3       2        AGT_GMD
+Jigsaw                    8.2     1.5     1.5      13    8,9 F_INF_GMD
+Jinxter                   6.1     0.9     1.3       3        C_MAG
+John's Fire Witch         6.8     1.1     1.6       8  4, 12 S6_TADS_GMD
+Jouney Into Xanth         5.0     1.3     1.2       1      8 F_AGT_GMD
+Journey                   7.2     1.5     1.3       5      5 C_INF
+King Arthur's Night O     5.6     1.0     0.9       3     19 F_ALAN_GMD
+Kissing the Buddha's      8.0     1.8     1.4       5     10 F_TAD_GMD
+Klaustrophobia            6.4     1.1     1.3       6      1 S15_AGT_GMD
+Knight Orc                7.2     1.4     1.1       2     15 C_I
+L.U.D.I.T.E.              1.9     0.2     0.0       3        F_INF_GMD
+Lancelot                  6.9     1.4     1.2       1        C_I
+Land Beyond Picket Fe     4.8     1.2     1.2       1     10 F_I_GMD
+Leather Goddesses         6.9     1.3     1.5      10      4 C_INF
+Leaves                    3.4     0.2     0.8       1     14 F_ALAN_GMD
+Legend Lives!             8.2     1.2     1.4       4      5 F_TAD_GMD
+Lesson of the Tortois     7.1     1.4     1.4       4     14 F_TAD_GMD
+Lethe Flow Phoenix        6.9     1.4     1.5       5      9 F_TAD_GMD
+Life on Beal Street       4.7     1.2     0.0       2        F_TAD_GMD
+Light: Shelby's Adden     7.5     1.5     1.3       6      9 S_TAD_GMD
+Lightiania                1.9     0.2     0.4       1        F_INF_GMD
+Lists and Lists           6.3     1.3     1.1       3     10 F_INF_GMD
+Little Blue Men           8.4     1.4     1.5       7     17 F_INF_GMD
+Lomalow                   4.8     1.2     0.5       2     19 F_INF_GMD
+Losing Your Grip          8.5     1.4     1.4       6      14S20_TAD_GMD
+Lost New York             7.9     1.4     1.4       4     20 S12_TAD_GMD
+Lost Spellmaker           6.9     1.5     1.3       3     13 F_INF_GMD
+Lunatix: Insanity Cir     5.6     1.2     1.0       3        F_I_GMD
+Lurking Horror            7.2     1.3     1.3      15    1,3 C_INF
+MacWesleyan / PC Univ     4.9     0.6     1.2       2        F_TAD_GMD
+Madame L'Estrange...      5.1     1.2     0.7       1     13 F_INF_GMD
+Magic Toyshop             5.2     1.1     1.1       5      7 F_INF_GMD
+Magic.zip                 4.5     0.5     0.5       1      3 S20_IBM_GMD
+Maiden of the Moonlig     6.4     1.3     1.5       2     10 F_TAD_GMD
+Matter of Time            1.4     0.3     1.4       1      14F_ALAN_GMD
+Mercy                     7.3     1.4     1.2       6     12 F_INF_GMD
+Meteor...Sherbet          7.9     1.5     1.6       5 10, 12 F_INF_GMD
+Mind Electric             5.2     0.6     0.9       4    7,8 F_INF_GMD
+Mind Forever Voyaging     8.2     1.3     0.9      12   5,15 C_INF
+Mission                   6.0     1.2     1.4       1        F_TAD_GMD
+Moist                     6.8     1.4     1.2       4        F_TAD_GMD
+Moment of Hope            5.0     1.3     0.3       3     19 F_TAD_GMD
+Moonmist                  5.9     1.2     1.0      14      1 C_INF
+Mop & Murder              5.0     0.9     1.0       2      5 F_AGT_GMD
+Mother Loose              7.0     1.5     1.3       2     17 F_INF_GMD
+Mulldoon Legacy           7.4     1.2     1.8       1        F_INF_GMD
+Multidimen. Thief         5.6     0.5     1.3       6    2,9 S15_AGT_GMD
+Muse                      7.5     1.5     1.1       3     17 F_INF_GMD
+Music Education           3.7     1.0     0.7       3        F_INF_GMD
+Myopia                    6.1     1.3     0.6       2        F_AGT_GMD
+Mystery House             4.1     0.3     0.7       1        F_AP_GMD
+New Day                   6.6     1.4     1.1       4     13 F_INF_GMD
+Night At Computer Cen     5.2     1.0     1.0       2        F_INF_GMD
+Night at Museum Forev     4.2     0.3     1.0       4    7,8 F_TAD_GMD
+Night of... Bunnies       6.6     1.0     1.4       1        I_INF_GMD
+9:05                      4.9     0.4     0.6       2     20 F_INF_GMD
+Nord and Bert             5.9     0.6     1.1       8      4 C_INF
+Not Just A Game           6.9     1.0     1.3       1     20 F_INF_GMD
+Not Just... Ballerina     6.3     1.0     1.1       2     20 F_INF_GMD
+Obscene...Aardvarkbar     3.2     0.6     0.6       1        F_TAD_GMD
+Odieus...Flingshot        3.3     0.4     0.7       2      5 F_INF_GMD
+Of Forms Unknown          4.5     0.7     0.5       1     10 F_INF_GMD
+Offensive Probing         4.2     0.6     0.9       1        F_INF_GMD
+On The Farm               6.5     1.6     1.2       2     19 F_TAD_GMD
+Once and Future           6.9     1.6     1.5       2     16 C30_TAD_CMP
+One That Got Away         6.5     1.4     1.0       6    7,8 F_TAD_GMD
+Only After Dark           4.6     0.8     0.7       3        F_INF_GMD
+Oo-Topos                  5.7     0.2     1.0       1      9 C_AP_I_64
+Outsided                  2.5     0.7     0.2       2        F_INF_GMD
+Pass the Banana           2.9     0.8     0.5       3     19 F_INF_GMD
+Path to Fortune           6.6     1.5     0.9       3      9 S_INF_GMD
+Pawn                      6.3     1.1     1.3       2     12 C_MAG
+Perilous Magic            4.9     0.9     1.1       1     20 F_INF_GMD
+Perseus & Andromeda       3.4     0.3     1.0       1        64_INF_GMD
+Persistence of Memory     6.2     1.2     1.1       1     17 F_HUG_GMD
+Phlegm                    5.2     1.2     1.0       2     10 F_INF_GMD
+Photopia                  7.3     1.5     0.8      13     17 F_INF_GMD
+Phred Phontious...Piz     5.2     0.9     1.3       2     13 F_INF_GMD
+Piece of Mind             6.3     1.3     1.4       1     10 F_INF_GMD
+Pintown                   1.3     0.3     0.2       1        F_INF_GMD
+Planetfall                7.2     1.6     1.4      11      4 C_INF
+Plant                     7.3     1.2     1.5       4     17 F_TAD_GMD
+Plundered Hearts          7.3     1.4     1.2       8      4 C_INF
+Poor Zefron's Almanac     5.8     1.2     1.3       2     13 F_TAD_GMD
+Portal                    7.0     1.8     0.0       2        C_I_A_AP_64
+Purple                    5.6     0.9     1.0       1     17 F_INF_GMD
+Pyramids of Mars          6.0     1.2     1.2       1        AGT_GMD
+Quarterstaff              6.1     1.3     0.6       1      9 C_M
+Ralph                     7.1     1.6     1.2       3     10 F_INF_GMD
+Remembrance               2.8     1.0     0.1       2        F_GMD
+Reruns                    5.2     1.2     1.2       1        AGT_GMD
+Research Dig              4.8     1.1     0.8       2     17 F_INF_GMD
+Reverberations            5.6     1.3     1.1       1     10 F_INF_GMD
+Ritual of Purificatio     7.0     1.6     1.1       4     17 F_GMD
+Sanity Claus              7.5     0.3     0.6       2      1 S10_AGT_GMD
+Save Princeton            5.8     1.1     1.3       4      8 S10_TAD_GMD
+Scapeghost                8.1     1.7     1.5       1      6 C_I
+Sea Of Night              5.7     1.3     1.1       2        F_TAD_GMD
+Seastalker                5.1     1.1     0.8      10      4 C_INF
+Shades of Grey            7.8     1.3     1.4       5   2, 8 F_AGT_GMD
+Sherlock                  7.0     1.3     1.4       5      4 C_INF
+She's Got a Thing...S     7.0     1.7     1.6       3     13 F_INF_GMD
+Shogun                    7.0     1.2     0.6       2      4 C_INF
+Shrapnel                  7.3     1.5     1.0       1     20 F_INF_GMD
+Simple Theft              5.8     1.3     0.8       1     20 F_TAD_GMD
+Sins against Mimesis      5.5     1.0     1.2       3     13 F_INF_GMD
+Sir Ramic... Gorilla      5.0     1.0     1.5       1      6 F_AGT_GMD
+Six Stories               6.2     0.9     1.1       2     19 F_TAD_GMD
+Skyranch                  2.8     0.5     0.7       1     20 F_I_GMD
+Small World               6.2     1.3     1.1       3     10 F_TAD_GMD
+So Far                    7.9     1.1     1.5      10     12 F_INF_GMD
+Sorcerer                  7.2     0.6     1.6       7   2,15 C_INF
+Sound of... Clapping      7.2     1.3     1.3       6      5 F_ADVSYS_GMD
+South American Trek       0.9     0.2     0.5       1      5 F_IBM_GMD
+Space Aliens...Cardig     1.5     0.4     0.3       6   3, 4 S60_AGT_GMD
+Space under Window        7.2     0.8     0.4       5     12 F_INF_GMD
+Spacestation              5.6     0.7     1.1       1        F_INF_GMD
+Spellbreaker              8.5     1.2     1.8       8   2,15 C_INF
+Spellcasting 101          6.7     1.0     1.3       2        C_I
+Spellcasting 201          7.8     1.6     1.7       2        C_I
+Spellcasting 301          6.0     1.2     1.2       2        C_I
+Spider and Web            8.6     1.6     1.7      11      14F_INF_GMD
+SpiritWrak                7.1     1.3     1.3       5        F_INF_GMD
+Spodgeville...Wossnam     4.3     0.7     1.2       2        F_INF_GMD
+Spur                      7.1     1.3     1.1       2      9 F_HUG_GMD
+Spyder and Jeb            6.2     1.1     1.4       1        F_TAD_GMD
+Starcross                 6.6     1.0     1.2       7      1 C_INF
+Stargazer                 5.4     1.1     1.1       1        F_INF_GMD
+Stationfall               7.7     1.7     1.6       6      5 C_INF
+Stiffy                    0.6     0.0     0.0       1        F_INF_GMD
+Stiffy - MiSTing          4.5     1.0     0.4       4        F_INF_GMD
+Stone Cell                6.7     1.3     1.4       2     19 F_TAD_GMD
+Strangers In The Nigh     3.2     0.7     0.6       2        F_TAD_GMD
+Sunset Over Savannah      8.7     1.7     1.4       6     13 F_TAD_GMD
+Suspect                   6.0     1.2     1.1       7      4 C_INF
+Suspended                 7.5     1.5     1.4       7      8 C_INF
+Sylenius Mysterium        4.7     1.2     1.1       1     13 F_INF_GMD
+Symetry                   1.1     0.1     0.1       2        F_INF_GMD
+Tapestry                  7.1     1.4     0.9       5 10, 14 F_INF_GMD
+Tempest                   5.3     1.4     0.6       3     13 F_INF_GMD
+Temple of the Orc Mag     4.5     0.1     0.8       2        F_TAD_GMD
+Theatre                   6.9     1.1     1.4      10      6 F_INF_GMD
+Thorfinn's Realm          3.5     0.5     0.7       2        F_INF_GMD
+Time: All Things...       3.9     1.2     0.9       2 11, 12 F_INF_GMD
+TimeQuest                 8.1     1.2     1.7       3        C_I
+TimeSquared               4.3     1.1     1.1       1        F_AGT_GMD
+Toonesia                  5.8     1.1     1.1       6      7 F_TAD_GMD
+Tossed into Space         3.9     0.2     0.6       1      4 F_AGT_GMD
+Town Dragon               3.9     0.8     0.3       2     14 F_INF_GMD
+Trapped...Dilly           5.1     0.1     1.1       2     17 F_INF_GMD
+Travels in Land of Er     6.1     1.2     1.5       2     14 F_INF_GMD
+Trinity                   8.7     1.3     1.7      15    1,2 C_INF
+Tryst of Fate             7.1     1.4     1.3       1     11 F_INF_GMD
+Tube Trouble              4.2     0.8     0.7       2      8 F_INF_GMD
+Tyler's Great Cube Ga     5.8     0.0     1.7       1        S_TAD_GMD
+Uncle Zebulon's Will      7.3     1.0     1.5      12      8 F_TAD_GMD
+Underoos That Ate NY      4.5     0.6     0.8       2        F_TAD_INF_GMD
+Undertow                  5.4     1.3     0.9       3      8 F_TAD_GMD
+Undo                      2.9     0.5     0.7       4      7 F_TAD_GMD
+Unholy Grail              6.0     1.2     1.2       1     13 F_I_GMD
+Unnkulian One-Half        6.7     1.2     1.5       9      1 F_TAD_GMD
+Unnkulian Unventure 1     6.9     1.2     1.5       8    1,2 F_TAD_GMD
+Unnkulian Unventure 2     7.2     1.2     1.5       5      1 F_TAD_GMD
+Unnkulian Zero            8.4     0.7     0.8       21,12,14 F_TAD_GMD
+Varicella                 8.5     1.6     1.5       8     18 F_INF_GMD
+Veritas                   6.9     1.3     1.4       3        S10_TAD_GMD
+Vindaloo                  2.9     0.0     0.4       1        F_INF_GMD
+VirtuaTech                6.1     0.0     1.2       1        F_INF_GMD
+Waystation                5.6     0.6     1.0       3      9 F_TAD_GMD
+Wearing the Claw          6.6     1.2     1.2       5 10, 18 F_INF_GMD
+Wedding                   7.4     1.6     1.3       3     12 F_INF_GMD
+Where Evil Dwells         5.1     0.8     1.1       1        F_INF_GMD
+Winter Wonderland         7.9     1.3     1.2       5     19 F_INF_GMD
+Wishbringer               7.5     1.3     1.3      12    5,6 C_INF
+Witness                   6.5     1.5     1.1       9  1,3,9 C_INF
+Wonderland                5.4     1.3     0.9       2        C_MAG
+World                     6.5     0.6     1.3       2      4 F_I_ETC_GMD
+Worlds Apart              8.3     1.6     1.4       6        F_TAD_GMD
+Zanfar                    2.6     0.2     0.4       1      8 F_AGT_GMD
+Zero Sum Game             7.2     1.5     1.5       3     13 F_INF_GMD
+Zombie!                   5.2     1.2     1.1       2     13 F_TAD_GMD
+Zork 0                    6.3     1.1     1.4       9      14C_INF
+Zork 1                    6.1     0.8     1.5      19  1, 12 C_INF
+Zork 2                    6.5     1.0     1.5      11  1, 12 C_INF
+Zork 3                    6.5     0.9     1.4       8  1, 12 C_INF
+Zork Undisc. Undergr.     6.5     1.0     1.2       1      14F_INF_GMD
+Zork: A Troll's Eye V     4.6     0.9     0.1       2     14 F_INF_GMD
+Zuni Doll                 4.0     0.6     0.9       2     14 F_INF_GMD
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Top Ten:
+
+A game is not eligible for the Top Ten unless it has received at least 
+three ratings from different readers. This is to ensure a more 
+democratic and accurate depiction of the best games.
+
+Well, I've received over 250 ratings for the scoreboard since the last
+issue of SPAG, which sounds great until I tell you that 220 of them were
+from the same person! Still, that great big passel o'ratings is nothing
+to sneeze at, and the ratings I've received have been enough to cause a
+bit of movement in the top ten. Our new champion is Sunset Over
+Savannah, replacing Varicella in the top slot. The Legend Lives! and
+Hunter, In Darkness have dropped out of the top ten, with Christminster
+and Spellbreaker (both longtime top ten residents) rushing in to fill
+the empty spaces. The fact that both the absent games feature
+punctuation in their names is purest coincidence, I'm sure. 
+
+1.  Sunset over Savannah  8.7   6 votes
+2.  Trinity               8.7   15 votes
+3.  Spider and Web        8.6   11 votes
+4.  Anchorhead            8.6   16 votes
+5.  Varicella             8.5   8 votes
+6.  Losing Your Grip      8.5   6 votes
+7.  Babel                 8.5   6 votes
+8.  Spellbreaker          8.5   8 votes
+9.  Little Blue Men       8.4   7 votes
+10. Christminster         8.3   13 votes
+
+As always, please remember that the scoreboard is only as good as the
+contributions it receives. To make your mark on this vast morass of
+statistics, rate some games on our website
+(http://www.sparkynet.com/spag). You can also, if you like, send ratings
+directly to me at obrian SP@G colorado.edu. Instructions for how the rating
+system works are in the SPAG FAQ, available from GMD and our website.
+Please read the FAQ before submitting scores, so that you understand how
+the scoring system works. After that, submit away!
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ___. .___    _    ___.     ___. 
+/  _| |   \  / \  / ._|    /  _| 
+\  \  | o_/ |   | | |_.    \  \  
+.\  \ | |   | o | | | |    .\  \ 
+|___/ |_|   |_|_| \___|    |___/ PECIFICS
+
+
+
+
+WARNING! SPOILERS BELOW FOR THE FOLLOWING GAMES:
+
+Bliss
+9:05
+
+
+
+
+PROCEED NO FURTHER UNLESS YOU HAVE PLAYED THESE GAMES!
+
+
+
+
+
+THIS IS NOT A TEST! GENUINE SPOILERS TO FOLLOW!
+
+
+
+
+
+LAST CHANCE TO AVOID SPOILAGE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: Bliss
+AUTHOR: Cameron Wilkin
+E-MAIL: bwilkin SP@G ix.netcom.com
+DATE: 1999
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/competition99/tads/bliss/bliss.gam
+VERSION: Release 1.1
+
+Cameron Wilkin's Bliss is well-nigh impossible to review effectively in
+no-spoiler format, because the most interesting aspect of the game
+happens in the final few moves; accordingly, the following is more a
+discussion than a review as such, and it does include spoilers. You have
+been warned.
+
+The initial direction of Bliss is stock fantasy--indeed, with orcs, evil
+wizards, dragons, and dungeons involved right at the outset, the game
+fairly screams "stock fantasy." But the real story in Bliss is not at
+all stock fantasy-- the initial premise and the way it's developed
+doesn't so much tell a story as it takes a measure of the player. Does
+the player object to simplistically violent solutions to problems
+because they're in a fantasy setting? Or does the player gleefully hurt
+others whenever it serves his own ends, as long as the setting is
+fantasy? Bliss poses these questions and more.
+
+The author's notes indicate that the point of the game is to "ask which is
+better: the real world or the fantasy world?" With all due respect, I'm
+not sure that's really what the game asks; no one would contend that the
+PC's fantasy world is "better," though it's certainly more comfortable for
+the PC. That is, even the most sympathetic would be hard pressed to see
+the PC's retreat into his fantasy world as good, or "better" than his
+maintaining a grip on reality, given what ensues because of it. The player
+can understand why the PC does it, but hardly condone it. (I hope so,
+anyway.) To my mind, the more interesting questions are about fantasy
+itself, as suggested above--does fantasy violence desensitize those who
+view it, read about it, experience it through IF to real violence? It's
+much debated these days in the wake of Littleton and such, and generally
+the arguments produce considerably more heat than light; few can even
+agree on whether fantasy violence produces violent behavior in any given
+individual, as opposed to society as a whole. Bliss doesn't purport to
+address these questions as such, but in giving us a PC whose fantasy life
+enables him to commit violent acts that, it seems, he would not have been
+able to commit otherwise (his horror when he discovers what he has done
+suggests as much, anyway), the author raises some problematic issues.
+
+The nature of the masterfully done bait-and-switch in Bliss suggests one
+answer. Most players, somewhere in the course through the game, probably
+begin wondering about what's going on--perhaps it's the discontinuities,
+the brief flashes into the real world, but for me it was the bizarre
+monotony of the killing. It struck me as strange and disturbing that
+every single problem the PC has is resolved by killing someone; the
+ethics of fantasy, so to speak, don't generally allow for randomized
+killing. Disposing of the guards was one thing, but killing the imp and
+the bear because they happened to be in the way--that rang false to me;
+likewise, killing a dragon while it's asleep made me wonder. That, in
+turn, suggests to me that fantasy does have rules, and indiscriminate
+killing definitely breaks those rules, meaning that the deadening moral
+effect of imaginary violence might not be quite so clearcut (and the
+enabling aspect of this particular PC's fantasy might be the product of
+a warped fantasy life, one that doesn't abide by the normal rules).
+
+Equally intriguing is the problem of complicity posed by Bliss: the
+marriage of the player's and PC's goals (the player is perfectly willing
+to help the PC escape from the prison and kill the evil wizard) suddenly
+breaks apart when the fantasy veil falls away. When the player surveys
+the wreckage, there should be a sense of participation in the evil--a
+sense that the player's participation made the carnage possible, and
+that a more responsible player would have averted the tragedy. In this
+particular case, of course, the complicity analysis doesn't stand up to
+scrutiny very well, since there were no alternate paths; the choices
+were enabling wholesale murder or simply stopping the story. Still,
+pulling the player up short in this way offers a wealth of
+possibilities--we may one day see IF in which that discovery of
+complicity permits and encourages the player to try again, find a better
+path.
+
+The "unreliable narrator" aspect of Bliss is worth exploring as well.
+Does it make a difference if the narrator is unreliable to himself as
+well as to the reader? No, except that the complicity aspect diminishes
+if the narrator is deliberately deceiving the reader, and complicity can
+be a valuable feeling (particularly in settings like this, where
+desensitization is a real issue). To be sure, I may be responsible for
+violent acts even if I'm told they're all right, and it's still possible
+for the IF player to feel complicit on the same basis. But Bliss, and
+perhaps variants thereof that give the player a bit more freedom. pose a
+starker moral problem, in that the PC had no idea what he was doing and
+the player failed to intervene to set things right. The technique of
+setting up an "unreliable narrator", and the fun of experiencing it,
+endures whether the narrator is deliberately or unwittingly deceiving
+the reader/player, but the moral shock value is different--and if Bliss
+doesn't have moral shock value, it's not worth the download time.
+
+The ending of Bliss allows for a variety of interpretations--is the
+house episode a fantasy? A memory? Clearly, it helps explain how the PC
+got to be where he is, but its placement in the story raises some
+questions about whether the story itself is reliable. (Being locked in
+one's room by one's father is just as credible a fantasized version of
+the asylum as the orcs-dragons-wizards fantasy, after all.) If we're not
+meant to think that (and the ending explanation about how the child
+fantasy life led to commitment in the asylum suggests as much), the
+alternative is rather disturbing: the story as it stands seems to
+suggest that a fantasy life as a means of escape from an unpleasant or
+painful childhood can lead directly to, well, the PC in Bliss. (The
+movie Heavenly Creatures tells a similar, though somewhat more
+complicated, story.) That seems extreme, on its face--but fantasy life
+takes such a beating in this game that it's hard to see what else to
+conclude.
+
+Though it may not do what the author set out to do, there's much that is
+thought-provoking in Bliss, and it deserves a spot somewhere in the
+hallowed halls of IF theory.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Duncan Stevens <dns361 SP@G merle.acns.nwu.edu>
+
+TITLE: 9:05
+AUTHOR: Adam Cadre
+E-MAIL: ac SP@G adamcadre.ac
+DATE: 2000
+PARSER: Inform standard
+SUPPORTS: Z-code interpreters
+AVAILABILITY: Freeware (GMD)
+URL: https://ifarchive.org/if-archive/games/zcode/905.z5
+VERSION: Release 1.00
+
+It's more a joke than a game, really, but Adam Cadre's 9:05 is a pretty
+good joke--all the more so because the joke's mostly on you, the
+archetypal IF player, and on your assumptions.
+
+The principal joke going on involves the problem of PC identity.
+Conventional modern-day IF has developed a variety of ways for the
+player to "discover" who he or she is--someone calls you by your name,
+you find your name written in some obvious place--that make the
+identity-assumption process less clunky than would a simple "You're Joe
+Blow." Old-style IF, by contrast, generally never gave the PC a name or
+any other indicia of identity at all; there was just a task to do. In
+9:05, in most significant ways, you're the latter--you don't have an
+identity of your own other than "burglar"--but everything the game does
+is set up to make you think you're happening upon your own identity as
+you wander around. The game does this rather artfully--you see "a
+wallet" and "a driver's license" rather than "your" possessions, which
+is unobtrusive enough that most players don't notice it in the ho-hum
+house setting. You solve the "puzzle" of figuring out where you work by
+looking at your ID, so the game doesn't need to actually mislead you by
+calling the office your workplace. And at the end, there you are,
+suckered into assuming someone else's identity because you found some
+objects and assumed they were yours. ("I didn't mean it, officer. I've
+been playing too much IF.")
+
+Similarly, what your character does, or rather has done--commit theft
+and murder--is quite in tune with classic old-style IF, except that the
+setting is wrong: you're not in a fantasy or sci-fi setting, where it's
+"okay" to rob and kill indiscriminately, you're in the suburbs. The
+mundane apparent premise--get dressed, get to work--also helps set this
+up, since the expectation engendered by such a promise is that you'll
+discover a plot somewhere along the way (i.e., something will happen to
+you to make the story less mundane), and the surprise is that non-
+mundane things are already going on. (In fact, owing to the knowledge
+gap between the player and the PC, the player mistakenly directs the PC
+to assume that mundane rather than highly bizarre and dangerous events
+are going on.)
+
+One amusing parallel to this is that one persistent illogicality in
+house-setting IF--i.e., the game has to tell the PC all about the
+details of the house he lives in as if he's seeing them for the first
+time--is remedied: the surroundings actually are new (well,
+relatively--you saw them the previous night) to both PC and player. The
+game doesn't really force you to figure out much about the home or
+anything else, so it doesn't do as much with this angle as it might
+have--but it's still an interesting sidelight. (It does take away
+virtually every intuitive shortcut, however--you have to open doors
+before going through them--which does convey that you're not used to
+your environment to some extent.) Likewise, the appraising eye of the
+PC--you evaluate everything, including the comfort of the living room
+(limited with no stereo, DVD player, or TV, which are in your trunk, of
+course) and the neighborhood (too much crime, you say) makes little
+sense in most IF--who bothers to appraise his everyday surroundings on
+every viewing?--but plenty of sense here.
+
+Beyond all that, though, 9:05 says something interesting about the way
+most players approach IF: give us a task rather than simply a setting to
+explore, make the task seem urgent, and we'll spend very little time
+actually poking around. (When "undo" is available, there's no real
+reason for not at least looking at what's given.) There are a variety of
+commands other than LOOK UNDER BED that hint that not all is as it
+appears: SMELL, for instance, and EXAMINE CLOTHING, and EXAMINE ME
+certainly indicates that something is up. A more-than-cursory look at
+the setting in 9:05 should suggest to the player that something's wrong,
+in other words, and yet it appears that most people, goal-oriented by
+the initial phone call, didn't catch on until the end.
+
+At any rate, in the end, it's a good joke.
+
+SUBMISSION POLICY ---------------------------------------------------------
+
+SPAG is a non-paying fanzine specializing in reviews of text adventure
+games, a.k.a. Interactive Fiction. This includes the classic Infocom
+games and similar games, but also some graphic adventures where the
+primary player-game communication is text based.
+
+Authors retain the rights to use their reviews in other contexts. We
+accept submissions that have been previously published elsewhere,
+although original reviews are preferred. 
+
+-----------------------------------------------------------------------------
+
+           Thank you for helping to keep text adventures alive!
