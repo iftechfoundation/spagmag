@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^backissues/index.html$ /archives/ [L,R=301]
+RewriteRule ^backissues/?$ /archives/ [L,R=301]
+#Rewriterule ^rss.xml$ http://www.spagmag.org/feed/ [L,R=301]
