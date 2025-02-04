@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>How to run adventure games - SPAG</title>
+  <link rel="stylesheet" type="text/css" href="style/spag.css"/>
+
+  <link rel="top" type="text/html" href="index.html"/>
+  <link rel="up" type="text/html" href="index.html"/>
+  <link rel="prev" type="text/html" href="spag-faq.html"/>
+  <link rel="next" type="text/html" href="howtoplay.html"/>
+ </head>
+
+ <body>
+  <h1 align="center">
+   <a href="index.html"><span id="title"><img src="spag.png" alt="SPAG" width="349" height="94" border="0"/></span></a>
+  <br/>
+   <span id="subtitle">Running the Interactive Fiction Archive Games</span>
+  </h1>
+
+<div>
+<pre>
+
+			       Version 1.74
+ 			        March 2002
+
+
+This document attempts to explain how a PC user can play the interactive
+fiction games stored at the Interactive Fiction Archive. 
+
+This document is aimed at users of MS DOS and Windows personal computers.
+The software and filenames given as examples are usually PC-specific.
+However, most of the information in this document is relevant to users of
+other computer systems.
+
+One of the advantages of interactive fiction is that the games can be played
+on a wide variety of computer equipment and the IF Archive caters for users
+of all computer systems.
+
+Users of non-Microsoft computer operating systems will often find an
+equivalent program for their system in the same IF Archive directory as the
+PC-specific example mentioned in this document. There are pointers to other
+FAQs in Appendix 3 'Other IF Locations' that users of non-PC systems may also
+find useful.
+
+If you wish to make any comments or corrections to this document you can
+email the author at stephen.griffiths@xtra.co.nz
+
+
+
+				 Contents
+				 --------
+
+1.   The Interactive Fiction Archive
+2    Where are the games?
+  2.1  There's more than PC-specific games
+  2.2  The majority of games
+  2.3  What games to play first
+  2.4  Where to get hints
+3.   How to download a file
+4.   Zipped Files
+5.   Game Files and Runtime Systems
+6.   The Common Types of Game Files
+  6.1  Hugo      (.hex)
+  6.2  Tads      (.gam)
+  6.3  Inform    (.z5 or .z8) - also known as 'Z-Code' files
+  6.4  AGT       (.d$$, .da1, .da2 etc)
+  6.5  Alan      (.acd and .dat)
+  6.6  Glulx     (.ulx)
+7. Emulators and Converters
+
+     Appendices
+a1.  IF Archive Mirror Sites
+a2.  Compiling Games from Source Code
+a3.  Other IF Internet Locations
+
+
+
+1. The Interactive Fiction Archive
+   -------------------------------
+The interactive fiction archive is a collection of computer software and
+documentation maintained by David Kinder and Stephen Granade at the ftp site
+
+	  https://ifarchive.org/if-archive/
+
+
+Through the IF Archive, David, Stephen and their assistants provide a
+wonderful service to players and authors of interactive fiction.
+
+You can access the IF Archive using an Internet 'ftp' program or a World
+Wide Web browser such as Netscape or Internet Explorer.  This document
+uses Netscape as an example.
+
+There are several 'mirror' sites which contain copies of the entire IF 
+Archive. Some users may find accessing one of these mirror sites more 
+convenient than visiting the IF Archive itself. A list of the mirror 
+sites is in Appendix 1.
+
+The content of the IF Archive is constantly being updated. A program's
+filename at the archive may change when a new version is released. So if
+you find that a file mentioned in this document isn't at the Archive try
+looking in that file's directory for a newer version. If you find any
+errors in this document please let me know.
+
+
+
+2. Where are the games?
+   --------------------
+The IF Archive stores a huge amount of interactive fiction information
+and software.  So the files are stored in separate subdirectories to make
+it easier to find what you are looking for.
+
+The IF games are stored in
+
+     https://ifarchive.org/if-archive/games/
+
+
+Within the games directory are subdirectories for the different categories
+of games available. 
+
+
+2.1 There's more than just PC-specific games
+    ----------------------------------------
+As we are interested in PC games the most obvious place to look is in the
+directory called PC:
+
+     https://ifarchive.org/if-archive/games/pc/
+
+
+Here you will find games that are ready to run on your PC.  Most games 
+in this directory are compiled for MSDOS so will run on both MSDOS and 
+Windows PCs. Some are for Windows PCs only. Look in the Index file (by 
+clicking on it if you're using Netscape) to see short descriptions of all 
+the available files.  All the files in this directory are compressed in some 
+way except for the Index file. See the section on zipped files below to see 
+what to do with these compressed files.
+
+The games in the PC directory are not the only games at the IF Archive
+which can be played on a PC.  In fact many of the newer, bigger and better
+games are actually stored elsewhere.
+
+2.2 The majority of games
+    ---------------------
+
+As well as the directories for games specific to particular computer
+systems such as the PC and Amiga directories, the /games directory contains
+directories of games which can be played on many different computer systems
+(including the PC.) 
+
+The Index file for the /games directory describes what's in each
+subdirectory. 
+
+Some directories contain games written using various IF authoring systems
+such as Hugo, Inform and Tads. These directories contain most of the best
+games. These games can be played on the PC. Sections 5 and 6 of this FAQ 
+give details about to play games written using the most popular systems. 
+
+Other directories contain games from particular software companies such as
+Adventions which can be played on the PC.
+
+Another goldmine for PC game players is the directories containing the
+entries in the IF authoring competitions held over the last few years.
+(The directories have names like /games/competition9X or /games/mini-comps.)
+The competition directories contain the games as they were entered in the
+contests. Later, bug-fixed versions of many of the competition entries are
+usually stored in the directories for the IF authoring systems used to write
+them. So if you find a game you're interested in playing in the competition
+directories check to see if there is a better, updated version of the game
+elsewhere.
+
+The IF Art Show has produced a few good games. They are stored under the 
+/art/if-artshow directory.
+
+There is also a directory containing games by Scott Adams and various
+utilities which is outside of the games directory. 
+
+     https://ifarchive.org/if-archive/scott-adams/
+
+
+2.3 What games to play first?
+    -------------------------
+There are so many games available at the IF Archive that you may have
+trouble deciding what's worth playing first.
+
+Here's two suggested ways to start:
+
+Firstly, the directory https://ifarchive.org/if-archive/starters/ contains
+collections of games that people consider to be good introductions to IF 
+The collections contain instructions and all the programs necessary to play
+the included games. Look in the Index file in this directory to see what
+the various collections in the directory contain. (The Adventure Blaster
+collection is recommended if you're running MS Windows 95,98 or NT.)
+
+Secondly, you can look at reviews of some of the games. 'Baf's Guide to the
+Interactive Fiction Archive' is a good place to start.  Baf's guide
+contains ratings and miniature reviews of many of the games at the IF
+archive.  The IF magazines XYZZYnews and SPAG also have reviews of games.
+The web site addresses for Baf's Guide, XYZZYnews and SPAG are listed in
+appendix 3.
+
+
+
+2.4 Where to get hints?
+    -------------------
+There's a directory at the IF Archive containing hint files, solutions
+and walkthroughs for many of the games at the IF Archive and for other
+games as well. The directory is 
+
+     https://ifarchive.org/if-archive/solutions/
+
+
+You can also ask for hints by posting a message on the rec.games.int-fiction
+Usenet newsgroup (see appendix 3.)
+
+
+3. How to download a file
+   ----------------------
+Netscape usually displays the contents of a file on screen. For example 
+if you click on the name of the "Index" file in a directory at the IF 
+Archive the text it contains is displayed on screen. 
+
+However some types of files, such as programs, are not designed to be
+displayed within your Web browser but downloaded to your PC and run as
+programs or read using specialised software.  Such files are known as
+'binary' files. If you were using an 'ftp' program you would have
+to set it to 'binary mode' to download binary files in uncorrupted form. 
+Netscape automatically recognises some 'binary' file-types by the file
+name's extension (such as .zip or .exe). When you click on a filename which
+Netscape recognises as a 'binary,' it pops up a Save-As dialog box and asks
+you where you want to download the file to.
+
+If Netscape doesn't automatically pop up the Save-As dialog box when you
+click on the name of a program or game file, you should 'right-click' on
+the file name.  Then a little sub-menu will pop up.  Select the 'Save this
+Link as' option to download the file, in binary mode, to your PC. (You may
+need to close down and restart Netscape to clear Netscape's memory 'cache'
+if you've already read the binary file in non-binary screen-display mode.)
+
+
+4. Zipped Files
+   ------------
+Many of the available files are stored in a compressed format to save disk
+space at the IF Archive and download time when you transfer them to your
+PC.  Usually the files have been compressed by a program called PKZip (or
+software compatible with PKZip.) Files compressed in PKZip format have file
+names that end in the extension ".zip". You can download any of these files 
+to your PC but you will need to uncompress them before you can use them. You
+can uncompress .zip files using the PKunzip program or something else that
+reads PKZipped files (such as WinZip.)
+
+You can get the MsDOS PKZip program from the IF Archive.  It is stored in
+
+ https://ifarchive.org/if-archive/download-tools/pc/pkz204g.exe
+
+A Windows version is available from http://www.pkware.com/
+
+Once you've downloaded this file, run it on your PC to uncompress all the
+component programs that constitute the PKZip system.  One of the component
+programs is pkunzip.exe which is all you need to uncompress pkzipped files.
+
+(Some of the files at the IF Archive have been compressed by programs
+other than PKZip - the file names will end in things like .arc, .tar.Z or
+.gz.  Some shareware software like WinZip and PKZip for Windows can read 
+these compression formats as well as the PKZip format. You can find freeware 
+MSDOS programs to uncompress these and other formats in the directory
+
+ https://ifarchive.org/if-archive/download-tools/pc/
+
+
+Look in the Index file in this directory to see what the various programs
+in the directory can do.)
+
+
+5. Game Files and Runtime Systems
+   ------------------------------
+These days most IF games are created using an IF authoring system.  An
+IF authoring system is a program that does some of the 'computer
+programming' work and allows the person writing the IF game to
+concentrate on the content of his game.  These systems read the author's
+'source code' (text files describing the content of the game) and 'compile'
+this description into a 'game file.'
+
+To play the game you need both the compiled game file and a copy of the
+appropriate 'runtime interpreter' for the IF authoring system that
+created the game file.
+
+Its a similar concept to watching a movie by playing a video
+cassette (the game file) in your VCR (the interpreter.)   However IF
+games come in several different formats. So you require a different 'VCR'
+to play games written in each different format.
+
+For example, say some kind soul writes an IF game called 'Dragons' with
+the TADS authoring system.  To play 'Dragons' you'll need both the file
+containing the game itself -- dragons.gam -- and also the TADS runtime
+interpreter program for the PC -- tr.exe.
+
+If you want to play another TADS game you just need to obtain the game file
+for that new game because you already have the tr.exe program which is the
+'VCR' able to play all TADS games.
+
+This game file concept works very well because ... 
+
+- the IF author can distribute just one version of his game which can be
+played on any type of computer system (eg: MSDOS PC; Apple Macintosh; Linux;
+MS Windows PC) for which a runtime interpreter is available.
+
+- the IF player needs only one copy of the runtime interpreter program
+for an IF authoring system to play all the games written using that
+system.  This saves space on the player's disk drive and makes downloading
+new games quicker as only the game file is required and not another copy of
+the software required to play the game.
+
+The disadvantage for the IF player is that it can be difficult to locate
+the runtime interpreter for a game when the software is not 'packaged' with
+the game itself.  So the following section describes what interpreters to use
+to play games written with the most common IF authoring systems and where
+the various interpreter programs can be found at the IF Archive.
+
+
+6. The Common Types of Game Files
+   ------------------------------
+Currently, the most popular IF authoring systems are Inform and TADS. 
+AGT was the dominant system before TADS and Inform became popular so there
+are also many AGT games around.
+
+Firstly, though, we will look at a relatively new system called Hugo because 
+it makes a simpler first example.
+
+As it is the first system explained, there are a few general tips included
+in the Hugo section. So read section 6.1 even though you may only be
+interested in playing games written with other authoring systems.
+
+With a few exceptions, the file locations for all the other IF authoring 
+systems at the IF Archive follow the same pattern as the Hugo games and Hugo 
+software. 
+
+The pattern is you can find the games written in the XYZ IF authoring system 
+in the XYZ subdirectory under 
+    https://ifarchive.org/if-archive/games/ 
+and the XYZ runtime interpreter software in the XYZ 'executables' 
+subdirectory under 
+    https://ifarchive.org/if-archive/programming/
+
+i.e. 
+
+   https://ifarchive.org/if-archive/games/XYZ/
+   https://ifarchive.org/if-archive/programming/XYZ/executables/
+
+
+
+6.1 Hugo (.hex files)
+    ----
+The names of Hugo game files end in .hex.  These are binary format files so,
+if using Netscape, right-click rather than click on the .hex filename to 
+download it. There are only a few Hugo games available.  They are stored at 
+the IF Archive in 
+
+     https://ifarchive.org/if-archive/games/hugo/
+
+You will see that some of the entries end in .zip.  So when you download
+these files to your PC you will need to unzip them to extract the .hex game
+file. (See section 4 above for details about .zip files.)
+
+Choosing a Hugo runtime interpreter program may seem a bit complicated 
+as there are many different PC and Windows versions listed in the Hugo 
+'executables' directory. However there are really just three mainstream Hugo 
+versions tailored for three types of PCs - Win32; MSDOS/Windows3.x and 
+'16bit MSDOS.'
+
+"Win32" refers to Microsoft's "32 bit" Windows operating systems - Windows 
+95 or 98 and Windows NT (versions 3.51 and 4.0) or Windows 2000.
+
+Windows 3.x refers to any "version 3" variant of Microsoft Windows. The most
+common versions are Windows 3.1 and Windows for Workgroups 3.11.
+
+"16bit MSDOS" refers to a (really old) PC, running a version of MSDOS, which 
+has an 8088, 8086 or 80286 CPU.
+
+6.1.1 Windows 95/98, NT/2000
+      ----------------------
+If you use Microsoft Windows 95, 98, 2000 or NT, you can use the Windows
+version of Hugo which is stored in 
+
+https://ifarchive.org/if-archive/programming/hugo/executables/hugov30_win32.zip
+
+The zip contains the Hugo compiler and various other files as well as the
+interpreter program. To play Hugo games you just need the interpreter which
+is called HEWIN.EXE.
+
+You can create a file association in Windows Explorer or My Computer so you 
+can double-click a Hugo '.hex' game-file and automatically start hewin.exe to 
+play the game.
+
+
+6.1.2 Windows 3.x, MSDOS
+      ------------------
+The Windows version of the Hugo interpreter won't work with Windows 3.x. To
+play Hugo games on a PC running MS-DOS or Windows 3.x you need to use
+the Hugo DOS runtime interpreter, HE.EXE, which is stored in 
+
+https://ifarchive.org/if-archive/programming/hugo/executables/hugov30_32bit.zip
+
+If you have he.exe and your Hugo games' .hex files in the same directory,
+the command to play a game is he 'game-file-name'.  For example, to play a
+game called spur.hex, enter the command
+
+     he spur 
+
+With Windows 3.x, you can create a file association in File Manager so you 
+can double-click a Hugo '.hex' game-file and automatically start he.exe to 
+play the game. 
+
+In MS Windows you can alter the font and other properties of the he.exe DOS 
+'window' used to play Hugo games (or any other DOS window) by clicking on
+the spacebar icon in the top left corner of the window. You can expand the
+box to full screen by pressing the Alt and Enter keys together. (And use
+Alt-Enter again to revert back to a 'window'.)
+
+If you run he.exe from MS-DOS you'll need the memory utility program called 
+cwsdpmi.exe which is included in hugov30_32bit.zip. If you get a 'no dpmi' 
+error message when you try to use he.exe, make sure that cwsdpmi.exe is in 
+the same directory as he.exe. Better still, put cwsdpmi.exe in your DOS 
+directory which will make it available both to Hugo and to any other programs 
+that may need it.
+
+
+6.1.3 16 Bit MSDOS
+      ------------
+The programs in hugov30_32bit.zip are designed to run on PC's that
+have a 386 or better CPU. If you're using an older PC with less than a 386
+processor you can play Hugo games by using the '16-bit' MSDOS version of
+he.exe in:
+
+https://ifarchive.org/if-archive/programming/hugo/executables/hugov30_16bit.zip
+
+
+6.2 TADS (.gam files)
+    ----
+The names of Tads game files end in .gam.  The Tads games are stored in 
+
+     https://ifarchive.org/if-archive/games/tads/
+
+
+There is a lot of entries in this directory.  Some of these games are
+compressed using programs other than Pkzip.  Some like Legend386.zip are
+actually PC executable -- ie: a copy of some version or another of the MSDOS
+TADS runtime interpreter is included in the PKZipped file so the .zip files
+are very large. Anyway, read through the Index file in this directory to
+see what's what.
+
+A new version of the Tads compiler - 'HTML Tads' - was released in 1998.
+HTML Tads games can include pictures and sounds.
+
+To play Tads .gam files which are not bundled with a runtime interpreter
+you need to download a Tads runtime interpreter separately. In fact, even
+if the game does come with a bundled runtime interpreter, it may run better,
+or look prettier, with a more up-to-date Tads interpreter. 
+
+There's ten different MSDOS or Windows packages in the TADS executables
+directory so choosing a TADS runtime interpreter can be a bit complicated.
+The following recommendations are broken down into sections for various
+types of PCs in attempt to make things a bit clearer.
+
+
+6.2.1 Windows 95/98 or NT
+      -------------------
+If your PC is running Microsoft Windows 95, 98, 2000 or NT, you can run the
+graphical 'HTML Tads' runtime interpreter. The HTML Tads interpreter can play
+older TADS games as well as recent games which use the new HTML Tads features.
+So it may be the only TADS runtime interpreter you'll need. It is stored in
+
+https://ifarchive.org/if-archive/programming/tads2/executables/htads_playkit_255.exe 
+
+
+WinTADS is an alternative TADS interpreter for Windows 9x/NT users. Some
+pre-HTML TADS games look better in WinTADS so you might like to download
+this program also
+
+https://ifarchive.org/if-archive/programming/tads2/executables/WinTADS-133.zip 
+
+Though no games have yet been released there is a new version of TADS 
+currently being developed called "TADS 3". Games written using TADS 3 
+will require a new TADS runtime interpreter. To play TADS 3 games, when they 
+are appear, use the TADS 3 Player's Kit
+
+https://ifarchive.org/if-archive/programming/tads3/executables/tads_playkit_302.exe
+
+
+
+6.2.2 Windows 3.x or MS-DOS
+      ---------------------
+If you're not running a 32bit version of Windows you'll miss out on any
+pictures or sounds in HTML Tads games but you can still play them in
+text-only mode using the 16-bit MS-DOS version of the HTML Tads interpreter:
+
+ https://ifarchive.org/if-archive/programming/tads2/executables/tadsexx_255.zip
+
+This file contains the TADS compiler and associated files as well as the
+runtime intepreter. You only need the trx.exe program from this zip file to
+play TADS and HTML Tads games.
+
+This HTML Tads interpreter can also play older TADS games but some of them,
+especially really large ones like "The Legend Lives", may work better with
+the old 32-bit MS-DOS intepreter. (Note that you need a 386 or better
+processor in your PC to use this 32-bit program.)
+
+ https://ifarchive.org/if-archive/programming/tads2/executables/pc-go32.tads2exe.zip 
+
+Like the tadsexx_255.zip file, this zipped file contains a version of the
+Tads compiler as well as the runtime interpreter.  To play TADS game files
+you just need the runtime interpreter program which is called tadsr.exe.
+
+(Note: To use tadsr.exe from DOS, rather than from within Windows, you
+also need the memory management utility called cwsdpmi.exe. This utility
+is included in the zip file. Put cwsdpmi.exe in the same directory as
+tadsr.exe. Alternatively, you can put cwsdpmi in your DOS directory so it
+is available to any other program that may need it such as the Hugo
+and Alan MSDOS runtime interpretors.)
+
+
+6.2.3 Sub-286 PCs
+      -----------
+You need a 286 or better processor in your PC to use the 16-bit HTML Tads
+interpreter, trx.exe, mentioned in the last section. Older PCs can
+use the 8-bit version of the HTML Tads runtime intepreter in
+
+ https://ifarchive.org/if-archive/programming/tads2/executables/tadsrun_255.zip 
+
+You also might want to use this 8-bit TADS interpreter, tr.exe,  on a 286
+or 386 PC as you may find that it runs a little faster than trx.exe. 
+
+However tr.exe will have trouble playing some TADS games -- especially really
+large games.  There is a command-line switch you can use to specify the way
+tr.exe uses memory internally which may help with some memory problems.
+Changing this setting may help if you experience problems playing a TADS game
+with tr.exe. Try adding -mh 64000 to the command used to start the game. An
+example command line to run a game called dragons.gam could look like this
+
+ tr -mh 64000 dragons
+
+
+
+6.3 Inform / 'z-code' / 'z-file' format (.z5 or .z8 files)
+    -----------------------------------
+The names of Inform game files end in .z-something - usually .z5 or
+.z8.  (There are also some .z3 and .z6. You may also see some z-code
+files with names ending in .dat -- usually they'll be old Infocom games.)
+The number in the file name represents the version of the 'z-file' format
+that the game file is written in.  For the PC user the format version doesn't
+matter very much as the latest versions of the runtime interpreters (except
+for WZip) can read all these different versions.
+
+An interesting facet of the Inform IF authoring system is that its game files
+are in the same format as the famous Infocom IF games.  The Infocom company
+produced IF games commercially during the 1980s. Infocom game files were
+stored in what Infocom called z-file or z-code format. You may also hear the
+term 'z-machine' -- Infocom used this phrase to refer to its runtime
+interpreter system.
+
+Inform game files are stored in 
+
+     https://ifarchive.org/if-archive/games/zcode/
+
+You won't find any games by the Infocom company here as they are still under
+copyright.  The Infocom copyrights are now owned by a company called
+Activision.  Activision has released Infocom's Zork 1, 2 and 3 and Douglas 
+Adams has released "Hitchhikers Guide to the Galaxy" as freeware. Activision 
+have a WWW site which you may like to look at:
+
+     http://www.activision.com/
+
+There are few demo games from Infocom at the IF Archive (eg: Minizork - a 
+demo version of Zork 1) is in the directory
+
+     https://ifarchive.org/if-archive/infocom/demos/
+
+Interpreters for the z-code format are often called zip interpreters. 
+Which was an unfortunate choice of name as the word zip is now associated
+with the compression of files. 
+
+There are several different interpreters for the z-code format.  Two of the
+most popular are JZip and Frotz.
+
+The PC version of the JZip program can read all the main variations of the
+z-file format.  You can find it at
+
+ https://ifarchive.org/if-archive/infocom/interpreters/zip/jzpc201g.zip
+
+
+Frotz can also read the main variations of the z-file format and also
+supports the graphics and sound features of some z-file format games.  You
+can find the MS-DOS version of Frotz at
+
+ https://ifarchive.org/if-archive/infocom/interpreters/frotz/DJGPPFrotz240.zip
+
+DJGPP Frotz 240 is for 386 or better processors. If your PC has a 286 or 
+lesser CPU you'll need to use an older version of Frotz which can be found
+at
+
+https://ifarchive.org/if-archive/infocom/interpreters/frotz/DosFrotz232Std10.zip
+
+
+Though JZip and DOS Frotz are MSDOS-based programs, like all the other DOS
+software mentioned in this document, they work just fine under the various
+flavours of Microsoft Windows. (Remember, from the Hugo section above, that 
+you can adjust the font sizes etc of DOS software run under Windows.)
+
+There are also a couple of z-file interpreters written especially for 
+running under Windows - WZip and WinFrotz. 
+
+WinFrotz runs under 32bit Windows (Win95, NT, etc.) It can be downloaded
+from:
+
+ https://ifarchive.org/if-archive/infocom/interpreters/frotz/WinFrotzR53.zip
+
+
+Wzip has the advantage, compared to other 'Windows' interpreters mentioned
+in this document, of running under Windows 3.x as well as 32bit Windows
+systems. However it cannot play games with a z-code version above z5 --
+though that's not too bad as most Inform games are in z5 format. (Win3.x
+users can play z6 games with MSDOS Frotz and z8 games with either MSDOS
+Frotz or Jzip.)  Wzip can be downloaded from:
+
+ https://ifarchive.org/if-archive/infocom/interpreters/zip/wzip21.zip
+
+
+
+6.4 AGT
+    ---
+AGT (short for Adventure Game Toolkit) games are split into a number of
+game files with names ending in . d$$, .da1, .da2 etc.  You need all the
+files to play the game. 
+
+Many of the games in the /games/pc directory are actually AGT games bundled
+with a runtime interpreter. A few other AGT games are scattered around
+other parts of the IF Archive. 
+
+The directory 
+
+     https://ifarchive.org/if-archive/games/agt/
+
+contains links (effectively an index) to all the AGT games available in the
+IF Archive. Mostly the links in the /games/agt directory point to the
+/games/pc directory.
+
+Remember the compressed files in the /games/pc directory include all the
+files necessary to play the games they contain so you don't really need any
+more AGT software.  However some modern PCs have problems with the old AGT 
+runtime interpreters that are bundled with the games in /games/agt and /pc.
+So its a good idea to use Robert Masenten's 'AGiliTy' runtime interpreter for
+playing AGT games. As well as better reliability, AGiliTy provides a nicer
+player interface and automagically adds some modern command abbreviations
+and shortcuts to the old AGT games.
+
+The MSDOS version of AGiliTy is
+
+  https://ifarchive.org/if-archive/programming/agt/agility/agil111dos.zip
+
+(That DOS version requires a 286 or better CPU. There's a version for sub-286 
+machines in the same directory called agil111olddos.zip.)
+
+A version for MS Windows 95, 98 and NT is
+
+  https://ifarchive.org/if-archive/programming/agt/agility/AGiliTy111Win.zip
+
+
+
+6.5 Alan  (.acd and .dat files)
+    ----
+Alan games are split into two component files. Both files are needed to
+play the game. One file's name will end with the extension .acd, the other
+.dat.  There are only a few Alan games available.  You'll find a few Alan
+games amongst the various competition directories at the IF Archive but
+mostly they are stored in 
+
+     https://ifarchive.org/if-archive/games/alan/
+
+You will see that some of the entries in this directory end in .zip.  So
+when you download these files to your PC you will need to unzip them to
+extract the two game files.
+
+There are four current Alan interpreter programs for PC users - MSDOS; MSDOS 
+"Glk"; Win32 "text mode" and Win32 "Glk".
+
+
+6.5.1 MSDOS and Windows 3.x
+      ---------------------
+To play Alan games on an MSDOS or Windows 3.x PC you need an Alan MSDOS
+runtime interpreter. The MSDOS "Glk" interpreter provides a status line and 
+command history - features which are missing from the older MSDOS 
+interpreter - Arun281dos.zip.
+
+The Alan MSDOS "Glk" runtime interpreter is stored in the zipped file:
+
+ https://ifarchive.org/if-archive/programming/alan/executables/glkarun-2.86-dos-2.zip
+
+You need to unzip this file on your PC.  This zip file contains several
+versions of the interpreter program. The best version is the TERMARUN.EXE 
+version.
+
+If you have termarun.exe and your Alan games' .acd and .dat files in the same
+directory or 'folder', the DOS command to play a game is
+
+    termarun 'game-file-name'.
+
+For example, if you have a (fictitious) Alan game called "Dragons" whose two
+game-files are called dragons.acd and dragons.dat, to play the game enter
+the command
+
+     termarun dragons
+
+However, the default TermArun screen looks a bit too much like a mainframe 
+computer terminal. You can change this a bit by setting some command-line 
+options (you can see all the TermArun options by typing termarun -help.)
+
+I suggest using the no message line, reverse video textgrid and no border 
+options. To save you writing "termarun -ml -revgrid -border dragons" 
+every time you play a game, you can create a simple DOS "batch command" file. 
+
+Create a text file using an editor like DOS Edit or Windows Notepad called, 
+say, myarun.bat in the same directory as termarun.exe. The file should 
+contain one line containing the following text
+
+    termarun -ml -revgrid -border %1
+
+When the batch file is run, the TermArun interpreter will run with the three 
+screen appearance options set and the "%1" bit is automatically replaced by 
+the name of the game you specify. So you can now play Alan games using the 
+command 
+
+    myarun 'game-file-name'
+
+eg:
+
+    myarun dragons 
+
+
+Notes:
+  - termarun.exe (and the arun281.zip interpreter) only runs on PC's with an 
+80386 or better processor (ie: "CPU".) That means you can probably play Alan 
+games if your PC was made later than 1991 or so.)
+
+  - PC's running MS-DOS only (ie: not running DOS from within MS Windows) 
+won't be able to run the programs in glkarun-2.86-dos-2.zip without a memory 
+utility program called cwsdpmi.exe. If you get a 'no dpmi' error message 
+when you try to use termarun.exe, you need cwsdpmi.exe. A copy of this 
+utility is included with the '32-bit' DOS interpreters for Hugo and TADS
+- see sections 6.1 and 6.2 above. Put a copy of cwsdpmi.exe into your DOS
+directory which will make it available to termarun, he, tadsr and any other
+programs that may need it. You can also download cwsdpmi.exe from
+
+  ftp://ftp.simtel.net/pub/simtelnet/gnu/djgpp/v2misc/
+
+
+
+6.5.2 Windows 95/98 or NT
+      -------------------
+If you're using a 32-bit version of MS Windows, you can use the Win32 
+'Glk' Alan interpreter. 
+
+  https://ifarchive.org/if-archive/programming/alan/executables/glkarun-2.86-windows-2.zip
+
+This interpreter has a nice appearance but it is a new piece of software and 
+it currently has a couple of problems. Firstly, it does not have a File Open 
+option so you need to create a file association between the ".acd" filename 
+extension and winarun.exe. You can then start an Alan game by double-clicking 
+on the game's .acd file. Secondly, there's a bug in the game startup code 
+which means you have to type in the game's filename when WinArun starts even 
+though you've just clicked on the file! (For example, if you've just 
+double-clicked on dragons.acd, just type dragons and press Enter.)
+
+If you can't live with those minor problems, or you prefer a plain text-mode 
+appearance, there's a nice Win32 console-mode Alan interpreter in the file
+
+  https://ifarchive.org/if-archive/programming/alan/executables/arun286bwin.zip
+
+
+6.5.3 Alan 2.5/2.6 Games
+      ------------------
+Note that there are several older Alan games (version 2.5 and 2.6) at the IF
+Archive that can't be played using a current Alan interpreter. You can
+download the old Alan version 2.6 MSDOS interpreter program to play these
+version 2.5 and 2.6 games.
+
+  https://ifarchive.org/if-archive/programming/alan/old/arun262pc.zip
+
+
+6.6 Glulx  (.ulx files)
+    -----
+Glulx games are written with a version of the Inform interpreter 
+but the gamefile format is quite different from the traditional 
+Infocom format so a different runtime interpreter is required to 
+play Glulx games. Glulx is a new authoring system so there aren't really any 
+games yet besides a port of Colossal Cave and Gunther Schmidl's ToasterComp 
+entry. I've added Glulx to this FAQ in anticipation of new games coming 
+soon. Glulx games will be found in the directory
+
+    https://ifarchive.org/if-archive/games/glulx/
+
+Glulx games are played with the a runtime interpreter called Glulxe - 
+meaning Glulx Engine. (But don't ask be what Glulx itself means. I'm not 
+sure that anyone knows!)
+
+
+6.6.1 Windows 95/98 or NT
+      -------------------
+To play Glulx games on a Windows PC download
+
+https://ifarchive.org/if-archive/programming/glulx/interpreters/glulxe/WinGlulxe-035.zip
+
+6.6.2 MS-DOS and Win 3.x
+      ------------------
+MS-DOS and Windows 3.x users both need to use the MS-DOS version of 
+the Glulx Engine contained in the file
+
+https://ifarchive.org/if-archive/programming/glulx/interpreters/glulxe/glulxe-glkdos.zip
+
+
+
+
+7. Emulators and Converters
+   -------------------------
+Some old games written for old computer systems can be played on PCs by
+using a program that emulates the old computer system.
+
+For example, there are a lot of Apple II games in subdirectories under
+
+     https://ifarchive.org/if-archive/games/appleII/
+
+
+These files are stored as images of Apple II floppy disks.  The file names
+end in .dsk.  To play these games you need an Apple II emulator program for
+your PC such as:
+
+ https://ifarchive.org/if-archive/emulators/appleII/ApplePC_252.zip
+
+
+There are also disk images and emulators for other old systems such as the
+Commodore C64 at the IF Archive.
+
+A World Wide Web site with more information on emulators is
+
+	    http://www.komkon.org/fms/
+
+Some games written for old computer systems can be converted into files
+that can be read on a PC.  For example 
+
+ https://ifarchive.org/if-archive/infocom/tools/zcut11.zip
+
+converts Apple II, Commodore 64 and some other old computer disk images of
+Infocom games into z-file format files which can then be played with a PC
+z-file interpreter like Jzip.
+
+
+
+
+
+
+			 Appendices
+			 ----------
+
+a1. The Interactive Fiction Archive Mirror Sites
+    --------------------------------------------
+Copies of the IF Archive are stored at other Internet ftp and Web sites.
+Have a look at
+
+     https://ifarchive.org/if-archive/README 
+
+to see if there is a 'mirror site' closer to you than ifarchive.org.
+
+Currently, mirrors of the IF Archive are maintained at the following
+locations.
+
+Mirrors with enhanced features:
+
+  https://ifarchive.org/ (WWW interface:file lists include file descriptions)
+
+  http://bang.dhs.org/if-archive-search.html (WWW searchable index to the 
+above IF Archive mirror)
+
+
+Conventional mirror sites:
+
+  http://wuarchive.wustl.edu/doc/misc/if-archive/       (USA)
+  ftp://wuarchive.wustl.edu/doc/misc/if-archive/
+
+  ftp://ftp.funet.fi/pub/misc/if-archive/               (Finland)
+
+  http://ftp.nodomainname.net/pub/mirrors/if-archive/   (USA)
+
+  ftp://mirror.aarnet.edu.au/pub/if-archive/            (Australia)
+  http://mirror.aarnet.edu.au/pub/if-archive/
+
+  ftp://www.plover.net/if-archive/	                (USA)
+
+  ftp://ftp.ifarchive.com/if-archive/                   (USA)
+  ftp://ftp.ifarchive.net/if-archive/
+
+  http://mirror.holmoak.co.uk/if-archive/		(UK)
+  ftp://mirror.holmoak.co.uk/if-archive/
+
+  ftp://ftp.guetech.org/if-archive/	                (USA)
+
+
+a2. Compiling Source Code
+    ---------------------
+If you wish to write your own games you will need an IF authoring
+system's compiler and the documentation explaining how to write the text
+files (called 'source code') that describe the content of a game. 
+
+You may also want to compile a game from the source code available under
+the various /programming directories in the IF Archive.  If your interest
+is in playing games though, compiling source code is unnecessary as most of
+the available source code is for programming examples which make boring
+games or for games that are already available as compiled game files
+elsewhere at the IF Archive.
+
+
+a2.1 Hugo
+     ----
+When you downloaded the Hugo runtime interpreter you also downloaded a copy
+of Hugo compiler.  To compile Hugo games, however, you'll also need the
+manual and standard source-code library for the Hugo compiler which are
+stored separately.
+
+The Hugo library and compiler manual (in several alternative formats) are
+in the following directories:
+ https://ifarchive.org/if-archive/programming/hugo/library/
+ https://ifarchive.org/if-archive/programming/hugo/manuals/
+
+
+a2.2 TADS
+     ----
+The Tads compiler comes in two versions. 
+
+The full version of HTML Tads, which handles graphics and sound and which
+only works under Windows 95, 98 or NT, is in:
+ https://ifarchive.org/if-archive/programming/tads2/executables/htads_authkit_255.exe 
+
+The file containing the TADS 16-bit interpreter for MS-DOS/Win3.x users,
+mentioned in section 6 above, contains a copy of the text-only version of
+the TADS compiler and library.
+
+The Tads documentation is available in various formats.  Have a look at the
+Index file in the tads/manuals directory for details. Full documentation,
+in HTML format, and the latest supplementary information are respectively in:
+ https://ifarchive.org/if-archive/programming/tads2/manuals/TADSHTML.ZIP
+ https://ifarchive.org/if-archive/programming/tads2/manuals/tads_pm.zip
+
+
+a2.3 Inform
+     ------
+The Inform compiler is in:
+https://ifarchive.org/if-archive/programming/inform6/executables/inform621_386pc.zip
+
+The standard code library is in the directory:
+  https://ifarchive.org/if-archive/programming/inform6/library/
+
+The Inform manual, called the 'Designer's Manual', is available in various
+formats in this directory:
+  https://ifarchive.org/if-archive/programming/inform6/manuals/
+
+
+a2.4 Alan
+     ----
+Alan is a powerful but relatively easy-to-use IF authoring system. The
+Alan compiler is in:
+  https://ifarchive.org/if-archive/programming/alan/executables/alan281dos.zip
+
+The manual (in various formats) and a tutorial are in: 
+  https://ifarchive.org/if-archive/programming/alan/manuals/
+
+The proposed standard code library can be found in the directory:
+  https://ifarchive.org/if-archive/programming/alan/examples/
+
+
+
+a2.5 AGT and MAGX
+     ------------
+There is a new system, called MAGX, that compiles AGT games that can then
+be played with the Agility runtime interpreter. If you wish to write games
+using the AGT language I recommend using MAGX rather than one of the old AGT
+versions. To use Magx, you also need to download the AGT Master's Edition
+for manuals, example code, etc. MAGX and AGT Master's Edition are
+respectively in: 
+  https://ifarchive.org/if-archive/programming/agt/magx/magx065dos.zip
+  https://ifarchive.org/if-archive/programming/agt/agtmastr.zip
+
+(Use magx062olddos.zip if you have a PC with less than a 80286 processor.)
+
+There are many old versions of AGT at the IF Archive. The Index file
+in the programming/agt directory provides some details about them.
+
+
+
+a2.6 Which is Best?
+     --------------
+There are many other IF authoring systems available too. None, perhaps,
+is 'best'.  It depends on your level of programming skill and what sort of
+interactive fiction you want to create. If you feel like writing your own
+games you may like to look at Bob Newell's "Which Authoring System is
+Better" document:
+
+https://ifarchive.org/if-archive/programming/general-discussion/whichsys.zip
+
+This document is getting out of date now but still is well worth the reading
+time of the prospective IF author. See the raif FAQ mentioned in the next
+section for brief but more up-to-date information about the various
+authoring systems.
+
+
+
+a3. Other IF Internet Locations
+    ---------------------------
+
+a3.1 Starter Kits
+     ------------
+There is a directory at the IF Archive containing useful 'starter kits'
+for new IF players, including Adventure Blaster for Win9x/NT. Kits are
+available for several computer systems. Look in
+
+     https://ifarchive.org/if-archive/starters/
+
+
+a3.2 MS Windows Specific Instructions
+     --------------------------------
+For some people this FAQ may cover too much information but not in enough
+depth. For people who want very specific step-by-step instructions for
+playing IF on Microsoft Windows PCs there is
+     
+     http://users.actrix.co.nz/stevgrif/howplay.htm
+
+
+a3.2 Info for non-PC Computer Systems
+     --------------------------------
+For information about playing (and writing) IF games on a variety of computer
+systems visit
+
+    http://www.bright.net/~jonadab/if/
+
+Information about playing Inform and Tads games on a variety of computer
+systems is in
+
+     https://ifarchive.org/if-archive/games/zcode/how_to_play_these_games
+     https://ifarchive.org/if-archive/games/tads2/00ReadMeFirst-TADS
+
+To play Inform games on a Palm Pilot download Frobnitz (a gamefile converter 
+can also be downloaded) from
+
+     http://member.newsguy.com/~hangard/frobnitz/
+
+
+a3.3 FAQ Files
+     ---------
+To learn more about interactive fiction, look at the Frequently Asked
+Questions (FAQ) files for the rec.games.int-fiction and rec.arts.int-
+fiction newsgroups.  The 'arts' group discusses the writing of interactive
+fiction so its FAQ may be of less interest to an IF player than the
+'games' group's FAQ.
+
+The rec.games.int-fiction FAQ files can be found at
+
+     http://bang.dhs.org/faq/
+
+The rec.arts.int-fiction FAQ is at
+
+    http://plover.net/~textfire/raiffaq/
+
+There are many essays and documents about interactive fiction, though more
+about writing IF rather than playing it, in
+
+     https://ifarchive.org/if-archive/info/
+
+The Brass Lantern website has a lot of beginners' guides and other useful 
+information
+
+     http://brasslantern.org/
+
+
+a3.4 Game Reviews and other information
+     ----------------------------------
+There are many other interactive fiction locations on the World Wide Web. 
+For starters, you could try
+
+'Baf's Guide to the Interactive Fiction Archive'(Game index & reviews)
+  http://www.wurb.com/if/
+
+'Twisty Pages'  (On-line index to the Archive plus other IF info and
+WWW links)
+  http://bang.dhs.org/if-index.html
+
+'Xyzzy News'  (IF magazine and WWW links)
+  http://www.xyzzynews.com/
+
+'The SPAG Home Page'  (IF magazine, game reviews, WWW links)
+  http://www.sparkynet.com/spag/
+
+The Xyzzy News and SPAG magazines are also available from the IF Archive
+in the magazines directory:
+
+     https://ifarchive.org/if-archive/magazines/
+
+Some more game review sites:
+
+Interactive Fiction Bookclub
+	http://www.textfire.com/bookclub/index.html
+
+Interactive Fiction Review Conspiracy
+	http://www.textfire.com/conspiracy/
+
+Reviews from Trotting Krips
+	http://members.dencity.com/petro/reviews.html
+
+a3.5 News Groups
+     -----------
+Two Usenet or 'news' groups -- rec.arts.int-fiction and rec.games.int-fiction
+provide forums where you can ask questions and state opinions about
+interactive fiction. (Read the FAQ files for these groups -- see section
+a3.3 above -- before posting messages for the first time so that you can
+avoid breaching group etiquette or asking questions that have been asked
+and answered too often before.)
+
+You can access these newsgroups using your web browser at http://deja.com/
+(among other places.)
+
+Or you can read these groups using your local ISP's Usenet service using
+a Usenet newsreader. Most web browsers such as Netscape include some sort of
+Usenet newsreader software or you can use separate specialist software.
+
+Good Usenet newsreader software packages for MS Windows include Forte Free
+Agent from http://www.forteinc.com/
+
+A serviceable MSDOS newsreader is included in the Nettamer package from
+http://www.nettamer.net/
+
+
+
+			    ------- End -------
+
+</pre>
+</div>
+
+	
+
+<div id="oldfooter">
+  <p>SPAG is maintained as a historical archive by the
+  <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+  Pages are no longer updated and links may no longer work.
+  </p>
+</div>
+
+
+</body>
+</html>

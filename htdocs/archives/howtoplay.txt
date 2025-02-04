@@ -1,0 +1,430 @@
+    The source for this document is 
+       https://ifarchive.org/if-archive/programming/tads/examples/instruct.t
+    Copyright (c) 1993 Michael J. Roberts, and it is used without permission.
+
+    This file provides a full set of instructions for using
+    a generic text game.  
+
+    You should go through the instructions included with your game.
+    This information is very generic, and your game may have 
+    specific features and commands that should be mentioned.
+
+HOW TO PLAY
+
+In an adventure game, you play by typing commands that describe what you want
+to do.  Unfortunately, the game isn't as smart as you are, so it can't
+understand nearly as many sentences as a person could.  In this section,
+we'll describe most of the types of commands that you will need to use while
+playing the game.
+
+Note that games are usually designed so that you won't need to think of any 
+unusual words or phrases that aren't directly mentioned by the game.  Good 
+authors especially try to avoid making you guess a strange verb or an unusal 
+way of phrasing a command.
+
+Each time you see the prompt, >, you type a command.  Your command should
+be a simple imperative sentence, or a series of imperatives separated by
+periods.  Press the RETURN (or ENTER) key when you are done typing your
+command; the game doesn't start interpreting the command until you press
+RETURN.
+
+You can use capital or small letters in any mixture.  You can use words such
+as THE and AN when they're appropriate, but you can omit them if you prefer.
+
+TRAVEL
+
+At any time during the game, you are in a location.  The game desribes your
+location when you first enter, and again any time you type LOOK.  In a given
+location, you can reach anything described, so you don't need to type commands
+to move about within a location.
+
+You move from place to place in the game by typing the direction you want to
+go.  The game will always tell you the directions that you can go from a
+location, although it usually doesn't tell you what you will find when you go 
+there.  You will probably find it helpful to make a map as you explore the 
+game.  The directions the game recognizes are NORTH, SOUTH, EAST, WEST, 
+NORTHEAST, SOUTHEAST, UP, and DOWN.  You can abbreviate these to N, S, E, W, 
+NE, SE, NW, SW, U, and D.  In some locations you can also use IN and OUT.
+
+Generally, backtracking will take you back to where you started.  For example,
+if you start off in the kitchen, go north into the living room, then go south,
+you will be back in the kitchen.
+
+Most of the time, when the game describes a door or doorway, you don't need to
+open the door to go through the passage; the game will do this for you.  Only
+when the game explicitly describes a closed door (or other impediment to
+travel) will you need to type a command to open the door.
+
+
+
+OBJECTS
+
+In the game, you will find many objects that you can carry or otherwise
+manipulate.  When you want to do something with an object, type a simple
+command that tells the game what you want to do; be explicit.  For example,
+you could type READ THE BOOK or OPEN THE DRAWER.  Most of the objects in the
+game have fairly obvious uses; you shouldn't have to think of any obscure or
+unrelated words to manipulate the objects.
+
+You generally don't have to specify exactly where you want to put an object
+that you wish to carry; you can just type TAKE (followed by the object's
+name) to carry an object.  It's not particularly interesting to force you to 
+specify which object you wish to put in your left pocket, which you wish to 
+carry in your right hand, and so forth.  However, there is often a limit to 
+how many objects you can carry at once, and to how much weight you can handle.  
+You can carry more objects (but not more weight, of course) by putting some 
+items inside containers (for example, you may be able to put several objects 
+into a box, and carry the box), since this reduces the number of objects you 
+actually have to juggle at once.
+
+Some basic verbs that you will use frequently are TAKE (to pick up an object),
+DROP (to drop an object), OPEN and CLOSE, and EXAMINE (which you can abbreviate
+to X).  You can PUT an object IN or ON another object when appropriate.  The
+game recognizes many other verbs as well.  All of the verbs should be obvious; 
+if you find a knob, you will be able to TURN it, and if you find a button, you 
+will be able to PUSH it.  By the same token, you probably won't need to turn 
+the button or push the knob.
+
+Some examples of commands that the game recognizes are shown below.  These
+aren't necessarily commands that you'll ever type while playing, but
+they illustrate some of the verbs and sentence formats that you may use.
+
+    GO NORTH
+    NORTH
+    N
+    UP
+    TAKE THE BOX
+    PUT THE FLOPPY DISK INTO THE BOX
+    CLOSE BOX
+    LOOK AT DISK
+    TAKE DISK OUT OF BOX
+    LOOK IN BOX
+    WEAR THE CONICAL HAT
+    TAKE OFF HAT
+    CLOSE BOX
+    TURN ON THE LANTERN
+    LIGHT MATCH
+    LIGHT CANDLE WITH MATCH
+    RING BELL
+    POUR WATER INTO BUCKET
+    PUSH BUTTON
+    TURN KNOB
+    EAT COOKIE
+    DRINK MILK
+    THROW KNIFE AT THIEF
+    KILL TROLL WITH SWORD
+    READ NEWSPAPER
+    LOOK THROUGH WINDOW
+    UNLOCK DOOR WITH KEY
+    TIE THE ROPE TO THE HOOK
+    CLIMB UP THE LADDER
+    TURN THE KNOB
+    JUMP
+    TYPE "HELLO" ON THE KEYBOARD
+    TYPE 1234 ON THE KEYPAD
+    GET IN THE CAR
+    GET OUT OF THE CAR
+    GET ON THE HORSE
+    GIVE WAND TO WIZARD
+    ASK WIZARD ABOUT WAND
+
+
+OTHER CHARACTERS
+
+You may encounter other characters in the game.  You can interact in certain
+ways with these characters.  For example, you can GIVE things to them, and you
+could try to attack them (although these are typically non-violent games, so 
+you shouldn't expect to solve any of your problems this way).  In addition, you
+can ask characters about things:
+
+    ASK WIZARD ABOUT WAND
+
+You can also tell characters to do something.  To do this, type the character's
+name, then a comma, then a command that you want the character to perform.  You
+can type several commands for the character all on the same line by separating
+the commands with periods.  For example:
+
+    ROBOT, GO NORTH. PUSH BUTTON. GO SOUTH.
+
+Of course, you shouldn't expect that characters will always follow your
+instructions; most characters have minds of their own, and won't automatically
+do what you ask.
+
+
+
+TIME
+
+Time passes only in response to commands you type.  Nothing happens
+while the game is waiting for you to type something.  Each turn takes about
+the same amount of time.  If you want to let some game time pass, because
+you think something is about to happen, you can type WAIT (or just Z).
+
+SCORE
+
+The game assigns you a score while you play, indicating how close you are to
+finishing the game.  At certain points in the game, you will be awarded points
+when you solve some puzzle or obtain some item.  The score is intended to
+provide you with a measure of your progress in the game, and increases as
+you get further in the game; you almost never lose points once they are earned.
+Some games, however, do away with scoring altogether.
+
+
+REFERRING TO MULTIPLE OBJECTS
+
+You can usually use multiple objects in your sentences.  You separate the
+objects by the word AND or a comma.  For example:
+
+    TAKE THE BOX, THE FLOPPY DISK, AND THE ROPE
+    PUT DISK AND ROPE IN BOX
+    DROP BOX AND BALL
+
+You can use the word ALL to refer to everything that is applicable to your
+command, and you can use EXCEPT (right after the word ALL) to exclude certain
+objects.
+
+    TAKE ALL
+    PUT ALL EXCEPT DISK AND ROPE INTO BOX
+    TAKE EVERYTHING OUT OF THE BOX
+    TAKE ALL OFF SHELF
+
+The word ALL refers to everything that makes sense for your command, excluding
+things inside containers that are used in the command.  For example, if you
+are carrying a box and a rope, and the box contains a floppy disk, typing
+DROP ALL will drop only the box and the rope; the floppy disk will remain in
+the box.
+
+"IT" AND "THEM"
+
+You an use IT and THEM to refer to the last object or objects that you used
+in a command.  Some examples:
+
+    TAKE THE BOX
+    OPEN IT
+    TAKE THE DISK AND THE ROPE
+    PUT THEM IN THE BOX
+
+MULTIPLE COMMANDS ON A LINE
+
+You can put multiple commands on a single input line by separating the
+commands with periods or the word THEN, or with a comma or the word AND.
+Each command still counts as a separate turn.  For example:
+
+    TAKE THE DISK AND PUT IT IN THE BOX
+    TAKE BOX. OPEN IT.
+    UNLOCK THE DOOR WITH THE KEY. OPEN IT, AND THEN GO NORTH
+
+If the game doesn't understand one of the commands on the input line, it will
+tell you what it couldn't understand, and it will ignore the rest of the
+commands on the line.
+
+
+
+AMBIGUOUS COMMANDS
+
+If you type a command that leaves out some important information, the game will
+try to figure out what you mean anyway.  When the game can be reasonably sure
+about what you mean, because only one object would make sense with the command,
+the game will make an assumption about the missing information and act as
+though you had supplied it.  For example,
+
+    >TIE THE ROPE
+    (to the hook)
+    The rope is now tied to the hook.  The end of the
+    rope nearly reaches the floor of the pit below.
+
+If your command is ambiguous enough that the game doesn't feel safe making
+assumptions about what you meant, the game will ask you for more information.
+You can answer these questions by typing the missing information.  If you
+decide you didn't want to bother with the command after all, you can just type
+a new command; the game will ignore the question it asked.  For example:
+
+    >UNLOCK THE DOOR
+    What do you want to unlock the door with?
+    
+    >THE KEY
+    Which key do you mean, the gold key, or the silver key?
+    
+    >GOLD
+    The door is now unlocked.
+
+UNKNOWN WORDS
+
+The game will sometimes use words in its descriptions that it doesn't
+understand
+in your commands.  For example, you may see a description such as, "The
+planet's rings are visible as a thin arc high overhead, glimmering in the
+sunlight."  If the game doesn't know words such as "rings," you can assume
+that they're not needed to play the game; they're in the descriptions simply
+to make the story more interesting.  For those objects that are important,
+the game recognizes many synonyms; if the game doesn't understand a word you
+use, or any of its common synonyms, you are probably trying something that is
+not necessary to continue the game.
+
+
+
+SAVING AND RESTORING
+
+You can store a snapshot of the game's state in a disk file at any time.
+Later, if you want to go back to a point you were at earlier in the game,
+you can simply restore the position from the snapshot in the disk file.
+You can save your position as many times as you like, using
+different disk files for each position.  Saving the game also allows you to
+play the game over the course of many days, without having to start over from
+scratch each time you come back to the game.
+
+To save the game, type SAVE at any prompt.  The game will ask you for the
+name of a disk file to use to store the game state.  (You will have to
+specify a filename suitable for your computer system, and the disk must have
+enough space to store the game state.  The game will tell you if the game
+was not saved properly for some reason.)  You should give the file a name that
+does not exist on your disk.  If you save the game into a file that already
+exists, the data previously in that file will be destroyed.
+
+When you wish to restore a game, type RESTORE at the command prompt.  The
+game will ask you for the name of a disk file that you specified with a
+previous SAVE command.  After reading the disk file, the game state will
+be restored to exactly the position when you saved it.
+
+
+
+SPECIAL COMMANDS
+
+The game understands several special commands that you can use to control
+the game.  You can use these commands at any prompt.
+
+AGAIN or G:  Repeats your last command.  If your last input line was composed
+of several commands, only the last command on the line is repeated.
+
+CREDITS:  Show a list of the people that developed this game.
+
+INVENTORY or I:  Shows the list of items you are carrying.
+
+LOOK or L:  Shows the full description of your location.
+
+NOTIFY:  Tells the game whether you want to be notified of score
+changes when they happen.  When the game starts, NOTIFY is turned on,
+so you will see a message whenever you do something that changes
+your score.  If you'd prefer not to see these messages, type NOTIFY.
+(If you later change your mind, typing NOTIFY again will turn notification
+back on.)
+
+OOPS:  Allows you to correct the spelling of a word in the last command.
+You can use OOPS when the game displays this complaint:  "I don't know the
+word <word>."  Immediately after this message, you can type OOPS followed by
+the corrected spelling of the misspelled word.  You can only type one word
+after OOPS, so this command doesn't allow you to correct certain types of
+errors, such as when you run two words together without a spce.
+
+QUIT:  Stops the game, and returns you to your operating system.
+
+RESTART:  Starts the game over from the beginning.
+
+RESTORE:  Restores a position previously saved with the SAVE command.
+
+SAVE:  Stores the current state of the game in a disk file, so that you can
+come back to the same place later (with the RESTORE command).
+
+SCORE:  Shows you your current score, the maximum possible score, and the
+number of turns you have taken so far.
+
+SCRIPT:  Starts writing everything you see on the screen (your commands and
+the game's responses) to a disk file.  The game will ask you for a filename
+to be used for the transcript; you should select a filename that does not yet
+exist on your disk, because if you use an existing filename, data in the file
+will be destroyed.  Use the UNSCRIPT command to stop making the transcript.
+
+TERSE:  Tells the game that you wish to see only short descriptions of
+locations you have already seen when you enter them.  This is the default
+mode.  See also the VERBOSE command.
+
+UNDO:  Take back the last command.  This can often be used multiple times to
+take back a series of commands in sequence.  The number of commands
+that you can undo at any given time varies, but you can generally
+undo over a hundred commands.
+
+UNSCRIPT:  Turns off the transcript being made with the SCRIPT command.
+
+VERBOSE:  Tells the game to show you the full description of every location
+you enter, whether or not you have seen the description before.  By default,
+the game will show you the full description of a location only when you first
+enter it, and will show you the short description each time you enter the
+location thereafter.  Of course, you can get a full description at any time
+by typing LOOK.  See also the TERSE command.
+
+VERSION:  Shows you the current version of the game.
+
+WAIT or Z:  Causes game time to pass.  When the game is waiting for you to
+type command, no game time passes; you can use this command to wait for
+something to happen.
+
+
+
+COMMAND EDITING AND RECALL
+
+On most computer systems, the game has a special feature that allows you to
+use your keyboard's editing keys to modify an input line as you are typing
+it, and to recall commands that you have previously typed for editing and
+re-entry.  The specific keys you use vary depending on your system, and some
+systems don't support this feature at all; see the system-specific
+documentation for more information.
+
+While you are typing a command, the game allows you to go back and change
+part of the line without backspacing over the rest of the line to get there.
+Simply use your left and right cursor-arrow keys to move the cursor to any
+point in the command line.  The BACKSPACE key deletes a character to the left
+of the cursor, and the DELETE key deletes the character at which the cursor
+is located.
+
+You can insert new text at the cursor simply by typing the text.  You can
+press the RETURN (or ENTER) key with the cursor at any point in the line (the
+cursor need not be at the end of the command line).
+
+You can recall the previous command that you  entered by pressing the up
+cursor-arrow key; pressing the up-arrow key again recalls the command before
+that, and so forth.  Using the down cursor-arrow key reverses this process,
+until you get back to the original command that you were typing before you
+started pressing the up-arrow key.
+
+Once you have recalled a prior command, you can re-enter it by pressing the
+RETURN key.  In addition, you can edit the command, as described above, before
+entering the command.
+
+The exact number of commands the game retains depends on the lengths of the
+commands, but more than a hundred of the most recent commands are generally
+retained at any given time.
+
+
+
+REVIEW MODE
+
+Another special feature that games support on many computer systems is
+called "review mode."  The game remembers text as it "scrolls" off the
+screen; by invoking recall mode, you can go back and look at text that is no 
+longer visible on the screen.  On some systems, review mode is activated by 
+pressing the function key F1; others, the up arrow; still others don't have 
+this feature.
+
+Once in review mode, the status line that is normally at the top of the
+screen will be replaced by the review mode help line.  This line shows the
+keystrokes you use to view previous screenfuls of text, and also shows you the
+key that exits review mode and resumes normal game play (this is generally the
+game key that you used to activate review mode).
+
+While in review mode, your screen becomes a window onto the text that the
+game has stored away.  When you first activate review mode, you are looking
+at the very bottom of this text, which is the screenful of text that was
+just displayed.  Use the up and down cursor-arrow keys to move the window up
+and down.  Pressing the up cursor-arrow key moves the window up one line,
+showing you one line of text that has scrolled off the screen.  Most systems
+also provide keys to move up and down by a full screenful (also called a
+"page.")
+
+To resume game play, press the same key that you used to activate review
+mode, or press escape.  If these don't work, consult the documentation.
+
+The number of screenfuls of text that the game stores away for review depends
+on how much text is actually on each screen, since the game has a limit on the
+number of characters it can store, not on the number of lines.  Normally, more
+than twenty of the most recent screens of text are saved and available for
+review at any given time.
+

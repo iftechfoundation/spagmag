@@ -1,0 +1,336 @@
+
+The SPAG Frequently Asked Questions File (FAQ)
+
+version 2.8, August 10, 2005
+Maintained by Jimmy Maher (maher@grandecom.net)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+What is SPAG?
+
+SPAG is an informative e-zine designed primarily to keep the gaming
+public aware of text adventures and other types of interactive narrative 
+available today. Most of the space is devoted to reviews. A new edition 
+of SPAG is published each quarter.  Generally, you can expect a new issue
+around the first of January, April, July, and October of each year.
+
+SPAG was founded by G. Kevin "Whizzard" Wilson, and is currently
+edited by Jimmy Maher.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+What about graphic adventures? 
+
+SPAG has traditionally focused on games whose primary medium is text, and
+this general policy will continue.  There is, however, a wider universe
+of interactive storytelling, and SPAG may ocassionally (to thoroughly mix
+my metaphors) dive into these waters when something particularly 
+fascinating, such as the recent "interactive drama" Facade, is unleashed.
+If you are interested in writing a review of a graphical game, feel free 
+to contact the editor to see if your proposal will be a good fit for
+SPAG.  The main thing to remember is that SPAG is not about kill counts,
+frames per second, or any of the other traditional video game metrics.
+We are rather all about this brave new medium of storytelling on the
+computer.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+What does SPAG stand for?
+
+As you may have guessed, SPAG is an acronym. It means "The Society for
+the Promotion of Adventure Games". Originally, the 'P' was for
+"Preservation"; however, in early 1997 a growing consensus that text
+adventures weren't in immediate danger of extinction any more led to a
+name change. 
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Cool. How do I join?
+
+Well, actually you don't. There is no formal Society, just a loose
+association of the contributors and readers of the SPAG 'zine. In a
+sense, you join SPAG by reading it and/or writing for it.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+What is SPAG's format?
+
+Each issue will begin with an editorial, any articles or letters to the
+editor, and a news section reporting new games and recent developments in
+the IF community. After that come the reviews, which will make up the
+bulk of any issue. Some issues will include a "SPAG Specifics" section
+after the regular reviews. This section is devoted to in-depth analyses
+of IF, with spoilers included. Lastly, at the end of each issue will be
+the SPAG submission policy and any closing notes. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Didn't there used to be a scoreboard or something?
+
+For its first eight years, SPAG featured a scoreboard, a chart listing
+the scores that SPAG readers gave to various IF games. The scoreboard
+was discontinued as of issue #29 (June 20th, 2002), but the final
+results are still available on the SPAG website. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+How did the scoring system work for the Readers' Scoreboard?
+
+The scale worked like this: there are 4 categories, and readers awarded
+up to 2 points in each. The categories are:
+
+Atmosphere
+          0 - Little or no attempt at atmosphere.
+         .5 - A few nice touches.
+          1 - Good Atmosphere.
+        1.5 - Feels like you're there.
+          2 - Edge of your seat the whole way.
+
+Gameplay  0 - Frustrating to play, poor parser, few synonyms.
+         .5 - A little better.  Still pretty unbearable.
+          1 - Good parser.  Not too hard to figure out.
+        1.5 - Good parser.  Most 'ease of use' commands implemented.
+          2 - Excellent gameplay.  Understands almost everything you try.
+
+Writing   0 - Poorly written.  Lots of spelling errors, sloppily done.
+         .5 - Some effort put into the writing.  Still terrible.
+          1 - Few or no spelling errors.  Stumbles along shakily.
+        1.5 - Good grammar, prose flows well, absorbing writing.
+          2 - Excellent prose and style, on a par with that in "The
+              Witness".
+
+Plot      0 - Poorly planned, incoherent plot.
+         .5 - Rudimentary plot, adds little to game.
+          1 - Developed, simple plot.  Fairly linear.
+        1.5 - Complex plot, well planned and implemented.
+          2 - Excellent plot.  Twists and turns, holds you on the edge of 
+              seat.  Enough freedom for the player to feel free to try
+              things easily.
+
+NOTE: These point values are merely benchmarks.  Readers could award any
+value between 0 and 2 so long as they kept it down to one decimal
+place.  This scoring system is loosely based on the Olympic system.
+
+The other 2 points are discretionary, and could be awarded on the basis
+of thoroughness, realism, or anything else the voter feels is important
+to a text adventure. These are wildcard points, meant to encompass all
+the little things in a good game. These five categories add up to a
+maximum of 10 points. This is the total score. 
+
+Finally, there are two seperate categories, rated the same as the
+other five, that do not count in the total score, and are averaged
+only with other votes on the same category.  These two are:
+
+Characters   0 - No NPCs, or cardboard caricatures.
+            .5 - Uninteresting NPCs.
+             1 - Stereotypical NPCs, not developed too much.
+           1.5 - Interesting NPCs, some background.
+             2 - Well-developed cast of characters.  Realistic.
+
+Puzzles      0 - Illogical puzzles.  Poorly implemented, or there is not
+                 enough info in the game to solve them.
+            .5 - Illogical, requires bizarre actions to solve.
+             1 - Logical, uninteresting and add little to the game.
+           1.5 - Logical, interesting.
+             2 - Logical, fascinating, well implemented.  No 'guess the
+	         word' puzzles.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+What do those strange "notes" mean?
+
+Availability codes:
+
+	C   - Commercial, no price given.
+	C30 - Commercial, with a fixed price of US$30.
+	F   - Freeware (including Public Domain).
+	S20 - Shareware, registration costs $20.
+	ARC - Available on the IF archive at ifarchive.org (and mirrors).
+	
+Platform codes show on which computers and operating systems you can
+play the game. Some games are distributed as executable files
+only. Such files are generally quite platform-specific.
+
+	A   - Runs on Amigas.
+	AP  - Runs on Apple IIs.
+	GS  - Runs on Apple IIGS.
+	AR  - Runs on Acorn Archimedes.
+	I   - Runs on IBM compatibles under MS-DOS or Windows.
+	M   - Runs on Macs.
+	64  - Runs on Commodore 64s.
+	ST  - Runs on Atari STs.
+
+Other games are distributed as system-independent game files, that
+require a special interpreter to run. Interpreters exist for a number
+of different platforms, depending on which game system was used to
+produce the game file. In some cases, you can extract a game file from
+an executable, thus enabling you to play it on other platforms.
+
+ADVSYS - Written with Advsys. Interpreters for MS-DOS and Mac
+         are available from the IF-archive, as well as interpreter
+         source code.
+            
+   AGT - The original AGT interpreters are available for MS-DOS,
+         Mac, Amiga, and Atari ST. However, availability is strongly
+         dependent on which version of AGT was used!
+
+         There is also a portable interpreter called AGiliTy
+         that can be used to play all (or almost all) AGT games.
+         The IF archive contains the source for AGiliTy as well
+         as compiled versions for MS-DOS, Linux, Mac and Amiga.
+
+  ALAN - Written with ALAN. Interpreters are available for
+         MS-DOS, Mac, Amiga, HP-UX, Solaris and Linux.
+
+   ETC - Has been ported to quite a number of languages and development
+         systems, and is present in many locations on the archive. 
+
+   HUG - Written with Hugo.  Runs on:
+         Windows (9x/NT), MS-DOS, BeOS, Linux/Unix, and Amiga,
+         Acorn, Macintosh, and OS/2. The interpreter can also be 
+         compiled for any platform for which a wxWindows, Glk, or
+         stdio library is available. 
+	
+   INF - Infocom or Inform game. (Infocom invented the format,
+         Inform is a freeware compiler that uses the same format).
+         There are a large number of different interpreters for
+         most existing computers, from mainframes to pocket-sized
+         PDA's. See the IF-archive for more information. Interpreter
+         source code available.
+
+   MAG - Magnetic Scrolls. These (commercial) games were originally
+         distributed as C64 and Amiga executables. There is now
+         a portable interpreter, Magnetic, available for other
+         platforms as well, including MS-DOS and Amiga. Interpreter
+         source available.
+	      
+   TAD - Written with TADS.  The IF-archive contains interpreters
+         for the following platforms:
+                AmigaDOS, NeXT, MS-DOS, Atari ST/TT/Falcon, DECstation
+                (MIPS) Ultrix, IBM RT, Linux, Macintosh,
+                SGI Iris/Indigo running Irix, Sun 4 (Sparc)
+                running SunOS or Solaris 2, Sun 3, OS/2, Acorn
+                Archimedes.
+         The interpreter source code is available so it can be
+         ported to other platforms (including most Unix variants).
+
+Other computers will be added as pointed out to the editor. Readers are
+asked to notify the editor if any games are available on a platform for
+which SPAG does not list them.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+What is SPAG's submission policy?
+
+Reviews, letters and ratings should be sent by email to Jimmy Maher,
+maher@grandecom.net. ASCII text format is preferred, but MS Word and
+other formats will be accepted as attachments. If in doubt, query first.
+
+A SPAG review should be an intelligent discussion of a piece of
+interactive fiction, and it should be written in polished prose. Within
+those guidelines, all publishable reviews will be accepted as long as
+they deal with a game that satisfies a (rather broad) definition of "text
+adventure" or "interactive fiction". Reviews of games that have already
+been reviewed three or more times in SPAG will only be accepted if they
+make a significant original contribution to the discussion of those
+games. Authors may not review their own games.
+
+SPAG employs a "no-spoiler" policy for reviews, with the exception of
+reviews intended for SPAG Specifics (see below). This policy has been
+stretched a bit in the past, but now that SPAG Specifics exists, the no-
+spoiler policy will be enforced rather more strictly.
+
+SPAG Specifics is a small section that appears in some issues of SPAG.
+This section is devoted to in-depth criticism of text adventures and
+has no restrictions on spoilers, recognizing that avoidance of spoilers
+can sometimes hinder the detailed examination of a piece of interactive
+fiction. Specifics reviews are required to provide in-depth analysis to
+justify their use of spoilers. 
+
+SPAG also occasionally publishes articles. If you'd like to submit an
+article for the next issue of SPAG, query first.
+
+SPAG does not pay anything for contributions. Authors retain the
+rights to their works. SPAG accepts reviews that have been published
+before, but original works are preferred.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Must I have completed a game to review it for SPAG?
+
+In general, yes.  You would probably not be impressed by a published
+movie review from someone who had wandered into the theatre halfway
+through, or by a book review from someone who had lost interest and quit
+reading before reaching the end.  An interactive fiction review is really
+no different.  To give a game a fair shake, the reviewer must have seen
+it through to the end.
+
+The only exceptions apply to more experimental pieces which perhaps have
+no traditional ending, or to games which are so bug-ridden as to be
+uncompletable.  (Whether the latter is even worth your effort as a
+reviewer when there are so many serious efforts worthy of your attention
+is of course very much an open question.)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+How is SPAG distributed?
+
+SPAG is primarily distributed via a mailing list. To subscribe,
+send email to majordomo@df.lth.se with the line:
+
+subscribe spag <your e-mail address here>
+
+To be removed from the list, send an email message to the same address
+with the line
+
+unsubscribe spag <your e-mail address here>
+
+SPAG is also available from the if-archive:
+
+https://ifarchive.org/if-archive/magazines/SPAG/
+
+Finally, SPAG has a web page of its own which includes all published
+issues, a partial index of reviews, and HTML tables displaying the
+Readers' Scoreboard. The web site is:
+
+http://www.sparkynet.com/spag
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Why don't you just post SPAG to <some newsgroup>?
+
+The current policy is to distribute SPAG via the mailing list, and
+just post pointers on Usenet. One reason for this is keeping track
+of the number of readers (currently over 400).
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Where can I get back issues of SPAG?
+
+Through anonymous FTP on ifarchive.org, in /if-archive/magazines/SPAG/.
+Just login as 'anonymous' and give your e-mail address as your password.
+The archive is kept current now, so don't worry about asking for the
+latest copy when you subscribe (which we still strongly encourage you
+do.) Back issues are also available from the web page, at
+http://www.sparkynet.com/spag.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Revision History
+
+v 2.0 970917 - FAQ taken over by Magnus Olsson. Major revision.
+v 2.1 970918 - Added ADVSYS and ALAN to platform codes.
+v 2.2 990820 - FAQ taken over by Paul O'Brian. Minor revision.
+v 2.3 991203 - Revision to scoring info and web page address
+v 2.4 000925 - Updated submission policy
+v 2.5 010925 - Changed GMD references to IF Archive
+v 2.6 020617 - Updated FAQ to reflect discontinuation of scoreboard
+v 2.7 050720 - FAQ taken over by Jimmy Maher  Revisions to follow.
+v 2.8 050810 - Made a few changes to SPAG's editorial focus,
+               publication schedule, and submission policy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Thank you for helping to keep text adventures alive!
+
+

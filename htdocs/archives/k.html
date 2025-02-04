@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Game Reviews K - SPAG</title>
+  <link rel="stylesheet" type="text/css" href="style/spag.css"/>
+
+  <link rel="top" type="text/html" href="index.html"/>
+  <link rel="up" type="text/html" href="reviews.html"/>
+  <link rel="prev" type="text/html" href="j.html"/>
+  <link rel="next" type="text/html" href="l.html"/>
+ </head>
+
+ <body>
+  <h1 align="right">
+   <a href="index.html"><span id="title"><img src="spag.png" alt="SPAG" width="349" height="94" border="0"/></span></a>
+  <br/>
+   <span id="subtitle">Game Reviews K</span>
+  </h1>
+
+<div>
+
+<P>
+These reviews are in alphabetical order according to the name of the game
+reviewed. The index also has a few extra features. First and foremost of
+these is the instant gratification feature.  If you see the SPAG button:
+<P>
+<IMG SRC="spagt.jpg">
+<P>
+Then you can click on it to retrieve the file from ftp.ifarchive.org, or to
+go to that file's directory on the archive (in the case of competition games). 
+<P>
+The email addresses used are those submitted with the review, so
+naturally some of them may be out of date. All email addresses are
+spamblocked -- replace the name of our magazine with the traditional
+'at' sign. 
+<P>
+<PRE>
+<HR>
+<H2>Table of Contents</H2>
+<A HREF="#kaged">Kaged</A>
+<A HREF="#katana">Katana</A>
+<A HREF="#king">King Arthur's Night Out</A>
+<A HREF="#kissing">Kissing The Buddha's Feet</A>
+<A HREF="#klaus">Klaustrophobia</A>
+<A HREF="#knight">Knight Orc</A>
+<A HREF="#korc">The KORC Trilogy</A>
+
+<HR>
+<A NAME="kaged"><h2>Kaged</h2>
+From: Suzanne Britton &lt;tril SP@G igs.net&gt;
+Review appeared in <a href = "backissues/spag23.html">SPAG #23</a> -- December 29, 2000
+
+TITLE: Kaged
+AUTHOR: Ian Finley
+E-MAIL: domokov SP@G aol.com
+DATE: 2000
+PARSER: TADS standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware (IF Archive)
+URL: <a href = "https://ifarchive.org/if-archive/games/competition2000/tads/kaged/kaged.gam">https://ifarchive.org/if-archive/games/competition2000/tads/kaged/kaged.gam</a>
+VERSION: 1
+
+I hope Ian leads a happier life than his protagonists. His games get
+grimmer every year. 
+
+"Kaged" is a dystopian tale strongly reminiscent of 1984 (but not
+derivative). Like just about everything its author has produced, it is
+strikingly original, evocative, well-written, and suicidally depressing
+:-) I quite liked it, though it is, in my opinion, not as successful as
+<a href = "e.html#exhibition">"Exhibition"</a> or <a href = "b.html#babel">"Babel"</a>. It is more ambitious than either of those
+works, which leads me to be somewhat forgiving of its failures. 
+
+As a mood piece, "Kaged" is excellent. Every bleak, oppressive nuance of
+the world you live in comes to life in the vivid writing, enhanced by
+graphics and sound (the opening picture is especially evocative), and
+your own character is well-drawn. As a story, it is ambitious, but less
+excellent. I felt that what began as tightly woven threads unraveled
+near the end--and not just because of the protagonist's dissolving
+sanity. I came out of the experience with no real understanding of what
+had happened and why. Many hints, many seeming contradictions, no
+certainties. Normally, I like it when a game leaves the player with a
+mystery, but this was just unsatisfying. It's hard to pinpoint
+why...perhaps partly because I felt I was expected to understand much
+more than I did. Certainly, my protagonist seemed to be way ahead of me,
+and as a result, I felt less connection with him. 
+
+(Postscript: I've since spoken with Ian, and to some extent "it's
+intentional". Apparently, his playtesters kept pushing him for more
+ambiguity. Ah, well.) 
+
+The programming was also not quite as polished as I've come to expect of
+this author. Again, it was trying to accomplish more than in earlier
+works, I think. The world was very fleshed-out, but flawed. I
+encountered a number of guess-the-verb problems. Perhaps the most
+egregious was the matchbook. It was lazily (and unintuitively)
+implemented as a single object, leading me to fumble for awhile before I
+simply typed "strike match": 
+
+     >get match
+     You already have the book of matches!
+
+     >get match from matchbook
+     The book of matches isn't in the book of matches.
+
+     >look in matchbook
+     There's nothing in the book of matches. 
+
+Rating: 8 
+
+
+From: Stas Starkov  &lt;stas_ SP@G mail.rb.ru&gt;
+Review appeared in <a href = "backissues/spag25.html">SPAG #25</a> -- June 20, 2001
+
+[Our man in Russia has sent us this rather scathing review of Kaged, and
+as usual I've gone over its sentences and tried to wrestle them into
+something resembling standard English. Any misinterpretations or errors
+in the translation (and apparently there were a few in my work on last
+issue's Gateway 2 review) are my fault. --Paul]
+
+HOLLYWOOD STRIKES AGAIN
+
+First, I must warn you that this review is an attempt to provide an
+opinionated critique of the game that won the 2000 IF Competition. But I
+don't like this game a lot. So as you can guess, I'll pour manure on
+"Kaged" in this review. That's the reason why I wrote the review. And
+this review includes personal comments about the author of the game, as
+well as a lot of cynicism and flame provocation (please, resist this
+possibility). Also I must add that I live in Russia, and consequently my
+points of view differ a lot from those of Americans. So you understand
+that this review is more than a little biased. So, if you're easily
+angered, stop reading now. That's not a joke. So there.
+
+The shareware version of "Kaged" includes images but no music. That's
+odd, because I know that his Competition 2000 entry contained both
+sounds and images. But I didn't bother downloading these rather big
+files (in sum more then 12 Mb), so I don't know what quality these
+additional "things" add. And I have played only the competition entry.
+
+When I started playing the game I felt that it was a parody on
+dystopias. Why? Look at this chunk of text from the beginning of the
+game:
+
+   The madness started a week ago.  The entire Citadel of Justice is on
+   razor edge.  It began in the Department of Enforcing when a patrolman
+   shot his partner.  He begged to be locked away, claiming to see
+   devils.
+
+and a bit later:
+
+   >z
+   Time passes...
+
+   Pieter's stomach growls.  It's not a noise you want to hear again.
+
+   >examine pieter
+   Pieter has a sausage face set with two piggy eyes, like raisins.
+   His spectacles are huge, saucer-like things that don't help the
+   appearance.
+
+   Pieter taps you on the shoulder.  "Um...  where would our office be,
+   Commissar?"  There's something incredibly irritating about his voice,
+   like the whine of a petulant child.
+
+   >z
+   Time passes...
+
+   Pieter coughs behind you, a wet, phlegmy noise.
+
+Well, you see that it is possible to interpret the game comically. But
+then things show their darker side, and suddenly you notice all the
+misery of the world. And, gee, it's another dystopia. And not the best
+one I must add. I've read several dystopias but never found one that
+feels true enough for me. But more about that subject below.
+
+Ian Finley is not a novice author. This is his fourth (I think) game,
+but the first that I have played. And I don't want to play his other
+games now. Ian Finley was 20 years old (according to SPAG #23) when he
+wrote "Kaged" and he was studying acting at the University of Utah at
+that time. And I think that his theater and movie influences caused all
+that I don't like in this game.
+
+I live in Russia but I see a lot (and I mean *a lot*) of bad American
+movies. Even the latest Oscar's big winner "Gladiator" got me sick. It's
+not that this movie is bad. Not at all. But when I see that rich and
+beautiful woman run to a dying man that she hardly knows but already
+loves, I can sympathize and even (barely) understand her the first,
+second or even tenth time I see this thing. But when I see the same
+scene for the hundredth time (and I mean hundredth) in yet another
+movie, I get sick. I want to say that "Kaged" is very similar to _bad_
+American movies. The only thing that's missing is a girl-friend of the
+PC (and the pseudo-hero running hand in hand with her with a huge
+explosion in the background, as at the end of the usual bad movie). I
+read quite a lot of SF stories, so I'm hard to surprise, though. And
+this game shows nothing that I haven't read or seen before. Nothing that
+doesn't reek of decay.
+
+Which brings me to the question of plot. The plot wouldn't be that bad
+if you took only the very beginning and very ending of the game. At
+least it would be original. But when I saw the middle of the game and
+all those story twists I felt that I was seeing another bad movie with
+all the cliches and standard devices that I have already seen a thousand
+times. And the author manages to place at least two conflicting plots in
+this game. During the middle part of the game, my best guess was that
+this plot was entirely a mad dream of a druggie after a good joint.
+Later I found that my supposition was not far from the real plot, since
+for half the game author just lies to you. Yet another story of mind
+manipulation -- yet another idea that was beaten to death (Example: the
+dystopian movie "Brazil", which, by the way, is far better than
+"Kaged"). Another feeling that I had during game play: I felt that the
+author grabbed me from behind and I was dragged to the end of the game.
+This feeling was due in large part to the puzzles.
+
+Puzzles? Hah. There are puzzles but they're not the strongest side of
+the game. And considering my above descriptions I think you understand
+that I think that the puzzles stink badly. Why? This game is not a
+puzzleless game, so there are puzzles. But they are the worst puzzles I
+have ever seen. Why? OK, I'll give you an example (not from the game):
+Imagine that you only have a big piece of flammable wood (which you must
+get by helping an old man to find all his long lost teeth), a bottle of
+gasoline (which you steal) and a single match (which you found by
+pushing a high tree). When you have all of the above, you are teleported
+to the dark room. Huh! What do I need to do to find a ray of light in
+the kingdom of darkness? I hope you can guess the "solution". Yes, you
+can work out the solution easily, but can you find the match so easily?
+So, I ended up with the walkthrough, which is twice as odd because the
+puzzles in common are very straighforward. It's very, very annoying when
+all puzzles are based on _giving_ you the right and obvious tools to
+solve another puzzle. (And did you notice the old man in my example? He
+is there only to give you a piece of wood, but you must solve his errand
+first.) And this feels so unnatural, that I got sick (again). The
+puzzles stink badly. So there.
+
+Another feature that is not very interactive is the "talk" verb (as in
+"talk to worker"). According to the game, "this action will cause your
+character to examine the current situation and say whatever would be
+most appropriate." Someone on R*IF said that the menu-based
+interrogation system is a bad thing, but this "most appropriate"
+conversation is far less interactive and looks like a device from
+graphic adventures. Well, you have now two possible ways to interrogate:
+(a) to talk or (b) not to talk. But this restriction is solved
+brilliantly -- the game ignores your silence and continues to talk to
+you as usual. Dumb, dumb!
+
+But you might still believe that this game didn't get first place in the
+Competition for nothing. OK, I'll open your eyes. I'll tell you about
+the prose in this game. First, the amount of writing in "Kaged" is just
+huge. Second, for me any good (but not outstanding) prose with rotten
+thoughts behind it is just useless crap. And the more text in any art
+form, the worse, because I must force myself to read all these chunks of
+text trying to find something good. Well, it is possible to interest me
+with extraordinary writing wedded to a lame story (plot, I mean), but
+"Kaged" is not on this level of art. Writing must be on the same level
+as a story. If the writing is lower than the plot, the whole work will
+be unenjoyable (but that's not a rule). If a bit higher, the work will
+be boring and overblown. "Kaged"'s writing is the latter type.
+
+Many people like the atmosphere of the game. Well, yes that's something
+that you can try to play a game for, but for me atmosphere was broken by
+the rotten plot and stupid puzzles. Ian Finley shows himself as a
+skilled author, but concept of the game was a total disaster.
+
+This game reminds me of Stephen King's stories -- a lot of text, a lot
+of fake story turnings, a lot of characters, but the result is just
+boring. Yes, both authors (King and Finley) tried hard to make me
+believe in the story, but they failed. But King, at least, writes for
+money and the more text he produces, the more money he'll get.
+"Hollywood strikes again," I must say. "Kaged", for me, is a game where
+bad movies merge with the unstoppable urge to write.
+
+The dystopia is an old genre. (The first dystopia was written, I think,
+in the first half of the nineteenth century.) And all dystopias look the
+same to me. There's always a common story -- some variety of "Big
+Brother looks at you.", i.e. mega-government takes total control over
+people's lives, people who are just foolish soulless dolls and who work
+(the prime purpose of their lives) during all their miserable lives. Why
+is this concept is not working for me? Because life doesn't work like
+that. Life can be more grim but not so obviously evil. Sure, it's very
+visually striking to show a dystopia, but it was beaten to death ages
+ago. So if "Kaged" is somewhat of a premiere for IF (at least for me),
+for literature it's something like the rotten carcass of a horse. And as
+far as I can recall, _new_ dystopias are not published any more.
+
+What can I recommend to the author? Better spend your time on books and
+movies (and not only on good ones) first. And when you're sick from all
+this crap, you'll understand how not to implement a game. Write a story
+on the paper, read it and if you don't hear as your stomach growling in
+hate then, and only then, start to write an IF game. At least the game
+will be original.
+
+<A HREF="https://ifarchive.org/if-archive/games/competition2000/tads/kaged">
+<IMG SRC="spagt.jpg" ALT="FTP File">Directory with TADS .gam file and associated files (competition version)</A>
+
+<HR>
+<A NAME="katana"><h2>Katana</h2>
+From: Valentine Kopteltsev &lt;uux SP@G mail333.com&gt;
+Review appeared in <a href = "backissues/spag34.html">SPAG #34</a> -- September 24, 2003
+
+TITLE: Katana
+AUTHOR: Matt Rohde
+EMAIL: rohdemusic SP@G yahoo.com
+DATE: 2003
+PARSER: TADS Standard
+SUPPORTS: TADS interpreters
+AVAILABILITY: Freeware
+URL: <a href = "https://ifarchive.org/if-archive/games/tads/katana.gam">https://ifarchive.org/if-archive/games/tads/katana.gam</a>
+VERSION: 2.0
+
+   Judge for yourself, Valentina Mikhailovna -- in the 15th century, the
+   Heaven knows who sails up to you and starts speaking Japanese.
+                     -- V. Belobrov, O. Popov, "Valentine's Day"
+
+Are you tired of IF experiments? Are you looking for an old-school game
+you could spend a few quiet days with? Then you should give Katana a
+try.
+
+Yes, it's basically a rather conventional text adventure, set in Japan.
+A disclaimer is needed here: it's difficult to judge the depth of the
+author's knowledge of Japanese history and traditions by this game; the
+only thing that's sure is that he knows a whole lot more about it than I
+do. Likewise, I can't say the game provided me with a comprehensive
+picture of Japanese culture, in general, or Japanese mythology, in
+particular, but that didn't seem to be the author's intention anyway.
+The only purpose of all the Far-Eastern decorations, references, and
+characters (which, by the way, they served very well) seems to have been
+the creation of an atmospheric setting -- and it's probably better so.
+One of the pleasant aspects of such an approach is that one doesn't get
+the impression that the author plumes himself with his erudition; at
+least, I never got the feeling of being talked down to because of my
+lack of certain knowledge, as has sometimes happened with other games.
+
+The story underlying this work is a fine match for the setting. Sure,
+it's not the fanciest I ever encountered, but it's still a pretty good
+one. The author tells it very competently using the flashback technique.
+My only complaint about it was that the player character somehow didn't
+get emotionally involved into it -- he seemed to remain a distant
+observer. That's all the more paradoxical, since this story concerns the
+PC's ancestor, and since in the course of the game, the PC makes
+considerable efforts in order to put right injustices of the past.
+
+The puzzles are an essential part of old-school text adventures; in
+Katana, I'd describe them as "not exceptional, but solid". Their main
+virtue is the smoothness with which they fit into the story. Let's put
+it this way: while probably none of them will be an aspirant for the
+"Best Puzzle" Xyzzy Award for 2003, they do help to create a consistent
+and well-built structure for the game. Many of them are based on careful
+examination of your surroundings. There's nothing wrong with that,
+though I got the feeling that this trick was a bit overused. That's
+pretty much all I can say about the puzzles, except for an observation
+of minor importance: the layout of the first major puzzle in the game
+reminded me of one certain episode in the movie "The Fifth Element" by
+Luc Besson -- with the only difference that Milla Jovovich was missing
+from the centre of the composition; I assume that, if she were of
+Japanese origin, she wouldn't be. ;)
+
+In addition to being a traditional text adventure, an atmospheric piece,
+and a story-driven game, Katana is one more thing: a first attempt. And
+while it clearly represents a decent one, there're a number of details
+showing that its author had little or no experience when working on it.
+I'm not talking about bugs, though there are some; after all, this is a
+review, not a public beta-test report. (However, I'll be glad to send
+one to the author if he's interested, and asks me to do so.) Here's an
+example from the game illustrating what I mean:
+
+   >x door
+   It's a solid slab of granite that fills the entrance to the tomb.
+       There's a Kanji symbol for fire carved in the granite.
+       There's a Kanji symbol for air carved in the granite.
+       There's a Kanji symbol for water carved in the granite.
+       There's a Kanji symbol for earth carved in the granite.
+
+It seems to me that the author followed the path of least resistance
+here. If he'd had more experience, he probably would have formulated
+this description some other way -- at the least, he'd have listed all
+the Kanji symbols in one single phrase instead of using four nearly
+identical sentences. Other details I implied when talking about first
+attempts are similar, so that I won't dwell on them any further, except
+for one feature that significantly affected the gameplay. I refer to the
+way that the game parser makes extensive use of responses of the type
+"If you want to do such and such, just say so" (for instance, typing
+"turn on car", and being told, "I think you mean 'START THE CAR'.")
+Somehow, I got such responses a bit more often than I'd like to. (After
+writing this, I remembered how frequently I did the same thing in my own
+first game. Then, I recalled that game I played some time ago, which had
+a shimmering curtain of light in the northern wall in its opening scene;
+it harassed me for at least twenty minutes by rejecting all my attempts
+to enter, go in, go through, etc. that darn curtain with the message, "I
+don't know how to &lt;put the appropriate verb here&gt; the shimmering curtain
+of light", until I finally happened to type "north"... Well, looks like
+I'm getting to be an old grumbler. ;)
+
+Fortunately for Katana, being a first attempt doesn't necessary consist
+of disadvantages only. The positive aspects are the genuine fun the
+author clearly had writing it (this fun shows through, say, in a number
+of witty responses to weird player input), and the attention to details.
+And they outweigh the negative ones, despite the fact that you could get
+a different impression reading all my nitpicking. ;)
+
+So, to sum up, if you prefer longer text adventures, and don't mind some
+minor technical flaws... hey, it's time to look at the beginning of the
+review again!;)
+
+...and the SNATS[*]: 
+
+PLOT: Reasonably solid, matches the setting very well (1.2)
+ATMOSPHERE: Certainly original (1.4)
+WRITING:    Sometimes not emotional enough (1.1)
+GAMEPLAY:   Just what you'd expect of a traditional text adventure --
+            with minor issues that are listed in the review (1.1)
+BONUSES:    The rich setting and the many Easter eggs (1.2)
+TOTAL:      6.0
+CHARACTERS: Convincing enough (1.2)
+PUZZLES:    Fit into the game structure very smoothly -- so smoothly
+            they don't stand out at all (1.1)
+DIFFICULTY: An appropriate ordeal for a novice samurai (5 out of 10)
+
+* SNATS stands for "Score Not Affecting The Scoreboard"
+
+<A HREF="https://ifarchive.org/if-archive/games/tads/katana.gam">
+<IMG SRC="spagt.jpg" ALT="FTP File">TADS .gam file</A>
+
+<A HREF="https://ifarchive.org/if-archive/games/mac/Katana.bin">
+<IMG SRC="spagt.jpg" ALT="FTP File">MacBinary .bin file</A>
+
+<A HREF="https://ifarchive.org/if-archive/games/mac/Katana.hqx">
+<IMG SRC="spagt.jpg" ALT="FTP File">Macintosh BinHex format</A>
+
+<HR>
+<A NAME="king"><h2>King Arthur's Night Out</h2>
+From: Adam Cadre &lt;ac SP@G adamcadre.ac&gt;
+Review appeared in <a href = "backissues/spag19.html">SPAG #19</a> -- January 14, 2000
+
+NAME: King Arthur's Night Out
+AUTHOR: Mikko Vuorinen
+EMAIL: mvuorine SP@G cc.helsinki.fi
+DATE: November 1999
+PARSER: ALAN
+SUPPORTS: ALAN interpreters
+AVAILABILITY: Freeware
+URL: <a href = "https://ifarchive.org/if-archive/games/competition99/alan/arthur">https://ifarchive.org/if-archive/games/competition99/alan/arthur</a>
+
+This may seem like an odd choice for such a high ranking, but it
+succeeded in doing something no other game this year did: it made me
+laugh out loud. Five times, in fact. 
+
+Much of the humor derives from the fact that the author has taken a game
+that could've been set just about anywhere -- more than anything, it
+reminded me of a Lockhorns strip -- and cast King Arthur in the central
+role. This leads to the expectation that all sort of elements of the
+Arthurian cycle are going to pop up... and they never do. Excalibur
+becomes nothing more than a yardstick to poke around under the bed with.
+That's *hilarious*. It's exactly the sort of comedy underlying the #2
+entry in the Top Ten Things Abraham Lincoln Would Say If He Were Alive
+Today: "Eeeagh! Iron bird!" Because, you see, he wouldn't recognize an
+airplane, being from the 19th century and all... "But why Abraham
+Lincoln?" you cry. "Of all the things we know about Lincoln, you make a
+joke about his unfamiliarity with the airplane? You could've picked
+anyone! Why Lincoln? Why??" Man, I'm laughing again just typing this. 
+
+Then we come to the language used in the game. This could very easily
+have been written as an overly-clever Douglas Adams pastiche, but that
+would've spelled instant doom for this project. Instead, the author
+chooses a tone not at all unlike the comedy of Norm Macdonald, and it's
+a perfect fit. (Macdonald, for those unfamiliar with his work,
+specializes in punch lines that are boorishly blunt enough to stun one
+into laughter, yet somehow delivered in such a way so that, unlike with
+Don Rickles, you don't want to punch him in the face. "Magic Johnson has
+received a $900,000 retainer to write a book on how not to get AIDS.
+Chapter 1: Don't Have Sex With Me.") 
+
+But there's such a fine line between stupid and clever -- what makes
+Rickles's brand of humor the former and Macdonald's (and, here,
+Vuorinen's) the latter? This is an especially tricky issue where gender
+politics are concerned: the response to >X QUEEN ("Guinevere is the most
+beautiful woman in the land. You are lucky to have her as your wife. But
+she can be a real bitch sometimes.") is a potentially dangerous one. I
+think that in the end it comes down to the with/at distinction. Comedy
+in the Rickles mode encourages the audience to laugh at the person being
+mocked. But here's a sample of a Norm Macdonald joke I find screamingly
+funny: 
+
+      "In Milwaukee, Wisconsin, a man allowed his eight-year-old
+      daughter to take the wheel of his car, and an accident ensued
+      that damaged seven other cars and injured six people. Which
+      once again proves my theory: women can't drive."
+
+"Women can't drive" is, of course, a staple of The Lockhorns and its
+ilk, and is pretty offensive. But is that the point of the joke? Of
+course not. The reason for the crash is that the driver was eight years
+old, not that she was female. The "theory" is, therefore, obviously
+wrong, and therefore funny. We're not laughing with the misogynist and
+at the girl; we're laughing *at* the misogynist. In the same way,
+Vuorinen makes it clear that his King Arthur is meant to be a lout,
+without overplaying his hand by making him a belching idiot: it's the
+little touches, like Arthur looking forward to a pleasant spell of
+urination after a night at the bar, that make the game work. 
+
+And the game does work: I didn't notice any obvious bugs, and thought
+the size and level of difficulty were just about perfect. Were this an
+entry in last year's comp, I would've ranked it a touch below the
+similarly slight and funny but superior <a href = "d.html#downtown">DOWNTOWN TOKYO</a>; given how buggy
+most Comp99 entries were, though, and how this was the only game all
+year that made me laugh, I found myself feeling very charitable when it
+came time to slap a number on it. 
+
+Score: a low NINE. 
+
+<A HREF="https://ifarchive.org/if-archive/games/competition99/alan/arthur">
+<IMG SRC="spagt.jpg" ALT="FTP File">Directory with ALAN game files and text files</A>
+
+<HR>
+<A NAME="kissing"><h2>Kissing the Buddha's Feet</h2>
+From: C.E. Forman &lt;ceforman SP@G worldnet.att.net&gt;
+Review appeared in <a href = "backissues/spag10.html">SPAG #10</a> -- February 4, 1997
+
+NAME: Kissing the Buddha's Feet
+AUTHOR: Leon Lin
+EMAIL: leonlin SP@G uclink.berkeley.edu
+DATE: October 1996
+PARSER: TADS standard
+SUPPORTS: TADS ports
+AVAILABILITY: Freeware, IF Archive
+URL: <A HREF="https://ifarchive.org/if-archive/games/competition96/kissing">https://ifarchive.org/if-archive/games/competition96/kissing</A>
+VERSION: Version 1.0
+
+An instant classic.  Your goal is to help roommate John study and
+finally pass that psych class after 12 long semesters.  John's friends
+have a different agenda, though, so you must get rid of them and any
+other distractions around the house.
+
+Every single character is hilarious, from the unresponsive Carl to the
+eternally drunk Bob, and even your own character exhibits a compulsive
+cleanliness that rivals Howard Hughes.  My personal fave: Evan, the
+god of thoroughly useless trivia, who follows you around, constantly
+spouting drivel on anything that strikes his fancy - a pet parrot he
+once had, the origin of the game's curious title, speculations about
+what the world would be like if it were like a text adventure, error
+messages to improperly phrased commands, and so much more.  The
+characters offer a wide variety of optional interactivity to fill the
+two-hour time allotment, and there's even a trivia game that provides
+some side-splitting references to other text adventures.
+
+The setting, though collegiate, is nonetheless unique.  By focusing on
+the personalities of John's friends, and interlacing them with some
+extremely imaginative puzzles, &quot;Kissing&quot; avoids the pitfalls and
+cliches of the college I-F genre and makes for genuine entertainment.
+This game is bust-a-gut funny and very well-implemented, making it my
+personal choice for first place.  Many of this year's entries are very
+strong in one area, but flawed in others - &quot;<A HREF="t.html#tapestry">Tapestry</A>&quot; occasionally
+feels too much like hyperfiction, &quot;<A HREF="d.html#delusions">Delusions</A>&quot; is buggy, &quot;<A HREF="i.html#end">In the End</A>&quot;
+didn't offer me enough story, - but this game excels in all areas.
+Truly fantastic.  I can't remember the last time I laughed so hard.
+
+Wait a minute... I guess I can.  It was last year, when I played Leon
+Lin's &quot;<A HREF="o.html#one">The One That Got Away</A>.&quot;  I'm going to venture a guess that this
+entry was done by Lin, as it exhibits his talent for superb I-F humor
+and the same quantity of amusing things to try as &quot;The One.&quot;  Am I
+right?  Am I right?
+
+        [Amazingly enough, he was.  I guess Leon just has a very
+distinctive game-writing style. -GKW]
+
+<A HREF="https://ifarchive.org/if-archive/games/tads/kissing.zip">
+<IMG SRC="spagt.jpg" ALT="FTP File">TADS .gam File (.zip)</A>
+
+<HR>
+<A NAME="klaus"><h2>Klaustrophobia</h2>
+From: Audrey A. DeLisle &lt;rad SP@G crl.com&gt;
+Review appeared in <a href = "backissues/spag1.html">SPAG #1</a> -- May 15, 1994
+
+ NAME: Klaustrophobia                            PARSER: Good (AGT)
+ AUTHOR: Carol Hovick                            PLOT: Excellent
+ EMAIL: ???                                      ATMOSPHERE: Hilarious
+ AVAILABILITY: IF Archive S15                           WRITING: Excellent
+ PUZZLES: Hard                                   SUPPORTS: AGT ports
+ CHARACTERS: Excellent                           DIFFICULTY: Hard
+
+        Klaustrophobia, an AGT text adventure, just won the 1994 AGT contest
+(with a co-winner, The Jeweled Arena, by David Raley).  I had the pleasure (?)
+of testing it.
+        It is an hilarious account of your vacation.  You start preparing for 
+your trip at home and at the office,  then head for the airport(s).  
+Somehow your flights keep getting diverted.  Part 2, you arrive in 
+Hollywood and appear on several game shows.  Your big prize is a 
+vacation in Mexico which takes you to Part 3.  This is not easy, but is 
+very funny.  Those who have played Jacaranda Jim will find it especially 
+amusing in Mexico.  Look for KLAUS.ZIP.  A sequel is planned, but this 
+took about 18 months to complete, so not soon.  Hilarious and hard.  
+Funniest yet, but subject to the limitations of AGT-BIG.  Also, the 
+registered version comes with pophints!  The author, Carol Hovick, is a 
+big fan of <A HREF="b.html#bureau">Bureaucracy</A>.  Her game was somewhat inspired by it, but it is 
+not the same.
+
+<A HREF="https://ifarchive.org/if-archive/games/tads/klaus.zip">
+<IMG SRC="spagt.jpg" alt="FTP File">AGT files with PC Executable runtime (.zip)</A>
+
+<HR>
+<A NAME="knight"><h2>Knight Orc</h2>
+From: Robb Sherwin &lt;robb_sherwin SP@G juno.com&gt;
+Review appeared in <a href = "backissues/spag15.html">SPAG #15</a> -- October 11, 1998
+
+NAME: Knight Orc
+AUTHOR: Level 9 Computing
+E-MAIL:
+DATE: 1987
+PARSER: name unknown, excellent
+SUPPORTS: DOS, , Amiga, ST, C64, Apple, Amstrad
+AVAILABILITY: Commercial
+URL: N/A (<a href = "http://ourworld.compuserve.com/homepages/wadster/level9art.htm">ourworld.compuserve.com/homepages/wadster/level9art.htm</a>)
+VERSION: IBM PC 
+
+Level 9 released &quot;Knight Orc&quot; in July of 1987 and soon thereafter
+changed what I felt entertainment software could be. While Knight Orc
+falls short of becoming a classic on the merits of pure art through
+this medium (unlike, say, &quot;Sentinel&quot; or &quot;<a href = "s.html#space">The Space Under The Window</a>&quot;)
+it nonetheless does hold up eleven years later due to the strength of
+its atmosphere, gameplay and sheer indifference it shows to the
+player.
+
+Knight Orc was one of the first games to give a voice to a &quot;villain.&quot;
+The player assumes the role of an orc named Grindleguts, abandoned by
+his buddies after a night of hard drinking. The orcs, caught in an
+inebriated stupor by a pack of foppish human knights, arrange for a
+&quot;Contest of Champions&quot; to take place in the morning. Which is all well
+and good, as they have no plans on sticking around for it. The orcs
+tie Grindleguts (completely passed out and in no position to argue) to
+a horse and give him a lance. The knights, bound by their code can do
+nothing but watch as the roving evil horde skulks off into the
+darkness. Much like the Baltimore Colts leaving for Indianapolis,
+really.  The orcs then destroy the bridge and make good on their
+escape.
+
+(The backstory is related in a novella that accompanies the game
+entitled _The Sign of the Orc_ by Peter McBride. Having purchased
+hundreds of computer games throughout my life I maintain to this day
+that the story is the finest ever to accompany a piece of computer
+software. It's very clever and funny and somehow manages to convey
+warmth and stunning brutality all within paragraphs of one another.)
+
+The interface to Knight Orc is much like that of the typical Magnetic
+Scrolls wares. Text dominates the bottom of the display, while painted
+visuals (that unfortunately lost quite a bit in digitization on my IBM
+version) are displayed on top. While the PC version did not allow
+manipulation of the image size, much more text is present than on the
+default settings for the Magnetic Scrolls games. Knight Orc's parser
+is excellent -- objects can be located using a FIND command --
+regardless of whether or not you have seen them (this does not work
+for special items you will learn about, and the command will not do
+any problem solving for you). It will understand virtually anything
+you throw at it, or give you helpful reasons why it doesn't.
+
+So, then. You're an orc trapped in human country. While attempting to
+pick up some rope to cross the river you will encounter the first bit
+of magic the game has to offer: the characters. I have never witnessed
+a greater collection of thugs, losers, egomaniacs and self-important
+motos than I have in this game.  The descriptions offered by the
+parser as to the wandering characters are cruel --
+
+The gripper: &quot;he is a squinty, rat-like youth, with an orcish squint.&quot;
+
+Kris the ant-warrior: &quot;she is a muscle-bound champion, armoured with
+plates of giant ant cuticle and wearing a strange ant-head helm. She
+looks a lot like an ogre-sized fried roach.&quot;
+
+Denzyl: &quot;he is a right gullible and stupid-looking person.&quot;
+
+Fungus the boggit-man: &quot;he is a lanky, twitchy-fingered,
+nicotine-addict.&quot;
+
+-- but a riot. Efffing genius. 
+
+Furthermore, there are plenty of hapless denizens just waiting to have
+horrible things happen to them. I offer the following story as to why
+this game works so well: During one stretch on the first episode I was
+being identified as an orc rather easily. When a character recognizes
+an orc, her or she will attack. While getting thumped by the Green
+Knight (arguably the most powerful character in the episode till you
+solve his puzzle), a do-nothing slacker named &quot;Sam the Grey Earl&quot;
+jumps into the fray for a bit. After dying, I restored the game. I
+take a different route around, and Sam follows me for a little bit
+when I happen upon a cemetery. For whatever reason, Sam is lapping
+along like a puppy. I find the vampire for the first time, who offers
+me a spell in return for a victim. And guess who just happens to walk
+into the tomb?  Sam is sucked down just for being in the wrong place
+at the wrong time and because the little bastard couldn't leave me
+alone he is slain. And I get the spell.  Justice. Absolute justice.
+
+(Such an event is completely impossible to reproduce. The denizens in
+the game seem to have some &quot;goals,&quot; like picking up treasure and
+killing orcs, but while Sam never followed me again I can not say that
+the characters in the game really move in completely random patterns.
+Somehow, Level 9 were able to create an environment filled with rich
+characters leading their own lives all while not creating an
+impression of headless chickens running around in a maze. )
+
+The last two episodes of Knight Orc are interchangeable -- without
+giving away too much, the end game involves a story of revenge and
+escape against those that tormented you -- and yet, reading the
+novella and playing the first episode does not begin to prepare
+you. (I should note that it ties into Level 9's earlier &quot;Silicon
+Dreams&quot; trilogy. Very, very nice.)
+
+The puzzles, jokes, characters and parser are all up to par with the
+best that Infocom had to offer. I suspect that this game did not
+receive the props that it should have due to its subject manner --
+playing the &quot;bad guy&quot; didn't really become in style until &quot;Syndicate.&quot;
+While Grindleguts is a greedy, violent, angry little pit he is also a
+character worthy of our respect. Especially among the piles of spods
+he's running around with. I suspect that the background characters in
+Knight Orc are set to mirror the kind of individuals we (the gaming
+community) can't -- in theory -- stand or relate to in real
+life. Jocks, Girls, urchins, soldiers... one can make the argument
+that when they are in our world (a game) they should be the
+outsiders. Knight Orc describes them with as much distaste as we
+normally get in &quot;their&quot; environments. Bloody fabulous.
+
+If you take the time to enjoy this game -- to smell the roses --
+Knight Orc will return your attention with an incredible amount of
+pleasure. If Knight Orc were a woman, it would be the very cute, very
+sarcastic, yet seemingly shallow girl who melts like butter for you
+when you steer the pillow talk completely in her direction... and you
+then fall in love with her depth.
+
+<A HREF="https://ifarchive.org/if-archive/games/spectrum/KnightOrcZ80.zip">
+<IMG SRC="spagt.jpg" ALT="FTP File">Spectrum Z80 Disk Image (.zip)</A>
+
+<A HREF="https://ifarchive.org/if-archive/level9/hints/clue-sheets/KnightOrc.clues">
+<IMG SRC="spagt.jpg" ALT="FTP File">Clue sheet (Text)</A>
+
+<A HREF="https://ifarchive.org/if-archive/level9/hints/solutions/KnightOrc.sol">
+<IMG SRC="spagt.jpg" ALT="FTP File">Solution (Text)</A>
+
+<A HREF="https://ifarchive.org/if-archive/level9/manuals/KnightOrc.zip">
+<IMG SRC="spagt.jpg" ALT="FTP File">Manual (HTML with JPEG images) (.zip))</A>
+
+<HR>
+<A NAME="korc"><h2>The KORC Trilogy</h2>
+From: J. J. Farmer &lt;J.J.Farmer-CSSE94 SP@G computer-science.birmingham.ac.uk&gt;
+Review appeared in <a href = "backissues/spag4.html">SPAG #4</a> -- March 2, 1995
+
+  NAME: The KORC Trilogy                          PARSER: Limited
+  AUTHOR: AMF the Doomwatcher                     PLOT: Linear (ish)
+  EMAIL: ???                                      ATMOSPHERE: Unique
+  AVAILABILITY: Freeware                          WRITING: Brief, Preaching
+  PUZZLES: Interesting, Moral                     SUPPORTS: Acorn Archimedes
+  CHARACTERS: Weird but Shallow                   DIFFICULTY: Medium-Low
+
+        It may (or may not) surprise you to learn that the KORC trilogy
+consists of three separate games (&quot;Welcome to the Kingdom of Relative
+Concepts,&quot; &quot;Return of the Timebringer,&quot; and &quot;The Waking of AMF the
+Doomwatcher&quot; ), the plot of all three being centred around one person's quest
+(yours) against corruption in a world moderately similar to ours.
+        Throughout this quest, you meet all manner of weird characters,
+ranging from the author (who describes himself as a &quot;timid genius&quot; in the
+first two games), to Ergol the pi-reciter (whose life is devoted to reciting
+pi), to an old guy who asks you to kill him.
+        This last character sums up the atmosphere of all three games; the
+author seems to be trying to preach a number of moral points at you.  The
+only problem is that occasionally he has you do something that goes against
+these teachings (like killing somebody).  Whenever this does happen,
+though, the feelings of guilt that consume you (and I'm not being sarcastic
+here) are a testament to how well the author is getting his message across.
+        The characters, for all their weirdness, don't seem to have much
+depth to them - apart from their purpose in the story, they consist only of a
+few &quot;fob off&quot;  statements (usually something like &quot;I exist, uncorrupted.
+Is that not enough?&quot; ).  They certainly aren't as fascinating as the
+characters in <a href = "s.html#scapeghost">Scapeghost</a>, for instance.
+        The user interface is a complete washout.  Rather than multi-tasking
+(as all good adventure games should), the games single-task in Mode 12
+(80 columns by 32 rows, 16 colours, for those non-Archimedes users reading
+this), although the colour scheme is at least bearable.
+        The parser is just plain annoying.  It doesn't understand the normal
+abbreviations for compass directions (N for North, and so on), and doesn't
+even recognise the full compass directions (NORTH, SOUTH, etc).  Only
+commands like GO NORTH will move the player around; this is extremely
+irritating and there is no good reason for it.  To be fair, the movement
+commands are stored on the function keys (so pressing F1 will move you
+north), but this is no excuse.
+        Despite their limitations, I actually found these games very
+enjoyable, especially the third.  It didn't take me long to finish KORC 2 and
+3 (although I did cheat and take a peek at the program code once or twice).
+I personally found KORC 1 the most difficult, and it is probably the largest
+(nothing to do with the presense of a character called Olaf the Fatty!).
+        In the instructions, the author hints that a second KORC trilogy is
+on the drawing board, and I certainly hope that this is true.  Until then,
+the KORC trilogy is free and reasonably addictive.  What more could you want?
+
+</PRE>
+<A HREF="j.html">Go to the previous page of reviews (J)</A><P>
+<A HREF="l.html">Go to the next page of reviews (L)</A><P>
+</div>
+
+	
+
+<div id="oldfooter">
+  <p>SPAG is maintained as a historical archive by the
+  <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+  Pages are no longer updated and links may no longer work.
+  </p>
+</div>
+
+
+</body>
+</html>
