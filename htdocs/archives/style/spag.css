@@ -1,0 +1,47 @@
+body {
+	Background-color: #ffffff;
+	Background-image: url(spagbg.png);
+	/*Background-attachment: fixed;*/
+	Color: #000000;
+	Margin-left: 10%;
+	Margin-right: 10%;
+}
+
+h1 {
+	Font-width: bold;
+	Text-align: center;
+	Font-family: Courier New, monospace;
+}
+
+h1 #title {
+	Font-size: 2em;
+	Color: #0000ff;
+}
+
+h1 #subtitle {
+	Font-size: 1.2em;
+	Color: #000000;
+}
+
+h2 {
+	Font-width: bold;
+	Font-size: 1.2em;
+}
+
+div {
+	Border: 1px solid black;
+	Background-color: #ffffff;
+	Margin: 1em;
+	Padding: 0.5em;	
+}
+
+ul {
+	List-style-image: url(bluball.gif);
+	Margin-left: 0;
+	Margin-right: 0;
+	Padding-left: 2em;
+}
+
+#oldfooter {
+	clear: both
+}
