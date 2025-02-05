@@ -38,6 +38,13 @@
     Pages are no longer updated and links may no longer work.
     All articles and reviews are copyright by their original authors.
     </p>
+    {% if issue %}
+    <p>
+    The text (but not images) of issue {{ issue.showindex }} is
+    available under a
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a> license.
+    </p>
+    {% endif %}
   </div>
 </div>
 
